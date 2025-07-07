@@ -1,0 +1,5 @@
+doc_type_name	doc_id	year	has_si	has_en	has_ta
+bills	617-2025	2025	True	True	True
+extra-gazettes	2443-61	2025	True	False	False
+extra-gazettes	2443-58	2025	True	True	False
+extra-gazettes	2443-60	2025	True	True	False
