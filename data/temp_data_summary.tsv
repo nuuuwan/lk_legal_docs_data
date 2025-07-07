@@ -14,6 +14,7 @@ bills	584-2025	2025	True	True	True
 bills	586-2025	2025	True	True	True
 bills	592-2025	2025	True	True	True
 bills	598-2025	2025	True	True	True
+bills	582-2025	2025	True	True	True
 bills	595-2025	2025	True	True	True
 bills	591-2025	2025	True	True	True
 bills	612-2025	2025	True	True	True
@@ -38,10 +39,12 @@ acts	06-2025	2025	True	True	True
 acts	05-2025	2025	True	True	True
 acts	07-2025	2025	True	True	True
 acts	08-2025	2025	True	True	True
+gazettes	2025-04-25-iv-a-provincial-councils	2025	True	True	True
 gazettes	2025-06-13-legal-section	2025	True	False	False
 gazettes	2025-05-30-iib-advertising	2025	True	True	True
 gazettes	2025-06-06-iii-trade-marks-and-patent-notices	2025	True	True	True
 gazettes	2025-07-04-iv-a-provincial-councils	2025	True	True	False
+gazettes	2025-04-25-land-section	2025	True	True	True
 gazettes	2025-05-30-i-general	2025	True	True	True
 gazettes	2025-06-27-i-general	2025	True	True	True
 gazettes	2025-05-09-iv-b-local-government	2025	True	True	True
@@ -73,19 +76,23 @@ gazettes	2025-06-20-legal-section	2025	True	True	True
 gazettes	2025-05-16-iia-advertising	2025	True	True	True
 gazettes	2025-05-02-land-section	2025	True	True	False
 gazettes	2025-06-13-iv-b-local-government	2025	True	True	False
+gazettes	2025-04-25-i-general	2025	True	True	True
 gazettes	2025-06-13-land-section	2025	True	True	False
 gazettes	2025-06-06-iib-advertising	2025	True	True	True
 gazettes	2025-07-04-legal-section	2025	True	True	False
 gazettes	2025-05-23-iv-b-local-government	2025	True	True	True
 gazettes	2025-06-20-land-section	2025	True	True	False
 gazettes	2025-05-02-iib-advertising	2025	True	True	True
+gazettes	2025-04-25-iii-trade-marks-and-patent-notices	2025	True	True	True
 gazettes	2025-05-02-iv-b-local-government	2025	True	True	False
+gazettes	2025-04-25-iia-advertising	2025	True	True	True
 gazettes	2025-05-16-i-general	2025	True	True	True
 gazettes	2025-05-09-iii-trade-marks-and-patent-notices	2025	True	True	True
 gazettes	2025-05-02-iv-a-provincial-councils	2025	True	False	True
 gazettes	2025-06-27-iii-trade-marks-and-patent-notices	2025	True	True	False
 gazettes	2025-06-27-iia-advertising	2025	True	True	True
 gazettes	2025-06-27-iv-a-provincial-councils	2025	True	True	False
+gazettes	2025-04-25-iib-advertising	2025	True	True	True
 gazettes	2025-07-04-iia-advertising	2025	True	True	False
 gazettes	2025-05-23-iii-trade-marks-and-patent-notices	2025	True	True	True
 gazettes	2025-06-06-i-general	2025	True	True	True
@@ -104,8 +111,10 @@ gazettes	2025-06-06-iv-b-local-government	2025	True	True	False
 gazettes	2025-07-04-land-section	2025	True	True	False
 gazettes	2025-06-20-iib-advertising	2025	True	True	False
 gazettes	2025-05-09-legal-section	2025	True	True	False
+gazettes	2025-04-25-legal-section	2025	True	False	False
 gazettes	2025-05-23-legal-section	2025	True	True	False
 gazettes	2025-06-27-list-of-jurors	2025	True	True	True
+gazettes	2025-04-25-iv-b-local-government	2025	True	True	True
 gazettes	2025-05-23-land-section	2025	False	True	False
 gazettes	2025-06-06-iia-advertising	2025	True	True	True
 gazettes	2025-05-09-i-general	2025	True	True	True
@@ -128,9 +137,11 @@ extra-gazettes	2437-56	2025	True	True	True
 extra-gazettes	2437-16	2025	True	True	True
 extra-gazettes	2440-01	2025	True	True	False
 extra-gazettes	2438-80	2025	True	True	True
+extra-gazettes	2433-29	2025	True	True	True
 extra-gazettes	2443-01	2025	True	True	True
 extra-gazettes	2438-45	2025	True	True	True
 extra-gazettes	2443-21	2025	True	True	False
+extra-gazettes	2433-38	2025	True	True	False
 extra-gazettes	2438-28	2025	True	True	True
 extra-gazettes	2438-23	2025	True	True	True
 extra-gazettes	2437-46	2025	True	True	False
@@ -195,6 +206,7 @@ extra-gazettes	2435-47	2025	False	False	True
 extra-gazettes	2437-09	2025	True	True	True
 extra-gazettes	2437-08	2025	True	True	True
 extra-gazettes	2439-58	2025	True	True	False
+extra-gazettes	2433-42	2025	True	True	True
 extra-gazettes	2438-43	2025	True	False	False
 extra-gazettes	2436-01	2025	True	True	True
 extra-gazettes	2437-49	2025	True	True	False
@@ -225,10 +237,12 @@ extra-gazettes	2438-90	2025	True	True	True
 extra-gazettes	2439-33	2025	True	True	False
 extra-gazettes	2439-27	2025	True	True	True
 extra-gazettes	2441-20	2025	True	True	True
+extra-gazettes	2433-26	2025	True	True	True
 extra-gazettes	2442-79	2025	True	False	False
 extra-gazettes	2438-66	2025	True	True	True
 extra-gazettes	2435-14	2025	True	True	False
 extra-gazettes	2444-02	2025	True	True	True
+extra-gazettes	2433-35	2025	True	True	True
 extra-gazettes	2441-04	2025	True	True	False
 extra-gazettes	2438-82	2025	True	True	True
 extra-gazettes	2441-59	2025	True	True	False
@@ -236,6 +250,7 @@ extra-gazettes	2437-43	2025	True	True	False
 extra-gazettes	2435-12	2025	False	True	False
 extra-gazettes	2441-57	2025	True	True	False
 extra-gazettes	2438-02	2025	True	True	True
+extra-gazettes	2433-44	2025	True	True	True
 extra-gazettes	2438-79	2025	True	True	True
 extra-gazettes	2441-50	2025	True	True	False
 extra-gazettes	2438-44	2025	True	False	False
@@ -259,6 +274,7 @@ extra-gazettes	2441-47	2025	True	True	True
 extra-gazettes	2444-07	2025	True	False	False
 extra-gazettes	2443-61	2025	True	False	False
 extra-gazettes	2438-78	2025	True	True	True
+extra-gazettes	2433-31	2025	True	True	False
 extra-gazettes	2442-49	2025	True	True	False
 extra-gazettes	2438-92	2025	True	True	True
 extra-gazettes	2438-86	2025	True	True	True
@@ -272,10 +288,12 @@ extra-gazettes	2439-02	2025	True	True	True
 extra-gazettes	2433-46	2025	True	True	True
 extra-gazettes	2442-47	2025	True	False	False
 extra-gazettes	2443-58	2025	True	True	False
+extra-gazettes	2433-39	2025	True	True	True
 extra-gazettes	2442-30	2025	True	True	True
 extra-gazettes	2438-17	2025	True	True	True
 extra-gazettes	2438-57	2025	True	True	False
 extra-gazettes	2434-03	2025	True	True	True
+extra-gazettes	2433-33	2025	True	False	False
 extra-gazettes	2440-24	2025	True	True	False
 extra-gazettes	2439-03	2025	True	True	False
 extra-gazettes	2436-15	2025	True	False	False
@@ -302,6 +320,7 @@ extra-gazettes	2437-47	2025	True	True	False
 extra-gazettes	2443-10	2025	True	True	True
 extra-gazettes	2436-06	2025	True	True	True
 extra-gazettes	2439-08	2025	True	True	True
+extra-gazettes	2433-27	2025	True	True	True
 extra-gazettes	2438-72	2025	True	True	True
 extra-gazettes	2438-20	2025	True	True	False
 extra-gazettes	2439-35	2025	True	True	True
@@ -309,6 +328,8 @@ extra-gazettes	2441-19	2025	True	True	False
 extra-gazettes	2441-01	2025	True	True	True
 extra-gazettes	2437-12	2025	True	True	False
 extra-gazettes	2438-38	2025	True	True	False
+extra-gazettes	2433-23	2025	True	True	True
+extra-gazettes	2433-28	2025	True	True	True
 extra-gazettes	2441-12	2025	True	False	False
 extra-gazettes	2437-06	2025	True	True	True
 extra-gazettes	2437-42	2025	True	True	False
@@ -321,6 +342,7 @@ extra-gazettes	2438-65	2025	True	True	False
 extra-gazettes	2441-17	2025	True	True	True
 extra-gazettes	2436-08	2025	True	True	True
 extra-gazettes	2438-85	2025	True	True	True
+extra-gazettes	2433-24	2025	True	True	True
 extra-gazettes	2435-04	2025	True	True	False
 extra-gazettes	2437-40	2025	True	True	True
 extra-gazettes	2434-09	2025	True	True	True
@@ -328,6 +350,7 @@ extra-gazettes	2437-36	2025	True	True	True
 extra-gazettes	2441-55	2025	True	True	True
 extra-gazettes	2438-13	2025	True	True	True
 extra-gazettes	2439-42	2025	True	True	False
+extra-gazettes	2433-30	2025	True	True	True
 extra-gazettes	2435-48	2025	True	True	True
 extra-gazettes	2437-07	2025	True	True	True
 extra-gazettes	2439-13	2025	True	True	True
@@ -337,6 +360,7 @@ extra-gazettes	2441-48	2025	True	True	True
 extra-gazettes	2437-37	2025	True	True	False
 extra-gazettes	2435-10	2025	True	True	True
 extra-gazettes	2437-31	2025	True	True	True
+extra-gazettes	2433-32	2025	True	True	True
 extra-gazettes	2434-17	2025	True	True	True
 extra-gazettes	2441-71	2025	True	True	True
 extra-gazettes	2442-29	2025	True	True	True
@@ -370,6 +394,7 @@ extra-gazettes	2438-35	2025	True	True	False
 extra-gazettes	2442-16	2025	True	True	True
 extra-gazettes	2438-53	2025	True	True	True
 extra-gazettes	2438-29	2025	True	True	False
+extra-gazettes	2433-40	2025	True	True	True
 extra-gazettes	2436-05	2025	True	True	True
 extra-gazettes	2442-46	2025	True	True	False
 extra-gazettes	2436-10	2025	True	True	True
@@ -390,6 +415,7 @@ extra-gazettes	2435-08	2025	True	False	False
 extra-gazettes	2438-52	2025	True	True	False
 extra-gazettes	2439-17	2025	True	True	True
 extra-gazettes	2442-02	2025	True	True	False
+extra-gazettes	2433-41	2025	True	True	False
 extra-gazettes	2434-20	2025	True	True	True
 extra-gazettes	2437-52	2025	True	True	False
 extra-gazettes	2438-24	2025	True	True	True
@@ -401,6 +427,7 @@ extra-gazettes	2439-37	2025	True	True	False
 extra-gazettes	2438-05	2025	True	True	True
 extra-gazettes	2437-24	2025	True	True	False
 extra-gazettes	2438-74	2025	True	True	True
+extra-gazettes	2433-22	2025	True	True	True
 extra-gazettes	2435-11	2025	True	True	True
 extra-gazettes	2436-11	2025	True	True	True
 extra-gazettes	2438-60	2025	True	False	False
@@ -419,6 +446,9 @@ extra-gazettes	2439-16	2025	True	True	False
 extra-gazettes	2438-47	2025	True	True	True
 extra-gazettes	2433-50	2025	True	True	False
 extra-gazettes	2439-74	2025	True	True	False
+extra-gazettes	2433-36	2025	True	True	True
+extra-gazettes	2433-34	2025	True	True	True
+extra-gazettes	2433-25	2025	True	True	True
 extra-gazettes	2438-49	2025	True	True	True
 extra-gazettes	2443-56	2025	True	True	True
 extra-gazettes	2441-25	2025	True	True	True
@@ -435,6 +465,8 @@ extra-gazettes	2441-46	2025	True	True	True
 extra-gazettes	2439-12	2025	True	True	True
 extra-gazettes	2439-26	2025	True	True	False
 extra-gazettes	2438-93	2025	True	True	False
+extra-gazettes	2433-45	2025	True	True	True
+extra-gazettes	2433-43	2025	True	True	True
 extra-gazettes	2441-10	2025	True	True	True
 extra-gazettes	2437-20	2025	True	True	True
 extra-gazettes	2439-68	2025	True	True	False
