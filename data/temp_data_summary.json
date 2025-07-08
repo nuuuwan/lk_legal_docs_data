@@ -1,5 +1,6 @@
 {
-  "n_unique_docs": 43952,
-  "n_pdfs": 0,
-  "total_file_size": 3806869666
+  "n_docs": 43955,
+  "n_docs_with_pdfs": 1439,
+  "n_pdfs": 3824,
+  "total_file_size": 3807595765
 }
