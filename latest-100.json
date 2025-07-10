@@ -1,1226 +1,602 @@
 [
   {
     "doc_type_name": "bills",
-    "date": "2025-07-08",
-    "description": "Penal Code (Amendment) - GS",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/bills/2025/7/618-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/bills/2025/7/618-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/bills/2025/7/618-2025_T.pdf"
-    },
-    "doc_num": "618/2025",
     "id": "618-2025",
-    "dir_data": "data/bills/2025/618-2025"
+    "date": "2025-07-08",
+    "description": "Penal Code (Amendment) - GS"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-07",
-    "description": "Presidential Secretariat - Appointed Secretary to the Ministry Finance Planning and Economic Development",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-09_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-09_S.pdf"
-    },
-    "doc_num": "2444/09",
     "id": "2444-09",
-    "dir_data": "data/extra-gazettes/2025/2444-09"
+    "date": "2025-07-07",
+    "description": "Presidential Secretariat - Appointed Secretary to the Ministry Finance Planning and Economic Development"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-07",
-    "description": "Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-07_S.pdf"
-    },
-    "doc_num": "2444/07",
     "id": "2444-07",
-    "dir_data": "data/extra-gazettes/2025/2444-07"
+    "date": "2025-07-07",
+    "description": "Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-07",
-    "description": "Election Commission - Local Authorities Elections Ordinance (Chapter 262) - Notice under Section 66 (2) \"Elected to the Members of Akmeemana P.S and Bandarawela P.S",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-02_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-02_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-02_T.pdf"
-    },
-    "doc_num": "2444/02",
     "id": "2444-02",
-    "dir_data": "data/extra-gazettes/2025/2444-02"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-07-07",
-    "description": "Sri Lanka Customs - Rates of Exchange with effect from 07.07.2025 to 13.07.2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-01_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2444-01_S.pdf"
-    },
-    "doc_num": "2444/01",
+    "description": "Election Commission - Local Authorities Elections Ordinance (Chapter 262) - Notice under Section 66 (2) \"Elected to the Members of Akmeemana P.S and Bandarawela P.S"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2444-01",
-    "dir_data": "data/extra-gazettes/2025/2444-01"
+    "date": "2025-07-07",
+    "description": "Sri Lanka Customs - Rates of Exchange with effect from 07.07.2025 to 13.07.2025"
   },
   {
     "doc_type_name": "bills",
-    "date": "2025-07-04",
-    "description": "Land Development (Amendment) - GS",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/bills/2025/7/617-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/bills/2025/7/617-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/bills/2025/7/617-2025_T.pdf"
-    },
-    "doc_num": "617/2025",
     "id": "617-2025",
-    "dir_data": "data/bills/2025/617-2025"
+    "date": "2025-07-04",
+    "description": "Land Development (Amendment) - GS"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-04",
-    "description": "2443/70",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-70_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-70_S.pdf"
-    },
-    "doc_num": "2443/70",
     "id": "2443-70",
-    "dir_data": "data/extra-gazettes/2025/2443-70"
+    "date": "2025-07-04",
+    "description": "2443/70"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-04",
-    "description": "Election Commission - Elected Chairman and Vice Chairman of 03 Local Government Institutions in Western Province",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-61_S.pdf"
-    },
-    "doc_num": "2443/61",
     "id": "2443-61",
-    "dir_data": "data/extra-gazettes/2025/2443-61"
+    "date": "2025-07-04",
+    "description": "Election Commission - Elected Chairman and Vice Chairman of 03 Local Government Institutions in Western Province"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-04",
-    "description": "Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-60_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-60_S.pdf"
-    },
-    "doc_num": "2443/60",
     "id": "2443-60",
-    "dir_data": "data/extra-gazettes/2025/2443-60"
+    "date": "2025-07-04",
+    "description": "Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-04",
-    "description": "Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-58_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-58_S.pdf"
-    },
-    "doc_num": "2443/58",
     "id": "2443-58",
-    "dir_data": "data/extra-gazettes/2025/2443-58"
+    "date": "2025-07-04",
+    "description": "Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-04",
-    "description": "Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-57_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-57_S.pdf"
-    },
-    "doc_num": "2443/57",
     "id": "2443-57",
-    "dir_data": "data/extra-gazettes/2025/2443-57"
+    "date": "2025-07-04",
+    "description": "Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "Legal Section",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(II-0)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(II-0)S.pdf"
-    },
-    "doc_num": "2025-07-04-legal-section",
     "id": "2025-07-04-legal-section",
-    "dir_data": "data/gazettes/2025/2025-07-04-legal-section"
+    "date": "2025-07-04",
+    "description": "Legal Section"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "Land Section",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(III-0)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(III-0)S.pdf"
-    },
-    "doc_num": "2025-07-04-land-section",
     "id": "2025-07-04-land-section",
-    "dir_data": "data/gazettes/2025/2025-07-04-land-section"
+    "date": "2025-07-04",
+    "description": "Land Section"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "IV (B) - Local Government",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(IV-B)E.pdf"
-    },
-    "doc_num": "2025-07-04-iv-b-local-government",
     "id": "2025-07-04-iv-b-local-government",
-    "dir_data": "data/gazettes/2025/2025-07-04-iv-b-local-government"
+    "date": "2025-07-04",
+    "description": "IV (B) - Local Government"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "IV (A) - Provincial Councils",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(IV-A)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(IV-A)S.pdf"
-    },
-    "doc_num": "2025-07-04-iv-a-provincial-councils",
     "id": "2025-07-04-iv-a-provincial-councils",
-    "dir_data": "data/gazettes/2025/2025-07-04-iv-a-provincial-councils"
+    "date": "2025-07-04",
+    "description": "IV (A) - Provincial Councils"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "(III) - TRADE MARKS AND PATENT NOTICES",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-III)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-III)S.pdf"
-    },
-    "doc_num": "2025-07-04-iii-trade-marks-and-patent-notices",
     "id": "2025-07-04-iii-trade-marks-and-patent-notices",
-    "dir_data": "data/gazettes/2025/2025-07-04-iii-trade-marks-and-patent-notices"
+    "date": "2025-07-04",
+    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "(IIB) - Advertising",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-IIB)E.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-IIB)T.pdf"
-    },
-    "doc_num": "2025-07-04-iib-advertising",
     "id": "2025-07-04-iib-advertising",
-    "dir_data": "data/gazettes/2025/2025-07-04-iib-advertising"
+    "date": "2025-07-04",
+    "description": "(IIB) - Advertising"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-07-04",
-    "description": "(IIA) - Advertising",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-IIA)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-IIA)S.pdf"
-    },
-    "doc_num": "2025-07-04-iia-advertising",
     "id": "2025-07-04-iia-advertising",
-    "dir_data": "data/gazettes/2025/2025-07-04-iia-advertising"
-  },
-  {
-    "doc_type_name": "gazettes",
     "date": "2025-07-04",
-    "description": "(I) - General",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-I)S.pdf"
-    },
-    "doc_num": "2025-07-04-i-general",
+    "description": "(IIA) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-07-04-i-general",
-    "dir_data": "data/gazettes/2025/2025-07-04-i-general"
+    "date": "2025-07-04",
+    "description": "(I) - General"
   },
   {
     "doc_type_name": "bills",
-    "date": "2025-07-03",
-    "description": "Mediation (Civil and Commercial Disputes) - GS",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/bills/2025/7/616-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/bills/2025/7/616-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/bills/2025/7/616-2025_T.pdf"
-    },
-    "doc_num": "616/2025",
     "id": "616-2025",
-    "dir_data": "data/bills/2025/616-2025"
+    "date": "2025-07-03",
+    "description": "Mediation (Civil and Commercial Disputes) - GS"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-03",
-    "description": "Presidential Secretariat - Removal from BMICH Management Membership",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-56_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-56_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-56_T.pdf"
-    },
-    "doc_num": "2443/56",
     "id": "2443-56",
-    "dir_data": "data/extra-gazettes/2025/2443-56"
+    "date": "2025-07-03",
+    "description": "Presidential Secretariat - Removal from BMICH Management Membership"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-03",
-    "description": "Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-53_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-53_S.pdf"
-    },
-    "doc_num": "2443/53",
     "id": "2443-53",
-    "dir_data": "data/extra-gazettes/2025/2443-53"
+    "date": "2025-07-03",
+    "description": "Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-03",
-    "description": "Department of Local Government - UVA Province - Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 12 Local Government Institutions",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-51_S.pdf"
-    },
-    "doc_num": "2443/51",
     "id": "2443-51",
-    "dir_data": "data/extra-gazettes/2025/2443-51"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-07-03",
-    "description": "Election Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-50_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-50_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-50_T.pdf"
-    },
-    "doc_num": "2443/50",
+    "description": "Department of Local Government - UVA Province - Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 12 Local Government Institutions"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-50",
-    "dir_data": "data/extra-gazettes/2025/2443-50"
+    "date": "2025-07-03",
+    "description": "Election Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-01",
-    "description": "Inland Revenue Department Value Added Tax Act, No. 14 of 2022 Procedure for Collecting and paying VAT",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-30_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-30_S.pdf"
-    },
-    "doc_num": "2443/30",
     "id": "2443-30",
-    "dir_data": "data/extra-gazettes/2025/2443-30"
+    "date": "2025-07-01",
+    "description": "Inland Revenue Department Value Added Tax Act, No. 14 of 2022 Procedure for Collecting and paying VAT"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-07-01",
-    "description": "Dept. of Local Government Western Province - Notification Made under Section 66 (1) Recall of first Meeting of 04 Local Government Institutions",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-28_S.pdf"
-    },
-    "doc_num": "2443/28",
     "id": "2443-28",
-    "dir_data": "data/extra-gazettes/2025/2443-28"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-07-01",
-    "description": "Dept of Local Government N W P - Appointed Chairman and Vice Chairman for 03 Local Government Institutions",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-21_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-21_S.pdf"
-    },
-    "doc_num": "2443/21",
+    "description": "Dept. of Local Government Western Province - Notification Made under Section 66 (1) Recall of first Meeting of 04 Local Government Institutions"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-21",
-    "dir_data": "data/extra-gazettes/2025/2443-21"
+    "date": "2025-07-01",
+    "description": "Dept of Local Government N W P - Appointed Chairman and Vice Chairman for 03 Local Government Institutions"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "2443/15",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-15_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-15_S.pdf"
-    },
-    "doc_num": "2443/15",
     "id": "2443-15",
-    "dir_data": "data/extra-gazettes/2025/2443-15"
+    "date": "2025-06-30",
+    "description": "2443/15"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "Public Debt Management Office- Public Debt Management Act, No. 33 of 2024. Public Debt Management Regulations No. 01 of 2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-14_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-14_S.pdf"
-    },
-    "doc_num": "2443/14",
     "id": "2443-14",
-    "dir_data": "data/extra-gazettes/2025/2443-14"
+    "date": "2025-06-30",
+    "description": "Public Debt Management Office- Public Debt Management Act, No. 33 of 2024. Public Debt Management Regulations No. 01 of 2025"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "National Physical Planning Department - The Town and Country Planning Ordinance (Chapter 269) Declare that the Land called \"Sankapitti Purana Vihara area as an Urban Development Area",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-10_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-10_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-10_T.pdf"
-    },
-    "doc_num": "2443/10",
     "id": "2443-10",
-    "dir_data": "data/extra-gazettes/2025/2443-10"
+    "date": "2025-06-30",
+    "description": "National Physical Planning Department - The Town and Country Planning Ordinance (Chapter 269) Declare that the Land called \"Sankapitti Purana Vihara area as an Urban Development Area"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Iodization of Salt) Regulation 2023.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-09_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-09_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-09_T.pdf"
-    },
-    "doc_num": "2443/09",
     "id": "2443-09",
-    "dir_data": "data/extra-gazettes/2025/2443-09"
+    "date": "2025-06-30",
+    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Iodization of Salt) Regulation 2023."
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Colour Coding for Suger Levels liquid) Regulation 2022.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-08_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-08_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-08_T.pdf"
-    },
-    "doc_num": "2443/08",
     "id": "2443-08",
-    "dir_data": "data/extra-gazettes/2025/2443-08"
+    "date": "2025-06-30",
+    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Colour Coding for Suger Levels liquid) Regulation 2022."
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Frans - Fat) Regulation 2022.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-07_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-07_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-07_T.pdf"
-    },
-    "doc_num": "2443/07",
     "id": "2443-07",
-    "dir_data": "data/extra-gazettes/2025/2443-07"
+    "date": "2025-06-30",
+    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Frans - Fat) Regulation 2022."
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-30",
-    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (labelling and Advertising) Regulations 2023.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-06_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-06_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-06_T.pdf"
-    },
-    "doc_num": "2443/06",
     "id": "2443-06",
-    "dir_data": "data/extra-gazettes/2025/2443-06"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-06-30",
-    "description": "Sri Lanka Customs - Rate Of Exchange with Effect from 30.06.2025 to 06.07.2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-01_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-01_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2443-01_T.pdf"
-    },
-    "doc_num": "2443/01",
+    "description": "Ministry of Health - Food Act, No.26 of 1980 Amended the Food (labelling and Advertising) Regulations 2023."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-01",
-    "dir_data": "data/extra-gazettes/2025/2443-01"
+    "date": "2025-06-30",
+    "description": "Sri Lanka Customs - Rate Of Exchange with Effect from 30.06.2025 to 06.07.2025"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-28",
-    "description": "Dept. of Local Government - Eastern Province - Notice under section 66 (c) Appointed Vice Chairman Kantale Pradeshiya Sabha",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-79_S.pdf"
-    },
-    "doc_num": "2442/79",
     "id": "2442-79",
-    "dir_data": "data/extra-gazettes/2025/2442-79"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-06-28",
-    "description": "Ministry of Labour - Industrial Dispute between Mr. P. M. Jayarathna Sri Lanka Transport Board.  Appt. of J. De Silva as an Arbitrator., Sri Lanka Nidahas Sevaka Sangama & Packserve Pvt. Ltd. Industrial Dispute between Mr. M. N. Abeykoon and Sri Lanka Transport Board.",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-63_S.pdf"
-    },
-    "doc_num": "2442/63",
+    "description": "Dept. of Local Government - Eastern Province - Notice under section 66 (c) Appointed Vice Chairman Kantale Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-63",
-    "dir_data": "data/extra-gazettes/2025/2442-63"
+    "date": "2025-06-28",
+    "description": "Ministry of Labour - Industrial Dispute between Mr. P. M. Jayarathna Sri Lanka Transport Board.  Appt. of J. De Silva as an Arbitrator., Sri Lanka Nidahas Sevaka Sangama & Packserve Pvt. Ltd. Industrial Dispute between Mr. M. N. Abeykoon and Sri Lanka Transport Board."
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-27",
-    "description": "Presidential Secretariat - Call out All the Members of the Armed Forces with effect from 27th June, 2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-62_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-62_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-62_T.pdf"
-    },
-    "doc_num": "2442/62",
     "id": "2442-62",
-    "dir_data": "data/extra-gazettes/2025/2442-62"
+    "date": "2025-06-27",
+    "description": "Presidential Secretariat - Call out All the Members of the Armed Forces with effect from 27th June, 2025"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-27",
-    "description": "Department of The Local Government N.C.P - Appointed Chairman and Vice Chairman for the Anuradgapura Local Authorities 2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-61_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-61_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-61_T.pdf"
-    },
-    "doc_num": "2442/61",
     "id": "2442-61",
-    "dir_data": "data/extra-gazettes/2025/2442-61"
+    "date": "2025-06-27",
+    "description": "Department of The Local Government N.C.P - Appointed Chairman and Vice Chairman for the Anuradgapura Local Authorities 2025"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-27",
-    "description": "Election Commission - Local Autherities Elections- 2025 Notice Under Section 66 (2) Elected to members of 36 Local Governments Institutions",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-60_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-60_S.pdf"
-    },
-    "doc_num": "2442/60",
     "id": "2442-60",
-    "dir_data": "data/extra-gazettes/2025/2442-60"
+    "date": "2025-06-27",
+    "description": "Election Commission - Local Autherities Elections- 2025 Notice Under Section 66 (2) Elected to members of 36 Local Governments Institutions"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-27",
-    "description": "Dept. of Local Government - Western Province Appointed Mayor, Deputy Mayor  Chairman and Vice Chairman for Local Government Institutions",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-57_S.pdf"
-    },
-    "doc_num": "2442/57",
     "id": "2442-57",
-    "dir_data": "data/extra-gazettes/2025/2442-57"
+    "date": "2025-06-27",
+    "description": "Dept. of Local Government - Western Province Appointed Mayor, Deputy Mayor  Chairman and Vice Chairman for Local Government Institutions"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "List of Jurors",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(VI)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(VI)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(VI)T.pdf"
-    },
-    "doc_num": "2025-06-27-list-of-jurors",
     "id": "2025-06-27-list-of-jurors",
-    "dir_data": "data/gazettes/2025/2025-06-27-list-of-jurors"
+    "date": "2025-06-27",
+    "description": "List of Jurors"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "Legal Section",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(II-0)S.pdf"
-    },
-    "doc_num": "2025-06-27-legal-section",
     "id": "2025-06-27-legal-section",
-    "dir_data": "data/gazettes/2025/2025-06-27-legal-section"
+    "date": "2025-06-27",
+    "description": "Legal Section"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "Land Section",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(III-0)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(III-0)S.pdf"
-    },
-    "doc_num": "2025-06-27-land-section",
     "id": "2025-06-27-land-section",
-    "dir_data": "data/gazettes/2025/2025-06-27-land-section"
+    "date": "2025-06-27",
+    "description": "Land Section"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "IV (B) - Local Government",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(IV-B)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(IV-B)S.pdf"
-    },
-    "doc_num": "2025-06-27-iv-b-local-government",
     "id": "2025-06-27-iv-b-local-government",
-    "dir_data": "data/gazettes/2025/2025-06-27-iv-b-local-government"
+    "date": "2025-06-27",
+    "description": "IV (B) - Local Government"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "IV (A) - Provincial Councils",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(IV-A)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(IV-A)S.pdf"
-    },
-    "doc_num": "2025-06-27-iv-a-provincial-councils",
     "id": "2025-06-27-iv-a-provincial-councils",
-    "dir_data": "data/gazettes/2025/2025-06-27-iv-a-provincial-councils"
+    "date": "2025-06-27",
+    "description": "IV (A) - Provincial Councils"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "(III) - TRADE MARKS AND PATENT NOTICES",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-III)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-III)S.pdf"
-    },
-    "doc_num": "2025-06-27-iii-trade-marks-and-patent-notices",
     "id": "2025-06-27-iii-trade-marks-and-patent-notices",
-    "dir_data": "data/gazettes/2025/2025-06-27-iii-trade-marks-and-patent-notices"
+    "date": "2025-06-27",
+    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "(IIB) - Advertising",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-IIB)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-IIB)S.pdf"
-    },
-    "doc_num": "2025-06-27-iib-advertising",
     "id": "2025-06-27-iib-advertising",
-    "dir_data": "data/gazettes/2025/2025-06-27-iib-advertising"
+    "date": "2025-06-27",
+    "description": "(IIB) - Advertising"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-27",
-    "description": "(IIA) - Advertising",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-IIA)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-IIA)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-IIA)T.pdf"
-    },
-    "doc_num": "2025-06-27-iia-advertising",
     "id": "2025-06-27-iia-advertising",
-    "dir_data": "data/gazettes/2025/2025-06-27-iia-advertising"
-  },
-  {
-    "doc_type_name": "gazettes",
     "date": "2025-06-27",
-    "description": "(I) - General",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-I)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-I)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-27(I-I)T.pdf"
-    },
-    "doc_num": "2025-06-27-i-general",
+    "description": "(IIA) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-06-27-i-general",
-    "dir_data": "data/gazettes/2025/2025-06-27-i-general"
+    "date": "2025-06-27",
+    "description": "(I) - General"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-26",
-    "description": "Divisional Secretatiat Kamburupitiya Pilgrmages Ordinance (Chapter 175) Annual Esala Festival 2025 of Ilangamgoda Ancient Rajamaha Viharaya, Sapugoda Kaburupitiya",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-49_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-49_S.pdf"
-    },
-    "doc_num": "2442/49",
     "id": "2442-49",
-    "dir_data": "data/extra-gazettes/2025/2442-49"
+    "date": "2025-06-26",
+    "description": "Divisional Secretatiat Kamburupitiya Pilgrmages Ordinance (Chapter 175) Annual Esala Festival 2025 of Ilangamgoda Ancient Rajamaha Viharaya, Sapugoda Kaburupitiya"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-26",
-    "description": "Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman for 02 Local Government Institutions",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-47_S.pdf"
-    },
-    "doc_num": "2442/47",
     "id": "2442-47",
-    "dir_data": "data/extra-gazettes/2025/2442-47"
+    "date": "2025-06-26",
+    "description": "Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman for 02 Local Government Institutions"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-26",
-    "description": "Dept. of Local Government - N. W. P - Notice under section 66 (c) Appointed Chairman, Vice Chairman, Mayor and Deputy Mayor for 14 Local Government Institutions.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-46_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-46_S.pdf"
-    },
-    "doc_num": "2442/46",
     "id": "2442-46",
-    "dir_data": "data/extra-gazettes/2025/2442-46"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-06-26",
-    "description": "Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman to the 04 Local Government Institutions",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-45_S.pdf"
-    },
-    "doc_num": "2442/45",
+    "description": "Dept. of Local Government - N. W. P - Notice under section 66 (c) Appointed Chairman, Vice Chairman, Mayor and Deputy Mayor for 14 Local Government Institutions."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-45",
-    "dir_data": "data/extra-gazettes/2025/2442-45"
+    "date": "2025-06-26",
+    "description": "Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman to the 04 Local Government Institutions"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-24",
-    "description": "Land Aquisition - Uppuweli, Town and Gravets  D/S Division, Trincomalee District.",
-    "lang_to_source_url": {
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-32_T.pdf"
-    },
-    "doc_num": "2442/32",
     "id": "2442-32",
-    "dir_data": "data/extra-gazettes/2025/2442-32"
+    "date": "2025-06-24",
+    "description": "Land Aquisition - Uppuweli, Town and Gravets  D/S Division, Trincomalee District."
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-24",
-    "description": "Sri Lanka Parliament - Convening of the Parliament of the Democratic Socialist Republic of Sri Lanka on Monday, the 30th of June, 2025 at 9.30 a.m.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-30_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-30_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-30_T.pdf"
-    },
-    "doc_num": "2442/30",
     "id": "2442-30",
-    "dir_data": "data/extra-gazettes/2025/2442-30"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-06-24",
-    "description": "Dept. of Census and Statistics National Consumer Price Index - May 2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-29_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-29_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-29_T.pdf"
-    },
-    "doc_num": "2442/29",
+    "description": "Sri Lanka Parliament - Convening of the Parliament of the Democratic Socialist Republic of Sri Lanka on Monday, the 30th of June, 2025 at 9.30 a.m."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-29",
-    "dir_data": "data/extra-gazettes/2025/2442-29"
+    "date": "2025-06-24",
+    "description": "Dept. of Census and Statistics National Consumer Price Index - May 2025"
   },
   {
     "doc_type_name": "bills",
-    "date": "2025-06-23",
-    "description": "National Audit (Amendment) - GS",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/bills/2025/6/611-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/bills/2025/6/611-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/bills/2025/6/611-2025_T.pdf"
-    },
-    "doc_num": "611/2025",
     "id": "611-2025",
-    "dir_data": "data/bills/2025/611-2025"
+    "date": "2025-06-23",
+    "description": "National Audit (Amendment) - GS"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-23",
-    "description": "Presidential Secretariat - Appointed Mr. K.G.P. Pushpakumara, as the Chief Secretary of the Western Province with effect from 09 the June 2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-16_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-16_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-16_T.pdf"
-    },
-    "doc_num": "2442/16",
     "id": "2442-16",
-    "dir_data": "data/extra-gazettes/2025/2442-16"
+    "date": "2025-06-23",
+    "description": "Presidential Secretariat - Appointed Mr. K.G.P. Pushpakumara, as the Chief Secretary of the Western Province with effect from 09 the June 2025"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-23",
-    "description": "Dept of Local Government - Western Province - Appointed Chairman and Vice Chairman for 06 Local Goverment Institutions - 2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-02_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-02_S.pdf"
-    },
-    "doc_num": "2442/02",
     "id": "2442-02",
-    "dir_data": "data/extra-gazettes/2025/2442-02"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-06-23",
-    "description": "Sri Lanka Customs - Rates of Exchange with effect from 23.06.2025 to 29.06.2025",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-01_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-01_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2442-01_T.pdf"
-    },
-    "doc_num": "2442/01",
+    "description": "Dept of Local Government - Western Province - Appointed Chairman and Vice Chairman for 06 Local Goverment Institutions - 2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-01",
-    "dir_data": "data/extra-gazettes/2025/2442-01"
+    "date": "2025-06-23",
+    "description": "Sri Lanka Customs - Rates of Exchange with effect from 23.06.2025 to 29.06.2025"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Aluthgama Bogamuwa, Gampaha D/S Division, Gampaha District (25/0060)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-71_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-71_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-71_T.pdf"
-    },
-    "doc_num": "2441/71",
     "id": "2441-71",
-    "dir_data": "data/extra-gazettes/2025/2441-71"
+    "date": "2025-06-21",
+    "description": "Land Title Settlement Dept. - Aluthgama Bogamuwa, Gampaha D/S Division, Gampaha District (25/0060)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Mampe, Kesbewa D/S Division, Colombo District - (25/0079)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-68_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-68_S.pdf"
-    },
-    "doc_num": "2441/68",
     "id": "2441-68",
-    "dir_data": "data/extra-gazettes/2025/2441-68"
+    "date": "2025-06-21",
+    "description": "Land Title Settlement Dept. - Mampe, Kesbewa D/S Division, Colombo District - (25/0079)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Kaudana, Four Deh D/S Division, Colombo District - (7826)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-64_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-64_S.pdf"
-    },
-    "doc_num": "2441/64",
     "id": "2441-64",
-    "dir_data": "data/extra-gazettes/2025/2441-64"
+    "date": "2025-06-21",
+    "description": "Land Title Settlement Dept. - Kaudana, Four Deh D/S Division, Colombo District - (7826)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Kappina Seemamalaka Viharaya call as an Urban Development area",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-60_E.pdf"
-    },
-    "doc_num": "2441/60",
     "id": "2441-60",
-    "dir_data": "data/extra-gazettes/2025/2441-60"
+    "date": "2025-06-21",
+    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Kappina Seemamalaka Viharaya call as an Urban Development area"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Manthinda Priven Viharaya as an Urban Development area",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-59_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-59_S.pdf"
-    },
-    "doc_num": "2441/59",
     "id": "2441-59",
-    "dir_data": "data/extra-gazettes/2025/2441-59"
+    "date": "2025-06-21",
+    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Manthinda Priven Viharaya as an Urban Development area"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Dickwella Deegawalukarama Rajamaha Vihara as an Urban Development area",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-58_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-58_S.pdf"
-    },
-    "doc_num": "2441/58",
     "id": "2441-58",
-    "dir_data": "data/extra-gazettes/2025/2441-58"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
     "date": "2025-06-21",
-    "description": "National Physical Planning Department Town and Country Planning Ordinance (Chapter 269) Declare that the Land called Purana Athkanda Rajamaha Viharaya called as an Urban Development Area",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-57_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-57_S.pdf"
-    },
-    "doc_num": "2441/57",
+    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Dickwella Deegawalukarama Rajamaha Vihara as an Urban Development area"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2441-57",
-    "dir_data": "data/extra-gazettes/2025/2441-57"
+    "date": "2025-06-21",
+    "description": "National Physical Planning Department Town and Country Planning Ordinance (Chapter 269) Declare that the Land called Purana Athkanda Rajamaha Viharaya called as an Urban Development Area"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Election Commission - Local Authorities Election - 2025 Notice Under Section 66(2) Elected to the Members for Dehiwala - Mount Lavinia M/C Kotikawatta - Mulleriyawa P.S, Homagama P.S and Weeraketiya Pradeshiya Sabha.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-55_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-55_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-55_T.pdf"
-    },
-    "doc_num": "2441/55",
     "id": "2441-55",
-    "dir_data": "data/extra-gazettes/2025/2441-55"
+    "date": "2025-06-20",
+    "description": "Election Commission - Local Authorities Election - 2025 Notice Under Section 66(2) Elected to the Members for Dehiwala - Mount Lavinia M/C Kotikawatta - Mulleriyawa P.S, Homagama P.S and Weeraketiya Pradeshiya Sabha."
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Land Title Settlement Dept. - Halpugala, Bope Poddala D/S Division, Galle District - (25/0186)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-52_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-52_S.pdf"
-    },
-    "doc_num": "2441/52",
     "id": "2441-52",
-    "dir_data": "data/extra-gazettes/2025/2441-52"
+    "date": "2025-06-20",
+    "description": "Land Title Settlement Dept. - Halpugala, Bope Poddala D/S Division, Galle District - (25/0186)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Land Title Settlement Dept. - Doratiyawa, Mallavapitiya D/S Division, Kurunegala District - (25/5514102)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-50_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-50_S.pdf"
-    },
-    "doc_num": "2441/50",
     "id": "2441-50",
-    "dir_data": "data/extra-gazettes/2025/2441-50"
+    "date": "2025-06-20",
+    "description": "Land Title Settlement Dept. - Doratiyawa, Mallavapitiya D/S Division, Kurunegala District - (25/5514102)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Land Title Settlement Dept. - Horagolla, Gampaha D/S Division, Gampaha District - (25/0105)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-48_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-48_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-48_T.pdf"
-    },
-    "doc_num": "2441/48",
     "id": "2441-48",
-    "dir_data": "data/extra-gazettes/2025/2441-48"
+    "date": "2025-06-20",
+    "description": "Land Title Settlement Dept. - Horagolla, Gampaha D/S Division, Gampaha District - (25/0105)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Land Aquisition -Madawala, Pathadumbara D/S Division, Kandy District, Sec 07",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-47_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-47_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-47_T.pdf"
-    },
-    "doc_num": "2441/47",
     "id": "2441-47",
-    "dir_data": "data/extra-gazettes/2025/2441-47"
+    "date": "2025-06-20",
+    "description": "Land Aquisition -Madawala, Pathadumbara D/S Division, Kandy District, Sec 07"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Meditation Boards Commission- Notice Calling for Nominations for the Appointments of Mediators- Gampaha District",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-46_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-46_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-46_T.pdf"
-    },
-    "doc_num": "2441/46",
     "id": "2441-46",
-    "dir_data": "data/extra-gazettes/2025/2441-46"
+    "date": "2025-06-20",
+    "description": "Meditation Boards Commission- Notice Calling for Nominations for the Appointments of Mediators- Gampaha District"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Meditation Boards Commission- Notice Calling for Nominations for the Appointments of Mediators",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-45_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-45_S.pdf"
-    },
-    "doc_num": "2441/45",
     "id": "2441-45",
-    "dir_data": "data/extra-gazettes/2025/2441-45"
+    "date": "2025-06-20",
+    "description": "Meditation Boards Commission- Notice Calling for Nominations for the Appointments of Mediators"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-20",
-    "description": "Bibila Pradeshiya Sabha Roads and Narrow Paths - 2nd Gazette",
-    "lang_to_source_url": {
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-44_S.pdf"
-    },
-    "doc_num": "2441/44",
     "id": "2441-44",
-    "dir_data": "data/extra-gazettes/2025/2441-44"
+    "date": "2025-06-20",
+    "description": "Bibila Pradeshiya Sabha Roads and Narrow Paths - 2nd Gazette"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "Legal Section",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(II-0)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(II-0)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(II-0)T.pdf"
-    },
-    "doc_num": "2025-06-20-legal-section",
     "id": "2025-06-20-legal-section",
-    "dir_data": "data/gazettes/2025/2025-06-20-legal-section"
+    "date": "2025-06-20",
+    "description": "Legal Section"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "Land Section",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(III-0)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(III-0)S.pdf"
-    },
-    "doc_num": "2025-06-20-land-section",
     "id": "2025-06-20-land-section",
-    "dir_data": "data/gazettes/2025/2025-06-20-land-section"
+    "date": "2025-06-20",
+    "description": "Land Section"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "IV (B) - Local Government",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(IV-B)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(IV-B)S.pdf"
-    },
-    "doc_num": "2025-06-20-iv-b-local-government",
     "id": "2025-06-20-iv-b-local-government",
-    "dir_data": "data/gazettes/2025/2025-06-20-iv-b-local-government"
+    "date": "2025-06-20",
+    "description": "IV (B) - Local Government"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "(III) - TRADE MARKS AND PATENT NOTICES",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-III)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-III)S.pdf"
-    },
-    "doc_num": "2025-06-20-iii-trade-marks-and-patent-notices",
     "id": "2025-06-20-iii-trade-marks-and-patent-notices",
-    "dir_data": "data/gazettes/2025/2025-06-20-iii-trade-marks-and-patent-notices"
+    "date": "2025-06-20",
+    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "(IIB) - Advertising",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-IIB)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-IIB)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-IIB)T.pdf"
-    },
-    "doc_num": "2025-06-20-iib-advertising",
     "id": "2025-06-20-iib-advertising",
-    "dir_data": "data/gazettes/2025/2025-06-20-iib-advertising"
+    "date": "2025-06-20",
+    "description": "(IIB) - Advertising"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "(IIA) - Advertising",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-IIA)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-IIA)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-IIA)T.pdf"
-    },
-    "doc_num": "2025-06-20-iia-advertising",
     "id": "2025-06-20-iia-advertising",
-    "dir_data": "data/gazettes/2025/2025-06-20-iia-advertising"
+    "date": "2025-06-20",
+    "description": "(IIA) - Advertising"
   },
   {
     "doc_type_name": "gazettes",
-    "date": "2025-06-20",
-    "description": "(I) - General",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-I)E.pdf",
-      "si": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-I)S.pdf",
-      "ta": "https://documents.gov.lk/view/gazettes/2025/6/2025-06-20(I-I)T.pdf"
-    },
-    "doc_num": "2025-06-20-i-general",
     "id": "2025-06-20-i-general",
-    "dir_data": "data/gazettes/2025/2025-06-20-i-general"
+    "date": "2025-06-20",
+    "description": "(I) - General"
   },
   {
     "doc_type_name": "acts",
-    "date": "2025-06-20",
-    "description": "National Transport Commission (Amendment)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/acts/2025/6/08-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/acts/2025/6/08-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/acts/2025/6/08-2025_T.pdf"
-    },
-    "doc_num": "08/2025",
     "id": "08-2025",
-    "dir_data": "data/acts/2025/08-2025"
+    "date": "2025-06-20",
+    "description": "National Transport Commission (Amendment)"
   },
   {
     "doc_type_name": "acts",
-    "date": "2025-06-20",
-    "description": "Code of Criminal Procedure (Amendment)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/acts/2025/6/07-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/acts/2025/6/07-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/acts/2025/6/07-2025_T.pdf"
-    },
-    "doc_num": "07/2025",
     "id": "07-2025",
-    "dir_data": "data/acts/2025/07-2025"
+    "date": "2025-06-20",
+    "description": "Code of Criminal Procedure (Amendment)"
   },
   {
     "doc_type_name": "bills",
-    "date": "2025-06-19",
-    "description": "Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - GS",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/bills/2025/6/607-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/bills/2025/6/607-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/bills/2025/6/607-2025_T.pdf"
-    },
-    "doc_num": "607/2025",
     "id": "607-2025",
-    "dir_data": "data/bills/2025/607-2025"
+    "date": "2025-06-19",
+    "description": "Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - GS"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-19",
-    "description": "Land Title Settlement Dept. - Rathmalana, Rathmalana D/S Division, Colombo District - (7828)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-43_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-43_S.pdf"
-    },
-    "doc_num": "2441/43",
     "id": "2441-43",
-    "dir_data": "data/extra-gazettes/2025/2441-43"
+    "date": "2025-06-19",
+    "description": "Land Title Settlement Dept. - Rathmalana, Rathmalana D/S Division, Colombo District - (7828)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-19",
-    "description": "Land Aquisition - Thambiliyana, Kuruwita D/S Division, Ratnapura District, Land Aquisition - Biyagama, Biyagama D/S Division, Gampaha District Sec-39 (1)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-34_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-34_S.pdf"
-    },
-    "doc_num": "2441/34",
     "id": "2441-34",
-    "dir_data": "data/extra-gazettes/2025/2441-34"
+    "date": "2025-06-19",
+    "description": "Land Aquisition - Thambiliyana, Kuruwita D/S Division, Ratnapura District, Land Aquisition - Biyagama, Biyagama D/S Division, Gampaha District Sec-39 (1)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-19",
-    "description": "Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District - (25/0236)",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-33_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-33_S.pdf"
-    },
-    "doc_num": "2441/33",
     "id": "2441-33",
-    "dir_data": "data/extra-gazettes/2025/2441-33"
+    "date": "2025-06-19",
+    "description": "Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District - (25/0236)"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-19",
-    "description": "Election Commission - Notice under Section 66B (1)(a) Appointed Gama Ethige Ariyadasa as a Chairman of the Balangoda Pradeshiya Sabha",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-32_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-32_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-32_T.pdf"
-    },
-    "doc_num": "2441/32",
     "id": "2441-32",
-    "dir_data": "data/extra-gazettes/2025/2441-32"
+    "date": "2025-06-19",
+    "description": "Election Commission - Notice under Section 66B (1)(a) Appointed Gama Ethige Ariyadasa as a Chairman of the Balangoda Pradeshiya Sabha"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-19",
-    "description": "Land Aquisition - Bollegala, Biyagama D/S Division, Gampaha District - Sec 07\r\nLand Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha District - Sec 07",
-    "lang_to_source_url": {
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-30_T.pdf"
-    },
-    "doc_num": "2441/30",
     "id": "2441-30",
-    "dir_data": "data/extra-gazettes/2025/2441-30"
+    "date": "2025-06-19",
+    "description": "Land Aquisition - Bollegala, Biyagama D/S Division, Gampaha District - Sec 07\r\nLand Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha District - Sec 07"
   },
   {
     "doc_type_name": "bills",
-    "date": "2025-06-18",
-    "description": "Colombo Association of Language Skills and Dramatic Art (Incorporation) - Bill",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/bills/2025/6/615-2025_E.pdf",
-      "si": "https://documents.gov.lk/view/bills/2025/6/615-2025_S.pdf",
-      "ta": "https://documents.gov.lk/view/bills/2025/6/615-2025_T.pdf"
-    },
-    "doc_num": "615/2025",
     "id": "615-2025",
-    "dir_data": "data/bills/2025/615-2025"
+    "date": "2025-06-18",
+    "description": "Colombo Association of Language Skills and Dramatic Art (Incorporation) - Bill"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Galigamuwa Pradeshiya Sabha Roads and Paths",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-29_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-29_S.pdf"
-    },
-    "doc_num": "2441/29",
     "id": "2441-29",
-    "dir_data": "data/extra-gazettes/2025/2441-29"
+    "date": "2025-06-18",
+    "description": "Galigamuwa Pradeshiya Sabha Roads and Paths"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Land Aquisition - Kengalla, Kundasale D/S Division, Kandy District - Sec 05\r\nLand Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District - Sec 05",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-28_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-28_S.pdf"
-    },
-    "doc_num": "2441/28",
     "id": "2441-28",
-    "dir_data": "data/extra-gazettes/2025/2441-28"
+    "date": "2025-06-18",
+    "description": "Land Aquisition - Kengalla, Kundasale D/S Division, Kandy District - Sec 05\r\nLand Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District - Sec 05"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Governer's Secretarial Northern Province - Co-operative Socities Law No. 05 of 1972 Conferment of Power",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-27_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-27_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-27_T.pdf"
-    },
-    "doc_num": "2441/27",
     "id": "2441-27",
-    "dir_data": "data/extra-gazettes/2025/2441-27"
+    "date": "2025-06-18",
+    "description": "Governer's Secretarial Northern Province - Co-operative Socities Law No. 05 of 1972 Conferment of Power"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Land Aquisition - Matale D/S Division, Matale District - Sec 33\r\nLand Aquisition - Thaldeniya, Medadumbara D/S Division, Kandy District - Sec 33",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-26_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-26_S.pdf"
-    },
-    "doc_num": "2441/26",
     "id": "2441-26",
-    "dir_data": "data/extra-gazettes/2025/2441-26"
+    "date": "2025-06-18",
+    "description": "Land Aquisition - Matale D/S Division, Matale District - Sec 33\r\nLand Aquisition - Thaldeniya, Medadumbara D/S Division, Kandy District - Sec 33"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33\r\nLand Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-25_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-25_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-25_T.pdf"
-    },
-    "doc_num": "2441/25",
     "id": "2441-25",
-    "dir_data": "data/extra-gazettes/2025/2441-25"
+    "date": "2025-06-18",
+    "description": "Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33\r\nLand Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33\r\nLand Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-24_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-24_S.pdf"
-    },
-    "doc_num": "2441/24",
     "id": "2441-24",
-    "dir_data": "data/extra-gazettes/2025/2441-24"
+    "date": "2025-06-18",
+    "description": "Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33\r\nLand Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Sri Lanka Railways Welfare Society Act (Authority 285) Regulations",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-23_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-23_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-23_T.pdf"
-    },
-    "doc_num": "2441/23",
     "id": "2441-23",
-    "dir_data": "data/extra-gazettes/2025/2441-23"
+    "date": "2025-06-18",
+    "description": "Sri Lanka Railways Welfare Society Act (Authority 285) Regulations"
   },
   {
     "doc_type_name": "extra-gazettes",
-    "date": "2025-06-18",
-    "description": "Election Commission - Notice Under Section 66A (1) (a) Appointed Mr.Gama Athige Ariyadasa as a Member of the Balangoda Pradeshiya Sabha.",
-    "lang_to_source_url": {
-      "en": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-20_E.pdf",
-      "si": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-20_S.pdf",
-      "ta": "https://documents.gov.lk/view/extra-gazettes/2025/6/2441-20_T.pdf"
-    },
-    "doc_num": "2441/20",
     "id": "2441-20",
-    "dir_data": "data/extra-gazettes/2025/2441-20"
+    "date": "2025-06-18",
+    "description": "Election Commission - Notice Under Section 66A (1) (a) Appointed Mr.Gama Athige Ariyadasa as a Member of the Balangoda Pradeshiya Sabha."
   }
 ]
