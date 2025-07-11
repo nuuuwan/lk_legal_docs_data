@@ -1,0 +1,2035 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2355$28 - 2023 Tlaf;dan¾ ui 25 jeks nodod - 2023'10'25
+No. 2355/28  -  wedNesday,   OctOber  25, 2023
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government Notifications
+1a- PG 6510 - 54 (10/2023) 
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+TELECOMMUNICATIONS REGULATORY COMMISSION OF SRI LANKA
+the Guidelines and Procedures for Issuing, Renewal, Transfer of Ownership, Modifications and Revocation of System 
+Licenses issued under section 17 and 18 of the sri Lanka telecommunications act No. 25 of 1991 as amended.
+The Guidelines and Procedures for issuing, renewal and modification of licenses under Section 17 and 18 of the 
+sri Lanka telecommunications act No. 25 of 1991 as amended published in Gazette Extraordinary No. 1435/20 of March 
+10, 2006 is hereby rescinded.
+ Madhushanka Dissanayake,
+        director General,
+Telecommunications Regulatory Commission of Sri Lanka.
+Telecommunications Regulatory Commission of Sri Lanka,
+276, elvitigala Mawatha,
+colombo 08.
+23rd October, 2023
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+2a
+TABLE OF CONTENTS
+1. GENERAL
+          
+2. SCHEDULE  1:  Section A: Issuance of Facility Based Operator (FBO) Licenses
+                                               
+2.1. Guidelines for application for new Licenses
+2.2. application evaluation criteria for new Licenses
+2.3. application Form
+2.4. Guidelines for preparation of Project Feasibility Report
+2.5. declaration
+SCHEDULE  1: section b: Issuance of service based Operator (sbO) Licences    
+            
+2.6. Guidelines for application for new Licences
+2.7. application evaluation criteria for new Licences
+2.8. application form
+2.9. Guidelines for Preparation of Project Feasibility Report
+2.10. declaration
+3. SCHEDULE  2: Section A: Renewal of Facility Based Operator Licences   
+3.1. The Guidelines for the Renewal of Facility based Licences issued under Sri Lanka Telecommunications Act 
+No. 25 of 1991 as amended
+3.2. application form
+SCHEDULE  2: section b: renewal of service based Operator Licenses
+3.3. the Guidelines for the renewal of service based Licenses issued under sri Lanka t elecommunications act 
+No. 25 of 1991 as amended
+3.4. application form
+4. SCHEDULE  3:          
+4.1. Procedure for obtaining prior approval of the Commission for Transfer of ownership of Company who operate 
+     a telecommunication system
+4.2. application form
+5. SCHEDULE  4         
+ 
+5.1. The Procedure of Modification of Licence/ Licence Conditions of (Facility /Service Based) issued under  
+sri Lanka t elecommunications act No. 25 of 1991 as amended
+6. SCHEDULE  5                                
+6.1. The Procedure of revocation of Licenses (Facility/Service Based) issued under Sri Lanka Telecommunications 
+act No. 25 of 1991 as amended
+6.2. conditions of revocation of Licence
+6.3. Procedure of revocation and appeal procedure 
+6.4. surrender of Licences
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+3a
+1. GENERAL
+ 1.1. Telecommunications Regulatory Commission of Sri Lanka (‘Commission’) has been established under Sri 
+Lanka Telecommunications Act No. 25 of 1991 as amended by the Act No. 27 of 1996 (‘Act’). These Guidlines 
+and procedures shall come into effect from 01.09.2024.
+ 1.2. as per section 17 (1) and subject  to provisions of section 20 of the sri Lanka t elecommunications act No. 
+25 of 1991 as amended by the Act No. 27 of 1996 (hereafter referred as the Act), no person shall operate a 
+telecommunication system except under the authority of a Licence (hereafter referred as Licence)  granted by 
+the Minister in charge of telecommunication.
+ 1.3. The information contained in this document is purely intended as a guideline to assist interested parties in 
+events described in the document. It should not be relied on as a legal advice or regarded as a substitute for 
+legal advice in specific cases. It is emphasized that for such purpose legislative provisions contained in the 
+law should be referred.
+ 1.4. This document does not bind the Commission to any particular course of action in relation to the handling of any 
+application, or to the terms of any licence to be granted, or to grant any licence to any party. The Commission 
+reserves the right to change its policies without prior notice.
+ 1.5. Guidance and Information for the interested parties who wish to apply for a new Licence under Section 17 of 
+the act, are given in Schedule 1.
+ 1.6. Guidance and Information for the Telecommunication Operators who already possess a Licence under Section 
+17 of the Act and wish to renew the Licence for another specified term are given in Schedule 2.
+ 1.7. Guidance and Information for the Telecommunication operators who already possess a Licence and is so 
+authorized and qualified to transfer ownership of the company, are given in Schedule 3.
+ 1.8. Guidance and Information for the Telecommunication Operators who already possess a Licence under Section 
+17 of the Act and said Licence is to be modified as per Section 18 of the Act are given in Schedule 4.
+ 1.9. the Procedure and conditions of revocation of Licence which are in force are given in Schedule 5. 
+ 1.10. These guidelines will be amended by the Commission without notice from time to time based on regulatory 
+requirements and Commission will publish revised Licensing Guidelines on its official website (www.trc.gov.lk). 
+All correspondences should be addressed in writing to following address and sent by post, e-mail or fax).
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No. 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+4a
+2. SCHEDULE  1
+sectION  a : IssuaNce OF  FacILIty based OPerat Or (FbO) LIceNces
+2.1. GuIdeLINes FOr aPPLIcatION FOr New  LIceNces:
+ 2.1.1. Schedule 1-Section-A provides Guidance and Information for the interested parties who wish to apply for a 
+new Licence, issued under section 17 of the s ri Lanka t elecommunications act, No. 25 of 1991, as amended 
+for Facility Based Operation of  a Telecommunications system and provision of  a telecommunication 
+service(s).
+ 2.1.2. The applicant shall be a company duly incorporated under Companies Act No. 07 of 2007. Name of the 
+applying company, date and place of incorporation, business and registered address, contact telephone 
+number, facsimile number, email address and name and designation of a contact person within applicant’s 
+organization should be provided.
+ 2.1.3. An individual, a sole proprietorship, a partnership or any other person or classes of person as may be 
+decided by the Commission from time to time will be ineligible to apply for Licence.
+ 2.1.4. detailed information should be given on corporate and shareholding structure including relationship with 
+holding or associated companies clearly indicating the ultimate ownership, both direct and indirect. If the 
+holding company is public entity, then details of the public listing should be provided.
+ 2.1.5. Foreign shareholding direct or indirect shall be limited to maximum 40% (Forty Percent). The remaining 
+60% shall be owned by Resident Sri Lankan Citizen(s) or Sri Lankan Company duly incorporated under 
+Companies Act No. 7 of 2007. However, these percentages may be reviewed by the Commission under 
+special circumstances.   Foreign entity shall invest in foreign currency directly equal to the percentage of 
+ownership and no bank loan from any Sri Lankan Bank/Financial Institution/Leasing Company or any 
+other entity can be raised for the foreign part of the investment.
+ 2.1.6. Detailed composition of the Board of Directors and key management team inclusive of individual 
+shareholders should also be provided.
+ 2.1.7. The Licence mentioned in 1.2 will be issued by the Minister on the recommendation of the Commission. 
+however, Minister shall have the power to reject such recommendations for reasons assigned and grant 
+a Licence of his own discretion.  
+ 2.1.8. However the issuance of Licence for the operation of a telecommunication system, authorizing provision 
+of a particular service in any market segment will depend on the regulatory requirement for such service 
+in Sri Lanka and if such requirement does not exist Commission may  reject any unsolicited application 
+without being processed. 
+ 2.1.9. If Commission so decides due to policy and/or regulatory requirement to issue Licence/ Licences 
+through market-oriented methodology, public notice may be published in national newspapers to call 
+for applications from suitable Entities. In such case, Commission may reject any previous unsolicited 
+Application/Applications submitted to the Commission and inform them accordingly.
+ 2.1.10. Any interested party who wish to apply for a new Licence shall submit duly perfected S17-1-A application. 
+Commission will ensure that the application form is duly completed, and all details are in order. A 
+checklist attached to the application form has to be submitted by the applicants and submitted along with 
+the application. when commission receives the completed application form together with the relevant 
+documents and appropriate processing fee, the commission will refer the application for clearance from 
+the Ministry of Defence. If security clearance is not granted by the Ministry of Defence the Application 
+will be rejected.
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+5a
+ 2.1.11. However, if the Commission is of the opinion that the information provided by the applicant is insufficient 
+to support the application, further information may be sought, and the processing of the application may 
+be delayed.
+ 2.1.12. In such circumstances, the Commission will direct the applicant to furnish requested information within 
+four weeks of submission of the application. Failure to comply with this directive of the Commission may 
+result in the applicant to be disqualified from this licensing process.
+ 2.1.13. the commission will assess the application as per described evaluation    criteria in schedule 1/section-a  
+(2.2), after verification of the documents submitted to check the eligibility of the applicant for the grant of 
+Licence. the applicant at all times shall provide clear evidence in all aspects described in the evaluation 
+criteria.
+ 2.1.14. In addition to the application submitted, Commission may from time to time, during the evaluation, request 
+the applicant to submit additional documents to facilitate the evaluation. however, if the applicant fails 
+to submit the required documents within 30 days, the Applicant will be disqualified from the Licensing 
+process. Further the applicant may be required to conduct presentation for further clarifications of their 
+proposal.
+ 2.1.15. As per the evaluation criteria described in Schedule1/Section-A (2.2), if scores more than 70%, the applicant 
+will be eligible for the grant of Licence.
+ 2.1.16. before recommending to the Minister for the grant of Licence, commission will publish information 
+about the applicant on national newspapers inviting public comments, within thirty days from the date of 
+publication with regard to issuance of Licence. a  draft of the proposed Licence will be made available 
+on Commission’s official web site in full to be viewed by the public. 
+ 2.1.17. The Commission will consider any representation or objection duly made in response to the public notice. 
+If an objection or representation to the application was made, the Commission may initiate an investigation 
+depending the type of complaint. The applicant may be required to submit evidence during the investigation. 
+If the Commission finds valid reasons, as a conclusion of the investigation for not granting the Licence, 
+the applicant would be informed of decision of the commission in writing.
+ 2.1.18. The applicant will be advised to pay the necessary Licence fee within thirty days if Commission does not 
+find valid reasons as conclusion of the investigation to justify the objections raised by the public. On the 
+receipt of licensing fee within the prescribed period, the commission will recommend to the Minister 
+in charge of the subject to grant the licence. the commission will publish the grant of the licence on its 
+official web site. However, if the applicant fails to make the payment of Licence fee within prescribed 
+period, applicant will be disqualified and Licence will not be granted and process will be terminated.
+ 2.1.19. Assignment of Limited resources such as Radio Frequency Spectrum, Rights of Way, Numbering etc. 
+will strictly be dependent on the availability and Issuance of Licence shall not confer any right to the 
+operator to be assigned such resources. However, Commission at all times, may assign such resources 
+in an objective, transparent and non-discriminatory manner. Such request for limited resources has to be 
+made separately and not a part of the Licence.
+ 
+ 2.1.20. The Commission will publish details about the company during and the end of the licensing process. 
+Applicants should   submit confidential information in a separate cover indicating it clearly on the 
+documents as well. Applicants may be assured that all commercially sensitive information will remain 
+strictly confidential.
+ 2.1.21. Licensee shall be strictly required to get all other Licences/Approvals required for the operation and 
+provision of telecommunication service, before commencement of such operation of the telecommunication 
+system.
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+6a
+ 2.1.22. On submission of the Duly Perfected Application Form S17-1-A with all relevant details, the Applicant 
+is required to make a processing fee of Rs. 300,000 payables to the Telecommunications Regulatory 
+commission of sri Lanka. this fee is non-refundable regardless of whether an applicant is successful or 
+not in the licensing process. No application will be evaluated if relevant processing fee is not paid.
+ 2.1.23. The Authorized representative of the company who is signing the declaration should initial each page of 
+the application and project feasibility report. Submission of the application form and Project feasibility 
+report additionally in the electronic format would be recommended. 
+ 2.1.24. Three copies of the completed application form and Project feasibility report together with processing fee 
+should be submitted in an envelope clearly marked "Application for Telecommunication System Licence" 
+addressed to:
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No. 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+2.2. APPLICATION EV ALUATION CRITERIA FOR NEW LICENCES (Facility Based) 
+ 2.2.1. The assessment of the application is based on the capabilities with regard to technical, financial, sales & 
+marketing, customer service & protection and organizational and managerial aspects for proper operation 
+of telecommunication system and provision of   telecommunication services. This evaluation will be based 
+on the feasibility report submitted with the S17-1-A Application Form.
+ 2.2.2. Applicant should score minimum amount specified in each aspect/segment below and total score shall be 
+more than 70% to become eligible for grant of Licence.
+No. Evaluation Criteria  Marks Minimum 
+Required
+1 t echnical 30 20
+1. Network Configuration
+2. Capacity and Speed 
+3.standards
+4. Billing System
+5. use of Limited resources
+6. sharing/hiring
+7. Network Expansion Plans for next 5 years
+8. cPe standards
+2  Financial 30 20
+1. capital and Funding sources
+2. cash Flow/Investment Plan
+3. Discounted Minimum Payback
+4. Risk Analysis
+3  sales and Marketing 15 10
+1. Expected Subscriber growth
+2. sales Plan
+3. advertising Plan
+4. dealer Network
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+7a
+No. Evaluation Criteria  Marks Minimum 
+Required
+4  Customer Service & Protection 15 12
+1. CPE type
+2. Maintenance of cPe
+3. service Level agreement
+4. Protection against Bankruptcy (Insurance etc )
+5. assurance of Qos
+5   Organizational & Managerial 10 8
+1. Organizational structure
+2. New Employment
+3. Previous Experience
+4. strategic suppliers
+5. Staffing and Training
+2.3. aPPLIcatION FOrM
+ Form s17-1-a
+ EXPLANATORY NOTES (FORM S17-1-A)
+• Before completing this application form, applicants should read Schedule 01/Section A of Licensing Guidelines 
+and Procedures fully.
+• All applicants should complete the application form (S17-1-A).
+• The application must be completed fully in print or block capitals. If the requested information is not applicable 
+to the proposed telecommunications system, please write N/A.
+• Applicants should attach extra pages if given space is insufficient to provide the requested information. The 
+information on extra pages should be presented clearly and numbered in accordance with this form. Any attached 
+pages must be printed on A4-size papers.
+• Applicants should initial and date any correction or alteration made the application form.
+• Applicants are required to submit 3 copies of the application, including attachments and a Project feasibility 
+report in the format specified in the guideline to,
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No. 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+8a
+Form s17-1-a
+Application Form for issuance of Telecommunication System Licence (Facility Based) under Section 17 
+of Sri Lanka Telecommunications Act No. 25 of 1991 as amended
+1. CONTACT DETAILS OF THE APPLICANT: The authorized representative of the company (Applicant) shall 
+provide the following information:
+ 1.1. Full Name:
+ 1.2. date of birth:
+ 1.3. National Id Number/Passport Number:
+ 1.4. Citizenship:
+ 1.5. address (Permanent):     residence:
+ 1.6. Telephone Number:   (Fixed):    Mobile:
+ 1.7. Fax Number:
+ 1.8. e-Mail address:
+  Please check the Boxes (Tick √)  
+        Board resolution for authorization to Applicant
+2.  cOMP aNy  PrOFILe:
+ 2.1. Registered Name of the Company:
+ 2.2. Company Registration Number:
+ 2.3. date of Incorporation:
+ 2.4. registered address:
+ 2.5. Official Telephone Number of the Company:
+ 2.6. Fax Number:
+ 2.7. email address:
+ 2.8. Official Website of the Company:
+ 2.9.  detailed information on corporate and shareholding structure including relationship with holding or 
+associated companies clearly indicating the ownership:
+ 2.10 In case public company (including holding company) details of public listing:
+ 2.11 Name and contact details of the bank where business account is maintained:
+ 2.12 share capital (class of share, Number and Value of share in each class of shares)
+ 2.13 If listed in Colombo Stock Exchange provide details of class of shares:
+ 2.14 In case of partnership, provide details:
+ 2.15 Detailed composition of Board of Directors and key management team with qualification and career history 
+of Directors with details of individual shareholding if any (Resumes should be attached):
+ 2.16 List of activities contracted out to other agencies and consultants:
+ 2.17 List of Professional advisers of the Company: (Technical, Legal, Finance,  Auditors)
+ 2.18 Details of Telecommunication system Licences (Local or Foreign), currently held  by company or affiliate:
+ 2.19 Details of Revocation of such Licence or Refusal of application by authorized entity.
+ 2.20 Please Annex following:
+  Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 and other proof 
+document in relation to above details provided
+3. sharehOLder detaILs:
+details of all shareholders should be submitted in following format. .(For each shareholder separate details 
+should be provided)
+ 3.1. Full Name:
+ 3.2. date of birth:
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+9a
+ 3.3. National Id Number/Passport Number:
+ 3.4. Citizenship:
+ 3.5. address (Permanent):                           residence:
+ 3.6. Telephone Number: (Fixed):     Mobile:
+ 3.7. Fax Number:
+ 3.8. e-Mail address:
+ 3.9. Percentage of shares:
+ 3.10. date of shares issued:
+   (Share Certificates should be attached)
+ 3.11. Details of companies previously owned which has gone into liquidation:
+ 3.12. Details of any application for Telecommunication System Licence submitted by previously  owned company 
+which was refused by an authorized entity in any Country:
+ 3.13. Details of any Telecommunication Licence possessed by any previously owned company which is revoked 
+by an authorized entity in any Country:
+ 3.14. Any other business interests:
+4. PrOJect  FeasIbILIty  rePOrt
+A comprehensive project feasibility report shall be submitted with this application. Report should include the 
+Technical, Financial, Sales & Marketing, Customer Service & protection, Organizational and Managerial Capabilities 
+and Skills of the applicant’s company to establish, operate and maintain the telecommunication system to acceptable 
+standards and provide service to an acceptable quality of Service for which Licence is being applied. The feasibility 
+report shall be prepared as per instructions given in section 2.4 of the Licensing Guideline.   the information provided 
+in the Project feasibility report will be taken into account when application is evaluated.
+5. decLaratION
+I ………………………………………………… hereby certify that the information provided in this application 
+form and anything of that sort in the feasibility report are true & correct in all respects. I hereby give undertaking 
+that upon grant of the Licence, I shall abide by the provisions of Sri Lanka Telecommunications Act No. 25 of 1991 
+as amended by Act No. 27 of 1996, any Rules, Orders, Determinations, made by Commission thereunder and all 
+provisions and terms and conditions of the Licence. I have no objection for the revocation of Licence if found that 
+Licence has been issued based on incorrect information and also in violation of any of conditions illustrated in the 
+revocation section of the Licence.
+Signature of Authorized Representative of the Company: ……………………….
+date: …
+Application Checklist
+(a) Application Requirements:
+1. Is the application-processing fee of rs.300,000 included? Yes/ No
+2. Are Section 1, 2, 3 ,4, & 5 of the Application completed as appropriate? Yes/ No
+3. Has Project feasibility report as described in item 4 of the Application been submitted? Yes/ No
+4. Has the declaration in Section 5 been signed by Authorized representative of the Company? Yes/ No
+5. Have 3 copies of the application been submitted, including attachments and Project feasibility report? Yes/ No 
+6. A copy of National Identity Card/ relevant pages of the Passport of the Authorized representative of the Company 
+- Yes/ No
+7. A copy of Board Resolution to appoint the Authorized representative to submit application: Yes/ No
+8. Submission of Company Documents: (Yes/No) 
+Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 Other relevant forms submitted.
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+10a
+9. Copies of National Identity Cards/ relevant pages of the Passports, Resumes of the Chief Executive Officer, Directors 
+and shareholders and other relevant documents to their conduct. Yes/ No
+10. Copies of share certificates & other relevant documents. Yes/ No
+2.4. GuIdeLINes FOr PreP aratION OF PrOJect  FeasIbILIty  rePOrt  
+This Section includes the Guideline for the preparation of Technical Feasibility Report required under Section 4 
+of application Form s17-1-a.
+t his report should consist of separate detailed chapters for t echnical, Financial, sales Marketing, c ustomer services 
+& Protection of the project and the Managerial Structure proposed to implement, operate and provide requested 
+telecommunication services.
+2.4.1. techNIcaL PrOPOsaL
+2.4.1.1. Telecommunication System Network Details
+a) detailed Network diagram including core/ backbone (including locations of switches), backhaul 
+(Routes), Access/OLP, all Points of Presence, interconnection Points and any other components 
+falling within the telecommunication system definition.
+b) Applicant should provide details and configuration of Points of Interconnection with other 
+connectable Operators including Local and International Gateway, with regard to interface 
+requirements standards, capacity, signaling, transmission, synchronization, interoperability, 
+diversity plans or any technical aspect.
+c) Specify achievable speeds and capacity along with the network diagram in each segment and should 
+indicate all the technologies with justification used in each segment with relevant transmission 
+media. details of contention ratios in relevant segments.
+d) description of Network t echnical standards complied in each segment of the Network including 
+installation standards.
+e) Proposed Billing System, Billing standards followed and Measures to prove the Billing System 
+Accuracy.
+f) Detailed requirement of Radio Frequency Spectrum with proper justification in each required 
+network segments with analysis of spectrum efficiency and other alternatives.  However, Radio 
+Frequency Spectrum is not a part of this Licence, and a separate request should be made after 
+grant of Licence and Commission may assign such spectrum as per availability. 
+g) Detailed requirement of other Limited Resources such as Numbering and Rights of Way etc. 
+h) Any infrastructure proposed to be leased/hired/rented from third parties in provision of services.
+i) Any infrastructure to be leased/hired/rented to third parties.
+j) Detailed map of Geographic Network Coverage and yearly expansion plan for next five years.
+k) Technical Specification of all Terminal Apparatus (Customer Premises Equipment) to be used 
+with the network described in 2.4.1.1 should be given. Further, details of operation, available 
+Interfaces, and capabilities should be described.  Manufacturing cost and Price for the customer 
+also should be specified. Also, possibility of local manufacturing of such CPEs also should be 
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+11 a
+indicated. Any Telecommunication Apparatus other than terminal apparatus to be connected to 
+system with proper justification.
+In addition to the above, following details should be given,
+2.4.1.2. Network Management d etails
+a) Detailed plans of   Signaling, Routing (Diversity), Synchronization, Interoperability and other 
+network operational requirements.
+b) Details of Network Management and policies to be adopted to optimize overall network efficiencies.
+c) Expected date of commencement of operations, implementation schedule and growth plan.
+2.4.1.3. description of the Proposed services
+a) detailed description of each of the proposed service / Market segment:
+b) Cross Elasticity analysis with exiting Services already in operation and anticipated industry impacts:
+c) account separation Methodologies:
+d) Quality of Services Parameters with regard to Service Availability, Accessibility, Retainability 
+and Integrity and any other International benchmark.
+e) Proposed service Level agreement (sLa) for the customers.
+ 
+f) Target Customer Base with description of specific market segments
+g) Measures to be adopted for provision of Universal Service obligation and Emergency Service.
+h) Details of directory information services offered to the public (where appropriate).
+2.4.1.4. Environmental Policy
+The Applicant should submit an environmental policy and plan which will Consider:
+a) Minimization of waste product pollutants during normal operations.
+b) Minimization of radio frequency radiation and Electro-Magnetic Compatibility (EMC) effects 
+to other telecommunication systems.
+c) Appropriate disposal of hazardous redundant materials.
+d) Maximum use of recyclable materials.
+e) Preservation of natural beauty.
+f) Use of power efficient equipment.
+g) Other steps towards the preserving the natural environment.
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+12a
+2.4.2. FINaNcI aL PrOPOsaL
+2.4.2.1. Proposed capital and Funding Plans
+Following details should be supplemented with proper proof documents from acceptable Financial 
+Institutions.
+a) details of the proposed capital and funding plans for the operation, including:
+b) A comprehensive description of its proposed Capital structure including owners’ equity and 
+liabilities. Initial debt equity ratio should be maintained below 2.0. 
+c) Sources of funding and the amounts from each source (Owners’ equity, Loan, Sale of company 
+shares, debentures etc).
+d) t iming of funding.
+e) Provisions made for contingent sources of funds.
+f) Repayment terms and schedule for loans and debentures.
+g) Capital and Operational expenditure (Cap Ex and Op Ex) forecast on a quarterly basis for the 
+discounted payback period of the project.
+h) Past performance of the company with regards to items (a) to (f) above (if applicable)
+i) The applicant should submit relevant documentary evidence such as letters of intent, guarantor 
+letters to substantiate the business, financial and funding plans and credit facilities.
+2.4.2.2. Proposed Financial and Investment Plan
+a) Details of the proposed financial plan for next 10 years and the discounted payback period should 
+be less than 10 years:
+b) Projected profit and loss accounts, balance sheets and cash flow statements. The profit and loss 
+accounts, balance sheets and cash flow statements should be prepared in accordance with the Sri 
+Lanka accounting standards. all assumptions made such as asset depreciation policies, subscriber 
+projections, annual variations in operating expenditure etc. should be clearly explained.
+c) Forecasts of the relevant financial metrics including, Cash Flow, Internal Rate of Return (IRR), 
+Discounted Payback Period of the investment. Further, Net Present Value (NPV) details should be 
+indicated. Anticipated time frame should be clearly indicated for the project to be profitable.
+d) Projected financial ratios including return on capital employed, Return on Assets, Operating Profit 
+Margin, Net Profit Margin, Capital Investment Ratio, Current Ratio, and Debt-Equity ratio. The 
+formula used in computing each ratio should also be provided.
+e) Past performance of the company with regards to items (a) to (d) above (if applicable).
+f) Risk Analysis/Control & Limits and strategies:   
+a. Market risks
+b. Liquidation Risk
+c. Insolvency Risk
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+13a
+g) Measurements and strategies employed to increase Company’s
+a) Allocative Efficiency 
+b) Dynamic Efficiency
+c) x-Efficiency
+d) Productive Efficiency
+2.4.3. saLes aNd MarKetING
+a) Expected subscriber growth in each geographical areas and strategies employed for acquisition and brief 
+description of the tariff requirement.
+b) a  comprehensive sales plan of the services including main target of the markets (e.g. wholesale or retail, 
+residential or business) including vertical segments of the business and Marketing Methodologies employed. 
+The Expenses and description of the forecasted annual sales budget should be described.
+c) a  comprehensive marketing plan including marketing media e.g. direct marketing, billboards, magazines 
+and newspapers, tV and radio etc.
+d) Research and development plan for identification of other customer needs.
+e) description of dealer Network and agreements including areas of operation (dealer agreement should 
+be attached).
+f) Description of any part of such operation outsourced to third parties.
+g) Other trading activities of the Company in and outside the telecommunication market and arrangements 
+made to ensure no cross-subsidization between the applicants.
+• Wholesale and retail activities.
+• Telecommunication and non-telecommunication activities.
+• Telecommunication equipment production or supply.
+• Other telecommunication activities.
+2.4.4. CUSTOMER SERVICE & PROTECTION
+a) details of cPe provided to customer:
+b) Maintenance of cPe:
+c) Service Level Agreement Details with customers (Attach a copy):
+d) Complaint Handling Methodology/ Minimum Fault Clearance Time:
+e) Customer Protection against bankruptcy (Insurance cover etc):
+f) Quality of Service Complaints handling:
+g) Assurance of Billing accuracy:
+h) Transparency in terms and conditions and proposed tariff of service:
+
+<!-- page 14 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+14a
+2.4.5. OrGaNIZatIONaL MaNaGeMeNt
+2.4.5.1. Proposed Organizational Structure
+a) Organizational structure of the company, description of each division including staffing and training.
+b) Number of new employments generated yearly in Technical, Sales & Marketing, Finance, Legal 
+& other in Senior, Middle and Junior Levels for next 5 years.
+c) Brief resumes of the proposed senior management team members, at least giving educational & 
+professional qualifications and career history.
+d) Specific experience of senior management team members relevant to establishing and managing 
+the telecommunication network applied. 
+2.4.5.2. strategic suppliers
+a) the applicant should give details and describe roles of all proposed strategic suppliers during 
+network construction and post-service-launch operation to ensure its success. the details should 
+include:
+• Name and type of business.
+• Capabilities and projects involved in Local and International Domain
+• Description of intended type of commercial relationship and authorizing policies.
+2.4.5.3. Third Party Involvement
+a) Description of third parties involved in the operation of system and services within its value chain 
+such as Distribution Channels, Service Offering, Back Office, Value Added Services, Core Network 
+and access Network /OLP. 
+2.4.6. IN addItION t O the abOVe INFOrMatION, aPPLIcaNt  shaLL aLsO subMIt  aN IMP act  
+aNaL ysIs detaILs cONtaINING FOLLOwING:
+a) How the applicant’s operation will benefit/impact the country generally and telecommunication industry 
+specifically.
+b) Strategies to be employed to compete effectively in the telecommunication Industry.
+c) Economic and market study on the potential demand for the activity being proposed and projected market 
+share that applicant expects to achieve in next 10 years.
+d) Details of technological innovations to be utilized in the provision of service and carrying out activity.
+e) details of initiatives towards sharing of infrastructure.
+f) Any other information
+2.5. decLaratION
+The Applicant will be required to sign a declaration in the Application Form S17-1-A, confirming the 
+accuracy of the information furnished therein and such sort of information declared herein in the feasibility  
+report submitted along with the  application Form. 
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+15a
+Schedule 1
+sectION - b : IssuaNce OF  ser VIce based OPerat Or ( sbO) LIceNces
+2.6 GuIdeLINes FOr aPPLIcatION FOr New  LIceNses:
+2.6.1 Schedule 1-Section-B provides Guidance and Information for the interested parties who wish to apply 
+for a new Licence, issued under section 17 of the sri Lanka t elecommunications act, No. 25 of 1991, as 
+amended for Service Based Operation (SBO) of a Telecommunications system and provision of a 
+telecommunication service(s).
+2.6.2 Service Based Operators (SBO) will not be entitled for scarce resources such as radio frequency spectrum, 
+Rights of Way, Numbering etc. They are required to lease transmission facilities from Facility Based 
+Operators (FBO), Licensed by the Commission to establish and operate the network and provide their 
+own t elecommunication services to the public.
+2.6.3 The applicant shall be a company duly incorporated under Companies Act, No 07 of 2007. Name of the 
+applying company, date and place of incorporation, business and registered address, contact telephone 
+number, facsimile number, email address and name and designation of a contact person within applicant’s 
+organization should be provided.
+2.6.4 An individual, a sole proprietorship, a partnership or any other person or classes of person as may be 
+decided by the Commission from time to time will not be eligible to apply for Licence.
+2.6.5 detailed information should be given on corporate and shareholding structure including relationship 
+with holding or associated companies clearly indicating the ultimate ownership, both direct and indirect. 
+If the holding company is public entity, then details of the public listing should be provided.
+2.6.6 Foreign shareholding direct or indirect shall be limited to maximum 40% (Forty Percent). The remaining 
+60% shall be owned by Resident Sri Lankan Citizen(s) or Sri Lankan Company duly incorporated under 
+Companies Act, No. 7 of 2007. However, these percentages may be reviewed by the Commission under 
+special circumstances.   Foreign entity shall invest in foreign currency directly equal to the percentage 
+of ownership and no bank loan from any Sri Lankan Bank/Financial Institution/Leasing Company or 
+any other entity can be raised for the foreign part of the investment.
+2.6.7 Detailed composition of the Board of Directors and key management team inclusive of individual 
+shareholders should also be provided.
+2.6.8 The Licence mentioned in 1.2 will be issued by the Minister on the recommendation of the Commission. 
+however, Minister shall have the power to reject such recommendations for reasons assigned and grant 
+a Licence of his own discretion.  
+2.6.9 However the issuance of Licence for the operation of a telecommunication system, authorizing provision 
+of a particular service in any market segment will depend on the regulatory requirement for such service 
+in Sri Lanka and if such requirement does not exist Commission may reject any unsolicited application 
+without being processed. 
+2.6.10 If Commission so decides due to policy and/or regulatory requirement to issue Licence/Licences 
+through market-oriented methodology, public notice may be published in national newspapers to call 
+for applications from suitable Entities. In such case, Commission may reject any previous unsolicited 
+Application/Applications submitted to the Commission and inform them accordingly.
+2.6.11 Any interested party who wish to apply for a new Licence shall submit duly perfected S17-1-B 
+application. Commission will ensure that the application form is duly completed, and all details are in 
+
+<!-- page 16 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+16a
+order. A checklist attached to the application form has to be submitted by the applicant and submitted 
+along with the application. when commission receives the completed application form together with 
+the relevant documents and appropriate processing fee, the commission will refer the application for 
+clearance from the Ministry of Defence. If security clearance is not granted by the Ministry of Defence 
+the application will be rejected.
+2.6.12 If the Commission is of the opinion that the information provided by the applicant is insufficient to 
+support the application, further information may be sought, and the processing of the application may 
+be delayed.
+2.6.13 In such circumstances, the Commission will direct the applicant to furnish requested information within 
+four weeks of submission of the application. Failure to comply with this directive of the Commission 
+may result in the applicant to be disqualified from this licensing process.
+2.6.14  the commission will assess the application as per described evaluation    criteria in schedule1/ section-b  
+(2.7), after verification of the documents submitted to check the eligibility of the applicant for the 
+grant of Licence. the applicant at all times shall provide clear evidence in all aspects described in the 
+evaluation criteria.
+2.6.15 In addition to the application submitted, Commission may from time to time, during the evaluation, 
+request the applicant to submit additional documents to facilitate the evaluation. However, if the 
+applicant fails to submit the required documents within 30 days, the Applicant will be disqualified 
+from the Licensing process. Further the applicant may be required to conduct presentation for further 
+clarifications of their proposal.
+2.6.16 As per the evaluation criteria described in Schedule1/ Section-B (2.7), if   scores more than 50%, the 
+applicant will be eligible for the grant of Licence. 
+2.6.17 before recommending to the Minister for the grant of Licence, commission will publish information 
+about the applicant on national newspapers inviting public comments, within thirty days from the date 
+of publication with regard to issuance of Licence. a  draft of the proposed Licence will be made available 
+on Commission’s official web site in full to be viewed by the public. 
+2.6.18 The Commission will consider any representation or objection duly made in response to the public 
+notice.  If an objection or representation to the application was made, the Commission may initiate an 
+investigation depending on the type of complaint. The applicant may be required to submit evidence 
+during the investigation. If the Commission finds valid reasons, as a conclusion of the investigation for 
+not granting the Licence, the applicant would be informed of decision of the commission in writing.
+2.6.19 The applicant will be advised to pay the necessary Licence fee within thirty days if Commission does 
+not find valid reasons as conclusion of the investigation to justify the objections raised by the public. On 
+the receipt of licensing fee within the specified period, the Commission will recommend to the Minister 
+in charge of the subject to grant the Licence. the commission will publish the grant of the Licence on 
+its official web site. However, if the applicant fails to make the payment of Licence fee within specified 
+period, applicant will be disqualified and Licence will not be granted and process will be terminated.
+2.6.20 The Commission will publish details about the company during and the end of the licensing process. 
+Applicants should   submit confidential information in a separate cover indicating it clearly on the 
+documents as well. Applicants may be assured that all commercially sensitive information will remain 
+strictly confidential.
+2.6.21 Licensee shall be strictly required to get all other Licences/Approvals required for the operation 
+and provision of telecommunication service, before commencement of such operation of the 
+telecommunication system.
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+17a
+2.6.22 On submission of the Duly Perfected Application Form S17-1-B with all relevant details, the Applicant 
+is required to make a processing fee of Rs. 200,000 payables to the "Telecommunications Regulatory 
+Commission of Sri Lanka". This fee is non-refundable regardless of whether an Applicant is successful 
+or not in the licensing process. No application will be evaluated if relevant processing fee is not paid.
+2.6.23 The Authorized representative of the company who is signing the declaration should initial each page of 
+the application and project feasibility report. Submission of the application form and Project feasibility 
+report additionally in the electronic format would be recommended. 
+2.6.24 Three copies of the completed application form and Project feasibility report together with processing 
+fee should be submitted in an envelope clearly marked "Application for Telecommunication System 
+Licance (Service Based)" addressed to:
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+2.7 aPPLIcatION eV aLuatION crItera  FOr New  LIceNces (service based)
+2.7.1 The assessment of the application is based on the capabilities with regard to technical, financial, sales 
+& marketing, customer service & protection and organizational and managerial aspects for proper 
+operation of telecommunication system and provision of   telecommunication services. This evaluation 
+will be based on the feasibility report submitted with the S17-1-B Application Form.
+2.7.2 Applicant should score minimum amount specified in each aspect/segment below and total score shall 
+be more than 50 % to become eligible for grant of Licence.
+No. Evaluation Criteria  Marks Minimum 
+Required
+1 t echnical 30 15
+1.	 Network	Configuration
+2.	 Capacity	and	Speed	
+3.	 Billing	System
+4.	 CPE	standards
+2  Financial 30 15
+1.	 Capital	and	Funding	Sources
+2.	 Cash	Flow/Investment	Plan
+3.	 Discounted	Minimum	Payback
+4.	 Risk	Analysis
+3  sales and Marketing 15 5
+1.	 Expected	Subscriber	growth
+2.	 Sales	Plan
+3.	 Advertising	Plan
+4.	 Dealer	Network
+
+<!-- page 18 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+18a
+No. Evaluation Criteria  Marks Minimum 
+Required
+4  Customer Service & Protection 15 10
+1.	 CPE	type
+2.	 Maintenance	of	CPE
+3.	 Service	Level	Agreement
+4.	 Protection	against	Bankruptcy	(Insurance	etc)
+5.	 Assurance	of	end	to	end	QoS
+5   Organizational & Managerial 10 5
+1.	 Organizational	structure
+2.	 New	Employment
+3.	 Previous	Experience
+4.	 Strategic	Suppliers
+5.	 Staffing	and	Training
+2.8 aPPLIcatION FOrM
+Form s17-1-b
+eXPLaNat Ory  NOtes (FOrM s17-1-b)
+• Before completing this application form, applicants should read Schedule 01/Section B of Licensing 
+Guidelines and Procedures fully.
+• All applicants should complete the application form (S17-1-B).
+• The application must be completed fully in print or block capitals. If the requested information is not 
+applicable to the proposed telecommunications system, please write N/A.
+• Applicants should attach extra pages if given space is insufficient to provide the requested information. 
+The information on extra pages should be presented clearly and numbered in accordance with this form. 
+Any attached pages must be printed on A4-size papers.
+• Applicants should initial and date any correction or alteration made the application form.
+• Applicants are required to submit 3 copies of the application, including attachments and a Project feasibility 
+report in the format specified in the guideline to
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+19a
+          Form s17-1-b
+Application Form for issuance of Telecommunication System Licence (Service Based) under Section 17 
+of Sri Lanka Telecommunications Act, No. 25 of 1991 as amended
+1. CONTACT DETAILS OF THE APPLICANT: The authorized representative of the company (Applicant) shall 
+provide the following information:
+ 1.1. Full Name:
+ 1.2. date of birth:
+ 1.3. National Id Number/Passport Number:
+ 1.4. Citizenship:
+ 1.5. address (Permanent):      residence:
+ 1.6. Telephone Number: (Fixed):     Mobile:
+ 1.7. Fax Number:
+ 1.8. e-Mail address:
+  Please check the Boxes (Tick √)  
+           Board resolution for authorization to Applicant
+2. cOMP aNy  PrOFILe:
+ 2.1. Registered Name of the Company:
+ 2.2. Company Registration Number:
+ 2.3. date of Incorporation:
+ 2.4. registered address:
+ 2.5. Official Telephone Number of the Company:
+ 2.6. Fax Number:
+ 2.7. email address:
+ 2.8. Official Website of the Company:
+ 2.9.  detailed information on corporate and shareholding structure including relationship with holding or associated 
+companies clearly indicating the ownership:
+ 2.10. In case public company (including holding company) details of public listing:
+ 2.11. Name and contact details of the bank where business account is maintained:
+ 2.12. share capital (class of share, Number and Value of share in each class of shares)
+ 2.13. If listed in Colombo Stock Exchange provide details of class of shares:
+ 2.14. In case of partnership, provide details:
+ 2.15. Detailed composition of Board of Directors and key management team with qualification and career history 
+of Directors with details of individual shareholding if any (Resumes should be attached):
+ 2.16. List of activities contracted out to other agencies and consultants:
+ 2.17. List of Professional advisers of the Company: (Technical, Legal, Finance, Auditors).
+ 2.18. Details of Telecommunication system Licences (Local or Foreign), currently held by company or affiliate:
+ 2.19. Details of Revocation of such Licence or Refusal of application by authorized entity:
+Please Annex following:
+Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 and other proof 
+document in relation to above details provided
+3. sharehOLder detaILs:
+details of all shareholders should be submitted in following format. (For each shareholder separate details should 
+be provided)
+ a) Full Name:
+ b) date of birth:
+ c) National Id Number/Passport Number:
+
+<!-- page 20 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+20a
+ d) Citizenship:
+ e) address (Permanent):              residence:
+ f) Telephone Number: (Fixed):     Mobile:
+ g) Fax Number:
+ h) e-Mail address:
+ i) Percentage of shares:
+ j) date of shares issued:
+  (Share Certificates should be attached)
+ k) Details of companies previously owned which has gone into liquidation:
+ l) Details of any application for Telecommunication Licence submitted by previously owned company which 
+was refused by an authorized entity in any Country:
+ m) Details of any Telecommunication Licence possessed by any previously owned company which is revoked 
+by an authorized entity in any Country:
+ n) Any other business interests:
+4. PrOJect  FeasIbILIty  rePOrt
+A comprehensive project feasibility report shall be submitted with this application. Report should include 
+the Technical, Financial, Sales & Marketing, Customer Service & protection, Organizational and Managerial 
+Capabilities and Skills of the applicant’s company to establish, operate and maintain the telecommunication 
+system to acceptable standards and provide service to an acceptable quality of Service for which Licence is 
+being applied. The feasibility report shall be prepared as per instructions given in Section 2.9 of the Licensing 
+Guideline.   The information provided in the Project feasibility report will be taken into account when application 
+is evaluated.
+ 5. decLaratION
+I ………………………………………………… hereby certify that the information provided in this application 
+form and anything of that sort in the feasibility report are true & correct in all respects. I hereby give undertaking 
+that upon grant of the Licence, I shall abide by the provisions of Sri Lanka Telecommunications Act No. 25 of 
+1991 as amended by Act No. 27 of 1996, any Rules, Orders, Determinations, made by Commission thereunder 
+and all provisions and terms and conditions of the Licence. I have no objection for the revocation of Licence 
+if found that Licence has been issued based on incorrect information and also in violation of any of conditions 
+illustrated in the revocation section of the Licence.
+Signature of Authorized Representative of the Company: ……………………….
+date:……………… 
+Application Checklist
+(a) Application Requirements:
+ 1. Is the application-processing fee of rs.200, 000 included? Yes/ No
+ 2. Are Section 1, 2, 3 ,4, & 5 of the Application completed as appropriate? Yes/ No
+ 3. Has Project feasibility report as described in item 4 of the Application been submitted? Yes/ No
+ 4. Has the declaration in Section 5 been signed by Authorized representative of the Company? Yes/ No
+ 5. Have 3 copies of the application been submitted, including attachments and Project feasibility report? Yes/ No 
+ 6. A copy of National Identity Card/ relevant pages of the Passport of the Authorized representative of the 
+Company. Yes/ No
+ 7. A copy of Board Resolution to appoint the Authorized representative to submit application: Yes/ No
+ 8. Submission of Company Documents: Yes/No 
+  Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 Other relevant forms 
+submitted.
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+21a
+ 9. Copies of National Identity Cards/ relevant pages of the Passports, Resumes of the Chief Executive Officer, 
+directors and shareholders and other relevant documents to their conduct.  Yes/ No
+ 10. Copies of share certificates & other relevant documents. Yes/ No
+2.9 GuIdeLINes FOr PreP aratION OF PrOJect  FeasIbILIty  rePOrt  (service based)
+This Section includes the Guidelines for the preparation of Technical Feasibility Report required under Section 4 
+of application Form s17-1-b.
+t his report should consist of separate detailed chapters for t echnical, Financial, sales Marketing, c ustomer services 
+& protection of the project and the Managerial Structure proposed to implement, operate and provide requested 
+telecommunication services.
+2.9.1 techNIcaL PrOPOsaL
+2.9.1.1 Telecommunication System Network Details
+a)  detailed Network diagram including core/backbone (including locations of switches), 
+Backhaul(Routes), Access/OLP, all Points of Presence, Interconnection Points including Gateway 
+and any other components falling within the telecommunication system definition including Details 
+and type of agreements with the all Facility Based Operators(FBO) who provides each  network 
+components in the system. Letters of consents and retail/wholesale tariff agreed for provision of 
+facilities should be explained. 
+b) Specify achievable speeds and capacity along with the network diagram with confirmation from 
+the Facility Based Operator (FBO).
+c) Proposed Billing System, Billing standards followed and Measures to prove the Billing System 
+Accuracy.
+d) Technical Specification of all Terminal Apparatus (Customer Premises Equipment) to be used with 
+the network described in 2.9.1.1 should be given. Further, details of operation, available Interfaces, 
+and capabilities should be described.  cost of the apparatus Manufactures and Price for the customer 
+also should be specified.
+Any Telecommunication Apparatus other than terminal apparatus to be connected to system with 
+proper justification.
+e) Details of  Network Management and policies to be adopted to optimize overall network efficiencies.
+f) Expected date of commencement of operations, implementation schedule and growth plan.
+      2.9.1.2. Description of the Proposed Services
+a) detailed description of each of the proposed service / Market segment:
+b) Cross Elasticity analysis with exiting Services already in operation and anticipated industry impacts:
+c) Possibility of Account Separation (If more than 1 service):
+d) Quality of Services Parameters with regard to Service Availability, Accessibility, Retainability and 
+Integrity:
+e) Proposed service Level agreement (sLa) for the customer:
+ 
+f) t arget customer base:
+
+<!-- page 22 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+22a
+g) Measures to be adopted for provision of Universal Service obligation and Emergency Service:
+h) Details of directory information services offered to the public (where appropriate):
+               
+          2.9.2 FINaNcIaL PrOPOsaL
+2.9.2.1 Proposed Capital and Funding Plans
+details of the proposed capital and funding plans for the operation, including:
+a) A comprehensive description of its proposed Capital structure including owners’ equity and liabilities. 
+Initial debt equity ratio should be maintained below 2.0. 
+b) Sources of funding and the amounts from each source (Owners’ equity, Loan, Sale of company 
+shares, debentures etc ).
+c) t iming of funding.
+d) Provisions made for contingent sources of funds.
+e) Repayment terms and schedule for loans and debentures.
+f) Capital and Operational expenditure (Cap Ex and Op Ex) forecast on a quarterly basis for the 
+discounted payback period of the project.
+g) Past performance of the company with regards to items (a) to (f) above (if applicable).
+ The applicant should submit relevant documentary evidence such as letters of intent, guarantor letters 
+to substantiate the business, financial and funding plans and credit facilities.
+2.9.2.2 Proposed Financial and Investment Plan
+Details of the proposed financial plan for next 10 years and the discounted payback period should be 
+less than 10 years:
+a) Projected profit and loss accounts, balance sheets and cash flow statements. The profit and loss 
+accounts, balance sheets and cash flow statements should be prepared in accordance with the Sri 
+Lanka accounting standards. all assumptions made such as asset depreciation policies, subscriber 
+projections, annual variations in operating expenditure etc. should be clearly explained.
+b) Forecasts of the relevant financial metrics including, Cash Flow, Internal Rate of Return (IRR), 
+Discounted Payback Period of the investment. Further, Net Present Value (NPV) details should be 
+indicated. Anticipated time frame should be clearly indicated for the project to be profitable.
+c) Projected financial ratios including return on capital employed, Return on Assets, Operating Profit 
+Margin, Net Profit Margin, Capital Investment Ratio, Current Ratio, and Debt-Equity ratio. The 
+formula used in computing each ratio should also be provided.
+d) Past performance of the company with regards to items (a) to (c) above (if applicable).
+e) Risk Analysis/Control & Limits and strategies:   
+1. Market risks
+2. Liquidation Risk
+3. Insolvency Risk
+        
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+23a
+2.9.3 saLes aNd MarKetING
+(a) Expected subscriber growth in each geographical area and strategies employed for acquisition and 
+brief description of tariff requirement.
+(b) a  comprehensive sales plan of the services including main target of the markets (e.g. wholesale 
+or retail, residential or business) including vertical segments of the business and Marketing 
+Methodologies employed. The Expenses and description of the forecasted annual sales budget should 
+be described.
+(c) description of dealer Network and agreements including areas of operation (dealer agreement 
+should be attached) (if available)
+(d) Description of any part of such operation outsourced to third parties.
+(e) Other trading activities of the Company in and outside the telecommunications market and 
+arrangements made to ensure no cross-subsidization between parties.
+*  wholesale and retail activities.
+*  t elecommunication and non-telecommunication activities.
+*  Telecommunication equipment production or supply.
+*  Other telecommunication activities.
+2.9.4. CUSTOMER SERVICE & PROTECTION
+a) details of cPe provided to customer:
+b) Maintenance of cPe:
+c) Service Level Agreement Details with customers (Attach a copy):
+d) Complaint Handling Methodology/ Minimum Fault Clearance Time:
+e) Customer Protection against bankruptcy (Insurance cover etc):
+f) Quality of Service Complaints handling:
+g) Assurance of Billing accuracy:
+h) Transparency in terms and conditions and tariff of service:
+2.9.5 OrGaNIZatIONaL MaNaGeMeNt
+2.9.5.1 Proposed Organizational Structure
+a) Organizational structure of the company, description of each division including staffing and training. 
+b) Number of new employments generated yearly in Technical, Sales & Marketing, Finance, Legal & 
+other in Senior, Middle and Junior Levels for next 5 years.
+c) Brief resumes of the proposed senior management team members, at least giving educational & 
+professional qualifications and career history for the past ten years.
+d) Specific experience of senior management team members relevant to establishing and managing the 
+telecomm unication network applied. 
+ 2.10.  decLaratION
+The Applicant will be required to sign a declaration in the Application form S17-1-B, confirming the accuracy of 
+the information furnished therein and such sort of information declared herein in the feasibility Report submitted 
+along with the application Form. 
+
+<!-- page 24 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+24a
+      03. SCHEDULE 2 
+sectION a: reNewaL OF F acILIty  based OPerat Or LIceNces
+ 3.1.  The Guidelines for the Renewal of Facility based operator Licences issued under Sri Lanka Telecommunications 
+Act No. 25 of 1991 as amended
+      
+ 3.1.1 schedule 2/section a  provides guidance and information for the t elecommunications Operators who 
+wish to apply for renewal of Facility Based Operator Licence issued under Section 17 of the Sri Lanka 
+Telecommunications Act, No. 25 of 1991, as amended, to operate a Telecommunications system and 
+provide a telecommunication service(s).
+ 3.1.2 The application for renewal should be submitted to TRCSL nine months before expiry of License. If 
+application is not submitted nine months before the expiry, Commission may not renew the Licence. A 
+duly perfected Application, as stipulated in Form S17-2-A should be submitted along with all required 
+documents with the checklist. The Development Plan for the next five-year period should be submitted 
+as stipulated in item 8 in Form S17-2-A in detail if requested.
+ 3.1.3 Operator will be informed to pay an Application processing fee of Rs 200,000/= payable to the 
+"Telecommunications Regulatory Commission of Sri Lanka", on submission of the Duly Perfected 
+application Form s17-2-a  with all relevant details in order. the processing fee is non-refundable regardless 
+of whether an applicant is successful or not in the licensing process.
+ 3.1.4 The Authorized representative of the company who is signing the declaration should initial each page of 
+the application and all relevant documents. submission of the application form and relevant documents 
+additionally in the electronic format would be recommended. No application will be considered until the 
+processing fee is paid.
+ 3.1.5 copies of the completed application form together with processing fee should be submitted in an envelope 
+clearly marked as "Application for Telecommunication System Renewal" addressed to:
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No. 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+ 3.1.6 Additional documents, if required has to be submitted within 14 days from the date of acknowledgement 
+to submit such document.
+ 3.1.7 Also, a presentation may be requested for the clarification of information submitted in any aspects.
+ 3.1.8 Operator will not be eligible for renewal of Licence under following circumstances
+a) If any amount payable is unpaid and remains unpaid for a period of 14 days after the Commission 
+notifies the Operator that the payment is overdue.
+b) If the Operator fails to comply with an order of the Commission under the Act and that order is not 
+subject to appeal proceedings. 
+c) If the operator fails to comply with any rule or regulation for the time being in force under the Act, for 
+more than  14 days after being informed by Commission of such violation.
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+25a
+d) If actions of the Operator are likely to have an adverse impact on the national security.
+e) If the Operator sells, leases or transfers the ownership of the Company, to whom the Telecommunication 
+system Licence has been issued, partly or fully to any person/entity during the validity period of the 
+Licence without prior approval of the commission.
+f)  If it is found that the issue of the Licence had been based on inaccurate or incorrect information provided 
+by the Operator.
+g) If operator has not commenced services during the period of previous Licence.
+h) If operator was not able to provide services to Customers after commencement of service continuously 
+for more than 7 days or more than 5 times within a year of service unavailability greater than one day.
+i) If operator fails to comply with any directive of the Commission for more than three months after 
+notification by Commission of such failure in writing.
+j) If operator fails to obtain any other Licence required for the operation of Licensed system.
+k) In case of multiple service authorization Licence category, operator will not be eligible for renewal of 
+a particular service authorization, whichever not commenced at the time of renewal or discontinued 
+for more than 2 months.
+3.1.9 If found ineligible as per 3.1.8 above, the Operator will be informed in writing. Within a period of 14 days 
+from the date of such acknowledgement of ineligibility, Operator can make an appeal to the Commission 
+with all relevant proofs for not being guilty of such failure. Commission reserves the right of the final 
+decision of renewal in such case.
+3.1.10 If the operator is found to be eligible, commission will make decision to recommend to the Minister for 
+the renewal of licence. Commission may also approve any development plan submitted by the operator 
+or  Commission may set Targets on any other criteria Commissions deems suitable for the next five year 
+period or part of it, if required.  However, Commission reserves the right to set any number of such targets 
+at any time deems required by the commission during the validity period of licence, in order to develop 
+telecommunication services in the country.
+3.1.11 In case of such Targets or development plan specified by the Commission for implementation as stipulated 
+in 3.1.10, it will be informed to the operator in writing by the Commission for which the operator shall send 
+the Agreement/Declaration within a period of 14 days. A performance bond in form of a Bank Guarantee 
+may be required as per terms and conditions set by the Commission if the operator has not met such targets 
+given in previous occasions and/or during Licence period.
+ 
+3.1.12 Operator will be required to pay the Licence Fee and payment to be made within a period of   30 days from 
+the date of the invoice. If payment is not made during the stipulated time, operator will be found disqualified 
+and renewal process will be terminated. 
+3.1.13 On payment of fee within a specified period, the Commission will recommend to the Minister in charge of 
+the subject to grant the License. Further, Commission will publish the Licence on its official web site for 
+information of the public after granting.
+3.1.14 The Commission will publish details about the company during and the  final stage of the renewal process 
+except confidential and commercially sensitive information. Applicants are kindly requested to submit such 
+confidential information in a separate cover indicating it clearly.
+
+<!-- page 26 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+26a
+3.1.15 However, Licensee shall strictly be required to get all other Licences/Approvals required for the provision 
+of t elecommunication service.
+3.2 aPPLIcatION FOrM
+Form s17-2-a
+ eXPLaNat Ory  NOtes (FOrM s17-2-a)
+• Before completing this application form, applicants should read Schedule 02 Licensing Guidelines fully.
+• All applicants should complete the application form (S17-2-A).
+• The application must be completed fully in print or block capitals. If the requested information is not 
+applicable to the proposed telecommunications system, please write N/A.
+• Applicants should attach extra pages if given space is insufficient to provide the requested information. The 
+information on extra pages should be presented clearly and numbered in accordance with this form. Any 
+attached pages must be printed on A4-size papers.
+• Applicants should initial and date any correction or alteration made the application form.
+• Applicants are required to submit 3 copies of the application, including attachments and a Project feasibility 
+report in the format specified in the guideline to
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No. 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+Application Form for Renewal of Facility Based Telecommunication System Licence under Section 17 of Sri Lanka 
+Telecommunications Act No. 25 of 1991 as Amended
+1 CONTACT DETAILS OF THE APPLICANT: The authorized representative of the company (Applicant) shall 
+provide the following information:
+ 1.1. Full Name:
+ 1.2. date of birth:
+ 1.3. National Id Number/Passport Number:
+ 1.4. Citizenship:
+ 1.5. address (Permanent):     residence:
+ 1.6. Telephone Number:   (Fixed):    Mobile:
+ 1.7. Fax Number:
+ 1.8. e-Mail address:
+  Please check the Boxes (Tick √)  
+       Board resolution for authorization to Applicant
+2. cOMP aNy  PrOFILe:
+ 2.1. Registered Name of the Company:
+ 2.2. Company Registration Number:
+ 2.3. date of Incorporation:
+ 2.4. registered address:
+ 2.5. Official Telephone Number of the Company:
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+27a
+ 2.6. Fax Number:
+ 2.7. email address:
+ 2.8. Official Website of the Company:
+ 2.9.  detailed information on corporate and shareholding structure including relationship with holding or 
+associated companies clearly indicating the ownership:
+ 2.10. In case public company (including holding company) details of public listing:
+ 2.11. Name and contact details of the bank where business account is maintained:
+ 2.12. share capital (class of share, Number and Value of share in each class of shares)
+ 2.13. If listed in Colombo Stock Exchange provide details of class of shares:
+ 2.14. In case of partnership, provide details:
+ 2.15. Detailed composition of Board of Directors and key management team with qualification and career history 
+of Directors with details of individual shareholding if any (Resumes should be attached):
+ 2.16. List of activities contracted out to other agencies and consultants:
+ 2.17. List of Professional advisers of the Company: (Technical, Legal, Finance, Auditors)
+ 2.18. Details of Telecommunication system Licences (Local or Foreign), currently held  by company or affiliate:
+ 2.19. Details of Revocation of such Licence or Refusal of application by authorized entity:
+  Please Annex following:
+  Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 and other proof 
+document in relation to above details provided
+3 sharehOLder detaILs:
+details of all shareholders should be submitted in following format.
+ 3.1. Full Name:
+ 3.2. date of birth:
+ 3.3. National Id Number/Passport Number:
+ 3.4. Citizenship:
+ 3.5. address (Permanent):             residence:
+ 3.6. Telephone Number:   (Fixed):    Mobile:
+ 3.7. Fax Number:
+ 3.8. e-Mail address:
+ 3.9. Percentage of shares:
+ 3.10. date of shares issued:
+  (Share Certificates should be attached)
+ 3.11. Details of companies previously owned which has gone into liquidation:
+ 3.12. Details of any application for Telecommunication Licence submitted by previously owned company which 
+was refused by an authorized entity in any Country:
+ 3.13. Details of any Telecommunication Licence possessed by any previously owned company which is revoked 
+by an authorized entity in any Country:
+ 3.14. Any other business interests:
+ 3.15. did shareholder structure/details change during the period of previous Licence: (Yes/No)
+ 3.16. If ‘Yes’ Detailed description of the Reason for Change of Shareholders with proper justification:
+ 3.17. Did any changes occur in the Organization structure during the period of previous Licence: (Yes/No)
+ 3.18. If ‘Yes’ please give detailed description of the current and previous organizational structure with justification:
+ 3.19. Had there been any changes in the Director Board during the period of previous Licence: (Yes/No)
+ 3.20. If ‘Yes’ please give detailed description of current and previous Directors (Brief Resumes)  :
+ 3.21. Detailed description of all type of services provided (including horizontal and verticals) as per Licence:
+ 3.22. Have separate accounts been maintained for all type of services described in 4.1: (Yes/No)
+ 3.23. If ‘No’ indicate the reasons:
+
+<!-- page 28 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+28a
+4 aNaL ysIs OF P ast  PerFOrMaNce OF the cOMP aNy :
+4.1 Please describe   the status and performance of the authorized services of previous Licence:
+No. Service 
+Authorized
+Date of 
+Commencement
+Coverage Area
+(Indicate PoP in each 
+district & a Map)
+No. of Subscribers
+4.2  Please submit graphical representation of following matrices with figures with  justification for last five Years 
+for each service.
+a) sales revenue
+b) cost of sales
+c) Gross profits
+d) Net profits
+e) ebItda
+f) assets
+g) Liabilities
+h) Owners’ Equity
+i) current ratio
+j) Debt/Equity Ratio
+k) return on assets
+l) Monthly subscription growth
+m) churn rate with reasons
+n) Growth of Minutes of usage
+o) Growth of arPu
+4.3. Identified Risks and Limits and Controls strategies employed:
+4.3.1. Market risks
+4.3.2. Liquidation Risks
+4.3.3. Insolvency Risk
+4.4. Analysis of economic efficiency of the company during Licence period:
+4.4.1. Allocative Efficiency 
+4.4.2. Dynamic Efficiency
+4.4.3. x-Efficiency
+4.4.4. Productive Efficiency
+4.5. Internal performance analysis (Ansof, Boston Box or any Better Method):
+4.5.1. External performance Analysis (PESTLE, Porters 5 Forces, 8KF analysis or better method) 
+ 4.5.2. Are there any agreements with 3rd Parties with regard to the operation and provision of service (Yes/No)
+4.5.3.  If ‘Yes’ Please submit copies of all such agreements:
+5. PrOJected PerFOrMaNce OF the cOMP aNy  FOr the NeXt  PerIOd OF  LIceNce
+5.1  General
+a) Any Expansion/Diversification of the Business with proper justification? Yes/No
+b) If ‘Yes’ Please give detailed expansion plan:
+c) Depreciation and Amortization of Assets and Plans for Replacements  & Improvements:
+5.2.  Risks in Proposed Business & strategies proposed
+a) Market
+b) Liquidity
+c) Insolvency
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+29a
+5.3. Following details should be submitted for next 5/10 years with proof of funding and the discounted 
+payback period should be less than 5/10 years (if applicable):
+a) Investment and sources of Funding
+b) Contingency Funding Plans:
+c) Debt /Equity Ratio at the commencement of next licence period:
+d) Details of the proposed financial plan 
+a) Projected profit and loss accounts, balance sheets and cash flow statements. The profit and loss 
+accounts, balance sheets and cash flow statements should be prepared in accordance with the Sri 
+Lanka accounting standards. all assumptions made such as asset depreciation policies, subscriber 
+projections, annual variations in operating expenditure etc. should be clearly explained.
+b) Forecasts of the relevant financial metrics including, Cash Flow, Internal Rate of Return (IRR) , 
+Discounted Payback Period of the investment. Further, Net Present Value (NPV) details should 
+be indicated. Anticipated time frame should be clearly indicated for the project to be profitable 
+(if applicable).
+c) Projected financial ratios including return on capital employed, Return on Assets, Operating Profit 
+Margin, Net Profit Margin, Capital Investment Ratio, Current Ratio, and Debt-Equity ratio. The 
+formula used in computing each ratio should also be provided.
+6. PROPOSED IMPROVEMENTS OF CUSTOMER SERVICE & PROTECTION
+a) details of cPe provided to customer:
+b) Maintenance of cPe:
+c) service Level agreement details with customers:
+d) Complaint Handling Methodology/ Minimum Fault Clearance Time:
+e) Customer Protection against bankruptcy (Insurance cover etc):
+f) Quality of Service Complaints handling:
+g) Assurance of Billing accuracy:
+h) Transparency in terms conditions and tariff of service:
+7. PreVIOus tarGets
+Submit the yearly targets achieved during previous Licence period in following format (not limited) with respect to 
+coverage, capacity and investment for each service authorized as applicable.
+t argets (Previous)-service
+Year Name 
+of the 
+District 
+No. of 
+PoP 
+Coordinates 
+of PoP 
+Capacity  Used 
+Technology 
+Investment 
+Made
+Service Population 
+Coverage 
+Total active 
+Subscription 
+ 
+Unique active 
+Subscription  
+Churn 
+Rate
+          
+         
+      
+Applicant shall have to provide coverage Maps (Soft Copy) with the information mentioned according   to the 
+information provided on the above table.
+8. PrOPOsed tarGets FOr the NeXt  PerIOd 
+Submit the yearly proposed targets to achieve during next Licence period in following format (not limited) with respect to 
+coverage, capacity and investment or any preferential requirement for each service authorized as applicable. Commission 
+may decide the final Rollout targets and the Assurance required.
+
+<!-- page 30 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+30a
+t argets (Proposed)-service
+Year Name 
+of the 
+District 
+No. of 
+PoP 
+Coordinates 
+of PoP 
+Capacity  Used 
+Technology 
+Investment 
+Made
+Service Population 
+Coverage 
+Total active 
+Subscription 
+ 
+Unique active 
+Subscription 
+ 
+Churn 
+Rate
+          
+         
+      
+Applicant shall have to provide coverage Maps (Soft Copy) with the information mentioned according   to the 
+information provided on the above table.
+9. detaILed eXIstING NetwOrK dIaGraM: 
+           a  separate report should be submitted containing the following. 
+a) detailed Network diagram including core/backbone (including locations of switches), backhaul (routes), 
+Access/OLP, all Points of Presence, Interconnection Points and any other components falling within the 
+telecommunication system definition.
+b) Specify achieved speeds and capacity along with the network diagram in each segment and should indicate all 
+the technologies with justification used in each segment with relevant transmission media. Details of contention 
+ratios in relevant segments.
+c) description of Network t echnical standards complied in each segment of the Network including installation 
+standards.
+d) Billing System, Billing standards followed and Measures to prove the Billing System Accuracy.
+e) Detailed map of Geographic Network Coverage and yearly expansion plan for next five years.
+f) Any infrastructure leased/hired/rented from third parties in provision of services.
+g) Any infrastructure leased/hired/rented to third parties.
+10. decLaratION
+I ……………………………………………………hereby certify that the information provided in this application 
+form and anything of that sort in the feasibility report are true & correct in all respects. I hereby give undertaking 
+that upon grant of the Licence, I shall abide by the provisions of Sri Lanka Telecommunication Act No. 25 of 1991 
+as amended by Act No. 27 of 1996, any Rules, Orders, Determinations, made by Commission thereunder and all 
+provisions and terms and conditions of the Licence. I have no objection for the revocation of Licence if found that 
+Licence has been issued based on incorrect information and also in violation of any of conditions illustrated in the 
+revocation section of the Licence.
+Signature of Authorized Representative of the Company: ……………………….
+date:………………
+
+<!-- page 31 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+31a
+SCHEDULE 2 
+sectION b: reNewaL OF ser VIce based OPerat Or LIceNces
+3.3 The Guidelines for the Renewal of Service Based Operator Licenses issued under Sri Lanka  Telecommunications 
+Act No. 25 of 1991 as amended
+ 3.3.1 This section provides guidance and information for the Telecommunications Operators who wish to apply for 
+renewal of service based Operator Licence issued under section 17 of the sri Lanka t elecommunications 
+Act, No. 25 of 1991, as amended, to operate a Telecommunications system and provide a telecommunication 
+service.
+ 3.3.2 The Renewal application should be submitted to TRCSL nine months before expiry of License. A duly 
+perfected Application, as stipulated in Form S17-2-B should be submitted along with all required documents 
+with the checklist.
+ 3.3.3 Operator will be informed to pay an Application processing fee of Rs 200,000/= payable to the 
+Telecommunications Regulatory Commission of Sri Lanka, on submission of the Duly perfected Application 
+Form s17-2- b  with all relevant details in order. t he processing fee is non-refundable regardless of whether 
+an applicant is successful or not in the licensing process.
+ 3.3.4 The Authorized representative of the company who is signing the declaration should initial each page 
+of the application and all relevant documents. Submission of the application form and any other report/
+document additionally in the electronic format would be recommended. No application will be considered 
+until the processing fee is paid.
+ 3.3.5 Copies of the completed application form and any other additional report/document together with processing 
+fee should be submitted in an envelope clearly marked as ‘Application for renewal of telecommunication 
+system Licence’ addressed to:
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+ 3.3.6 Additional documents, if required has to be submitted within 14 days from the date of acknowledgement 
+to submit such document.
+ 3.3.7 Also, a presentation may be requested for the clarification of information  submitted in any aspects.
+ 3.3.8 Operator will not be eligible for renewal of Licence under following circumstances.
+a) If any amount payable is unpaid and remains unpaid for a period of 14 days after the Commission 
+notifies the Operator that the payment is overdue.
+b) If the Operator fails to comply with an order of the Commission under the Act, and that order is 
+not subject to appeal proceedings.
+c) If the operator fails to comply with any rule or regulation for the time being in force under the 
+Act ,for more than 14 days after being informed by the Commission of such violations.
+d) If actions of the Operator are likely to have an adverse impact on the national security.
+
+<!-- page 32 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+32a
+e) If the Operator sells, leases or transfers the ownership of the Company,to whom the 
+Telecommunication system Licence has been issued, partly or fully to any person/entity during 
+the validity period of the Licence without prior approval of the Commission.
+f) If it is found that the issue of the Licence had been based on inaccurate or incorrect information 
+provided by the Operator.
+g) If operator has not commenced services during the period of previous Licence.
+h)  If operator was not able to provide services to customers after commencement of service 
+continuously for more than 7 days or more than 5 times within a year of service unavailability 
+greater than one day.
+i) If operator fails to comply with any directive of the Commission for more than three months 
+after notification by Commission of such failure in writing.
+j) If operator fails to obtain any other Licence required for the operation of Licensed system.
+k) In case of multiple service authorization Licence category, operator will not be eligible for 
+renewal of a particular service authorization, whichever not commenced at the time of renewal 
+or discontinued for more than 2 months.
+ 3.3.9 If found ineligible as per 3.3.8 above, the Operator will be informed in writing. Within a period of 14 days 
+from the date of such acknowledgement of ineligibility, Operator can make an appeal to the Commission 
+with all relevant proofs for not being guilty of such failure. Commission reserves the right of the final 
+decision of renewal in such case.
+ 3.3.10  If the operator is found to be eligible, commission will make decision to recommend to the Minister for the 
+renewal of licence. however commission reserves the right to set targets/development plan either at the 
+time of renewal, or at any time during the validity period of licence under special regulatory circumstances.
+ 
+ 3.3.11 Operator will be required to pay the Licence Fee and payment to be made within a period of   30 days 
+from the date of the invoice. If payment is not made during the stipulated time, operator will be found 
+disqualified and renewal process will be terminated. 
+ 3.3.12 On payment of fee within a prescribed period, the Commission will recommend to the Minister in charge 
+of the subject to grant the License. Further, Commission will publish the Licence on its official web site 
+for information of the public after granting.
+ 3.3.13 The Commission will publish details about the company during and the final stage of the renewal process 
+except confidential and commercially sensitive information. Applicants are kindly requested to submit 
+such confidential information in a separate cover indicating it clearly.
+ 3.3.14 However, Licensee shall strictly be required to get all other Licences/Approvals required for the provision 
+of t elecommunication service.
+
+<!-- page 33 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+33a
+3.4 aPPLIcatION FOrM
+Form s17-2-b
+eXPLaNat Ory  NOtes (FOrM s17-2-b)
+• Before completing this application form, applicants should read Schedule 02 Licensing Guidelines fully.
+• All applicants should complete the application form (S17-2-B).
+• The application must be completed fully in print or block capitals. If the requested information is not applicable 
+to the proposed telecommunications system, please write N/A.
+• Applicants should attach extra pages if given space is insufficient to provide the requested information. The 
+information on extra pages should be presented clearly and numbered in accordance with this form. Any attached 
+pages must be printed on A4-size papers.
+• Applicants should initial and date any correction or alteration made the application form.
+• Applicants are required to submit 3 copies of the application, including attachments and a Project feasibility 
+report in the format specified in the guideline to
+the director General,
+Telecommunications Regulatory Commission of Sri Lanka,
+No 276, elvitigala Mawatha, colombo 08.
+t el:  +94-112689345
+Fax:  +94-112689341
+e-mail: dgtsl@trc.gov.lk
+Application Form for Renewal of Telecommunication System Licence (Service Based) under Section 17 
+of Sri Lanka Telecommunications Act No. 25 of 1991 as Amended
+1. CONTACT DETAILS OF THE APPLICANT: The authorized representative of the company (Applicant) shall 
+provide the following information:
+ 1.1. Full Name:
+ 1.2. date of birth:
+ 1.3. National Id Number/Passport Number:
+ 1.4. Citizenship:
+ 1.5. address (Permanent):     residence:
+ 1.6. Telephone Number:   (Fixed):     Mobile:
+ 1.7. Fax Number:
+ 1.8. e-Mail address:
+  Please check the Boxes (Tick √)  
+        Board resolution for authorization to Applicant
+2. cOMP aNy  PrOFILe:
+ 2.1. Registered Name of the Company:
+ 2.2. Company Registration Number:
+ 2.3. date of Incorporation:
+ 2.4. registered address:
+ 2.5. Official Telephone Number of the Company:
+ 2.6. Fax Number:
+ 2.7. email address:
+
+<!-- page 34 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+34a
+ 2.8. Official Website of the Company:
+ 2.9.  detailed information on corporate and shareholding structure including relationship with holding or 
+associated companies clearly indicating the ownership:
+ 2.10. In case public company (including holding company) details of public listing:
+ 2.11. Name and contact details of the bank where business account is maintained:
+ 2.12. share capital (class of share, Number and Value of share in each class of shares)
+ 2.13. If listed in Colombo Stock Exchange provide details of class of shares:
+ 2.14. In case of partnership, provide details:
+ 2.15. Detailed composition of Board of Directors and key management team with qualification and career history 
+of Directors with details of individual shareholding if any (Resumes should be attached):
+ 2.16. List of activities contracted out to other agencies and consultants:
+ 2.17. List of Professional advisers of the Company: (Technical, Legal, Finance, Auditors)
+ 2.18. Details of Telecommunication system Licenses (Local or Foreign), currently held by company or affiliate:
+ 2.19. Details of Revocation of such Licence or Refusal of application by authorized entity:
+  Please Annex following:
+  Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 and other proof 
+document in relation to above details provided
+3. sharehOLder detaILs:
+details of all shareholders should be submitted in following format.
+ 3.1. Full Name:
+ 3.2. date of birth:
+ 3.3. National Id Number/Passport Number:
+ 3.4. Citizenship:
+ 3.5. address (Permanent):                           residence:
+ 3.6. Telephone Number:  (Fixed):     Mobile:
+ 3.7. Fax Number:
+ 3.8. e-Mail address:
+ 3.9. Percentage of shares:
+ 3.10. date of shares issued:
+  (Share Certificates should be attached)
+ 3.11. Details of companies previously owned which has gone into liquidation:
+ 3.12. Details of any application for Telecommunication Licence submitted by previously owned company which 
+was refused by an authorized entity in any Country: 
+ 3.13. Details of any Telecommunication Licence possessed by any previously owned company which is revoked 
+by an authorized entity in any Country:
+ 3.14. Any other business interests:
+ 3.15.  did shareholder structure/details change during the period of previous Licence: (Yes/No)
+ 3.16.  If ‘Yes’ Detailed description of the Reason for Change of Shareholders with proper \  justification:
+ 3.17.   Did any changes occur in the Organization structure during the period of previous Licence: (Yes/No)
+ 3.18.  If ‘Yes’ please give detailed description of the current and previous organizational structure with 
+justification:
+ 3.19.  Had there been any changes in the Director Board during the period of previous Licence: (Yes/No)
+ 3.20.  If ‘Yes’ please give detailed description of current and previous Directors (Brief Resumes):
+ 3.21.  Detailed description of all type of services provided (including horizontal and verticals) as per Licence:
+ 3.22.   Have separate accounts been maintained for all type of services described in 7: (Yes/No)
+ 3.23.   If ‘No’ indicate the reasons:
+
+<!-- page 35 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+35a
+4. aNaL ysIs OF P ast  PerFOrMaNce OF the cOMP aNy :
+ 4.1.  Please describe   the status and performance of the authorized services of previous Licence:
+No. Service 
+Authorized
+Date of 
+Commencement
+Coverage Area
+(Indicate Pop in each 
+district & a Map)
+No. of Subscribers
+ 4.2.  Please submit graphical representation of following matrices with figures with justification for last five 
+years for each service.
+a) sales revenue
+b) cost of sales
+c) Gross profits
+d) Net profits
+e) ebItda
+f) assets
+g) Liabilities
+h) Owners’ Equity
+i) current ratio
+j) Debt/Equity Ratio
+k) return on assets
+l) Monthly subscription growth
+m) churn rate with reasons
+n) Growth of Minutes of usage
+o) Growth of arPu
+4.3. Identified Risks and Limits and Controls strategies employed
+  4.3.1. Market risks
+  4.3.2. Liquidation Risks
+  4.3.3. Insolvency RiskS
+ 4.4. Are there any agreements with 3rd Parties with regard to the operation and provision of service (Yes/No)
+ 4.5. If ‘Yes’ Please submit copies of all such agreements:
+5. PrOJected PerFOrMaNce OF the cOMP aNy  FOr the NeXt  PerIOd OF LIceNce
+ 5.1. Explain in detail the roll out plans/targets for next period of Licence.
+ 5.2. Any Expansion/Diversification of the Business with proper justification? Yes/No
+ 5.3.  If ‘Yes’ Please give detailed expansion plan.
+ 5.4.  Please explain the target performances for the next period in details comparing past evaluation matrices.
+ 5.5.  Depreciation and Amortization of Assets and Plans for Replacements & Improvements (if applicable):
+ 5.6.  Risks in Proposed Business & strategies proposed
+a) Market
+b) Liquidity
+c) Insolvency
+ 5.7.  Following details should be submitted for next 10 years with proof of funding and  the discounted payback 
+period should be less than 10 years (if applicable):
+  a) Investment and sources of Funding.
+b) Contingency Funding Plans.
+c) Debt /Equity Ratio at the commencement of next licence period.
+d) Details of the proposed financial plan. 
+
+<!-- page 36 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+36a
+i) Projected profit and loss accounts, balance sheets and cash flow statements. The profit and 
+loss accounts, balance sheets and cash flow statements should be prepared in accordance 
+with the sri Lanka accounting standards. all assumptions made such as asset depreciation 
+policies, subscriber projections, annual variations in operating expenditure etc. should 
+be clearly explained.
+ii) Forecasts of the relevant financial metrics including, Cash Flow, Internal Rate of Return 
+(IRR), Discounted Payback Period of the investment. Further, Net Present Value (NPV) 
+details should be indicated. Anticipated time frame should be clearly indicated for the 
+project to be profitable (if applicable).
+iii) Projected financial ratios including return on capital employed, Return on Assets, 
+Operating Profit Margin, Net Profit Margin, Capital Investment Ratio, Current Ratio, and 
+Debt-Equity ratio. The formula used in computing each ratio should also be provided.
+6. PROPOSED IMPROVEMENTS OF CUSTOMER SERVICE & PROTECTION
+a) details of cPe provided to customer:
+b) Maintenance of cPe:
+c) service Level agreement details with customers:
+d) Complaint Handling Methodology/ Minimum Fault Clearance Time:
+e) Customer Protection against bankruptcy (Insurance cover etc):
+f) Quality of Service Complaints handling:
+g) Assurance of Billing accuracy:
+h) t ransparency in terms conditions and tariff of service:          
+7. descrIbe the PreVIOus cOMMItMeNts ( IF  aNy) aNd PrOOF  OF  cOMPLIaNce FOr such 
+cOMMItMeNts.      
+8. eXIstING NetwOrK detaILs:  
+A separate report should be submitted containing the following with regard to current network configuration:
+a) detailed Network diagram including core/backbone (including locations of switches), backhaul (routes), 
+Access/OLP, all Points of Presence, Interconnection Points including Gateway and any other components 
+falling within the telecommunication system definition including Details and type of agreements with the all 
+Facility Based Operators (FBO) who provides each  network components in the system. Letters of consents 
+and retail/wholesale tariff agreed for provision of facilities should be explained. 
+b) Specify achieved speeds and capacity along with the network diagram with confirmation from the Facility 
+based Operator (FbO).
+c) Billing System, Billing standards followed and Measures to prove the Billing System Accuracy.
+9. decLaratION
+I ………………………………………………… hereby certify that the information provided in this application 
+form and anything of that sort in the feasibility report are true & correct in all respects. I hereby give undertaking 
+that upon grant of the Licence, I shall abide by the provisions of Sri Lanka Telecommunications Act, No. 25 of 
+1991 as amended by Act, No. 27 of 1996 , any Rules, Orders, Determinations, made by Commission thereunder 
+and all provisions and terms and conditions of the Licence. I have no objection for the revocation of Licence 
+if found that Licence has been issued based on incorrect information and also in violation of any of conditions 
+illustrated in the revocation section of the Licence.
+Signature of Authorized Representative of the Company: ………………………. 
+date:………………
+
+<!-- page 37 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+37a
+4.  SCHEDULE 3
+4.1. PrOcedure FOr ObtaINING  PrIOr aPPrOV aL  OF  the cOMMIssION  FOr traNsFer OF  
+OwNershIP  OF  cOMP aNy whO  OPerate a teLecOMMuNIcatION  systeM :
+this section provides Guidance and Procedure for obtaining the prior approval of the commission to transfer 
+of ownership of a company possessing a telecommunication system Licence, issued under Section 17 of the Sri 
+Lanka Telecommunications Act, No. 25 of 1991, as amended to operate a Telecommunication system and provide a 
+telecommunication service.
+ i.  An operator will not be eligible to transfer the ownership of the Company during the period of first 
+three years from initial grant of Licence.
+ ii.  An operator, if eligible as per item 4.1(i) above and wishes to transfer the ownership shall initially 
+submit a duly filled S17-3 Application form with all relevant documents.
+ iii.  Commission will duly consider the requirement for the transfer and if Commission so decides, the 
+application will be referred to Ministry of Defence and other relevant Institutions for concurrence. If 
+such concurrences are received Commision may approve the transfer of ownership based on criteria 
+stipulated by Commission and will issue a letter of approval to the Licensee for the onward action of 
+the said transfer. However, the decision of the Commission shall be final with regard to the permission 
+to transfer the ownership. 
+ iv. Commission may impose additional condition with regard to any aspect which Commission so deems 
+required at the time of transfer for which the Licensee should express agreement in writing.
+ v. Commission reserves the right to reject any request due to regulatory requirements (if any).
+4.2. aPPLIcatION FOrM
+S17-3
+Application form for the approval of transfer of ownership of company possessing Telecommunication 
+System Licence issued under Section 17 of Sri Lanka Telecommunications Act No. 25 of 1991  
+as Amended
+1. CONTACT DETAILS OF THE APPLICANT: The authorized representative of the company (Applicant) shall 
+provide the following information:
+ 1.1. Full Name:
+ 1.2. date of birth:
+ 1.3. National Id Number/Passport Number:
+ 1.4. Citizenship:
+ 1.5. address (Permanent):     residence:
+ 1.6. Telephone Number:   (Fixed):    Mobile:
+ 1.7. Fax Number:
+ 1.8. e-Mail address:
+  Please check the Boxes (Tick √)  
+    Board resolution for authorization to Applicant
+2. cOMP aNy  curreNt  PrOFILe:
+ 2.1. Registered Name of the Company:
+ 2.2. Company Registration Number:
+ 2.3.  date of Incorporation:
+
+<!-- page 38 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+38a
+ 2.4.  registered address:
+ 2.5.  Official Telephone Number of the Company:
+ 2.6.  Fax Number:
+ 2.7.  email address:
+ 2.8.  Official Website of the Company:
+ 2.9. Name and contact details of the bank where business account is maintained:
+ 2.10. share capital (class of share, Number and Value of share in each class of shares)
+ 2.11. If listed in Colombo Stock Exchange provide details of class of shares:
+ 2.12. In case of partnership, provide details:
+ 2.13. Qualification and Career history of Current Directors (Resumes should be attached):
+ 2.14. List of activities contracted out to other agencies and consultants:
+ 2.15. List of Professional current advisers of the Company: (Technical, Legal, Finance  Auditors)
+ 2.16. Details of Telecommunication system Licenses (Local or Foreign), currently held by company or affiliate:
+    
+3. curreNt  sharehOLder detaILs:
+details of all shareholders should be submitted in following format.
+ 3.1. Full Name:
+ 3.2. date of birth:
+ 3.3.  National Id Number/Passport Number:
+ 3.4. Citizenship:
+ 3.5. address (Permanent):            residence:
+ 3.6.  Telephone Number:   (Fixed):   Mobile:
+ 3.7. Fax Number:
+ 3.8. e-Mail address:
+ 3.9.  Percentage of shares:
+ 3.10. date of shares issued:
+          (Share Certificates should be attached)
+ 3.11. Details of companies previously owned which has gone into liquidation:
+ 3.12. Details of any application for Telecommunication Licence submitted by previously owned company which 
+was refused by an authorized entity in any Country:
+ 3.13. Details of any Telecommunication Licence possessed by any previously owned company which is revoked 
+by an authorized entity in any Country:
+ 3.14. Any other business interests:
+Please Annex following:
+Articles of Association, Certificate of Incorporation, Latest Annual Return: Form 15 and other proof 
+document in relation to above details provided
+ 3.15. Is there a board resolution for the transfer/issue/change of shares  Yes/No 
+      (Please attach certified copies)
+           3.16.  Proposed shareholder details
+ details of proposed shareholders should be submitted in following format.
+a) Full Name:
+b) date of birth:
+c) National Id Number/Passport Number:
+d) Citizenship:
+e) address (Permanent):             residence:
+f) Telephone Number: (Fixed):     Mobile:
+g) Fax Number:
+h) e-Mail address:
+i) Percentage of shares:
+j) Details of companies previously owned which has gone into liquidation:
+
+<!-- page 39 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+39a
+k) Details of any application for Telecommunication Licence submitted previously owned company 
+which was refused by an authorized entity in any Country: 
+l) Details of any Telecommunication Licence possessed by any previously owned company which is 
+revoked by an authorized entity in any Country:
+m) Any other business interests:
+ (Letter of Intent for the said Purchase should be attached)
+n) Please explain in detail the experiences & performances with regard to involvement in telecommunication 
+industry as a business.
+ 3.17. Final complete shareholder structure/details:
+ 3.18.  Detailed description of the Reason to become a Shareholder with proper justification:
+ 3.19.  Are there any proposed changes in the Organization structure: (Yes/No)
+ 3.20. If ‘Yes’ please give detailed description of the current and proposed organizational structure and proposed 
+changes:
+ 3.21.  Are there any proposed changes in the Director Board: (Yes/No)
+ 3.22. If ‘Yes’ please give detailed description of current and proposed Directors (Brief Resumes)  and proposed 
+changes:
+ 3.23. Are there any proposed changes of Existing Staff: (Yes/No)
+ 3.24.  If ‘Yes’  please give detailed description of the current and proposed staff changes  in every position/
+category with justification:
+ 3.25.  Are there any proposed changes in the current Asset & Liabilities of the Company: (Yes/No)
+ 3.26.   If ‘Yes’ please give detailed description of the current and proposed changes in Asset and Liabilities with 
+documentary proof with justification:
+ 3.27.  Are there any proposed changes in the current Articles of Association of the Company: (Yes/No)
+ 3.28.  If ‘Yes’ please give detailed description of the current and proposed changes in the Articles of Association 
+of the Company with justification:
+ 3.29.  Please indicate any other changes proposed with justification:
+ 3.30. Detailed description for the justification of transfer of ownership:
+ ………………………………………………………………………………………………………………
+             (Please use separate sheets) 
+4. aNaL ysIs OF P ast  PerFOrMaNce OF the cOMP aNy :
+ 4.1. Please submit graphical representation of following matrices with figures with justification for last five 
+y ears.
+a) sales revenue
+b) cost of sales
+c) Gross profits
+d) Net profits
+e) ebItda
+f) assets
+g) Liabilities
+h) Owners’ Equity
+i) current ratio
+j) Debt/Equity Ratio
+k) return on assets
+l) Monthly subscription growth
+m) churn rate with reasons
+n) Growth of Minutes of usage
+o) Growth of arPu
+
+<!-- page 40 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+40a
+4.2. Identified Risks and Limits and Controls
+4.2.1. Market risks
+4.2.2. Liquidation Risks
+4.2.3. Insolvency Risk
+4.3. Analysis of economic efficiency of the company 
+4.3.1. Allocative Efficiency 
+4.3.2. Dynamic Efficiency
+4.3.3. X-Efficiency
+4.3.4. Productive Efficiency
+4.4. Internal performance analysis (Ansof, Boston Box or any Better Method )
+4.5. External performance Analysis (PESTLE, Porters 5 Forces, 8KF analysis or better method).
+4.6. Are there any agreements with 3rd Parties with regard to the operation and provision of service (Yes/No)
+4.7. If ‘Yes’ Please submit copies of all such agreements:
+5. PrOJected PerFOrMaNce OF the cOMP aNy
+a. Any Diversification of the Business with proper justification
+b. Depreciation and Amortization of Assets and Plans for Replacements & Improvements:
+c. Risks in Proposed Business & strategies proposed
+i. Market
+ii. Liquidity
+iii. Insolvency
+d. Following financial details should be submitted for next 10 years with proof of funding:
+ i. Investment and sources of Funding.
+ ii. Contingency Funding Plans.
+ iii. Debt /Equity Ratio at the commencement of next Licence period.
+ iv. Details of the proposed financial plan.
+ 
+ v. Projected profit and loss accounts, balance sheets and cash flow statements. The profit and loss 
+accounts, balance sheets and cash flow statements should be prepared in accordance with the Sri 
+Lanka accounting standards. all assumptions made such as asset depreciation policies, subscriber 
+projections, annual variations in operating expenditure etc. should be clearly explained.
+ vi. Forecasts of the relevant financial metrics including, Cash Flow, Internal Rate of Return (IRR), 
+Discounted Payback Period of the investment. Further, Net Present Value (NPV) details should 
+be indicated. Anticipated time frame should be clearly indicated for the project to be profitable 
+(if applicable).
+ vii. Projected financial ratios including return on capital employed, Return on Assets, Operating Profit 
+Margin, Net Profit Margin, Capital Investment Ratio, Current Ratio, and Debt-Equity ratio. The 
+formula used in computing each ratio should also be provided.
+
+<!-- page 41 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+41a
+6. CUSTOMER SERVICE & PROTECTION
+a. details of cPe provided to customer:
+b. Maintenance of cPe:
+c. service Level agreement details with customers:
+d. Complaint Handling Methodology/ Minimum Fault Clearance Time:
+e. Customer Protection against bankruptcy (Insurance cover etc):
+f. Quality of Service Complaints handling:
+g. Assurance of Billing accuracy:
+h. Transparency in terms conditions and tariff of service:
+7. PrOJect  rePOrt
+A report should be submitted explaining the technical details (comprehensive network details), operational details, all 
+services details and other stakeholder details etc. If different from the existing operation, Commission may request 
+to submit further details if required.
+8. decLaratION
+I ………………………………………………… hereby certify that the information provided in this application 
+form is true & correct in all respects and I am fully aware that Licence may be revoked if it is found  that any of the 
+information are false and also in violation of any of conditions illustrated in the Revocation Section of the Licence .
+Signature of Authorized Representative of the Company: ……………………….
+            date:……………
+     
+5.    SCHEDULE 4
+5.1. The Procedure of Modification of Licence/ Licence Conditions of (Facility /Service Based) issued under Sri Lanka 
+t elecommunications act, No. 25 of 1991 as amended. this section provides the procedure and information with 
+regard to modification of any part of the licence, or any Licence condition issued under Section 17 of the Sri 
+Lanka Telecommunications Act, No. 25 of 1991, as amended to operate a Telecommunications system and provide 
+telecommunication service. A modification of a Licence can be an amendment or removal of an existing section of 
+the Licence or imposition of a new section to the Licence. The procedure for modification of Licence condition(s) 
+and the procedure for modification of any other part of the Licence other than Licence condition(s) are given 
+below. Licence conditions for a particular market segment will be commonly applicable to all such operators and 
+if an operator requires such modification, modification will be affected to all operators and only if agreement of all 
+operators of similar service are expressed.
+ 5.1.1.  Modification of Licence Conditions:
+  5.1.1.1. Modification requested by the Operator
+i. If in the opinion of an operator, a  condition(s) of the  Licence  has become an impediment or 
+barrier to development of telecommunication services in sri Lanka and to bring social and 
+economic benefits to the country directly or indirectly , a modification of Licence condition(s) 
+request can be made to the Commission in writing giving detailed description of the aforesaid 
+circumstances and required modification. Also, an operator can make such request to rectify 
+any anomaly of the Licence condition(s) exclusive to the applicant.
+
+<!-- page 42 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+42a
+ii. If Commission so decides, after analysis of justifications submitted by the operator to modify 
+such condition(s), a notice will be published in national newspapers  inviting  public and 
+stakeholder comments and  regarding the modification of licence condition(s) within thirty 
+days from the date of publication. 
+iii. The Commission will consider any representation or objection duly made in response to 
+the public notice prior to the recommending the modification to the minister pursuant to the 
+section 18 of the act.
+iv. If the Commission finds no any valid reason during the investigation to justify the objection 
+raised by the public, the licence condition(s) modification will be recommended to the Minister 
+for the concurrence with respect to all operators if not to rectify an anomaly.
+v. On receipt of concurrence of the Minister, Commission will effect the modification of the 
+licence condition(s) and will inform the operator(s) in writing and post same on its official 
+web site.
+5.1.1.2. Modifications made by the Commission
+i. If Commission so decides, in exercising its power to achieve objectives of the Commission, a  
+modification  of a  Licence Condition(s) is required, Commission may inform the Operator(s) 
+in advance the type of amendment, removal of existing condition(s) or imposition of new 
+condition(s) and the time line of such effect.
+ii. Operator can make representation with regard to modification for the consideration of the 
+Commission within 30 days from the date of acknowledgement.
+iii. Commission will consider the representation made by the operator(s). However, the decision 
+of the Commission with regard to such modification of licence condition(s) shall be final.  If 
+Commission so decides, to continue the modification of Licence condition(s), a notice will 
+be published in national newspapers inviting  public and stakeholder comments regarding 
+the modification of licence condition(s) within thirty days from the date of publication.
+iv. The Commission will consider any representation or objection duly made in response to 
+the public notice prior to the recommending the modification to the minister pursuant to the 
+section 18 of the act.
+v. If the Commission finds no valid reason during the investigation to justify the objection raised 
+by the public, the licence condition(s) modification will be recommended to the Minister for 
+the concurrence.
+vi. On receipt of concurrence of the Minister, Commission will effect the modification of the 
+licence condition(s) and will inform the operator(s) in writing and post same on its official 
+web site.
+ 5.1.2. Modification of any part of the Licence other than Conditions of Licence
+If any part/section of the Licence other than Licence conditions is required to be modified, the procedure 
+stipulated in Section 5.1.1.1 and 5.1.1.2 will be followed strictly subject to Legal clearance from Hon. 
+Attorney General for such modification.
+    
+
+<!-- page 43 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+43a
+6. SCHEDULE 5
+6.1  the  PrOcedure  OF re VOcat ION OF LIce Nses (F ac ILIty/ ser VI ce  based) Issued uNder  srI L aNKa  
+teLecOMMuNIcatIONs act , No. 25 OF 1991 as aMeNded
+  6.1.1 this section provides procedure and information with regard to revocation of Licence, under section 17 of 
+the Sri Lanka Telecommunications Act, No. 25 of 1991, as amended to operate a Telecommunications system 
+and provide telecommunication service(s). 
+  6.1.2 Licence fees paid, shall not be refunded (whether on a pro-rated basis or any other basis) in the event that 
+the licence is revoked by the Commission in the any of the circumstances described in this Section: 
+6.2  cONdItIONs OF reVOcatION OF LIceNce
+      Commission may revoke the Licence, under following condition.
+ i. If the operator agrees in writing with the Minister that Licence should be revoked. 
+ ii. If any amount payable is unpaid and remains unpaid for a period of 14 days after the Commission notifies the 
+Operator that the payment is overdue.
+ iii. If the Operator fails to comply with an order of the Commission under the Act and that order is not subject to 
+appeal proceedings. 
+ iv. If the operator fails to comply with any rule or regulation for the time being in force under the Act for more 
+than 14 days after being informed by the Commission of such violation.
+ v. If actions of the Operator are likely to have an adverse impact on the national security.
+ vi. If the Operator sells, leases or transfers the ownership of the Company, to whom the Telecommunication 
+system Licence has been issued, partly or fully to any person/entity during the validity period of the Licence 
+without prior approval of the commission.
+ vii. If it is found that the issue of the Licence had been based on inaccurate or incorrect information provided by 
+the Operator.
+ viii. If operator has not commenced services within two years from the grant of Licence.
+ ix. If operator fails to provide services to Customers after commencement of service continuously for more than 
+7 days or more than 5 times within an year of service unavailability greater than one day.
+ x. If operator fails to comply with any directive of the Commission for more than three months after notification 
+by Commission of such failure in writing.
+ xi. If operator fails to obtain any other Licence required for the operation of Licensed system for more than a 
+year.
+6.3 PrOcedure OF reVOcatION aNd aPPeaL PrOcedure 
+ 6.3.1 In any circumstances other than 6.2(i), Commission shall inform the operator of the condition violated and 
+intention of the Commission to recommend Minister to revoke the Licence and provide 30 days for the Operator 
+to provide explanation why Commission should not revoke the said Licence.
+
+<!-- page 44 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'10'25
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.10.2023
+44a
+ 6.3.2  If  Operator gives acceptable representation with regard to same within stipulated time period, d irector General 
+may appoint a Committee to investigate into the matter and make recommendation to the Commission.
+ 6.3.3 the decision of the committee with reasons will be communicated to the Operator. however, operator can 
+make an appeal to the Commission within 14 days from the date of Acknowledgement.
+ 6.3.4 Commission shall reserve the right of the final decision of recommendation to Minister, for revocation of 
+Licence based on the Committee decision and the appeal made by the Operator based on the Committee 
+decision.
+ 6.3.5 If commission so decides to withdraw the Licence, commission shall recommend Minister in writing to sign 
+the 30 days Revocation Notice and serve on the Operator to withdraw the said Licence after 30 days.
+ 6.3.6 the operator can make further representation to the Minister and decision of the Minister with regard to 
+revocation of Licence issued under section 17 of the sri Lanka t elecommunications act, No. 25 of 1991, as 
+amended, shall be final.
+ 6.3.7 If Minister so decides to revoke, the operator will be required to surrender the original of the Licence issued.
+ 6.3.8 commission will make arrangement to publish a notice in the national Newspapers to acknowledge General 
+Public about the revocation of the Licence.
+ 6.3.9 Commission shall make arrangement to seal all Network components of the Telecommunication system.
+6.4  surreNder OF LIceNces
+  6.4.1 the operator can opt to surrender its Licence(s) if it is no longer involved in the operation and provisioning 
+of telecommunication services.
+  6.4.2 The operator is required to submit by way of written notice, the intent to surrender its Licence(s) and enclose 
+the original copy(s) of Licence(s).
+  6.4.3 the surrender of a Licence is irrevocable.
+  6.4.4 It is cautious for an operator who is unable to meet its obligation to consider the option of surrendering 
+the Licence before the renewal as this reflects a responsible behavior that may be viewed favorably by the 
+Commission at an occasion of another application for a system licence for a different service.
+eOG 10-0256
+PrINted at  the deP artMeNt  OF GOVerNMeNt  PrINtING,  srI LaNKa.
