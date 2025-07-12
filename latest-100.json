@@ -19,6 +19,12 @@
   },
   {
     "doc_type_name": "gazettes",
+    "id": "2025-07-11-iib-advertising",
+    "date": "2025-07-11",
+    "description": "(IIB) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-07-11-iia-advertising",
     "date": "2025-07-11",
     "description": "(IIA) - Advertising"
@@ -34,6 +40,18 @@
     "id": "618-2025",
     "date": "2025-07-08",
     "description": "Penal Code (Amendment) - GS"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-15",
+    "date": "2025-07-08",
+    "description": "Department of Local Government - Southern Province - Notice Under Section 66 C (4) Appointed Chairman and Vice Chairman for Weligama Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-12",
+    "date": "2025-07-08",
+    "description": "2444/12"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -505,6 +523,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2441-56",
+    "date": "2025-06-20",
+    "description": "Architects Registration Board Sri Lanka Institute of Architects (Amendment) Act, No. 14 of 1996- Chartered Architects, Architects, Architactural Licentiates for the Registration of Persons - 2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2441-55",
     "date": "2025-06-20",
     "description": "Election Commission - Local Authorities Election - 2025 Notice Under Section 66(2) Elected to the Members for Dehiwala - Mount Lavinia M/C Kotikawatta - Mulleriyawa P.S, Homagama P.S and Weeraketiya Pradeshiya Sabha."
@@ -574,29 +598,5 @@
     "id": "2025-06-20-iii-trade-marks-and-patent-notices",
     "date": "2025-06-20",
     "description": "(III) - TRADE MARKS AND PATENT NOTICES"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-20-iib-advertising",
-    "date": "2025-06-20",
-    "description": "(IIB) - Advertising"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-20-iia-advertising",
-    "date": "2025-06-20",
-    "description": "(IIA) - Advertising"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-20-i-general",
-    "date": "2025-06-20",
-    "description": "(I) - General"
-  },
-  {
-    "doc_type_name": "acts",
-    "id": "08-2025",
-    "date": "2025-06-20",
-    "description": "National Transport Commission (Amendment)"
   }
 ]
