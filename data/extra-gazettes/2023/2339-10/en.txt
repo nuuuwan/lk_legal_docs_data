@@ -1,0 +1,542 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2339$10 - 2023 cq,s ui 04 jeks wÕyrejdod - 2023'07'04
+No. 2339/10 -  tuesday,   july  04,  2023
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government Notifications
+1a- G 39812 - 07 (07/2023) 
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+l.d.B. 16/2014
+SRI   LANkA   ATOmIC   ENERGY  ACT,  No.  40  Of  2014
+ReGulatioNs made by the Minister of Power and energy under section 86(2)(g) of the sri lanka atomic energy act, 
+No. 40 of 2014.
+ Kanchana WijeseKera,
+ Minister of Power and energy.
+Colombo,
+25th November, 2022.
+ReGulatioNs 
+1. these Regulations may be cited as the “security of Radioactive sources during Manufacture, use or storage” 
+regulations and shall come into operation on 01.12. 2022.
+2. these regulations specify the basic requirements for the security of radioactive sources.
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+2a
+3. a radioactive source or an aggregation of radioactive source shall assign a security level as specified in Table I 
+to the schedule i hereto, based on the potential harm that the radioactive source could cause if it were used in a malicious 
+act, as follows :-
+ (a) category 1 radioactive sources are assigned to security level a ;
+ (b) category 2 radioactive sources are assigned to security level B ;
+ (c) category 3 radioactive sources are assigned to security level C.
+4. any radioactive source that is not listed in table i to the schedule i hereto shall assign a security level after 
+determining the category of the radioactive source based on the ratio of activity of its radionuclide and the corresponding d 
+value as specified in Table II and III to Schedule I hereto.
+5. these regulations shall not apply to any nuclear material, except for radioactive sources incorporating       
+plutonium - 239.
+6. These regulations shall apply to the management of all A, B and C security levels specified in table 1 to the 
+schedule 1 hereto.
+7. a person shall not engage in the management of radioactive source if the requirements of these regulations are 
+not fulfilled.
+8. When a licence is required to conduct a practice involving ionizing radiation (hereinafter referred to as “practice) 
+in terms of section 21 of the sri lanka atomic energy act, No. 40 of 2014 (hereinafter referred to as the “act”) the sri 
+lanka atomic energy Council established under the act (hereinafter referred to as the “council”) shall request the applicant 
+to provide information in relating of security arrangements provided or to be provided to radioactive sources and the facility 
+in which the radioactive sources are to be managed in order to determine whether the requirements given in these regulations 
+are met.
+9. upon the request of the Council, any licensee of a licensed facility of the Council shall take appropriate steps to 
+connect the physical security system installed at the facility to a central monitoring station recommended by the Council to 
+enable the response  personnel to view video images of the facility and sources and to communicate with relevant persons in 
+the facility to take early actions for interruption and prevention of a unauthorised acts and removal of the sources.
+10. the council shall not issue a licence if the applicant demonstrates that requirements given in these regulations 
+are not fulfilled.
+11. a licensee shall permit any authorized inspector of the council appointed under section 15 of the act for 
+immediate access to premises and facilities in which radioactive sources are located in order to obtain information about the 
+status of security and verify compliance with regulatory requirements. each licensee shall provide the council as required 
+any information and any record regarding security of radioactive sources.
+12. a licensee, in the event of any failure to comply with any applicable requirement by these regulations shall -
+ (a) report to the council within 24 hours ;
+ (b) take appropriate action to remedy the circumstances and to prevent a recurrence of similar situations ;
+ (c) investigate the failure and its causes, circumstances or consequences ; and
+ (d) provide the council with a report on the causes of the failure, its circumstancs and consequences, and on the 
+corrective or preventive actions taken or to be taken within 30 days, or as required.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+3a
+13. Where in a situation involving the loss of control of radioactive source, unauthorized access to actual or 
+attempted theft of radioactive source or sabotage of a radioactive source has occurred or is occurring, a licensee shall-
+ (a) immediately inform the council and law enforcement bodies ;
+ (b) take appropriate action to remedy the circumstances and to prevent a recurrence of similar situations ;
+ (c) investigate the event and its causes, circumstances and consequences ; and
+ (d) provide the council with a report on the causes of the event, its circumstances and consequences, and on the 
+corrective or preventive actions taken or to be taken within 30 days, or as required.
+14. (1) a licensee shall bear the responsibility for establishing and implementing the measures that are needed for 
+ensuring security of radioactive sources and for compliance with all requirements of these regulations.
+(2) A licensee shall notify the council of licensee’s intention to introduce any modification to facilities or 
+activities affecting the security of a radioactive source and shall not carry out any such modification unless specifically 
+authorized by the council.
+15. The licence may be revoked, suspended, modified, or the possession of a radioactive source may be prohibited 
+upon finding of non-compliance with applicable requirements of these regulations by the council.
+16. (1) these regulations shall not prevent the licensee from complying with other applicable laws and regulations 
+governing safety or security. Where a conflict exists between requirements contained herein and other laws or regulations, 
+the council shall be notified of such conflict in order to take to resolve such conflict.
+(2) Nothing in these regulations shall be construed as restricting any actions that may otherwise be necessary 
+for safety or security.
+(3) a licensee shall comply with any additional requirements imposed by the Council by regulations, orders, or 
+conditions of a licence, in addition to the requirements imposed by these regulations, as deemed appropriate or necessary 
+for the security of radioactive sources.
+17. a licensee shall set up a management system, commensurate with the size and nature of the authorized activity, 
+which ensures that–
+ (a) policies and procedures are initiated with as security being the highest priority ;
+ (b) problems affecting security are identified and corrected in a manner commensurate with their importance ;
+ (c) the responsibilities of each individual for security are clearly identified and each individual is suitably trained 
+and qualified.
+ (d) the authority for decisions on security are identified ; and
+ (e) organizational arrangements and lines of communications are formed which result an appropriate flow of 
+information on security and the various levels in the entire organization of the licensee.
+18. (1) A licensee shall ensure that all personnel on whom security depends are appropriately trained and qualified 
+and perform their duties according to set out procedures. They shall be periodically retrained or re-qualified as may be 
+appropriate. training programmes shall be evaluated routinely.
+(2) every employee shall be informed annually of the importance of effective security measures.
+19. a licensee shall establish quality assurance programmes that provide -
+ (a) adequate assurance that the specific applicable requirements relating to security are satisfied,
+ (b) assurance that the components of the security system are of a quality sufficient for their tasks ; and
+ (c) quality control mechanisms and procedures for reviewing and assessing the overall effectiveness of security 
+measures.
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+4a
+20. a licensee shall not transfer any radioactive source to another party unless :-
+ (a) an approval is obtained from the council ;
+ (b) the recipient possesses a valid licence for the sources ; and  
+ (c) the recipient is provided with all relevant technical information regarding the safe and secure management of 
+the radioactive sources.
+21. The three security levels based on category of radioactive sources specified in Table 1 to the Schedule 1 hereto 
+shall specify requirements for security system, performance. Each security level has a corresponding goal. The goal defines 
+the overall result that the security system shall be capable of providing for a given security level. the levels and the goals 
+shall be as follows :
+ (a) security level a - prevent the unauthorized removal of radioactive sources, if an attempt at unauthorized 
+access or unauthorized removal occurs, to enable personnel to respond with enough time and sufficient 
+resources to interrupt the adversary in order to prevent that source being removed,
+ (b) security level B - minimize the likelihood of unauthorized removal of radioactive sources. if an attempt 
+of unauthorized access or unauthorized removal occurs, the response must be initiated immediately upon 
+detection and assessment of the intrusion,
+ (c) security level C - reduce the likelihood of unauthorized removal of radioactive sources.
+22. any licensee, in order to achieve the goal of security level a, which is to prevent the unauthorized removal of 
+radioactive sources shall comply with the following requirements :-
+(1 ) detection :
+ (a) shall provide immediate detection of any unauthorized access to the secured location of area or source by 
+the use of an electronic intrusion detection system and/or continuous surveillance by operator personnel ;
+ (b) shall provide immediate detection of any attempted unauthorized removal of the source (e. g. an insider) 
+by the use of electronic tamper detection equipment and/or continuous surveillance by operator personnel;
+ (c) shall provide immediate assessment of detection by the use of remote monitoring of CCtV or assessment 
+by operator or response personnel ;
+ (d) shall provide immediate communication to response personnel through rapid and dependable means of 
+communication such as phones, cell phones, pagers or radios ; and 
+ (e) shall provide a means to detect loss through verification by daily by physical checks, CCTV , tamper 
+indicating devices, etc.
+(2) delay :
+shall provide delay, after detection sufficient response for personnel to interrupt  the unauthorized removal 
+through a system of at least two layers of barriers (e. g. walls, Cages) which together provide delay sufficient to 
+enable response personnel to interdict. 
+(3) Response
+shall provide immediate response to alarm with sufficient resources to interrupt and prevent the unauthorized 
+removal through the capability for immediate response with size, equipment and training to interdict. a security 
+contingency plan shall be prepared and issued to relevant persons and stakeholders responsible for management 
+of security event.
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+5a
+23. any licensee, in order to achieve the goal of security level B, which minimizes the unauthorized removal of 
+radioactive sources, shall comply with the following requirements :
+(1) detection :
+ (a) shall provide immediate detection of any unauthorized access to the secured location of area or source              
+by the use of electronic, intrusion detection equipment and/or Continuous surveillance by operator 
+personnel ;
+ (b) shall provide detection of any attempted unauthorized removal of the source through the use of tamper 
+detection equipment and/or periodic checks by operator personnel ;
+ (c) shall provide immediate assessment of detection through remote monitoring of CCtV or assessment by 
+operator or response personnel ;
+ (d) shall provide immediate communication to  response personnel through rapid and dependable means of 
+communication such as phones, cell  phones, pagers or radios ; and
+ (e) shall provide means to detect loss through verification by weekly by physical checks, tamper detection 
+equipment, etc.
+(2) delay :
+shall provide delay to minimize the likelihood of unauthorized removal through a system of two layers of 
+barriers (e. g. walls, cages).
+(3) Response :
+shall provide immediate initiation of response to interrupt unauthorized removal through the use of equipment 
+and procedures to immediately initiate response. a security contingency plan shall be prepared and shared 
+with relevant persons and stakeholders responsible for management of security event describing methods for 
+immediate response.
+24. any licensee, in order to achieve the goal of security level C which reduces the unauthorized removal of 
+radioactive sources, shall comply with the following requirements :-
+(1) detection :
+ (a) shall provide detection for unauthorized removal of the source through the use of tamper detection 
+equipment and/or periodic checks by operator personnel.
+ (b) shall provide immediate assessment of detection through an assessment by operator or response                
+personnel.
+ (c) shall provide a means to detect loss through verification by monthly by physical checks, tamper indicating 
+devices, etc. ;
+(2) delay :
+shall provide delay to reduce likelihood of unauthorized removal by the use of one barrier (e. g. cage, source 
+housing) or through observation by operator personnel.
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+6a
+(3) Response :
+shall implement appropriate action in the event of unauthorized removal of a source by the use of procedures for 
+identifying necessary actions in accordance with security contingency plans, a security contingency plan shall 
+be prepared and shared with relevant persons and stakeholders responsible for management of security event 
+describing methods for immediate response. 
+25. (1) any person who submits an application for a licence under section 21 of the act to conduct a practice 
+shall provide an attachment to the application the arrangements established for physical protection of sources and facilities 
+describing instruments, equipments, barriers, enclosures, types of communication instruments to be provided to the sources 
+and facilities for detection, delay and response to meet the requirements given in regulations 22, 23 and 24 in accordance 
+with the security level of the sources and facilities.
+(2) any person who submits an application for a licence under section 21 of the act to conduct a practice shall 
+also provide the security contingency plan with the application which identifies reasonably foreseeable security events ; 
+initial planned actions, and responsibilities assigned to appropriate facility personnel and response personnel.
+(3) the applicant shall submit the application for licence the detailed description of maintenance programmes 
+established for physical protection system installed as given in subsection (1) including names and qualifications of personnel 
+responsible for maintenance of the physical protection system to ensure continuous operation of the physical protection for 
+the sources and facilities.
+(4) Where the installation and/or maintenance of the physical security systems is required under these regulations, 
+the licensee shall not sign a contract for installation and/or maintenance of the physical security system with such party or 
+company, unless that party or company is registered with the council as a physical security contractor.
+(5) any physical security contractor shall not provide or undertake installation or maintenance of physical 
+security system under these regulations without certificate of registration obtained from the council. Application for 
+registration of the party or the company shall be submitted to the council in the prescribed forms.
+26. a licensee shall not obtain a nuclear security related service including service for training of personnel in 
+Nuclear security from any Nuclear security support service provider except with the approval of the Council.
+27. in order to achieve the goals stated in regulation 21 a licensee shall :-
+ (a) provide access control to source location that effectively restrict access to authorized persons by -
+ (i) identification and verification, for example, lock controlled by swipe card reader and personal 
+identification number, or key and key control for security level A ; and
+ (ii) one identification measure for security level B  and C ;
+ (b) ensure trustworthiness of authorized individuals through background checks for all personnel authorized 
+for unescorted access to the location of source and for access to sensitive information ;
+ (c) identify and protect sensitive information through the use of procedures to identify sensitive information 
+and protect it from unauthorized disclosure ;
+ (d) provide a site security plan to conform to regulation 3 and provide for response to increased threat levels 
+for security level a and B by written security arrangements and reference procedures for security level            
+C ; and 
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+7a
+ (e) ensure capability to manage security events covered by security plans through procedures for responding 
+to security-related scenarios.
+ (f) initiate a security event reporting system.
+28. a licensee shall prepared a site security plan for radioactive sources in security levels a and B, including the 
+facility in which the sources are to be managed which meets the following requirements.
+ (a) the site security plan shall contain all the requirements as set out in the schedule ii hereto ;
+ (b) the site security plan shall be tested and evaluated annually against the security objectives and measures 
+required for security level a or B, as applicable. the site security plan shall be reviewed based upon the 
+results of the test. Any deficiency in the plan or security systems shall be duly attended and reported to the 
+council ; and 
+ (c) the site security plan and any modifications to such plan shall be submitted to the council as part of 
+the licence application by an applicant of a licence and the licence renewal application forwarded by a 
+licensee as the case may be for approval.
+29. Where it is not feasible to meet the requirement of regulation 22, 23 and 24 for mobile or portable radioactive 
+source, the licensee shall include a description of the measures that will be used to provide an equivalent level of security in 
+the application and the security plan.
+30. (1) If a licensee becomes aware of, or suspect that there is a specific threat targeting a redioactive source, the 
+licensee shall increase the security measures in accordance with the threat and the council shall be informed immediately 
+the security measures taken.
+(2) the increased security measures may include -
+ (a) returning the source to its secure storage location if it is in use ;
+ (b) providing a 24- hour security using additional video cameras or an additional intrusion alarm.
+ (c) ensuring that law enforcement persons and the regulatory council are aware of the suspected threat ;
+ (d) reviewing security procedures, facility layout and radiation safety practices with the law enforcement and 
+emergency response personnel ; and 
+ (e) ensuring emergency response procedures are valid, including medical facilities with a well-equipped 
+trained personnel who can handle radioactive emergencies.
+(3) The increase of security measures shall be continued until specific threat is present.
+(4) the increase of security measures shall be provided for security level  a and B radioactive sources during 
+period of source deliver, shipment, or under other vulnerable conditions (e. g. source exchange, maintenance)
+31 (1) a licensee shall maintain an annual inventory of radioactive sources and keep records of updated inventories 
+for inspection by the council. 
+(2) the inventories shall be adjusted upon transfer or receipt of radioactive sources. 
+(3) individual radioactive source records shall include the following :
+ (a) location of the source ;
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+8a
+ (b) radionuclide ;
+ (c) radioactivity on a specified date ;
+ (d) serial number or unique identifier ;
+ (e) chemical and physical form ;
+ (f) source use history, including recording all movements into and out of the storage location ;
+ (g) receipt, transfer or disposal of the source ; and
+ (h) other information, as appropriate, to enable the source to be identifiable and traceable.
+32. in these regulations :-
+“act” means sri lanka atomic energy act, No. 40 of 2014 ;
+“applicant” means a person who submits an application to obtain a licence by section 21 of the sri lanka 
+atomic energy act, No. 40 of 2014 ;
+“council” means sri lanka atomic energy Regulatory Council established by the sri lanka atomic energy 
+act, No. 40 of 2014 ;
+“delay” means the element of a physical protection system designed to increase the time required for an 
+adversary to gain unauthorized access to or to remove or sabotage a radioactive source, through barriers 
+or other physical means ;
+“detection” means a process in a physical protection system that begins with sensing a potentially malicious 
+or other unauthorized act and that is completed with the assessment of the cause of the alarm ;
+“facility” shall have the same meaning assigned to it by the sri lanka atomic energy act No. 40 of 2014 ;
+“imports” means the physical transfer, into an importing state or to a recipient in an importing state, 
+originating from an exporting state, of one or more radioactive source(s) covered by these regulations ;
+“ionizing radiation” shall have the same meaning assigned to it by the sri lanka atomic energy act, No. 40 
+of 2014 ;
+“licence” shall have the same meaning assign to it by the sri lanka atomic energy act, No. 40 of 2014 ;
+“licensee” shall have the same meaning assign to it by the sri lanka atomic energy act, No. 40 of 2014 ;
+“management” means the administrative and operational activities that are involved in the manufacture, 
+supply, receipt, possession, storage, use, transfer, import, export, maintenance, recycling or disposal of 
+radioactive sources ;
+“malicious act” means and act or attempt of unauthorized reomoval of a radioactive source or sabotage ;
+“nuclear material” shall have the same meaning assigned to it by the sri lanka atomic energy act, No. 40 
+of 2014 ;
+“physical security contractor” means a person or a company registered with the council having adequate 
+human resources with proper qualifications, and experience for installation, maintenance and training 
+of persons of physical security instruments required under these regulations.
+“physical security system” means an integrated set of physical protection measures intended to prevent the 
+completion of a malicious act ;
+“practice involving ionizing radiation” shall have the same meaning assigned to it by the sri lanka atomic 
+energy act, No. 40 of 2014 ;
+“radioactive material” shall have the same meaning assigned to it by the sri lanka atomic energy act, No 
+40 of 2014. 
+“radioactive source” shall have the same meaning assigned to it by the sri lanka atomic energy act, No. 
+40 of 2014 ;
+“response” means the actions undertaken following detection to prevent an adversary from succeeding or 
+to mitigate potentially severe consequences. these actions, typically performed by security or law 
+enforcement personnel, and other state agencies, include interrupting and subduing and adversary 
+while the attempted unauthorized removal or sabotage is in progress, preventing the adversary from 
+using the radioactive source to cause harmful consequences, recovering the radioactive source, or 
+otherwise reducing the severity of the consequences ;
+“sabotage” means any deliberate act directed against a radioactive source or associated facility or activity that 
+could directly or indirectly endanger the health and safety of personnel, the public, or the environment 
+by exposure to radiation or release of rediactive substances.  
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+9a
+“safety” shall have the same meaning assigned to it by the sri lanka atomic energy act, No. 40 of 2014 ;
+“security culture” means the assembly of characteristics, attitudes and behaviors of individuals, organizations 
+and institutions which serve as means to support, enhance and sustain nuclear security ;
+“security contingency plan” means a part of the security plan or a stand-alone document that identifies 
+reasonably foreseeable security events, provides initial planned actions, (including alerting appropriate 
+authorities) and assigns responsibilities to appropriate operator personnel and response personnel ;
+“site security plan” means a documents prepared by the operator that presents a detailed description of the 
+security arrangements in place at a facility ;
+“security event” means and event that is assessed as having implications for nuclear security ;
+“storage” means the holding of radioactive sources in a facility that provides for their containment with the 
+intention of retrieval ;
+“threat” means a person or group of persons with motivation, intention and capability to commit a malicious 
+act ;
+“trustworthiness determination” means an assessment of an individual’s integrity, honesty and reliability in 
+pre-employment checks and checks during employment that are intended to identify the motivation or 
+behaviour of persons who could become insiders ; and
+“unauthorized removal ” means the theft or other unlawful taking of radioactive sources.
+(Regulations 3, 4, 6 and 21)
+Schedule I
+taBle i
+seCuRity   leVels   assiGNed   to   CoMMoNly   used   souRCes
+Security
+Level
+Source Category
+a 
+Radioisotope thermoelectric generators (RtGs)
+irradiators used in sterilization and food preservation
+self-shielded irradiators
+Blood/tissue irradiators
+teletherapy sources
+Fixed multibeam teletherapy (gamma knife) sources
+1
+B industrial gamma radiography sources
+High/medium dose rate brachytherapy sources
+2
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+10a
+Security
+Level
+Source Category
+C
+Fixed /Mobile industrial gauges that incorporate high activity 
+radioactive sources given below with respect to different source types 
+and radionuclides
+level gauges
+Cs - 137 : activity 3.7e-02 tBq or higher 
+Co - 60 : activity 3.7e-03 tBq or higher
+Calibration sources 
+am - 241 : activity 1.9e-01 tBq or higher\
+Pu - 239/Be : activity 7.4e-02 tBq or higher
+Conveyor gauges
+Cs - 137 : activity 1.1e-04 tBq or higher
+Cf - 252 : activity 1.4e-03 or higher
+Blast furnace gauges
+Co - 60 : activity 3.7e-02 tBq or higher
+dredger gauges
+Cs - 137 : activity 7.4e-03 tBq or higher
+Co - 60 : activity 9.3e-03 tBq or higher
+Well logging gauges
+am - 241/Be : activity 1.9e-02 tBq or higher
+Cs - 137 : activity 3.7e-02 tBq or higher
+Cf - 252 : activity 1.0e-03 or higher
+3
+taBle  ii
+CateGoRizatioN   oF   RadioaCtiVe   souRCes
+Radioactive sources are categorized from category 1 to 5 in terms of the ratio of activity of their radionuclides and the 
+corresponding D value (Dangerous source) which is the radionuclide specific activity of a radioactive source which, if not 
+under control, could cause severe deterministic effects for a range of scenarios that include both external exposure from an 
+unshielded radioactive source and internal exposure following dispersal of material of the radioactive source.
+assignment of Categories for the Radioactive sources based on Radionuclide activity (a) and d
+a value
+Activity ratio (A/D) Based on D values Category
+A/D ≥1000 A ≥1000D 1
+1000 >A/D ≥10 1000D >A≥ 10D 2
+10 >A/D ≥1 10D>A ≥1D 3
+1 >A/D ≥ 0.01 1D >A  ≥0.01D 4
+0.01>a/d and more than exempt 
+activity
+0.01d> a and more than exempt 
+activity
+5
+ 
+a. d values for selected radionuclides are given in Column 3 of table iii
+Schedule I  (Contd.)
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+11a
+taBle  iii
+aCtiVity   CoRResPoNdiNG   to   a   daNGeRous   souRCe   (d V alue)   FoR    seleCted   
+RadioNuClides,   aNd   MultiPles   tHeReoF
+ Radionuclide 1000xD 10xD D
+  (TBq) (Ci)a (TBq) (Ci) a (TBq) (Ci) a
+am -241 6.e+01 2.e+03 6.e - 01 2.e+01 6.e -02 2.e + 00
+am - 241/Be 6.e+01 2.e+03 6.e - 01 2.e+01 6.e -02 2.e + 00
+Cf-252 2.e+01 5.e+02 2.e - 01 5.e -00 2.e -02 5.e - 01
+Cm -244 5.e+01 1.e+03 5.e - 01 1.e+01 5.e -02 1.e + 00
+Co - 60 3.e+01 8.e+02 3.e - 01 8.e+00 3.e -02 8.e - 01
+Cs -137 1.e+02 3.e+03 1.e + 00 3.e+01 1.e -01 3.e + 00
+Gd -153 1.e+03 3.e+04 1.e + 01 3.e + 02 1.e + 00 3.e + 01
+ir - 192 8.e+01 2.e+03 8.e - 01 2.e + 01 8.e - 02 2.e + 00
+Pm  -147 4.e+04 1.e+06 4.e + 02 1.e + 04 4.e + 01 1.e + 03
+Pu -238 6.e+01 2.e+03 6.e - 01 2.e + 01 6.e - 02 2.e + 00
+Pu -239b/Be 6.e+01 2.e+03 6.e - 01 2.e + 01 6.e - 02 2.e + 00
+Ra - 226 4.e+01 1.e+03 4.e - 01 1.e + 01 4.e - 02 1.e + 00
+se -75 2.e+02 5.e+03 2.e + 00 5.e + 01 2.e - 01 5.e + 00
+sr - 90 (y -90) 1.e+03 3.e+04 1.e + 01 3.e + 02 1.e + 00 3.e + 01
+tm  -170 2.e+04 5.e+05 2.e + 02 5.e + 03 2.e + 01 5.e + 02
+yb  - 169 3.e+02 8.e+03 3.e + 00 8.e + 01 3.e - 01 8.e + 00
+au -198* 2.e+02 5.e+03 2.e + 00 5.e + 01 2.e - 01 5.e + 00
+Cd - 109* 2.e+04 5.e+05 2.e + 02 5.e + 03 2.e + 01 5.e + 02
+Co - 57* 7.e+02 2.e+04 7.e + 00 2.e + 02 7.e - 01 2.e + 01
+Fe - 55* 8.e+05 2.e+07 8.e + 03 2.e + 05 8.e + 02 2.e + 04
+Ge - 68* 7.e+01 2.e+03 7.e - 01 2.e + 01 7.e - 02 2.e + 00
+Ni - 63* 6.e+04 2.e+06 6.e + 02 2.e + 04 6.e + 01 2.e + 03
+Pd - 103* 9.e+04 2.e+06 9.e + 02 2.e + 04 9.e + 01 2.e + 03
+Po - 210* 6.e+01 2.e+03 6.e - 01 2.e + 01 6.e - 02 2.e + 00
+Ru - 106 (Rh - 106)* 3.e+02 8.e+03 3.e + 00 8.e + 01 3.e - 01 8.e + 00
+tl -204* 2.e+04 5.e+05 2.e + 02 5.e + 03 2.e + 01 5.e + 02
+ a   the primary values to be used are given in tBq, Curie values are provided for practical usefulness and are rounded 
+after conversion.
+ b   Criticality and safeguards issues will need to be considered for multiples of d.
+ *   these radionuclides are very unlikely to be used in individual radioactive sources with activity levels that would place 
+them within Categories 1, 2 or 3 
+Note : d values of radionuclides which are not given in this annex is decided by the Council as and when such data is 
+required.
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+12a
+aggregation of sources
+there will be situations in which several radioactive sources are in close proximity, such as in manufacturing processes 
+(e. g. in the same room or building) or in storage facilities (e. g. in the same enclosure). in such circumstances, if only one 
+radionuclide is present the summed activity of the radioactive sources shall be divided by the appropriate d value of the 
+radionuclide and the calculated ratio a/d compared with the ratios a/d given in table ii to determine the corresponding 
+security level, if radioactive sources with various radionuclides are present and to be aggregated, then the sum of the ratios 
+a/d shall be used in determining the category, in accordance with  the formula :
+aggregate a/d =
+Where :
+a
+i,n = activity of each individual source i of radionuclide n. 
+dn = d value for radionuclide n.
+(Regulation 28)
+Schedule  II
+exaMPles   oF   CoNteNt   FoR   a   seCuRity   PlaN
+a security plan shall include all information necessary to describe the security approach and system being used for protection 
+of the sources (s). the level of detail and depth of content shall be commensurate with the security level of the source(s) 
+covered by the plan. the following topics shall typically be included :
+ (a) a description of the source, its categorization, and its use ;
+ (b) a description of the environment, building and/or facility where the sources is used or stored, and it appropriate a 
+diagram of the facility layout and security system ;
+ (c) the location of the building or facility relative to areas accessible to the public ;
+ (d) local security procedures ;
+ (e) the objectives of the security plan for the specific building or facility, including :-
+ (i) the specific concern to be addressed ; unauthorized removal, destruction, or malevolent use ;
+ (ii) the kind of control needed to prevent undesired consequences including the auxiliary equipment that might 
+be needed ; and
+ (iii) the equipment or premises that will be secured.
+ (f) the security measures to be used, including :-
+ (i) the measures to secure, provide surveillance, provide access control, detect, delay, respond and communicate 
+; and
+ (ii) the design features to evaluate the quality of the measures against the assumed threat ;
+ (g) the administrative measures to be used, including :-
+ (i) the security roles and responsibilities of management, staff and others ;
+ΣiΣn
+Ai, n
+Dn
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'07'04
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.07.2023
+13a
+PrinTeD aT The DeParTMenT OF GOVernMenT PrinTinG,  sri LanKa.
+ (ii) routine and non-routine operations, including accounting for the source (s) ;
+ (iii) maintenance and testing of equipment ;
+ (iv) determination of the trustworthiness of personnel ;
+ (v) the application of information security ;
+ (vi) methods for access authorization ;
+ (vii) security-related aspect of the emergency plan, including event reporting ;
+ (viii) training ; and
+ (ix) key control procedures.
+ (h) the procedures to address increased threat level ;
+ (i) the process for periodically evaluating the effectiveness of  the plan and updating it accordingly ;
+ (j) any compensatory measures that may need to be used ; and
+ (k) references to existing regulations or standards.
+eoG   07 - 0008
