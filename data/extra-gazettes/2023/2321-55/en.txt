@@ -1,0 +1,625 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2321$55 - 2023 ud¾;= ui 02 jeks n%yiam;skaod - 2023'03'02
+No. 2321/55  -  THURSDAY,  MARCH 02,  2023
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+*RYHUQPHQW1RWL¿FDWLRQV
+1A
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+SRI LANKA  ACCOUNTING  AND  AUDITING  STANDARDS  ACT, No. 15 of 1995
+Publication under Section 4(2)
+By virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the “Institute”), 
+the Institute has adopted the Interest Rate Benchmark Reform-Ph ase 2 Amendments to SLFRS 9 Financial Instruments 
+H൵HFWLYHIRUDQQXDOUHSRUWLQJSHULRGVEHJLQQLQJRQRUDIWHUst-DQXDU\SXEOLVKHGKHUHZLWKIRUWKHSXUSRVHRIWKH6UL
+/DQND$FFRXQWLQJDQG$XGLWLQJ6WDQGDUGV$FW1RRI7KLV6WDQGDUGVKDOOEHH൵HFWLYHIRUDQQXDOUHSRUWLQJSHULRGV
+EHJLQQLQJRQRUDIWHUst January 2021.   
+By Order of the Council, 
+ R.S. $ඇඈආൺ3උංඒൺൽൺඋඌඁൺඇං,
+  Secretary 
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A, 
+Malalasekera Mawatha,
+&RORPER
+02
+nd March, 2023.
+N.B.— 6LQKDODDQG7DPLOYHUVLRQVRIWKLV*D]HWWH([WUDRUGLQDU\DUHSXEOLVKHGVHSDUDWHO\
+1A - PG 6300 - (04/2023)
+
+
+<!-- page 2 -->
+
+2A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+Amendments to SLFRS 9 Financial Instruments 
+ 
+Paragraphs 5.4.5 –5.4.9, paragraphs 6.8.13, 6.9.1 –6.9.13, paragraphs 7.1.9 and 7.2.43 –7.2.46 are 
+added. A heading is added before paragraph 6.9.1 and subheading s are added before paragraphs 
+5.4.5, 6.9.7, 6.9.9, 6.9.11 and 7.2.43. For ease of reading these paragraphs have not been underlined 
+ 
+Amortised cost measurement 
+… 
+ 
+Changes in the basis for determining the contractual cash flows as a result of interest rate benchmark 
+reform 
+An entity shall apply paragraphs 5.4.6‒5.4.9 to a financial ass et or financial liability if, and only if, 
+the basis for determining the contractual cash flows of that financial asset or financial liability changes 
+as a result of interest rate benchmark reform. For this purpose, the  term ‘interest rate benchmark 
+reform’ refers to the market -wide reform of an interest rate benchmark as described in para graph 
+6.8.2. 
+The basis for determining the contractual cash flows of a finan cial asset or financial liability can 
+change: 
+(a) by amending the contractual terms specified at the initial recognition of the financial instrument 
+(for example, the contractual terms are amended to replace the referenced interest rate benchmark 
+with an alternative benchmark rate); 
+(b) in a way that was not considered by —or contemplated in —the  contractual terms at the initial 
+recognition of the financial instrument, without amending the contractual terms (for example, the 
+method for calculating the interest rate benchmark is altered w ithout amending the contractual 
+terms); and/or 
+(c) because of the activation of an existing contractual term (for example, an existing fallback clause 
+is triggered). 
+As a practical expedient, an entity shall apply paragraph B5.4. 5 to account for a change in the basis 
+for determining the contractual cash flows of a financial asset or financial liability that is required by 
+interest rate benchmark reform. This practical expedient applies only to such changes and only to the 
+extent the change is required by interest rate benchmark reform  (see also paragraph 5.4.9). For this 
+purpose, a change in the basis for determining the contractual cash flows is required by interest rate 
+benchmark reform if, and only if, both these conditions are met: 
+(a) the change is necessary as a direct consequence of interest rate benchmark reform; and  
+(b) the new basis for determining the contractual cash flows is eco nomically equivalent to the 
+previous basis (ie the basis immediately preceding the change) 
+Examples of changes that give rise to a new basis for determini ng the contractual cash flows that is 
+economically equivalent to the previous basis (ie the basis immediately preceding the change) are: 
+(a) the replacement of an existing interest rate benchmark used to determine the contractual cash 
+flows of a financial asset or financial liability with an alter native benchmark rate —or the 
+implementation of such a reform of an interest rate benchmark b y altering the method used to 
+calculate the interest rate benchmark—with the addition of a fixed spread necessary to compensate 
+for the basis difference between the existing interest rate benchmark and the alternative benchmark 
+rate; 
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    3A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+(b) changes to the reset period, reset dates or the number of days between coupon payment dates in 
+order to implement the reform of an interest rate benchmark; and 
+(c) the addition of a fallback provision to the contractual terms o f a financial asset or financial 
+liability to enable any change described in (a) and (b) above to be implemented. 
+If changes are made to a financial asset or financial liability  in addition to changes to the basis for 
+determining the contractual cash flows required by interest rat e benchmark reform, an entity shall 
+first apply the practical expedient in paragraph 5.4.7 to the c hanges required by interest rate 
+benchmark reform. The entity shall then apply the applicable re quirements in this Standard to any 
+additional changes to which the practical expedient does not apply. If the additional change does not 
+result in the derecognition of the financial asset or financial liability, the entity shall apply paragraph 
+5.4.3 or paragraph B5.4.6, as applicable, to account for that additional change. If the additional change 
+results in the derecognition of the financial asset or financia l liability, the entity shall apply the 
+derecognition requirements. 
+… 
+Temporary exceptions from applying specific hedge accounting requirements 
+End of application 
+… 
+6.8.13 An entity shall prospectively cease applying paragraphs 6.8.7 and 6.8.8 at the earlier of: 
+ 
+(a) when changes required by interest rate benchmark reform are mad e to the non-contractually 
+specified risk component applying paragraph 6.9.1; or 
+ 
+(b) when the hedging relationship in which the non-contractually sp ecified risk component is 
+designated is discontinued. 
+ 
+Additional temporary exceptions arising from interest rate benchmark reform 
+ 
+As and when the requirements in paragraphs 6.8.4–6.8.8 cease to apply to a hedging relationship (see 
+paragraphs 6.8.9–6.8.13), an entity shall amend the formal designation of that h edging relationship 
+as previously documented to reflect the changes required by int erest rate benchmark reform, ie the 
+changes are consistent with the requirements in paragraphs 5.4. 6–5.4.8. In this context, the hedge 
+designation shall be amended only to make one or more of these changes 
+ 
+(a) designating an alternative benchmark rate (contractually or non - contractually 
+specified) as a hedged risk; 
+(b) amending the description of the hedged item, including the desc ription of the 
+designated portion of the cash flows or fair value being hedged; or 
+(c) amending the description of the hedging instrument.  
+ 
+An entity also shall apply the requirement in paragraph 6.9.1(c) if these three conditions are met 
+(a) the entity makes a change required by interest rate benchmark reform using an approach other than 
+changing the basis for determining the contractual cash flows o f the hedging instrument (as 
+described in paragraph 5.4.6); 
+(b) the original hedging instrument is not derecognised; and 
+
+<!-- page 4 -->
+
+4A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+(c) the chosen approach is economically equivalent to changing the basis for determining the 
+contractual cash flows of the original hedging instrument (as d escribed in paragraphs 5.4.7 and 
+5.4.8). 
+ 
+The requirements in paragraphs 6.8.4–6.8.8 may cease to apply at different times. Therefore, in applying 
+paragraph 6.9.1, an entity may be required to amend the formal designation of its hedging relationships 
+a t  d i f f e r e n t  t i m e s ,  o r  m a y  b e  r e q u i r e d  t o  a m e n d  t h e  f o r m a l  d e s ignation of a hedging relationship more than 
+once. When, and only when, such a change is made to the hedge designation, an entity shall apply 
+paragraphs 6.9.7–6.9.12 as applicable. An entity also shall apply paragraph 6.5.8 (for a fair value hedge) 
+o r  p a r a g r a p h  6 . 5 . 1 1  ( f o r  a  c a s h  f l o w  h e d g e )  t o  a c c o u n t  f o r  a n y  changes in the fair value of the hedged item 
+or the hedging instrument. 
+ 
+An entity shall amend a hedging relationship as required in paragraph 6.9.1 by the end of the reporting 
+period during which a change required by interest rate benchmark reform is made to the hedged risk, 
+hedged item or hedging instrument. For the avoidance of doubt, such an amendment to the formal 
+designation of a hedging relationship constitutes neither the d iscontinuation of the hedging 
+relationship nor the designation of a new hedging relationship. 
+ 
+If changes are made in addition to those changes required by in terest rate benchmark reform to the 
+financial asset or financial liability designated in a hedging relationship (as described in paragraphs 
+5.4.6–5.4.8) or to the designation of the hedging relationship (as re quired by paragraph 6.9.1), an 
+entity shall first apply the applicable requirements in this St andard to determine if those additional 
+changes result in the discontinuation of hedge accounting. If t he additional changes do not result in 
+the discontinuation of hedge accounting, an entity shall amend the formal designation of the hedging 
+relationship as specified in paragraph 6.9.1. 
+ 
+Paragraphs 6.9.7–6.9.13 provide exceptions to the requirements specified in thos e paragraphs only. 
+An entity shall apply all other hedge accounting requirements i n this Standard, including the 
+qualifying criteria in paragraph 6.4.1, to hedging relationship s that were directly affected by interest 
+rate benchmark reform. 
+ 
+Accounting for qualifying hedging relationships 
+ 
+Cash flow hedges 
+ 
+For the purpose of applying paragraph 6.5.11, at the point when  an entity amends the description of 
+a hedged item as required in paragraph 6.9.1(b), the amount acc umulated in the cash flow hedge 
+reserve shall be deemed to be based on the alternative benchmar k rate on which the hedged future 
+cash flows are determined. 
+ 
+For a discontinued hedging relationship, when the interest rate benchmark on which the hedged future 
+cash flows had been based is changed as required by interest rate benchmark reform, for the purpose 
+of applying paragraph 6.5.12 in order to determine whether the hedged future cash flows are expected 
+to occur, the amount accumulated in the cash flow hedge reserve  for that hedging relationship shall 
+be deemed to be based on the alternative benchmark rate on which the hedged future cash flows will 
+be based. 
+Groups of items 
+ 
+When an entity applies paragraph 6.9.1 to groups of items designated as hedged items in a fair value 
+or cash flow hedge, the entity shall allocate the hedged items to subgroups based on the benchmark 
+rate being hedged and designate the benchmark rate as the hedge d  r i s k  f o r  e a c h  s u b g r o u p .  F o r  
+example, in a hedging relationship in which a group of items is hedged for changes in an interest rate 
+benchmark subject to interest rate benchmark reform, the hedged  cash flows or fair value of some 
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    5A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+items in the group could be changed to reference an alternative benchmark rate before other items in 
+the group are changed. In this example, in applying paragraph 6 .9.1, the entity would designate the 
+alternative benchmark rate as the hedged risk for that relevant  subgroup of hedged items. The entity 
+would continue to designate the existing interest rate benchmar k as the hedged risk for the other 
+subgroup of hedged items until the hedged cash flows or fair va lue of those items are changed to 
+reference the alternative benchmark rate or the items expire an d are replaced with hedged items that 
+reference the alternative benchmark rate. 
+ 
+Designation of risk components 
+ 
+An alternative benchmark rate designated as a non-contractually specified risk component that is not 
+separately identifiable (see paragraphs 6.3.7(a) and B6.3.8) at the date it is designated shall be deemed 
+to have met that requirement at that date, if, and only if, the entity reasonably expects the alternative 
+benchmark rate will be separately identifiable within 24 months. The 24-month period applies to each 
+alternative benchmark rate separately and starts from the date the entity designates the alternative 
+benchmark rate as a non-contractually specified risk component for the first time (ie the 24- month 
+period applies on a rate-by-rate basis). 
+ 
+If  subsequently an entity reasonably expects that the alternative benchmark rate will not be separately 
+identifiable within 24 months from the date the entity designat ed it as a non-contractually specified 
+risk component for the first time, the entity shall cease applying the requirement in paragraph 6.9.11 
+to that alternative benchmark rate and discontinue hedge accoun ting prospectively from the date of 
+that reassessment for all hedging relationships in which the alternative benchmark rate was designated 
+as a non- contractually specified risk component. 
+ 
+In addition to those hedging relationships specified in paragra ph 6.9.1, an entity shall apply the 
+requirements in paragraphs 6.9.11 and 6.9.12 to new hedging rel ationships in which an alternative 
+benchmark rate is designated as a non-contractually specified risk component (see paragraphs 6.3.7(a) 
+and B6.3.8) when, because of interest rate benchmark reform, th at risk component is not separately 
+identifiable at the date it is designated. 
+ 
+Effective date 
+… 
+ 
+7.1.9 Interest Rate Benchmark Reform—Phase 2, which amended SLFRS 9, LKAS 39, SLFRS 7, SLFRS 
+4 and SLFRS 16, issued in August 2020, added paragraphs 5.4.5 –5.4.9, 6.8.13, Section 6.9 and 
+paragraphs 7.2.43–7.2.46. An entity shall apply these amendments for annual perio ds beginning on 
+or after 1 January 2021. Earlier application is permitted. If an entity applies these amendments for an 
+earlier period, it shall disclose that fact 
+Transition 
+… 
+ 
+Transition for Interest Rate Benchmark Reform—Phase 2 
+ 
+An entity shall apply Interest Rate Benchmark Reform —Phase 2 retrospectively in accordance with 
+LKAS 8, except as specified in paragraphs 7.2.44–7.2.46. 
+ 
+An entity shall designate a new hedging relationship (for example, as described in paragraph 6.9.13) 
+
+<!-- page 6 -->
+
+6A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+only prospectively (ie an entity is prohibited from designating  a new hedge accounting relationship 
+in prior periods). However, an entity shall reinstate a discont inued hedging relationship if, and only 
+if, these conditions are met:
+(a) the entity had discontinued that hedging relationship solely due to changes required by interest
+rate benchmark reform and the entity would not have been requir ed to discontinue that hedging
+relationship if these amendments had been applied at that time; and
+(b) at the beginning of the reporting period in which an entity first applies these amendments (date
+of initial application of these amendments), that discontinued hedging relationship meets the
+qualifying criteria for hedge accounting (after taking into account these amendments)
+If, in applying paragraph 7.2.44, an entity reinstates a discon tinued hedging relationship, the entity 
+shall read references in paragraph s 6.9.11 and 6.9.12 to the da te the alternative benchmark rate is 
+designated as a non- contractually specified risk component for the first time as referring to the date 
+of initial application of these amendments (ie the 24-month period for that alternative benchmark rate 
+designated as a non-contractually specified risk component begins from the date of initial application 
+of these amendments).
+An entity is not required to restate prior periods to reflect t he application of these amendments. The 
+entity may restate prior periods if, and only if, it is possible without the use of hindsight. If an entity 
+does not restate prior periods, the entity shall recognise any difference between the previous carrying 
+amount and the carrying amount at the beginning of the annual reporting period that includes the date 
+of initial application of these amendments in the opening retai ned earnings (or other component of 
+equity, as appropriate) of the annual reporting period that inc ludes the date of initial application of 
+these amendments.
+Amendments to LKAS 39 Financial Instruments: Recognition and Measurement
+Paragraph 102M is amended. New text is underlined, and deleted text is struck through.
+Paragraphs 102O–102Z3 and 108H–108K are added. A heading is added before paragraph 102P 
+and subheadings are added before paragraphs 102P, 102V, 102Y and 102Z1. For ease of reading 
+these paragraphs have not been underlined.
+Temporary exceptions from applying specific hedge accounting requirements
+…
+End of application
+102M An entity shall prospectively cease applying paragraph 102G to a hedging relationship at the earlier 
+of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect
+to the hedged risk and the timing and the amount of the interest rate benchmark-based cash flows
+of the hedged item or and of the hedging instrument; and
+(b) when the hedging relationship to which the exception is applied is discontinued.
+…
+102O An entity shall prospectively cease applying paragraphs 102 H and 102I at the earlier of:
+(a) when changes required by interest rate benchmark reform are made to the non-contractually
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    7A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+specified risk portion applying paragraph 102P;
+or
+(b) when the hedging relationship in which the non-contractually specified risk portion is designated
+is discontinued.
+Additional temporary exceptions arising from interest rate benchmark reform
+Hedge accounting
+102P As and when the requirements in paragraphs 102D –102I cease to apply to a hedging relationship (see 
+paragraphs 102J –102O), an entity shall amend the formal designation of that hed ging relationship as 
+previously documented to reflect the changes required by intere st rate benchmark reform, ie the changes 
+are consistent with the requirements in paragraphs 5.4.6 –5.4.8 of SLFRS 9. In this context, the hedge 
+designation shall be amended only to make one or more of these changes:
+(a) designating an alternative benchmark rate (contractually or non- contractually specified) as a
+hedged risk;
+(b) amending the description of the hedged item, including the description of the designated portion
+of the cash flows or fair value being hedged;
+(c) amending the description of the hedging instrument; or
+(d) amending the description of how the entity will assess hedge effectiveness.
+102Q An entity also shall apply the requirement in paragraph 102P (c) if these three conditions are met:
+(a) the entity makes a change required by interest rate benchmar k reform using an approach other
+than changing the basis for determining the contractual cash flows of the hedging instrument (as
+described in paragraph 5.4.6 of SLFRS 9;
+(b) the original hedging instrument is not derecognised; and
+(c) the chosen approach is economically equivalent to changing t he basis for determining the
+contractual cash flows of the original hedging instrument (as d escribed in paragraphs 5.4.7 and
+5.4.8 of SLFRS 9).
+102R The requirements in paragraphs 102D–102I may cease to apply at different times. Therefore, applying 
+paragraph 102P, an entity may be required to amend the formal designation ofitshedgingrelationships
+atdifferent times, ormayberequiredtoamendtheformaldesignationofa hedgingrelationship more than
+once. When, and only when, such a change is made to the hedge designation, an entity shall apply 
+paragraphs 102V–102Z2 as applicable. An entity also shall apply paragraph 89 (for a fair value hedge) or
+paragraph 96 (for a cash flow hedge) to account for any changes in the fair value of the hedged item
+or the hedging instrument.
+102S An entity shall amend a hedging relationship as required in paragraph 102P by the end of the reporting 
+period during which a change required by interest rate benchmark reform is made to the hedged risk, 
+hedged item or hedging instrument. For the avoidance of doubt, such an amendment to the formal 
+designation of a hedging relationship constitutes neither the d iscontinuation of the hedging 
+relationship nor the designation of a new hedging relationship.
+
+<!-- page 8 -->
+
+8A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+102T If changes are made in addition to those changes required b y interest rate benchmark reform to the 
+financial asset or financial liability designated in a hedging relationship (as described in paragraphs 
+5.4.6–5.4.8 of SLFRS 9) or to the designation of the hedging relation ship (as required by paragraph 
+102P), an entity shall first apply the applicable requirements in this Standard to determine if those 
+additional changes result in the discontinuation of hedge accounting. If the additional changes do not 
+result in the discontinuation of hedge accounting, an entity shall amend the formal designation of the 
+hedging relationship as specified in paragraph 102P.
+102U Paragraphs 102V –102Z3 provide exceptions to the requirements specified in those paragraphs only. 
+An entity shall apply all other hedge accounting requirements i n this Standard, including the 
+qualifying criteria in paragraph 88, to hedging relationships that were directly affected by interest rate 
+benchmark reform.
+Accounting for qualifying hedging relationships
+Retrospective effectiveness assessment
+102V For the purpose of assessing the retrospective effectivenes s of a hedging relationship on a cumulative 
+basis applying paragraph 88(e) and only for this purpose, an en tity may elect to reset to zero the 
+cumulative fair value changes of the hedged item and hedging in strument when ceasing to apply 
+paragraph 102G as required by paragraph 102M. This election is made separately for each hedging 
+relationship (ie on an individual hedging relationship basis).
+Cash flow hedges
+102W For the purpose of applying paragraph 97, at the point when an entity amends the description of a 
+hedged item as required in paragraph 102P(b), the cumulative ga in or loss in other comprehensive 
+income shall be deemed to be based on the alternative benchmark  rate on which the hedged future 
+cash flows are determined.
+102X For a discontinued hedging relationship, when the interest rate benchmark on which the hedged future 
+cash flows had been based is changed as required by interest rate benchmark reform, for the purpose 
+of applying paragraph 101(c) in order to determine whether the hedged future cash flows are expected 
+to occur, the amount accumulated in other comprehensive income for that hedging relationship shall 
+be deemed to be based on the alternative benchmark rate on which the hedged future cash flows will 
+be based.
+Groups of items
+102Y When an entity applies paragraph 102P to groups of items de signated as hedged items in a fair value 
+or cash flow hedge, the entity shall allocate the hedged items to subgroups based on the benchmark 
+rate being hedged and designate the benchmark rate as the hedge d  r i s k  f o r  e a c h  s u b g r o u p .  F o r  
+example, in a hedging relationship in which a group of items is hedged for changes in an interest rate 
+benchmark subject to interest rate benchmark reform, the hedged cash flows or fair value of some 
+items in the group could be changed to reference an alternative benchmark rate before other items in 
+the group are changed. In this example, in applying paragraph 1 02P, the entity would designate the 
+alternative benchmark rate as the hedged risk for that relevant  subgroup of hedged items. The entity 
+would continue to designate the existing interest rate benchmar k as the hedged risk for the other 
+subgroup of hedged items until the hedged cash flows or fair va lue of those items are changed to 
+reference the alternative benchmark rate or the items expire an d are replaced with hedged items that 
+reference the alternative benchmark rate.
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    9A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+102Z An entity shall assess separately whether each subgroup me ets the requirements in paragraphs 78 and 
+83 to be an eligible hedged item. If any subgroup fails to meet the requirements in paragraphs 78 and 
+83, the entity shall discontinue hedge accounting prospectively  for the hedging relationship in its 
+entirety. An entity also shall apply the requirements in paragr aphs 89 or 96 to account for 
+ineffectiveness related to the hedging relationship in its entirety. 
+ 
+Designating financial items as hedged items 
+ 
+102Z1 An alternative benchmark rate designated as a non-contrac tually specified risk portion that is not 
+separately identifiable (see paragraphs 81 and AG99F) at the date it is designated shall be deemed to 
+have met that requirement at that date, if, and only if, the en tity reasonably expects the alternative 
+benchmark rate will be separately identifiable within 24 months. The 24-month period applies to each 
+alternative benchmark rate separately and starts from the date the entity designates the alternative 
+benchmark rate as a non-contractually specified risk portion for the first time (ie the 24-month period 
+applies on a rate-by-rate basis). 
+ 
+102Z2 If subsequently an entity reasonably expects that the alt ernative benchmark rate will not be separately 
+identifiable within 24 months from the date the entity designat ed it as a non-contractually specified 
+risk portion for the first time, the entity shall cease applyin g the requirement in paragraph 102Z1 to 
+that alternative benchmark rate and discontinue hedge accounting prospectively from the date of that 
+reassessment for all hedging relationships in which the alternative benchmark rate was designated as 
+a non- contractually specified risk portion. 
+ 
+102Z3 In addition to those hedging relationships specified in p aragraph 102P, an entity shall apply the 
+requirements in paragraphs 102Z1 and 102Z2 to new hedging relat ionships in which an alternative 
+benchmark rate is designated as a non-contractually specified r isk portion (see p aragraphs 81 and 
+AG99F) when, because of interest rate benchmark reform, that ri sk portion is not separately 
+identifiable at the date it is designated. 
+ 
+Effective date and transition 
+... 
+ 
+108H Interest Rate Benchmark Reform —Phase 2, which amended SLFRS 9, LKAS 39, SLFRS 7, SLFRS 
+4 and SLFRS 16, issued in August 2020, added paragraphs 102O –102Z3 and 108I –108K, and 
+amended paragraph 102M. An entity shall apply these amendments for annual periods beginning on 
+or after 1 January 2021. Earlier application is permitted. If an entity applies these amendments for an 
+earlier period, it shall disclose that fact. An entity shall ap ply these amendments retrospectively in 
+accordance with LKAS 8, except as specified in paragraphs 108I–108K. 
+ 
+108I An entity shall designate a new hedging relationship (for example, as described in paragraph 102Z3) 
+only prospectively (ie an entit y is prohibited from designating  a new hedge accounting relationship 
+in prior periods). However, an entity shall reinstate a discont inued hedging relationship if, and only 
+if, these conditions are met: 
+ 
+(a) the entity had discontinued that hedging relationship solely du e to changes required by interest 
+rate benchmark reform and the entity would not have been requir ed to discontinue that hedging 
+relationship if these amendments had been applied at that time; and 
+ 
+
+<!-- page 10 -->
+
+10A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+(b) at the beginning of the reporting period in which an entity fir st applies these amendments (date 
+of initial application of these amendments), that discontinued hedging relationship meets the 
+qualifying criteria for hedge accounting (after taking into account these amendments). 
+ 
+108J If, in applying paragraph 108I, an entity reinstates a dis continued hedging relationship, the entity shall 
+read references in paragraphs 102Z1 and 102Z2 to the date the a lternative benchmark rate is 
+designated as a non-contractually specified risk portion for th e first time as referring to the date of 
+initial application of these amendments (ie the 24-month period  for that alternative benchmark rate 
+designated as a non-contractually specified risk portion begins  from the date of initial application of 
+these amendments). 
+ 
+108K An entity is not required to restate prior periods to refl ect the application of these amendments. The 
+entity may restate prior periods if, and only if, it is possible without the use of hindsight. If an entity 
+does not restate prior periods, the entity shall recognise any difference between the previous carrying 
+amount and the carrying amount at the beginning of the annual reporting period that includes the date 
+of initial application of these amendments in the opening retai ned earnings (or other component of 
+equity, as appropriate) of the annual reporting period that inc ludes the date of initial application of 
+these amendments. 
+ 
+Amendments to SLFRS 7 Financial Instruments: Disclosures 
+ 
+Paragraphs 24I–24J and 44GG–44HH are added and a subheading is added before paragraph 24I. 
+For ease of reading these paragraphs have not been underlined. 
+ 
+Other disclosures 
+... 
+ 
+Additional disclosures related to interest rate benchmark reform 
+ 
+24I To enable users of financial statements to understand the effect of interest rate benchmark reform on 
+an entity’s financial instruments and risk management strategy,  an entity shall disclose inform ation 
+about: 
+ 
+(a) the nature and extent of risks to which the entity is exposed a rising from financial instruments 
+subject to interest rate benchmark reform, and how the entity manages these risks; and 
+ 
+(b) the entity’s progress in completing the transition to alternative benchmark rates, and how the entity 
+is managing the transition. 
+ 
+24J To meet the objectives in paragraph 24I, an entity shall di sclose: 
+ 
+(a) how the entity is managing the transition to alternative benchmark rates, its progress at the reporting 
+date and the risks to which it is exposed arising from financial instruments because of the transition; 
+ 
+(b) disaggregated by significant interest rate benchmark subject to  interest rate benchmark reform, 
+quantitative information about financial instruments that have yet to transition to an alternative 
+benchmark rate as at the end of the reporting period, showing separately: 
+ 
+(i) non-derivative financial assets; 
+ 
+(ii) non-derivative financial liabilities; and 
+ 
+(iii) derivatives; and 
+ 
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    11A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+(c) if the risks identified in paragraph 24J(a) have resulted in changes to an entity’s risk management 
+strategy (see paragraph 22A), a description of these changes. 
+… 
+ 
+Effective date and transition 
+  
+… 
+ 
+44GG Interest Rate Benchmark Reform —Phase 2, which amended SLFRS 9, LKAS 39, SLFRS 7, SLFRS 4 and 
+SLFRS 16, issued in August 2020, added paragraphs 24I–24J and 44HH. An entity shall apply these 
+amendments when it applies the amendments to SLFRS 9, LKAS 39, SLFRS 4 or SLFRS 16. 
+ 
+44HH In the reporting period in which an entity first applies Interest Rate Benchmark Reform —Phase 2, an 
+entity is not required to disclose the information that would o therwise be required by paragraph 28(f) 
+of LKAS 8. 
+Amendments to SLFRS 4 Insurance Contracts 
+ 
+Paragraphs 20R –20S and paragraphs 50 –51 are added. A subheading is added before paragraph 
+20R. For ease of reading these paragraphs have not been underlined. 
+ 
+Recognition and measurement   
+… 
+Changes in the basis for determining the contractual cash flows as a result of interest 
+rate benchmark reform 
+ 
+20R An insurer applying the temporary exemption from SLFRS 9 sh all apply the requirements in 
+paragraphs 5.4.6‒5.4.9 of SLFRS 9 to a financial asset or financial liability if, and only if, the basis for 
+determining the contractual cash flows of that financial asset or financial liability changes as a result of 
+interest rate benchmark reform. For this purpose, the term ‘interest r ate  benchmark reform’ refers to the 
+market-wide reform of an interest rate benchmark as described in paragraph 102B of LKAS 39. 
+ 
+20S For the purpose of applying paragraphs 5.4.6 –5.4.9 of the amendments to SLFRS 9, the references to 
+paragraph B5.4.5 of SLFRS 9 shall be read as referring to paragraph AG7 of LKAS 39. References to 
+paragraphs 5.4.3 and B5.4.6 of SLFRS 9 shall be read as referring to paragraph AG8 of LKAS 39. 
+… 
+ 
+Effective date and transition 
+  
+… 
+ 
+50 Interest Rate Benchmark Reform —Phase 2, which amended SLFRS 9, LKAS 39, SLFRS 7, SLFRS 4 and 
+SLFRS 16, issued in August 2020, added paragraphs 20R –20S and paragraph 51. An entity shall apply 
+these amendments for annual periods beginning on or after 1 Jan uary 2021. Earlier application is 
+permitted. If an entity applies these amendments for an earlier period, it shall disclose that fact. An entity 
+shall apply these amendments retrospectively in accordance with  L K A S  8 ,  e x c e p t  a s  s p e c i f i e d  i n  
+paragraph 51. 
+
+<!-- page 12 -->
+
+12A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+51. An entity is not required to restate prior periods to refle ct the application of these amendments. The 
+entity may restate prior periods if, and only if, it is possible without the use of hindsight. If an entity 
+does not restate prior periods, the entity shall recognise any difference between the previous carrying 
+amount and the carrying amount at the beginning of the annual reporting period that includes the date 
+of initial application of these amendments in the opening retai ned earnings (or other component of 
+equity, as appropriate) of the annual reporting period that inc ludes the date of initial application of 
+these amendments. 
+Amendments to SLFRS 16 Leases 
+ 
+Paragraphs 104–106 and paragraphs C1B and C20C–C20D are added. A heading is added before 
+paragraph 104 and a subheading is added before paragraph C20C. For ease of reading these 
+paragraphs have not been underlined. 
+ 
+Temporary exception arising from interest rate benchmark reform 
+ 
+104 A lessee shall apply paragraphs 105 –106 to all lease modifications that change the basis for determining 
+future lease payments as a result of interest rate benchmark reform (see paragraphs 5.4.6 and 5.4.8 of 
+SLFRS 9). These paragraphs apply only to such lease modifications. For this pur pose, the term ‘interest 
+rate benchmark reform’ refers to the market-wide reform of an interest rate benchmark as described in 
+paragraph 6.8.2 of SLFRS 9 
+ 
+105 As a practical expedient, a lessee shall apply paragraph 42  to account for a lease modification required 
+by interest rate benchmark reform. This practical expedient app lies only to such modifications. For 
+this purpose, a lease modification is required by interest rate  benchmark reform if, and only if, both 
+of these conditions are met: 
+ 
+(a) the modification is necessary as a direct consequence of interest rate benchmark reform; and 
+ 
+(b) the new basis for determining the lease payments is economically equivalent to the previous basis 
+(ie the basis immediately preceding the modification) 
+ 
+106 However, if lease modifications are made in addition to tho se lease modifications required by interest 
+rate benchmark reform, a lessee shall apply the applicable requ irements in this Standard to account 
+for all lease modifications made at the same time, including those required by interest rate benchmark 
+reform. 
+ … 
+ 
+Effective date 
+ 
+… 
+ 
+C1B Interest Rate Benchmark Reform —Phase 2, which amended SLFRS 9, LKAS 39, SLFRS 7, SLFRS 
+4 and SLFRS 16, issued in August 2020, added paragraphs 104–106 and C20C–C20D. An entity shall 
+apply these amendments for annual reporting periods beginning o n or after 1 January 2021. Earlier 
+application is permitted. If an entity applies these amendments for an earlier period, it shall disclose 
+that fact. 
+ 
+ 
+ 
+ 
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    13A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+Transition
+…
+Interest Rate Benchmark Reform—Phase 2
+C20C An entity shall apply these amendments retrospectively in a ccordance with LKAS 8, except as 
+specified in paragraph C20D
+C20D An entity is not required to restate prior periods to refle ct the application of these amendments. The 
+entity may restate prior periods if, and only if, it is possibl e without the use of hindsight. If an entity 
+does not restate prior periods, the entity shall recognise any difference between the previous carrying 
+amount and the carrying amount at the beginning of the annual reporting period that includes the date 
+of initial application of these amendments in the opening retai ned earnings (or other component of 
+equity, as appropriate) of the annual reporting period that inc ludes the date of initial application of 
+these amendments
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+(2*

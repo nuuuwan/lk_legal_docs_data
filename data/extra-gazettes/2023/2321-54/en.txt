@@ -1,0 +1,1701 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2321$54 - 2023 ud¾;= ui 02 jeks n%yiam;skaod - 2023'03'02
+No. 2321/54  -  THURSDAY,  MARCH 02,  2023
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+*RYHUQPHQW1RWL¿FDWLRQV
+1A
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+SRI LANKA  ACCOUNTING  AND  AUDITING  STANDARDS  ACT, No. 15 of 1995
+Publication under Section 4(2)
+By virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the “Institute”), 
+the Institute has adopted the Interest Rate Benchmark Reform Ph ase 1-Amendments to SLFRS 9 Financial Instruments 
+H൵HFWLYHIRUDQQXDOUHSRUWLQJSHULRGVEHJLQQLQJRQRUDIWHUst-DQXDU\SXEOLVKHGKHUHZLWKIRUWKHSXUSRVHRIWKH6UL
+/DQND$FFRXQWLQJDQG$XGLWLQJ6WDQGDUGV$FW1RRI7KLV6WDQGDUGVKDOOEHH൵HFWLYHIRUDQQXDOUHSRUWLQJSHULRGV
+EHJLQQLQJRQRUDIWHUst January 2020.  
+By Order of the Council, 
+ R.S. $ඇඈආൺ3උංඒൺൽൺඋඌඁൺඇං,
+  Secretary 
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A, 
+Malalasekera Mawatha,
+&RORPER
+02
+nd March, 2023.
+N.B.— 6LQKDODDQG7DPLOYHUVLRQVRIWKLV*D]HWWH([WUDRUGLQDU\DUHSXEOLVKHGVHSDUDWHO\
+1A - PG 6299 - (03/2023)
+
+
+<!-- page 2 -->
+
+2A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+Amendments to SLFRS 9 Financial Instruments
+Paragraphs 6.8.1–6.8.12 and 7.1.8 are added. A new  heading is added before paragraph 6.8.1. New 
+subheadings are added before paragraphs 6.8.4, 6.8.5, 6.8.6, 6. 8.7 and 6.8.9. These paragraphs have 
+not been underlined for ease of reading.
+Paragraph 7.2.26 is amended. New text in this paragraph is underlined.
+Chapter 6 Hedge accounting
+...
+6.8. Temporary exceptions from applying specific hedge accountin g requirements
+6.8.1 An entity shall apply paragraphs 6.8.4 –6.8.12 and paragraphs 7.1.8 and 7.2.26(d) to all hedging 
+relationships directly affected by interest rate benchmark reform. These paragraphs apply only to such 
+hedging relationships. A hedging relationship is directly affec ted by interest rate benchmark reform
+only if the reform gives rise to uncertainties about:
+(a) the interest rate benchmark (contractually or non-contractually  specified) designated as a
+hedged risk; and/or
+(b) thetimingortheamountofinterestratebenchmark-basedcashflows of the hedged item or of the
+hedging instrument.
+6.8.2 For the purpose ofapplying paragraphs 6.8.4–6.8.12, the term‘interestrate benchmark reform’ refers to 
+the market-wide reform of an interest rate benchmark, including the replacement of an interest rate
+benchmark with an alternative benchmark rate such as that resulting fromthe recommendations set out in
+the Financial StabilityBoard’s July 2014 report‘Reforming Major Interest Rate Benchmarks’.1
+6.8.3 Paragraphs 6.8.4 –6.8.12 provide exceptions only to the requirements specified in these paragraphs. An 
+entity shall continue to apply all other hedge accounting requirements to hedging relationships directly
+affected by interest rate benchmark reform.
+Highly probable requirement for cash flow hedges
+6.8.4 For the purpose of determining whether a forecast transact ion (or a component thereof) is highly 
+probable as required by paragraph 6.3.3, an entity shall assume that the interest rate benchmark on
+which the hedged cash flows (contractually or non-contractually specified) are based is not altered as
+a result of interest rate benchmark reform.
+Reclassifying the amount accumulated in the cash flow hedge reserve
+6.8.5 For the purpose of applying the requirement in paragraph 6.5.12 in order to determine whether the
+hedged future cash flows are expected to occur, an entity shall assume that the interest rate benchmark
+on which the hedged cash flows (contractually or non-contractually specified) are based is not altered
+as a result of interest rate benchmark reform.
+Assessing the economic relationship between the hedged item and the hedging instrument
+6.8.6 For the purpose of applying the requirements in paragraphs 6.4.1(c)(i) and B6.4.4–B6.4.6, an entity
+shall assume that the interest rate benchmark on which the hedged cash flows and/or the hedged risk
+1 The report, 'Reforming Major Interest Rate Benchmarks', is available at http://www.fsb.org/wp- content/uploads/r_140722.pdf.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    3A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+(contractually or non- contractually specified) are based, or the interest rate benchmark on which the
+cash flows of the hedging instrument are based, is not altered as a result of interest rate benchmark
+reform.
+Designating a component of an item as a hedged item
+6.8.7 Unless paragraph 6.8.8 applies, for a hedge of a non-contractually specified benchmark component of 
+interest rate risk, an entity shall apply the requirement in paragraphs 6.3.7(a) and B6.3.8—that the risk
+component shall beseparatelyidentifiable —onlyattheinceptionofthehedgingrelationship.
+6.8.8 When an entity, consistent with its hedge documentation, frequently resets (ie discontinues and restarts) a
+hedging relationship because both the hedging instrument and the hedged item frequently change (ie 
+the entity uses a dynamic process in which both the hedged items and the hedging instruments used to
+manage that exposure do not remain the same for long), the entity shall apply the requirement in
+paragraphs 6.3.7(a) and B6.3.8—that the risk component is separately identifiable—only when it 
+initially designates a hedged item in that hedging relationship. A hedged item that has been assessed 
+at the time of its initial designation in the hedging relationship, whether it was at the time of the hedge 
+inception or subsequently, is not reassessed at any subsequent redesignation in the same hedging
+relationship.
+End of application
+6.8.9 Anentityshallprospectivelyceaseapplyingparagraph6.8.4toahe dgeditem at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with
+respect to the timing and the amount of the interest rate benchmark-basedcash flows of the
+hedged item;and
+(b) when the hedging relationship that the hedged item is part of is discontinued.
+6.8.10 An entity shall prospectively cease applying paragraph 6.8.5 at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with
+respect to the timing and the amount of the interest rate benchmark-basedfuture cash flows of
+the hedged item; and
+(b) when the entire amount accumulated in the cash flow hedge reserve with r e s p e c t  t o  t h a t
+discontinued hedging relationship has been reclassified to profitor loss.
+6.8.11 An entity shall prospectively cease applying paragraph 6.8.6:
+(a) to a hedged item, when the uncertainty arising from interest  rate benchmarkreformisnolonger
+present with respect to the hedged risk or the timing and the amount of the interest rate
+benchmark-based cash flows of the hedged item; and
+(b) to a hedging instrument, when the uncertainty arising from interest rate benchmark reformis no
+longer present with respect to the timing andtheamountoftheinterestratebenchmark-basedcash
+flowsofthe hedging instrument.
+If the hedging relationship that the hedged item and the hedging instrument are part of is discontinued 
+earlier than the date specified i n paragraph 6.8.11(a) or the date specified in paragraph 6.8.11(b), the
+entity shall prospectively cease applying paragraph 6.8.6 to that hedging relationship at the date of
+discontinuation.
+
+<!-- page 4 -->
+
+4A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+6.8.12 When designating a group of items as the hedged item, or  a combination of financial instruments as the 
+hedging instrument, an entity shall prospectively cease applying paragraphs 6.8.4–6.8.6 to an individual 
+item or financial instrument in accordance with paragraphs 6.8.9, 6.8.10, or 6.8.11, as relevant, when the 
+uncertainty arising from interest rate benchmark reform is no longer present with respect to the hedged 
+risk and/or the timing and the amount of the interest rate benchmark-based cash flows of that item or 
+financial instrument. 
+ 
+Chapter 7 Effective date and transition 
+ 
+7.1 Effective date 
+... 
+7.1.8  Interest Rate Benchmark Reform, which amended SLFRS 9, LKAS 39 and SLFRS 7, issued in September 
+2019, added Section 6.8 and amended paragraph 7.2.26. An entity  shall apply these amendments for 
+annual periods beginning on or after 1 January 2020. Earlier application is permitted. If an entity applies 
+these amendments for an earlier period, it shall disclose that fact. 
+Transition 
+... 
+ 
+Transition for hedge accounting (Chapter 6) 
+... 
+7.2.26 As an exception to prospective application of the hedge accounting requirements of this Standard, an 
+entity: 
+... 
+(d)  shall apply the requirements in Section 6.8 retrospectivel y. This retrospective application 
+applies only to those hedging relationships that existed at the beginning of the reporting period in 
+which an entity first applies those requirements or were designated thereafter, and to the amount 
+accumulated in the cash flow hedge reserve that existed at the beginning of the reporting period in 
+which an entity first applies those requirements. 
+ 
+Amendments to LKAS 39 Financial Instruments: Recognition and Measurement 
+ 
+Paragraphs 102A–102N and 108G are added. A new heading is added before paragraph 102A. New 
+subheadings are added before paragraphs 102D, 102E, 102F, 102H and 102J. These paragraphs have 
+not been underlined for ease of reading. 
+ 
+Hedging 
+ …. 
+ 
+Temporary exceptions from applying specific hedge accounting requirements 
+102A An entity shall apply paragraphs 102D –102N and 108G to all hedging relationships directly affected 
+by interest rate benchmark reform. These paragraphs apply only to such hedging relationships. A hedging 
+relationship is directly affected by interest rate benchmark reform only if the  r ef orm  g i v e s  r i s e  t o  
+uncertainties about: 
+(a) the interest rate benchmark (contractually or non-contractually  specified) designated as a 
+hedged risk; and/or 
+(b) the timing or the amount of interest rate benchmark-based cash flows of the hedged item or of the 
+hedging instrument. 
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    5A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+102B For the purpose of applying paragraphs 102D –102N, the term ‘interest rate benchmark reform’ refers 
+to the market-wide reform of an interest rate benchmark, including the replacement of an interest rate 
+benchmark with an alternative benchmark rate such as that resul ting from the recommendations set out in 
+the Financial Stability Board’s July 2014 report ‘Reforming Major Interest Rate Benchmarks’.2 
+ 
+102C Paragraphs 102D –102N provide exceptions only to the requirements specified in these paragraphs. An 
+entity shall continue to apply all other hedge accounting requirements to hedging relationships directly 
+affected by interest rate benchmark reform. 
+Highly probable requirement for cash flow hedges 
+102D For the purpose of applying the requirement in paragraph 88(c) that a forecast transaction must be highly 
+probable, an entity shall assume that the interest rate benchma rk on which the hedged cash flows 
+(contractually or non- contractually specified) are based is no t altered as a result of interest rate 
+benchmark reform. 
+Reclassifying the cumulative gain or loss recognised in other comprehensive income 
+102E For the purpose of applying the requirement in paragraph 1 01(c) in order to determine whether the 
+forecast transaction is no longer expected to occur, an entity shall assume that the interest rate benchmark 
+on which the hedged cash flows (contractually or non-contractually specified) are based is not altered 
+as a result of interest rate benchmark reform. 
+Effectiveness assessment 
+102F For the purpose of applying the requirements in paragraphs  88(b) and AG105(a), an entity shall assume 
+that the interest rate benchmark on which the hedged cash flows and/or the hedged risk (contractually 
+or non- contractually specified) are based, or the interest rate benchmark on which the cash flows of the 
+hedging instrument are based, is not altered as a result of interest rate benchmark reform. 
+ 
+102G For the purpose of applying the requirement in paragraph 8 8(e), an entity is not required to discontinue a 
+hedging relationship because the actual results of the hedge do not meet the requirements in paragraph 
+AG105(b). For the avoidance of doubt, an entity shall apply the other conditions in paragraph 88, including 
+the prospective assessment in paragraph 88(b), to assess whethe r the hedging relationship must be 
+discontinued. 
+Designating financial items as hedged items 
+102H Unless paragraph 102I applies, for a hedge of a non-contractually specified benchmark portion of interest 
+rate risk, an entity shall apply the requirement in paragraphs 81 and AG99F —that the designated portion 
+shall be separately identifiable—only at the inception of the hedging relationship. 
+102I When an entity, consistent with its hedge documentation, f requently resets (ie discontinues and restarts) a 
+hedging relationship because both the hedging instrument and the hedged item frequently change (ie 
+the entity uses a dynamic process in which both the hedged items and the hedging instruments used to 
+manage that exposure do not remain the same for long), the enti ty shall apply the requirement in 
+paragraphs 81 and AG99F—that the designated portion is separately identifiable—only when it initially 
+designates a hedged item in that hedging relationship. A hedged item that has been assessed at the time of its 
+initial designation in the hedging relationship, whether it was  at the time of the hedge inception or 
+subsequently, is not reassessed at any subsequent redesignation in the same hedging relationship. 
+ 
+                                                           
+2  The report, 'Reforming Major Interest Rate Benchmarks', is avai lable at http://www.fsb.org/wp- content/uploads/r_140722.pdf. 
+
+<!-- page 6 -->
+
+6A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+End of application 
+102J An entity shall prospectively cease applying paragraph 102D to a hedged item at the earlier of: 
+(a) when the uncertainty arising from interest rate benchmark refor m is no longer present with 
+respect to the timing and the amount of the interest rate bench mark-based cash flows of the 
+hedged item; and 
+(b) when the hedging relationship that the hedged item is part of is discontinued. 
+ 
+102K An entity shall prospectively cease applying paragraph 102 E at the earlier of: 
+(a) when the uncertainty arising from interest rate benchmark refor m is no longer present with 
+respect to the timing and the am ount of the interest rate benchmark-based future cash flows of 
+the hedged item; and 
+(b) when the entire cumulative gain or loss recognised in other comprehensive income with respect 
+to that discontinued hedging relationship has been reclassified to profit or loss. 
+102L An entity shall prospectively cease applying paragraph 102 F: 
+(a) to a hedged item, when the uncertainty arising from interest rate benchmark reform is no longer 
+present with respect to the hedged risk or the timing and the amount of the interest rate benchmark-
+based cash flows of the hedged item; and 
+(b) to a hedging instrument, when the uncertainty arising from interest rate benchmark reform is no 
+longer present with respect to the timing and the amount of the interest rate benchmark-based cash 
+flows of the hedging instrument. 
+ 
+If  the hedging relationship that the hedged item and the hedging instrument are part of is discontinued 
+earlier than the date specified in paragraph 102L(a) or the dat e specified in paragraph 102L(b), the entity 
+shall prospectively cease applying paragraph 102F to that hedging relationship at the dat e of 
+discontinuation. 
+ 
+102M An entity shall prospectively cease applying paragraph 102 G to a hedging relationship at the earlier 
+of: 
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect 
+to the hedged risk and the timing and the amount of the interest rate benchmark-based cash flows 
+of the hedged item or of the hedging instrument; and 
+(b) when the hedging relationship to which the exception is applied is discontinued. 
+ 
+102N When designating a group of items as the hedged item, or a  combination of financial instruments as the 
+hedging instrument, an entity shall prospectively cease applying paragraphs 102D–102G to an individual 
+item or financial instrument in accordance with paragraphs 102J , 102K, 102L, or 102M, as relevant, 
+when the uncertainty arising from interest rate benchmark refor m is no longer present with respect to the 
+hedged risk and/or the timing and the amount of the interest rate benchmark-based cash flows of that 
+item or financial instrument. 
+ 
+Effective date and transition 
+... 
+108G Interest Rate Benchmark Reform , which amended SLFRS 9, LKAS 39 and SLFRS 7, issued in September 
+2019, added paragraphs 102A–102N. An entity shall apply these amendments for annual periods beginning 
+on or after 1 January 2020. Earlier application is permitted. If an entity applies these amendments for an 
+earlier period, it shall disclose that fact. An entity shall ap ply these amendments retrospectively to 
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    7A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+those hedging relationships that existed at the beginning of the reporting period in which an entity first 
+applies these amendments or were designated thereafter, and to the gain or loss recognised in other 
+comprehensive income that existed at the beginning of the reporting period in which an entity first applies 
+these amendments. 
+ 
+Amendments to SLFRS 7 Financial Instruments: Disclosures 
+ 
+Paragraphs 24H and 44DE –44DF are added and a subheading is added before paragraph 24H. 
+These paragraphs have not been underlined for ease of reading. 
+ 
+Hedge accounting 
+… 
+ Uncertainty arising from in terest rate benchmark reform 
+24H For hedging relationships to which an entity applies the ex ceptions set out in paragraphs 6.8.4–6.8.12 of 
+SLFRS 9 or paragraphs 102D–102N of LKAS 39, an entity shall disclose: 
+(a) the significant interest rate benchmarks to which the entity’s hedging relationships are exposed; 
+(b) the extent of the risk exposure the entity manages that is dire ctly affected by the interest rate 
+benchmark reform; 
+(c) how the entity is managing the process to transition to alternative benchmark rates; 
+(d) a description of significant assumptions or judgements the entity made in applying these paragraphs 
+(for example, assumptions or judgements about when the uncertainty arising from interest rate 
+benchmark reform is no longer present with respect to the timing and the amount of the interest rate 
+benchmark-based cash flows); and 
+(e) the nominal amount of the hedging instruments in those hedg ing relationships. 
+ 
+Effective date and transition 
+  
+ ...  
+44DE Interest Rate Benchmark Reform , which amended SLFRS 9, LKAS 39 and SLFRS 7, issued in September 
+2019, added paragraphs 24H and 44DF. An entity shall apply thes e amendments when it applies the 
+amendments to SLFRS 9 or LKAS 39. 
+44DF In the reporting period in which an entity first applies Interest Rate Benchmark Reform , issued in 
+September 2019, an entity is not required to present the quantitative information required by paragraph 
+28(f) of LKAS 8 Accounting Policies, Changes in Accounting Estimates and Errors. 
+ 
+Amendments to the Basis for Conclusions on SLFRS 9 Financial Instruments 
+This Basis for Conclusions accompanies, but is not part, of SLFRS 9. 
+ 
+After paragraph BC6.545, new headings and paragraphs BC6.546–BC6.603 are added. 
+ 
+Hedge accounting (Chapter 6) 
+ … 
+
+<!-- page 8 -->
+
+8A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ Amendments for Interest Rate Benchmark Reform (September 2019) 
+BC6.546 Interest rate benchmarks such as interbank offered rate s (IBORs) play an important role in global 
+financial markets. These interest rate benchmarks index trillions of dollars and other currencies in a 
+wide variety of financial products, from derivatives to residen tial mortgages. However, cases of 
+attempted market manipulation of some interest rate benchmarks, together with the post-crisis decline 
+in liquidity in interbank unsecured funding markets, have undermined confidence in the reliability 
+and robustness of some interest rate benchmarks. Against this background, the G20 asked the Financial 
+Stability Board (FSB) to undertake a fundamental review of majo r interest rate benchmarks. 
+Following the review, the FSB published a report setting out its recommended reforms of some major 
+interest rate benchmarks such as IBORs. Public authorities in many jurisdictions have since taken steps to 
+implement those recommendations. In some jurisdictions, there is already clear progress towards the 
+reform of interest rate benchmarks, or the replacement of interest rate benchmarks with alternative, 
+nearly risk-free interest rates that are based, to a greater ex tent, on transaction data (alternative 
+benchmark rates). This has in turn led to uncertainty about the long-term viability of some interest rate 
+benchmarks. In these amendments, the term ‘interest rate benchmark reform’ refers to the market-wide 
+reform of an interest rate benchmark including its replacement with an alternative benchmark rate, 
+such as that resulting from the FSB’s recommendations set out in its July 2014 report ‘Reforming M a j o r  
+Interest Rate Benchmarks’ (the reform).3 
+BC6.547 In 2018 the LKASB noted the increasing levels of uncert ainty about the long- term viability of some 
+interest rate benchmarks and decided to address as a priority the issues affecting financial reporting in 
+the period before the reform (referred to as pre-replacement issues). 
+BC6.548 As part of the pre-replacement issues, the LKASB consid ered the implications for specific hedge 
+accounting requirements in SLFRS 9 and LKAS 39, which require f orward-looking analysis. As a 
+result of the reform, contractual cash flows of hedged items and hedging instruments based on an 
+existing interest rate benchmark will likely change when that interest rate benchmark is subject to the 
+reform—in these amendments, contractual cash flows encompass both contractually specified and 
+non-contractually specified cash flows. The same uncertainty arising from the reform regarding the 
+timing and the amount of future cash flows will likely affect the changes in fair value of hedged items 
+and hedging instruments in a fair value hedge of the interest rate benchmark exposure. Until decisions are 
+made about what the alternative benchmark rate is, and when and how the reform will occur, including 
+specifying its effects on particular contracts, uncertainties w ill exist regarding the timing and the 
+amount of future cash flows of the hedged item and the hedging instrument. 
+ 
+BC6.549 The council of CA Sri Lanka noted that the hedge accoun t i n g  r e q u i r e me n t s  i n  S L F R S  9  a n d  L K A S  39 
+provide a clear basis for accounting for such uncertainties. In  applying these requirements, the 
+uncertainties about the timing and the amount of future cash flows could affect an entity’s ability to 
+meet those specific forward- looking hedge accounting requirements in the period when uncertainty 
+is created by the reform. In some cases, solely due to such uncert ainties, entities could be required to 
+discontinue hedge accounting for hedging relationships that wou ld otherwise qualify for hedge 
+accounting. Also, because of the uncertainties arising from the  reform, entities may not be able to 
+designate new hedging relationships that would otherwise qualif y for hedge accounting applying 
+SLFRS 9 and LKAS 39. In some cases, discontinuation of hedge  accounting would require an entity 
+to recognise gains or losses in profit or loss. 
+ 
+BC6.550 In the council of CA Sri Lanka’s  view, discontinuation of hedge accounting solely due to such 
+uncertainties before the reform’s economic effects on hedged it ems and hedging instruments are 
+known would not provide useful information to users of financial statements. Therefore, the council 
+of CA Sri Lanka decided to publish in May 
+2019 the Exposure Draft Interest Rate Benchmark Reform 
+                                                           
+3  The report, 'Reforming Major Interest Rate Benchmarks', is avai lable at http://www.fsb.org/wp- content/uploads/r_140722.pdf. 
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    9A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+(2019 Exposure Draft), which proposed exceptions to SLFRS 9 and LKAS 39 to provide relief during 
+this period of uncertainty. 
+ 
+BC6.551 The 2019 Exposure Draft proposed exceptions to specific  hedge accounting 
+requirements such that 
+entities would apply those requirements assuming the interest rate benchmark on which the hedged risk 
+and/or cash flows of the hedged item or of the hedging instrument ar e  b a sed  is  no t alter ed  a s a  r esult  o f  
+the reform. The proposed exceptions applied only to the hedge accounting requirements specified in 
+that Exposure Draft and were not intended to provide relief fro m all consequences arising from the 
+reform. 
+BC6.552 Almost all respondents to the 2019 Exposure Draft agree d with the council of CA Sri Lanka’s 
+decision to address pre-replacement issues. Many highlighted th e urgency of these issues, especially in 
+some jurisdictions where there is already clear progress towards the reform or replacement of interest 
+rate benchmarks with alternative benchmark rates. 
+BC6.553 In September 2019 the council of CA Sri Lanka amended SLFRS 9, LKAS 39 and SLFRS 7 by issuing 
+Interest Rate Benchmark Reform , which confirmed with modifications the proposals in the 2019 
+Exposure Draft. In the amendments issued in September 2019, the  council of CA Sri Lanka added 
+paragraphs 6.8.1–6.8.12 and 7.1.8 to SLFRS 9 and amended paragraph 7.2.26 of SLFRS 9. 
+BC6.554 The council of CA Sri Lanka decided to propose amendments to LKAS 39 as well as SLFRS 9 because 
+when entities first apply SLFRS 9, they are permitted to choose  as an accounting policy to continue to 
+apply the hedge accounting requirements of LKAS 39. The council of CA Sri Lanka understands that 
+a significant number of SLFRS preparers —financial institutions in particular—have made such an 
+accounting policy choice. 
+ Scope of the exceptions 
+BC6.555 In  the 2019 Exposure Draft, the council of CA Sri Lanka noted that the hedge accounting issues being 
+addressed arise in the context o f interest rate benchmark refor m, and, therefore, the proposed 
+exceptions would apply only to hedging relationships of interest rate risk that are affected by the 
+reform. However, some respondents expressed the view that the scope of the exceptions, as set out in 
+the 2019 Exposure Draft, would not include other types of hedgi ng relationships that may be 
+affected by uncertainties arising from the reform such as hedgi ng relationships in which an entity 
+designates cross-currency interest rate swaps to hedge its exposure to both foreign currency and interest 
+rate risk. These respondents asked the council of CA Sri Lanka to clarify whether the scope of the 
+exceptions was meant to include such hedging relationships. 
+BC6.556 In  its  redeliberations on the 2019 Exposure Draft, the council of CA Sri Lanka clarified that it did not 
+intend to exclude from the scope of the amendments hedging rela tionships in which interest rate 
+risk is not the only designated hedged risk. The council of CA Sri Lanka agreed with respondents that 
+other hedging relationships could be directly affected by the reform when the reform gives rise t o 
+uncertainties about the timing or the amount of interest rate benchmark-based cash flows of the hedged 
+item or of the hedging instrument. Therefore, the council of CA  S r i  L a n k a  c o n f i r m e d  t h a t  t h e  
+exceptions would apply to the interest rate benchmark- based ca sh flows in these situations. The 
+council of CA Sri Lanka noted that many derivatives, designated in hedging relationships in which there 
+is no uncertainty about the timing or the amount of interest rate benchmark-based cash flows, could be 
+indirectly affected by the reform. For example, this would be t he case when the valuation of the 
+derivatives is affected by general uncertainty in the market caused by the reform. The council of CA 
+Sri Lanka confirmed that the exceptions do not apply to these h edging relationships, despite the 
+indirect effect the uncertainties arising from the reform could have on the valuation of derivatives. 
+
+<!-- page 10 -->
+
+10A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+BC6.557 Consequently, the council of CA Sri Lanka clarified the  wording in paragraph 6.8.1 of SLFRS 9 to 
+refer to all hedging relationships that are directly affected b y interest rate benchmark reform. 
+Paragraph 6.8.1 of SLFRS 9 explains that a hedging relationship  is directly affected by interest rate 
+benchmark reform only if the reform gives rise to uncertainties  about the interest rate benchmark 
+(contractually or non-contractually specified) designated as a hedged risk and/or the timing or the 
+amount of interest rate benchmark-based cash flows of the hedged item or of the hedging instrument. The 
+scope of the exceptions does not exclude hedging relationships in which interest rate risk is not the 
+only hedged risk. 
+ 
+Highly probable requirement 
+BC6.558 The council of CA Sri Lanka noted that, if an entity de signates a forecast transaction as the hedged 
+item in a cash flow hedge, applying paragraph 6.3.3 of SLFRS 9,  that transaction must be highly 
+probable (highly probable requirement). This requirement is intended to ensure that changes in the fair 
+value of designated hedging instruments are recognised in the cash flow hedge reserve only for those 
+hedged forecast transactions that are highly probable to occur.  This requirement is an important 
+discipline in applying hedge accounting to forecast transactions. The council of CA Sri Lanka noted 
+that the requirements in SLFRS 9 provide a clear basis to account for the effects of the reform—that is, 
+if the effects of the reform are such that the hedged cash flows are no longer highly probable, hedge 
+accounting should be discontinued. As set out in paragraph BC6.550, in the council of CA Sri Lanka’s  
+view, discontinuing all affected hedging relationships solely due to such uncertainty would not provide 
+useful information to users of financial statements. 
+BC6.559 Therefore, the council of CA Sri Lanka amended SLFRS 9 to provide an exception to the highly 
+probable requirement that would provide targeted relief during this period of uncertainty. More 
+specifically, applying the exception, if the hedged future cash  flows are based on an interest rate 
+benchmark that is subject to the reform, an entity assumes that the interest rate benchmark on which 
+the hedged cash flows are based is not altered when assessing whether the future cash flows are highly 
+probable. If the hedged future cash flows are based on a highly probable forecast transaction, by 
+applying the exception in paragraph 6.8.4 of SLFRS 9 when perfo rming the assessment of the 
+highly probable requirement for that forecast transaction, the entity would assume that the interest rate 
+benchmark on which the hedged cash flows are based will not be altered in the future contract as a 
+result of the reform. For example, for a future issuance of a London Interbank Offered Rate (LIBOR)- 
+referenced debt instrument, the entity would assume that the LI BOR benchmark rate on which the 
+h e d g e d  c a s h  f l o ws  a r e  b a s e d  wi l l  n o t  b e  a lte r ed  a s  a  r e s u l t  o f  the reform. 
+ 
+BC6.560 The council of CA Sri Lanka noted that this exception d oes not necessarily result in an entity 
+determining that the hedged cash flows are highly probable. In the example described in paragraph 
+BC6.559, the entity assumed that the interest rate benchmark in  the future contract would not be 
+altered as a result of the reform when determining whether that  forecast transaction is highly 
+probable. However, if the entity decides not to issue the debt instrument because of uncertainty 
+arising from the reform or for any other reason, the hedged future cash flows are no longer highly 
+probable (and are no longer expected to occur). The exception would not permit or require the entity 
+to assume otherwise. In this case, the entity would conclude that the LIBOR- based cash flows are no 
+longer highly probable (and are no longer expected to occur) 
+ 
+BC6.561 The council of CA Sri Lanka also included an exception for discontinued hedging relationships. 
+Applying this exception, any amount remaining in the cash flow hedge reserve when a hedging 
+relationship is discontinued would be reclassified to profit or loss in the same period(s) during which 
+the hedged cash flows affect profit or loss, based on the assumption that the interest rate benchmark on 
+which the hedged cash flows are based is not altered as a result of the reform. If, however, the hedged 
+future cash flows are no longer expected to occur for other reasons, the entity is required to immediately 
+reclassify to profit or loss any amount remaining in the cash f low hedge reserve.  In addition, the 
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    11A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+exception would not exempt entities from reclassifying the amount that is not expected to be recovered 
+into profit or loss as required by paragraph 6.5.11(d)(iii) of SLFRS 9. 
+ 
+Assessment of the economic relationship between the hedged item and the hedging 
+instrument 
+ 
+BC6.562 Applying SLFRS 9, a hedging relationship qualifies for hedge accounting only if there is an economic 
+relationship between the hedged item and the hedging instrument. 
+ 
+BC6.563 Demonstrating the existence of an economic relationship  requires the estimation of future cash 
+flows because the assessment is prospective in nature. Interest rate benchmark reform could affect 
+this assessment for hedging relationships that may extend beyon d the timing of the reform. That is 
+because entities would have to consider possible changes to the fair value or 
+future cash flows of hedged 
+items and hedging instruments to assess whether an economic relationship continues to exist between 
+the hedged item and hedging instrument. Consequently, at some p oint in time, it is possible that 
+entities would not be able to demonstrate the existence of an e conomic relationship solely because 
+of uncertainties arising from the reform. 
+ 
+BC6.564 The council of CA Sri Lanka considered the usefulness o f the information that would result from the 
+potential discontinuation of hedge accounting for affected hedg ing relationships and decided to 
+amend the requirements in SLFRS 9 to provide an exception for assessing the economic relationship 
+between the hedged item and the hedging instrument for the same reasons discussed in paragraph 
+BC6.550. 
+ 
+BC6.565 Applying this exception, an entity shall assess whether  the economic relationship as required by 
+paragraph 6.4.1(c)(i) of SLFRS 9 exists based on the assumption that the hedged risk or the interest rate 
+benchmark on which the hedged item or the hedging instrument is based is not altered as a result of the 
+reform. Similarly, if an entity designates a highly probable fo recast transaction as the hedged item, 
+the entity shall perform the assessment based on the assumption that the interest rate benchmark on 
+which the hedged cash flows are based will not change as a result of the reform. 
+ 
+BC6.556 The council of CA Sri Lanka noted that an offset betwee n the hedged item and the hedging 
+instrument is a fundamental principle of the hedge accounting m odel in SLFRS 9 and, therefore, the 
+council of CA Sri Lanka considered it critical to maintain this  principle. The exception addresses only 
+the uncertainties arising from the reform. Therefore, if an entity is unable to demonstrate the existence 
+of an economic relationship between the hedged item and the hedging instrument for other reasons, the 
+entity shall discontinue hedge accounting as required by SLFRS 9. 
+ 
+Measurement of ineffectiveness 
+BC6.567 The council of CA Sri Lanka noted that the exceptions w ere not intended to change the requirement 
+that entities measure and recognise hedge ineffectiveness. The council of CA Sri Lanka considered 
+that the actual results of the hedging relationships would prov ide useful information to users of 
+financial statements during the period of uncertainty arising from the reform. Therefore, the council 
+of CA Sri Lanka decided that entities should continue to measure and recognise hedge ineffectiveness 
+as required by SLFRS Standards. 
+ 
+BC6.568 The council of CA Sri Lanka also considered whether any  exceptions should be made to the 
+measurement of hedged items or hedging instruments because of t he uncertainty arising from the 
+
+<!-- page 12 -->
+
+12A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+reform. However, the council of CA Sri Lanka noted that such an exception would be inconsistent 
+with the decision not to change the requirements to measure and recognise hedge ineffectiveness in the 
+financial statements. Therefore, the council of CA Sri Lanka decided not t o  p r o v i d e  a n  e x c e p t i o n  f r o m  
+the measurement of hedging instruments and hedged items. This means that the fair value of a derivative 
+designated as the hedging instrument should continue to be meas ured using the assumptions that 
+market participants would use when pricing that derivative as r equired by SLFRS 13 Fair Value 
+Measurement. 
+ 
+BC6.569 For a hedged item designated in a fair value hedge, SLFRS 9 requires an entity to remeasure the hedged 
+item for changes in fair value attributable to the hedged risk and recognise the gain or loss related 
+to that fair value hedge adjustment in profit or loss. In doing so, the entity uses the assumptions that 
+market participants would use when pricing the hedged item for changes in fair value attributable to the 
+hedged risk. This would include a risk premium for uncertainty inherent in the hedged risk that market 
+participants would consider. For example, to measure changes in fair value attributable to the hedged 
+risk such as the IBOR component of a fixed-rate loan, an entity needs to reflect the uncertainty caused 
+by the reform. When applying a present value technique to calcu late the changes in fair value 
+attributable to the designated risk component, such measurement should reflect market participants’ 
+assumptions about the uncertainty arising from the reform. 
+ 
+BC6.570 When an entity designates interest rate benchmark-based cash flows as the hedged item in a cash flow 
+hedge, to calculate the change in the value of the hedged item for the purpose of measuring hedge 
+ineffectiveness, the entity may use a derivative that would have terms that match the critical terms of 
+the designated cash flows and the hedged risk (this is commonly  referred to a s  a ‘hypothetical 
+derivative’). As the council of CA Sri Lanka decided that entities should co ntinue 
+to measure and 
+recognise hedge ineffectiveness as required by SLFRS Standards,  entities should continue to apply 
+assumptions that are consistent with those applied to the hedged risk of the hedged item. For example, 
+if an entity designated interest rate benchmark-based cash flow s as the hedged item in a cash flow 
+hedge, the entity would not assume for the purpose of measuring  hedge ineffectiveness that the 
+expected replacement of the interest rate benchmark with an alternative benchmark rate will result in 
+zero cash flows after the replacement. The hedging gain or loss on the hedged item should be measured 
+using the interest rate benchmark-based cash flows (that is, the cash flows on which the hypothetical 
+derivative is based) when applying a present value technique, d iscounted at a market-based 
+discount rate that reflects market participants’ assumptions ab out the uncertainty arising from the 
+reform. The council of CA Sri Lanka concluded that reflecting m arket participants’ ass umptions 
+when measuring hedge ineffectiveness provides useful information to users of financial statements 
+about the effects of the uncertainty arising from the reform on  an entity’s hedging relationships. 
+Therefore, the council of CA Sri Lanka decided that no exceptions are needed for the measurement 
+of actual ineffectiveness. 
+ 
+Hedges of risk components 
+BC6.571 The council of CA Sri Lanka noted that in accordance wi th SLFRS 9 an entity may designate an item 
+in its entirety or a component of an item as the hedged item in a hedging relationship. For example, an 
+entity that issues a 5-year floating-rate debt instrument that bears interest at 3-month LIBOR + 1%, could 
+designate as the hedged item either the entire debt instrument (that is, all of the cash flows) or only the 3-
+month LIBOR risk component of the floating-rate debt instrument . Specifically, paragraph 6.3.7(a) of 
+SLFRS 9 allows entities to designate only changes in the cash flows or fair value of an item attributable 
+to a specific risk or risks (risk component) provided that the risk component is separately identifiable 
+and reliably measurable. 
+BC6.572 The council of CA Sri Lanka observed that an entity’s ability to conclude that an interest rate 
+benchmark is a separately identifiable component in accordance with paragraph 6.3.7(a) of SLFRS 
+9 requires a continuous assessment over the duration of the hedging relationship and could be affected 
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    13A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+by the reform. For example, if the outcome of the reform affects the market structure of an interest 
+rate benchmark, it could affect an entity’s assessment of whether a non-contractually specified LIBOR 
+component is separately identifiable and, therefore, an eligible hedged item in a hedging relationship. 
+The council of CA Sri Lanka considered only risk components that are implicit in the fair value or the 
+cash flows of an item of which they are a part (referred to as non-contractually specified) because 
+t h e  s a m e  i s s u e  d o e s  n o t  a r i s e  f o r  r i s k  c o m p o n e n t s  t h a t  a r e  e x p licitly specified in the contract. 
+BC6.573 For the reasons outlined in paragraph BC6.550, the coun cil of CA Sri Lanka noted that 
+discontinuing hedging relationships due to uncertainty arising from the reform would not provide 
+useful information. Consequently, the council of CA Sri Lanka decided to propose amending SLFRS 9 
+so that entities would not discontinue hedge accounting solely because the risk component is no 
+longer separately identifiable as a result of the reform. In the 2019 Exposure Draft, the council of CA 
+Sri Lanka proposed that the separately identifiable requirement  for hedges of the benchmark 
+component of interest rate risk be applied only at the inception of those hedging relationships affected 
+by the reform. 
+BC6.574 The council of CA Sri Lanka proposed not to extend the relief to allow entities to designate the 
+benchmark component of interest rate risk as the hedged item in  a new hedging relationship if the 
+risk component is not separately identifiable at the inception of the hedging relationship. In the council 
+of CA Sri Lanka’s v iew, allowing hedge accounting for risk components that are not  separately 
+identifiable at the inception would be inconsistent with the objective of the exception. The council of 
+CA Sri Lanka noted that such circumstances are different from a llowing continued designation as 
+the hedged item for risk components that had met the requiremen t at the inception of the hedging 
+relationship. 
+BC6.575 Furthermore, the council of CA Sri Lanka did not propos e any exception from the requirement that 
+changes in the fair value or cash flows of the risk component must be reliably measurable. As noted 
+in paragraph BC6.566, in the council of CA Sri Lanka’s  view, an offset between the hedged item and 
+the hedging instrument is a fundamental principle of the hedge accounting model in SLFRS 9 and, 
+therefore, the council of CA Sri Lanka considered reliable measurement of the hedged item and the 
+hedging instrument to be critical to maintain this principle. 
+BC6.576 Almost all respondents agreed with the exception propos ed in the 2019 Exposure Draft to apply the 
+separately identifiable requirement only at the inception of a hedging relationship. However, some 
+respondents noted that the proposed exception did not provide e quivalent relief to hedging 
+relationships that frequently reset (ie discontinue and restart ). In those hedging relationships both 
+the hedging instrument and the hedged item frequently change (ie the entity uses a dynamic process 
+in which both the hedged items and the hedging instruments used  to manage that exposure do not 
+remain the same for long). As hedging instruments and hedged items are being added or removed from 
+a portfolio, entities are de-designating and redesignating hedging relationships regularly to adjust the 
+exposure. If each redesignation of the hedging relationship is considered to be the inception of a new 
+hedging relationship (even though it is still the same hedging strategy), then the separately identifiable 
+requirement would need to be assessed for all hedged items at each redesignation even if they have been 
+assessed previously. For the same reasons as those noted in paragraph BC6.572, this could affect an entity’s 
+ability to conclude that a non-contractually specified risk com ponent remains separately identifiable 
+and, therefore, an eligible hedged item for hedge accounting purposes. 
+BC6.577 The council of CA Sri Lanka noted that the exception pr oposed in the 2019 Exposure Draft has the 
+effect that if a non-contractually specified risk component mee ts the separately identifiable 
+requirement at the inception of a hedging relationship, then that requirement would not be reassessed 
+subsequently. Hence, providing a similar exception for hedging relationships that frequently reset (ie 
+
+<!-- page 14 -->
+
+14A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+discontinue and restart) would be consistent with the objective of the exception originally provided 
+in the 2019 Exposure Draft. 
+BC6.578 Thus, the council of CA Sri Lanka confirmed the proposa l that a risk component is only required to be 
+separately identifiable at the inception of the hedging relatio nship. In addition, to respond to the 
+feedback described in paragraph BC6.576, the council of CA Sri Lanka added the exception in paragraph 
+6.8.8 of SLFRS 9 for hedging relationships that, consistent wit h an entity’s hedge documentation, 
+frequently reset (ie discontinue and restart) because both the hedging instrument an d the hedged item 
+frequently change. Applying that paragraph, an entity shall determine whether the risk component is 
+separately identifiable only when it initially designates an it em as a hedged item in the hedging 
+relationship. The hedged item is not reassessed at any subsequent redesignation in the same hedging 
+relationship. 
+BC6.579 In reaching its decision for the exception in paragraph 6.8.8 of SLFRS 9 the council of CA Sri Lanka 
+considered an example where an entity uses a dynamic process to manage interest rate risk as discussed 
+in paragraph B6.5.24(b) of SLFRS 9 and designates the LIBOR risk component of floating-rate loans as 
+the hedged risk. At the inception of the relationship, the entity assesses whether LIBO R is a separately 
+identifiable risk component for all loans designated within the  hedging relationship. As the entity 
+updates the risk position with the origination of new loans and the maturity or repayment of existing 
+loans, the hedging relationship is adjusted by de-designating t he ‘old’ hedging relationship and 
+redesignating a ‘new’ hedging relationship for the updated amount of the hedged items. Applying the 
+exception in paragraph 6.8.8 of SLFRS 9 requires the entity to assess whether LIBOR is a separately 
+identifiable risk component only for the new loans added to the hedging relationship. The entity  
+would not reassess the separately identifiable requirement for the loans that have been redesignated. 
+Mandatory application 
+ 
+BC6.580 The council of CA Sri Lanka decided to require entities  to apply the exceptions in Section 6.8 of 
+SLFRS 9 to all hedging relationships to which the exceptions ar e applicable. In other words, the 
+council of CA Sri Lanka decided that an entity is required to a pply the exceptions to all hedging 
+relationships that are directly affected by the uncertainties a rising from the reform and continue to 
+apply the exceptions until required to cease their application as specified in paragraphs 6.8.9–6.8.12 of 
+SLFRS 9. 
+BC6.581 The council of CA Sri Lanka considered but rejected alt ernatives that would have allowed entities to apply 
+the exceptions voluntarily. In the council of CA Sri Lanka’s  view, voluntary application of these 
+exceptions could give rise to selective discontinuation of hedg e accounting and selective 
+reclassification of the amounts recorded in other comprehensive  income related to previously 
+discontinued hedging relationships. The council of CA Sri Lanka  does not expect that requiring 
+entities to apply the exceptions would entail significant cost for preparers and other affected parties 
+because the exceptions require entities to assume that the interest rate benchmark, on which the hedged 
+risk and the hedged cash flows, and cash flows of the hedging instrument are based, is not altered as 
+a result of the reform. 
+BC6.582 In addition, the council of CA Sri Lanka observed that in some circumstances, the exceptions in 
+Section 6.8 of SLFRS 9 may not be applicable. For example, for a particular interest rate benchmark 
+not subject to the reform or replacement with an alternative be nchmark rate, there is no uncertainty 
+affecting the timing or the amount of the interest rate benchmark-based cash flows arising from a 
+hedged item or a hedging instrument. The exceptions set out in Section 6.8 of SLFRS 9 would not be 
+applicable to such a hedging relationship. 
+ 
+BC6.583 Furthermore, for a particular hedging relationship the exceptions may be applicable to some but not 
+all aspects of the hedging relationship. For example, if an entity designates a hedged item that is based 
+on LIBOR against a hedging instrument that is already referenced to an alternative benchmark rate 
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    15A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+(assuming the entity can demonstrate that hedging relationship meets the qualifying criteria for hedge 
+accounting in SLFRS 9), the exceptions in paragraphs 6.8.4 and 6 . 8 . 6  o f  S L F R S  9  w o u l d  a p p l y  f o r  t h e  
+hedged item because there is uncertaint y related to its future c a s h  f l o w s .  H o w e v e r ,  t h e r e  i s  n o  
+uncertainty regarding how the reform would impact the cash flow s of the hedging instrument and, 
+therefore, the exception in paragraph 6.8.6 of SLFRS 9 is not applicable for the hedging instrument. 
+Similarly, the exception applicable to non-contractually specified components would not be relevant 
+for hedging relationships that do not involve the designation o f non- contractually specified risk 
+components. 
+ 
+End of application 
+ 
+BC6.584 As described in paragraph  BC6.550, the council of CA Sr i Lanka decided to amend SLFRS 9 to 
+address specific aspects of hedge accounting affected by uncertainties in relation to the hedged items 
+and hedging instruments about when the interest rate benchmarks  will change to alternative benchmark 
+rates, when any spread adjustment between the interest rate benchmark and the alternative benchmark 
+rate will be determined (collectively, timing) and what the cas h flows based on the alternative 
+benchmark rate will be, including their frequency of reset, and any spread adjustment between the 
+interest rate benchmark and the alternative benchmark rate (col lectively, amount). Therefore, the 
+council of CA Sri Lanka intended the exceptions set out in Section 6.8 of SLFRS 9 to be available only 
+while these uncertainties are present. 
+BC6.585 The council of CA Sri Lanka considered whether to provi de an explicit end date for the exceptions 
+but decided not to do so. The reform is following different tim elines in different markets and 
+jurisdictions and contracts are being modified at different times and, therefore, at this stage, it is not 
+possible to define a period of applicability for the exceptions 
+ 
+BC6.586 The council of CA Sri Lanka decided that an entity ceas es applying the exceptions at the earlier of 
+(a) when the uncertainty regarding the timing and the amount of interest rate benchmark-based cash 
+flows is no longer present as it relates to a hedged item and/or hedging instrument (depending on the 
+particular exception) and (b) the discontinuation of the hedging relationship.4 The exceptions require 
+entities to apply specific hedge accounting requirements assumi ng the interest rate benchmark on 
+which the hedged risk, hedged cash flows or the cash flows of the hedging instrument are based is not 
+altered as a result of the reform. The end of applicability of the exceptions means that entities would from 
+that date apply all hedge accounting requirements in SLFRS 9 without applying these exceptions. 
+ 
+BC6.587 In the council of CA Sri Lanka’s view, for uncertainty regarding the timing and the amount of cash 
+flows arising from a change in an interest rate benchmark to be eliminated, the underlying contracts 
+are generally required to be amended to specify the timing and the amount of cash flows based on the 
+alternative benchmark rate (and any spread adjustment between t he interest rate benchmark and the 
+alternative benchmark rate). The council of CA Sri Lanka noted that, in some cases, a contract may be 
+amended to include reference to the alternative benchmark rate without actually altering the interest 
+rate benchmark-based cash flows in the contract. Such an amendment may not eliminate  t h e  
+uncertainty regarding the timing and the amount of interest rat e benchmark- based cash flows in the 
+contract. The council of CA Sri Lanka considered the following scenarios to assess the robustness of 
+the end of application requirements. However, these scenarios are not exhaustive and other scenarios 
+                                                           
+4  or   the  purpose  of  applying  the   exception  in paragraph 6.8.5 of  SLFRS 9  to  a discontinued  hedging relationship, the amendments  require 
+a n  e n t i t y  t o  c e a s e  a p p l y i n g  t h e  e x c e p t i o n  a t  t h e  e a r l i e r  of (a) as described above and (b) when the entire amount accumulated in the cash 
+flow hedge reserve with respect to the hedging relationship has been reclassified to profit or loss. See paragraph 6.8.10 of SLFRS 9. 
+
+<!-- page 16 -->
+
+16A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+may exist in which the uncertainties arising from the reform regarding the timing and the amount of cash 
+flows would no longer be present. 
+ 
+BC6.588 Scenario A —a contract is amended to include a clause that specifies (a) th e date the interest rate 
+benchmark will be replaced by an alternative benchmark rate and (b) the alternative benchmark rate 
+on which the cash flows will be based and the relevant spread adjustment between the interest rate 
+benchmark and the alternative benchmark rate. In this case, the  uncertainty regarding the timing 
+and the amount of cash flows for this contract is eliminated when the contract is amended to include 
+this clause. 
+ 
+BC6.589 Scenario B —a contract is amended to include a clause that states modifications of contractual cash 
+flows will occur due to the reform but that specifies neither the date that the interest rate benchmark 
+will be replaced nor the alternative benchmark rate on which the amended cash flows will be based. In 
+this case, the uncertainty regarding the timing and the amount of cash flows for this contract has not 
+been eliminated by amending the contract to include this clause. 
+ 
+BC6.590 Scenario C —a contract is amended to include a clause which states that con ditions specifying the 
+amount and timing of interest rate benchmark- based cash flows will be determined by a central 
+authority at some point in the future. But the clause does not specify those conditions. In this case, the 
+uncertainty regarding the timing and the amount of the interest  rate benchmark-based cash flows 
+for this contract has not been eliminated by including this cla use in the contract. Uncertainty 
+regarding both the timing and the amount of cash flows for this  contract will be present until the 
+central authority specifies when the replacement of the benchmark will become effective, and what 
+the alternative benchmark rate and any related spread adjustment will be. 
+BC6.591 Scenario D —a contract is amended to include a clause in anticipation of the reform that specifies the 
+date the interest rate benchmark will be replaced and any sprea d adjustment between the interest 
+rate benchmark and the alternative benchmark rate will be deter mined. However, the amendment 
+does not specify the alternative b enchmark rate, or the spread adjustment between the interest rate 
+benchmark and the alternative benchmark rate, on which the cash flows will be based. In this scenario, by 
+amending the contract to include this clause, uncertainty regarding the timing has be en eliminated 
+but uncertainty about the amount remains. 
+ 
+BC6.592 Scenario E —a contract is amended to include a clause in anticipation of the reform that specifies the 
+alternative benchmark rate on which the cash flows will be based and the spread adjustment between the 
+interest rate benchmark and the alternative benchmark rate, but does not specify the date from which the 
+amendment to the contract will become effective. In this scenar io, by amending the contract to 
+include this clause, uncertainty about the amount has been eliminated but uncertainty with respect to 
+timing remains. 
+ 
+BC6.593 Scenario F —in preparation for the reform, a central authority in its capacity as the administrator of an 
+interest rate benchmark undertakes a multi-step process to replace an interest rate benchmark with an 
+alternative benchmark rate. The objective of the reform is to cease the publication o f the current 
+interest rate benchmark and replace it with an alternative benc hmark rate. As part of the reform, the 
+administrator introduces an interim benchmark rate and determines a fixed spread adjustment based 
+on the difference between the interim benchmark rate and the cu rrent interest rate benchmark. 
+Uncertainty about the timing or the amount of the alternative b enchmark rate-based cash flows will 
+not be eliminated during the interim period because the interim benchmark rate (including the fixed 
+spread adjustment determined by the administrator) represent an interim measure in progressing towards 
+the reform but it does not represent the alternative benchmark rate (or any related spread adjustment 
+agreed between parties to the contract). 
+ 
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    17A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+BC6.594 For reasons similar to those described in paragraph BC6.583, th e council of CA Sri Lanka noted that 
+there could be situations in which the uncertainty for particul ar elements of a single hedging  
+relationship could end at different times. For example, assume an entity is required to apply the relevant 
+exceptions to both the hedged item and the hedging instrument. If the hedging instrument in that 
+hedging relationship is subsequently amended through market protocols covering all derivatives in that 
+market, and will be based on an alternative benchmark rate such that the uncertainty about the timing 
+and the amount of interest rate benchmark-based cash flows of the hedging instrument is eliminated, 
+the relevant exceptions would continue to apply to the hedged item but would no longer apply to the 
+hedging instrument.5 
+ 
+BC6.595 The council of CA Sri Lanka observed that continuing to  apply the exception after the uncertainty 
+was resolved would not faithfully represent the actual characteristics of the elements of the hedging 
+relationship in which the uncertainty arising from the reform i s eliminated. The council of CA Sri 
+Lanka considered whether it should extend the relief provided such that the exceptions would apply 
+at the hedging relationship level for as long as any element of that hedging relationship was affected 
+by the uncertainties arising from the reform. The council of CA  Sri Lanka agreed that doing so 
+would be beyond the objective of addressing only those issues d irectly affected by the uncertainty 
+arising from the reform. This is also because the exceptions in  paragraphs 6.8.4 –6.8.12 of SLFRS 
+9 and the respective requirements in SLFRS 9 apply to the same elements of the hedging 
+relationship. Therefore, applying each exception at the hedging  relationship level would be 
+inconsistent with how the underlying requirements are applied. 
+ 
+BC6.596 The council of CA Sri Lanka decided that the end of app lication requirement would also apply to 
+hedges of a forecast transaction. The council of CA Sri Lanka n oted that SLFRS 9 requires an entity to 
+identify and document a forecast transaction with sufficient specificity so that, when the transaction 
+occurs, the entity is able to determine whether the transaction is the hedged transaction. For example, if 
+an entity designates a future issuance of a LIBOR-based debt in strument as the hedged item, 
+although there may be no contract at the time of designation, the hedge documentation would refer 
+specifically to LIBOR. Consequently, the council of CA Sri Lank a concluded that entities should 
+be able to identify when the uncertainty regarding the timing a nd the amount of the resulting cash 
+flows of a forecast transaction is no longer present. 
+ 
+BC6.597 In addition, the council of CA Sri Lanka decided not to  require end of application with respect to the 
+exception for the separately identifiable requirements set out in paragraphs 6.8.7 and 6.8.8 of SLFRS 
+9. Applying these exceptions, entities would continue applying hedge accounting when an interest rate 
+benchmark meets the separately identifiable requirement at the inception of the hedging relationship 
+(assuming all other hedge accounting requirements continue to be met). If the council of CA Sri Lanka 
+included an end date for these exceptions, an entity may be required to immediately discontinue hedge 
+accounting because, at some point, as the reform progresses, the component based on the interest rate 
+benchmark may no longer be separately identifiable (for example , as the market for the alternative 
+benchmark rate is established). Such immediate discontinuation of hedge accounting would be 
+inconsistent with the objective of the exception. The council of CA Sri Lanka noted that linking the end 
+of application for these exceptions to contract amendments would not achieve the council of CA Sri 
+Lanka’s intention either because, by definition, non-contractually specified risk  components are not 
+explicitly stated in a contract and, therefore, these contracts may not be amended for the reform. This is 
+                                                           
+5  In this scenario, the entity would first consider the account ing consequences of amending the contractual terms of the hedgi ng 
+instrument. The council of CA Sri Lanka will consider the accounting consequences of the actual amendment of financial instruments 
+as a result of interest rate benchmark reform in the next phase of this project (ie the replacement phase) 
+
+<!-- page 18 -->
+
+18A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+particularly relevant for fair value hedges of a fixed-rate debt instrument. Therefore, the council of CA 
+Sri Lanka decided that an entity should cease applying the exceptions to a hedging relationship only 
+when the hedging relationship is discontinued applying SLFRS 9 
+ 
+BC6.598 Some respondents to the 2019 Exposure Draft noted that the council of CA Sri Lanka had not 
+addressed when an entity ceases applying the proposed exceptions to a group of items designated as the 
+hedged item or a combination of financial instruments designate d as the hedging instrument. 
+Specifically, when assessing whether the uncertainty arising fr om the reform is no longer present, 
+these respondents asked whether that assessment should be performed on an individual basis (that is, 
+for each individual item within the group or financial instrume nt within the combination) or on a 
+group basis (that is, for all items in the group or all financi al instruments in the combination until 
+there is no uncertainty surrounding any of the items or financial instruments). 
+ 
+BC6.599 Consequently, the council of CA Sri Lanka decided to add paragraph 6.8.12 of SLFRS 9 to clarify that, 
+when designating a group of items as the hedged item or a combination of financial instruments as the 
+hedging instrument, entities assess when the uncertainty arising from the reform with respect to the 
+hedged risk and/or the timing and amount of the interest rate benchmark-based cash flows of that item 
+or financial instrument is no longer present on an individual basis—that is, for each individual item in 
+the group or financial instrument in the combination 
+Effective date and transition 
+ 
+BC6.600 The council of CA Sri Lanka decided that entities shall  apply the amendments for annual periods 
+beginning on or after 1 January 2020, with earlier application permitted. 
+ 
+BC6.601 The council of CA Sri Lanka decided that the amendments  apply retrospectively. The council of 
+CA Sri Lanka highlighted that retrospective application of the amendments wo uld not allow reinstating 
+hedge accounting that has already been discontinued. Nor would it allow designation in hindsight. If an 
+entity had not designated a hedging relationship, the exceptions, even though applied retrospectively, 
+would not allow the entity to apply hedge accounting in prior periods to items that were not designated 
+for hedge accounting. Doing so would be inconsistent with the requirement that hedge accounting 
+applies prospectively. Retrospective application of the exceptions would enable entities to continue 
+hedge accounting for a hedging relationship that the entity had  previously designated and that 
+qualifies for hedge accounting applying SLFRS 9. 
+ 
+BC6.602 Many respondents to the 2019 Exposure Draft commented o n the clarity of the proposed retrospective 
+application and suggested that further explanation be provided in the Standard. Consequently, the council 
+of CA Sri Lanka amended the transition paragraph to specify that retr ospective application applies 
+only to those hedging relationships that existed at the beginning of the reporting period in which an 
+entity first applies those requirements or were designated thereafter, and to the amount accumulated 
+in the cash flow hedge reserve that existed at the beginning of the reporting period in which an entity 
+first applies those requirements. The council of CA Sri Lanka used this wording to permit an entity to 
+apply the amendments from the beginning of the reporting period in which an entity first applies these 
+amendments even if the reporting period is not an annual period. 
+ 
+BC6.603 The council of CA Sri Lanka noted that these amendments  would also apply to entities adopting 
+SLFRS Standards for the first time as required by SLFRS 1 First  time Adoption of International 
+Financial Reporting Standards. Accordingly, the council of CA S ri Lanka did not provide specific 
+transition provisions for those entities. 
+ 
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    19A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+Amendments to the Basis for Conclusions on LKAS 39 Financial Instruments: Recognition 
+and Measurement
+This Basis for Conclusions accompanies, but is not part of, LKAS 39.
+After paragraph BC222, new headings and paragraphs BC223–BC288 are added.
+Hedging
+…
+Amendments for Interest Rate Benchmark Reform (September 2019)
+BC223 Interest rate benchmarks such as interbank offered rates (IBORs) play an important role in global
+financial markets. These interest rate benchmarks index trillions of dollars and other currencies in a
+wide variety of financial products, from derivatives to residential mortgages. However, cases of 
+attemptedmarketmanipulationofsomeinterestratebenchmarks,togethe r with the post-crisis decline 
+in liquidity in interbank unsecured funding markets, have undermined confidence in the reliability 
+and robustnessof someinterestratebenchmarks.Againstthisbackgrou nd,theG20askedthe Financial
+Stability Board (FSB) to undertake a fundamental review of major interest rate benchmarks.
+Following the review, the FSB published a report setting out its recommended reforms of some major
+interest rate benchmarks such as IBORs. Public authorities in many jurisdictions have since taken steps to
+implement thoserecommendations. Insomejurisdictions,thereisalready clear progress towards the 
+reform of interest rate benchmarks, or the replacement of interest rate benchmarks with alternative, 
+nearlyrisk-free interest rates that are based, to a greater ext ent, on transaction data (alternative
+benchmark rates). This has in turn led to uncertainty about the long-termviabilityofsome interestrate
+benchmarks.Intheseamendments, theterm ‘interestratebenchmark reform’referstothemarket-wide
+reformof an interest rate benchmark including its replacement w ith an alternative benchmark rate,
+suchasthatresultingfromthe FSB’srecommendationsset outinitsJuly2014 report‘ReformingMajor
+Interest RateBenchmarks’ (the reform).6
+BC224 In 2018 the Council noted the increasing levels of uncertainty aboutthe long- term viability of some
+interest rate benchmarks and decided to address as a prioritytheissuesaffectingfinancialreportingin
+theperiodbeforethereform (referred to as pre-replacement issues)
+BC225 As part of the pre-replacement issues, the Council considered the implications for specific hedge 
+accounting requirements in SLFRS 9 and LKAS 39, which require forward-looking analysis. As a
+result of the reform, contractual cash flows of hedged items and hedging instruments based on an
+existinginterest rate benchmark will likely change when that interest rate benchmark is subject to 
+the reform—in these amendments, contractual cash flows encompass both contractually specified and 
+non-contractually specified cash flows. The same uncertainty arising from the reform regarding the
+timingand the amount of future cash flows will likely affect the changes in fair value of hedged items
+and hedging instruments in a fair value hedge of the interest rate benchmark exposure. Until decisions
+are made about what the alternative benchmark rate is, and when and how the reform will occur, 
+6 The report, 'Reforming Major Interest Rate Benchmarks', is available at http://www.fsb.org/wp- content/uploads/r_140722.pdf.
+
+<!-- page 20 -->
+
+20A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+including specifying its effects on particular contracts, uncertainties w ill exist regarding the timing and 
+the amount of future cash flows of the hedged item and the hedging instrument. 
+ 
+BC226 The Council noted that the hedge accounting requirements in SLFRS 9 and LKAS 39 provide a clear basis 
+for accounting for such uncertainties. In applying these requir ements, the uncertainties about the 
+timing and the amount of future cash flows could affect an entity’s ability to meet those specific 
+forward- looking hedge accounting requirements in the period wh en uncertainty is created by the 
+reform. In some cases, solely due to such uncertainties, entiti es could be required to discontinue hedge 
+accounting for hedging relationships that would otherwise quali fy for hedge accounting. Also, 
+because of the uncertainties arising from the reform, entities may not be able to designate new 
+hedging relationships that would otherwise qualify for hedge acc o u n t i n g  a p p l y i n g  S L F R S  9  a n d  
+LKAS 39. In some cases, discontinuation of hedge accounting would require an entity to recognise 
+gains or losses in profit or loss. 
+ 
+BC227 In the Council’s view, discontinuation of hedge accounting solely due to such uncertainties before the 
+reform’s economic effects on hedged items and hedging instruments are known would not provide 
+useful information to users of financial statements. Therefore, the Council decided to publish in May 
+2019 the Exposure Draft Interest Rate Benchmark Reform (2019 Exposure Draft), which proposed 
+exceptions to SLFRS 9 and LKAS 39 to provide relief during this period of uncertainty 
+ 
+BC228 The 2019 Exposure Draft proposed exceptions to specific h edge accounting requirements such that 
+entities would apply those requirements assuming the interest rate benchmark on which the hedged risk 
+and/or cash flows of the hedged item or of the hedging instrument ar e  b a sed  is  no t alter ed  a s a  r esult  o f  
+the reform. The proposed exceptions applied only to the hedge accounting requirements specified in 
+that Exposure Draft and were not intended to provide relief fro m all consequences arising from the 
+reform. 
+BC229 Almost all respondents to the 2019 Exposure Draft agreed with the Council’s decision to address pre-
+replacement issues. Many highlighted the urgency of these issues, especially in some jurisdictions 
+where there is already clear progress towards the reform or replacement of interest rate benchmarks 
+with alternative benchmark rates. 
+ 
+BC230 In September 2019 the Council amended SLFRS 9, LKAS 39 an d SLFRS 7 by issuing Interest Rate 
+Benchmark Reform, which confirmed with modifications the proposals in the 2019 Exposure Draft. In 
+the amendments issued in September 2019, the Council added paragraphs 102A–102N and 108G to 
+LKAS 39. 
+ 
+BC231 The Council decided to propose amendments to LKAS 39 as w ell as SLFRS 9 because when entities first 
+apply SLFRS 9, they are permitted to choose as an accounting policy to continue to apply the hedge 
+accounting requirements of LKAS 39. The Council understands that a significant number of SLFRS 
+preparers—financial institutions in particular—have made such an accounting policy choice. 
+Scope of the exceptions 
+BC232 In the 2019 Exposure Draft, the Council noted that the he dge accounting issues being addressed arise in 
+the context of interest rate benchmark reform, and, therefore, the proposed exceptions would apply only 
+to hedging relationships of interest rate risk that are affecte d by the reform. However, some 
+respondents expressed the view that the scope of the exceptions, as set out in the 2019 Exposure Draft, 
+would not include other types of hedging relationships that may be affected by uncertainties arising 
+from the reform such as hedging relationships in which an entity designates cross-currency interest 
+rate swaps to hedge its exposure to both foreign currency and interest rate risk. These respondents asked 
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    21A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+the Council to clarify whether the scope of the exceptions was m e a n t  t o  i n c l u d e  s u c h  h e d g i n g  
+relationships. 
+ 
+BC233 In its redeliberations on the 2019 Exposure Draft, the Co uncil clarified that it did not intend to exclude 
+from the scope of the amendments hedging relationships in which  interest rate risk is not the only 
+designated hedged risk. The Council agreed with respondents that other hedging relationships could 
+be directly affected by the reform when the reform gives rise t o uncertainties about the timing or 
+the amount of interest rate benchmark- based cash flows of the hedged item or of the hedging 
+instrument. Therefore, the Council confirmed that the exception s would apply to the interest rate 
+benchmark-based cash flows in these situations. The Council not ed that many derivatives, designated 
+in hedging relationships in which there is no uncertainty about the timing or the amount of interest rate 
+benchmark-based cash flows, could be indirectly affected by the reform. For example, this would be the 
+case when the valuation of the derivatives is affected by gener al uncertainty in the market caused by 
+the reform. The Council confirmed that the exceptions do not apply to these hedging relationships, 
+despite the indirect effect the uncertainties arising from the reform could have on the valuation of 
+derivatives. 
+ 
+BC234 Consequently, the Council clarified the wording in paragr aph 102A of LKAS 39 to refer to all hedging 
+relationships that are directly affected by interest rate benchmark reform. Paragraph 102A of LKAS 
+39 explains that a hedging relationship is directly affected by interest rate benchmark reform only if 
+the reform gives rise to uncertainties about the interest rate benchmark (contractually or non-
+contractually specified) designated as a hedged risk and/or the timing or the amount of interest rate 
+benchmark-based cash flows of the hedged item or of the hedging instrument. The scope of t he 
+exceptions does not exclude hedging relationships in which interest rate risk is not the only hedged 
+risk. 
+Highly probable requirement 
+ 
+BC235 The Council noted that if an entity designates a forecast  transaction as the hedged item in a cash 
+flow hedge, applying paragraph 88(c) of LKAS 39, that transaction must be highly probable (highly 
+probable requirement). This requirement is intended to ensure t hat changes in the fair value of 
+designated hedging instruments are recognised in other comprehensive income only for those hedged 
+forecast transactions that are highly probable to occur. This requirement is an important discipline 
+in applying hedge accounting to forecast transactions. The Coun cil noted that the requirements in 
+LKAS 39 provide a clear basis to account for the effects of the  reform—that is, if the effects of the 
+r e f o r m a r e  s u c h  t h a t  t h e  h e d g e d  c a s h  f l o ws  a r e  n o  l o n g e r  h i g h l y probable, hedge accounting should be 
+discontinued. As set out in paragraph BC227, in the Council’s view, discontinuing all affec ted 
+hedging relationships solely due to such uncertainty would not provide useful information to users 
+of financial statements. 
+ 
+BC236 Therefore, the Council amended LKAS 39 to provide an exce ption to the highly probable requirement 
+that would provide targeted relief during this period of uncertainty. More specifically, applying the 
+exception, if the hedged future cash flows are based on an interest rate benchmark that is subject to 
+the reform, an entity assumes that the interest rate benchmark on which the hedged cash flows are 
+based is not altered when assessing whether the future cash flows are highly probable. If the hedged 
+future cash flows are based on a highly probable forecast transaction, by applying the exception in 
+paragraph 102D of LKAS 39 when performing the assessment of the  highly probable requirement 
+for that forecast transaction, the entity would assume that the interest rate benchmark on which the 
+hedged cash flows are based will not be altered in the future contract as a result of the reform. For 
+
+<!-- page 22 -->
+
+22A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+example, for a future issuance of a London Interbank Offered Rate (LIBOR)-referenced debt 
+instrument, the entity would assume that the LIBOR benchmarkrateonwhichthe hedgedcashflows
+are based will not be altered as a result of the reform.
+BC237 The Council noted that this exception does not necessarily result inan entity determining that the
+hedged cash flows are highly probable. In the example described in paragraph BC236, the entity 
+assumed that the interest rate benchmark in the future contract  would not be altered as a result of 
+the reform when determining whether that forecast transaction i s highly probable. However, if the 
+entity decides not to issue the debt instrument because of uncertainty arising from the reform or for
+any other reason, the hedged future cash flows are no longer highly probable (and are no longer 
+expected to occur). The exception would not permit or require the entity to assume otherwise. In this
+case, the entity would conclude that the LIBOR- based cash flowsare no longer highly probable (and
+arenolongerexpectedto occur).
+BC238 The Council also included an exception for discontinued hedging relationships. Applying this exception, 
+any amount remaining in other comprehensive income when a hedging relationship is discontinued
+would be reclassified to profit or loss in the same period(s) during whichthe hedged cash flows affect 
+profit or loss, based on the assumption that the interest rate benchmark on whichthehedgedcashflows
+arebasedisnotaltered asaresultofthereform. If, however, the hedged future cash flows are no longer
+expected to occur for other reasons,theentityisrequiredtoimmediatelyreclassifytoprofit orloss any 
+amount remaining in other comprehensive income. In addition, th e exception would not exempt
+entitiesfromreclassifyingtheamountthatisnot expected to be recovered into profit or loss as required
+by paragraph 97 of LKAS 39.
+Effectiveness assessment
+BC239 Applying LKAS 39, a hedging relationship qualifies for hedge accounting only if the conditions in 
+paragraph 88 are met. Two of the conditions in that paragraph—the prospective assessment and the 
+retrospective assessment — require that the hedging relationship is highly effective in achieving
+offsetting changesinfairvalue orcashflowsattributabletothe hedgedrisk.Ifeitherof theseconditions
+is not met, paragraphs 91(b) and 101(b) require the entity to discontinue hedge accounting
+prospectively.
+Prospective assessment
+BC240 When applying paragraph 88(b) of LKAS 39, demonstrating th at a hedging relationship is expected 
+to be highly effective requires the estimation of future cash flo ws because the assessment is
+prospective in nature. Interest rate benchmark reform could affect this assessment for hedging
+relationships that may extend beyond the timing of the reform. That is because entities wouldhaveto
+consider possible changes to the fair value or future cash flows of hedgeditems and hedging
+instruments in determining whether a hedging relationship is expected to be highly effective.
+Consequently,atsomepointin time, it is possible that entities would not be able to meet the condition
+in paragraph 88(b) of LKAS 39 solely because of uncertainties arising fromt h e  r e f o r m .
+BC241 The Council considered the usefulness of the information t hat would result from the potential 
+discontinuation of hedge accounting for affected hedging relati onships and decided to amend the 
+requirement in LKAS 39 to provide an exception for the prospect ive assessment for the same
+reasons as discussed in paragraph BC227.
+BC242 Applying this exception, an entity shall assess whether the hedge isexpected to be highly effective in
+achieving offsetting as required by LKAS 39, based on the assumption thatthe hedged risk or the
+interestratebenchmarkon which the hedged item or the hedging instrument is based is not altered as a
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    23A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+result of the reform. Similarly, if an entity designates a high ly probable forecast transaction as the 
+hedged item, the entity shall perform the prospective assessmen t based on the assumption that the 
+interest rate benchmark on which the hedged cash flows are based will not change as a result of the 
+reform. 
+ 
+BC243 The Council noted that an offset between the hedged item and the hedging instrument is a 
+fundamental principle of the hedge accounting model in LKAS 39 and, therefore, the Council 
+considered it critical to maintain  this principle. The exceptio n addresses only the uncertainties 
+arising from the reform. Therefore, if an entity is unable to demonstrate that a hedging relationship 
+is expected to be highly effective for other reasons, the entit y shall discontinue hedge accounting 
+as required by LKAS 39. 
+ 
+Retrospective assessment 
+ 
+BC244 When developing the 2019 Exposure Draft, the Council deci ded not to propose an exception to the 
+retrospective assessment required by paragraph 88(e) and AG105(b) of LKAS 39 for the effects of 
+the reform. As described in the 2019 Exposure Draft, that assessment is based on the actual results 
+of the hedging relationship based on the extent to which hedging gains or losses on the hedged item 
+attributable to the hedged risk offset changes in the fair valu e of the hedging instrument. The 
+Council noted that existing SLFRS Standards already provide an adequate basis for measuring 
+ineffectiveness. 
+ 
+BC245 Most respondents disagreed with the Council’s decision not to p ropose an exception to the 
+retrospective assessment. Respondents noted that due to the inh erent interaction between the 
+assessment of the forward-looking cash flows of the hedged item and its effect on both prospective 
+and retrospective assessments, the proposed amendments would no t achieve their intended effect 
+unless an exception is also provided for the retrospective assessment. 
+ 
+BC246 Furthermore, these respondents expressed the view that th e discontinuation of hedge accounting 
+because hedging relationships do not meet the requirements in p aragraph AG105(b) of LKAS 39, 
+as a result of the temporary ineffectiveness caused by the reform, would not reflect an entity’s risk 
+management strategy and, therefore, would not provide useful in formation to users of financial 
+statements. 
+ 
+BC247 In its redeliberations on the amendments to LKAS 39, the Council considered the feedback 
+received. The Council discussed three approaches that it could apply for providing an exception to 
+the retrospective assessment for the impact of the uncertainty arising from the reform. 
+ 
+BC248 The Council observed that one possible approach would be to require entities to assume that the 
+interest rate benchmark is not altered similar to the prospective assessment. Applying this approach 
+would require entities to separate the assessment of retrospect ive effectiveness from the 
+measurement of hedge ineffectiveness. More specifically, the Council considered that the objective 
+of this approach would be to exclude the uncertainty arising fr om the reform from the assessment 
+of whether a hedge is considered to be highly effective and tha t hedge accounting is continued 
+when the results of this assessment are within the range of 80–125 per cent as required in paragraph 
+AG105(b) of LKAS 39, even if the measurement of actual ineffectiveness is outside that range. The 
+Council was of the view that even though this approach is consi stent with the other exceptions 
+provided in the amendments to LKAS 39, the requirement to perform two effectiveness calculations 
+
+<!-- page 24 -->
+
+24A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+based on different assumptions could be burdensome on preparers . The Council therefore rejected 
+this approach. 
+ 
+BC249 The Council also considered an approach that was recommen ded by respondents to the 2019 
+Exposure Draft, in which entities would be required, for the pu rposes of the retrospective 
+assessment, to demonstrate the existence of an economic relationship between the hedged item and 
+hedging instrument similar to the requirements in SLFRS 9. Howe ver, the Council noted that the 
+existence of an economic relationship between the hedged item and the hedging instrument, is only 
+one of the requirements in SLFRS 9 for a hedging relationship to be highly effective. The Council 
+considered that the requirements in paragraph 6.4.1(c) of SLFRS  9 are inherently linked and the 
+application of the economic relationship in isolation might not  achieve the intended objective and 
+could result in unintended consequences. The Council therefore rejected this approach. 
+ 
+BC250 The Council decided on an approach whereby an entity coul d continue to apply hedge accounting 
+for hedging relationships directly affected by the reform, even  if the actual results of the hedging 
+relationship do not meet the requirements in paragraph AG105(b)  of LKAS 39, if the 
+ineffectiveness arose from uncertainty arising from the reform or other sources, subject to satisfying 
+the other conditions in paragraph 88 of LKAS 39, including the prospective assessment (as 
+amended by paragraph 102F of LKAS 39). 
+ 
+BC251 The Council acknowledged that such an approach might prov ide less discipline compared to the 
+approach described in paragraph BC248, which would introduce ad ditional requirements to 
+mitigate the risk of continuing hedge accounting for hedging re lationships that failed the 
+retrospective assessment for reasons other than the reform. How ever, the Council noted that its 
+approach still maintains a level of discipline around the appli cation of the LKAS 39 hedge 
+accounting model through the prospective assessment and neither  imposes additional costs or 
+burden for preparers nor introduces new requirements in LKAS 39. 
+ 
+BC252 The Council noted that any exception to the retrospective  assessment will apply only to a well-
+defined population of hedging relationships during the period o f uncertainty on the hedged items 
+and hedging instruments arising from the reform. Furthermore, t he Council noted that the risk of 
+allowing hedge accounting to be applied for hedging relationships that would not otherwise qualify 
+for hedge accounting is mitigated by the required prospective a ssessment as only the uncertainty 
+arising from the reform is excluded from that assessment. Any o ther sources of ineffectiveness 
+would continue to be included in the assessment of whether the hedge is expected to be highly 
+effective in future periods. The Council noted that any high le vel of ineffectiveness arising in a 
+hedging relationship is expected to be captured by the prospect ive assessment. The Council also 
+noted that all ineffectiveness would be recognised and measured and thus be transparent in financial 
+reporting. The Council, therefore, decided to provide an except ion from the requirement to 
+discontinue hedge accounting as a result of paragraph 88(e) of LKAS 39 because the actual results 
+of the hedge do not meet the requirements in paragraph AG105(b) of LKAS 39. 
+ 
+Measurement of ineffectiveness 
+ 
+BC253 The Council noted that the exceptions were not intended t o change the requirement that entities 
+measure and recognise hedge ineffectiveness. The Council considered that the actual results of the 
+hedging relationships would provide useful information to users of financial statements during the 
+period of uncertainty arising from the reform. Therefore, the C ouncil decided that entities should 
+continue to measure and recognise hedge ineffectiveness as required by SLFRS Standards. 
+ 
+BC254 The Council also considered whether any exceptions should  be made to the measurement of hedged 
+items or hedging instruments because of the uncertainty arising  from the reform. However, the 
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iu dcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    25A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+ 
+Council noted that such an exception would be inconsistent with  the decision not to change the 
+requirements to measure and recognise hedge ineffectiveness in the financial statements. Therefore, 
+the Council decided not to provide an exception from the measurement of hedging instruments and 
+hedged items. This means that the fair value of a derivative de signated as the hedging instrument 
+should continue to be measured using the assumptions that marke t participants would use when 
+pricing that derivative as required by SLFRS 13 Fair Value Measurement. 
+ 
+BC255 For a hedged item designated in a fair value hedge, LKAS 39 requires an entity to remeasure the 
+hedged item for changes in fair value attributable to the hedge d risk and recognise the gain or loss 
+related to that fair value hedge adjustment in profit or loss. In doing so, the entity uses the 
+assumptions that market participants would use when pricing the  hedged item for changes in fair 
+value attributable to the hedged risk. This would include a risk premium for uncertainty inherent in 
+the hedged risk that market participants would consider. For ex ample, to measure changes in fair 
+value attributable to the hedged risk such as the IBOR componen t of a fixed-rate loan, an entity 
+needs to reflect the uncertainty caused by the reform. When app lying a present value technique to 
+calculate the changes in fair value attributable to the designated risk component, such measurement 
+should reflect market participants’ assumptions about the uncertainty arising from the reform 
+ 
+BC256 When an entity designates interest rate benchmark-based c ash flows as the hedged item in a cash 
+flow hedge, to calculate the change in the value of the hedged item for the purpose of measuring 
+hedge ineffectiveness, the entity may use a derivative that would have terms that match the critical 
+terms of the designated cash flows and the hedged risk (this is  commonly referred to as a 
+‘hypothetical derivative’). As the Council decided that entitie s should continue to measure and 
+recognise hedge ineffectiveness as required by SLFRS Standards, entities should continue to apply 
+assumptions that are consistent with those applied to the hedge d risk of the hedged item. For 
+example, if an entity designated interest rate benchmark-based cash flows as the hedged item in a 
+cash flow hedge, the entity would not assume for the purpose of  measuring hedge ineffectiveness 
+that the expected replacement of the interest rate benchmark wi th an alternative benchmark rate 
+will result in zero cash flows after the replacement. The hedgi ng gain or loss on the hedged item 
+should be measured using the interest rate benchmark-based cash  flows (that is, the cash flows on 
+which the hypothetical derivative is based) when applying a present value technique, discounted at 
+a market-based discount rate that reflects market participants’ assumptions about the u ncertainty 
+arising from the reform. The Council concluded that reflecting market participants’ assumptions 
+when measuring hedge ineffectiveness provides useful information to users of financial statements 
+about the effects of the uncertainty arising from the reform on  an entity’s hedging relationships. 
+Therefore, the Council decided that no exceptions are needed fo r the measurement of actual 
+ineffectiveness. 
+ 
+Hedges of designated portions 
+BC257 The Council noted that in accordance with LKAS 39 an enti ty may designate an item in its entirety 
+or only a portion thereof, as the hedged item in a hedging rela tionship. For example, an entity that 
+issues a 5-year floating-rate debt instrument that bears intere st at 3-month LIBOR + 1%, could 
+designate as the hedged item either the entire debt instrument (that is, all of the cash flows) or only 
+the 3-month LIBOR portion of the floating-rate debt instrument.  Specifically, paragraphs 81 and 
+AG99F of LKAS 39 allow entities to designate only changes in th e cash flows or fair value of an 
+item attributable to a specific risk or risks (designated portion), provided that the designated portion 
+is separately identifiable and reliably measurable. 
+ 
+
+<!-- page 26 -->
+
+26A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+BC258 The Council o bserved that an entity’s ability to conclude that an interest r ate benchmark is a 
+separately identifiable designated portion in accordance with p aragraph 81 of LKAS 39 requires a 
+continuous assessment over the duration of the hedging relation ship and could be affected by the 
+reform. For example, if the outcome of the reform affects the m arket structure of an interest rate 
+benchmark, it could affect an entity’s assessment of whether a non- contractually specified LIBOR 
+portion is separately identifiable and, therefore, an eligible hedged item in a hedging relationship. 
+The Council considered only those designated portions that are implicit in the fair value or the cash 
+flows of an item of which they are a part (referred to as non-c ontractually specified) because the 
+same issue does not arise for designated portions that are explicitly specified in the contract. 
+ 
+BC259 For the reasons outlined in paragraph BC227, the Council noted that discontinuing hedging 
+relationships due to uncertainty arising from the reform would not provide useful information. 
+Consequently, the Council decided to propose amending LKAS 39 s o that entities would not 
+discontinue hedge accounting solely because the designated port ion is no longer separately 
+identifiable as a result of the reform. In the 2019 Exposure Dr aft, the Council proposed that the 
+separately identifiable requirement for hedges of the benchmark  portion of interest rate risk be 
+applied only at the inception of those hedging relationships affected by the reform. 
+ 
+BC260 The Council proposed not to extend the relief to allow en tities to designate the benchmark portion 
+of interest rate risk as the hedged item in a new hedging relationship if the designated portion is not 
+separately identifiable at the inception of the hedging relationship. In the Council’s view, allowing 
+hedge accounting for designated portions that are not separately identifiable at the inception would 
+be inconsistent with the objective of the exception. The Council noted that such circumstances are 
+different from allowing continued designation as the hedged ite m for designated portions that had 
+met the requirement at the inception of the hedging relationship. 
+ 
+BC261 Furthermore, the Council did not propose any exception fr om the requirement that changes in the 
+fair value or cash flows of the designated portion must be reli ably measurable. As noted in 
+paragraph BC243, in the Council’s view, an offset between the h edged item and the hedging 
+instrument is a fundamental principle of the hedge accounting m odel in LKAS 39 and, therefore, 
+the Council considered reliable measurement of the hedged item and the hedging instrument to be 
+critical to maintain this principle. 
+ 
+BC262 Almost all respondents agreed with the exception proposed  in the 2019 Exposure Draft to apply 
+the separately identifiable requirement only at the inception o f a hedging relationship. However, 
+some respondents noted that the proposed exception did not prov ide equivalent relief to hedging 
+relationships that frequently reset (ie discontinue and restart ). In those hedging relationships both 
+the hedging instrument and the hedged item frequently change (ie the entity uses a dynamic process 
+in which both the hedged items and the hedging instruments used  to manage that exposure do not 
+remain the same for long). As hedging instruments and hedged it ems are being added or removed 
+from a portfolio, entities are de-designating and redesignating  hedging relationships regularly to 
+adjust the exposure. If each redesignation of the hedging relat ionship is considered to be the 
+inception of a new hedging relationship (even though it is still the same hedging strategy), then the 
+separately identifiable requirement would need to be assessed f or all hedged items at each 
+redesignation even if they have been assessed previously. For t he same reasons as those noted in 
+paragraph BC258, this could affect an entity’s ability to conclude that a non-contractually specified 
+risk component remains separately identifiable and, therefore, an eligible hedged item for hedge 
+accounting purposes. 
+ 
+BC263 The Council noted that the exception proposed in the 2019  Exposure Draft has the effect that if a 
+non-contractually specified designated portion meets the separately identifiable requirement at the 
+inception of a hedging relationship, then that requirement woul d not be reassessed subsequently. 
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    27A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+Hence, providing a similar exception for hedging relationships that frequently reset (ie discontinue 
+and restart) would be consistent with the objective of the exception originally provided in the 2019 
+Exposure Draft.
+BC264 Thus, the Council confirmed the proposal that a designated  portion is only required to be separately 
+identifiable at the inception of the hedging relationship. In a ddition, to respond to the feedback 
+described in paragraph BC262, the Council added the exception in paragraph 102I of LKAS 39 for 
+hedging relationships that, consistent with an entity’s hedge d ocumentation, frequently reset (ie 
+discontinue and restart) because both the hedging instrument an d the hedged item frequently 
+change. Applying that paragraph, an entity shall determine whet her the designated portion is 
+separately identifiable only when it initially designates an it em as a hedged item in the hedging 
+relationship. The hedged item is not reassessed at any subsequent redesignation in the same hedging 
+relationship.
+BC265 In reaching its decision for the exception in paragraph 102I of LKAS 39 the Council considered an 
+example when an entity applies hedge accounting for a portfolio  hedge of interest rate risk under 
+LKAS 39 and designates the LIBOR portion of floating-rate loans  as the hedged risk. At the 
+inception of the relationship, the entity assesses whether LIBO R is a separately identifiable 
+designated portion for all loans designated within the hedging relationship. As the entity updates 
+the risk position with the origination of new loans and the maturity or repayment of existing loans, 
+the hedging relationship is adjusted by de- designating the ‘old’ hedging relationship and 
+redesignating a ‘new’ hedging relationship for the updated amou nt of the hedged items. Applying 
+the exception in paragraph 102I of LKAS 39 requires the entity to assess whether LIBOR is a 
+separately identifiable designated portion only for the new loans added to the hedging relationship. 
+The entity would not reassess the separately identifiable requi rement for the loans that have been 
+redesignated.
+Mandatory application
+BC266 The Council decided to require entities to apply the excep tions in paragraphs 102D–102N of LKAS 
+39 to all hedging relationships to which the exceptions are app licable. In other words, the Council 
+decided that an entity is required to apply the exceptions to all hedging relationships that are directly 
+affected by the uncertainties arising from the reform and conti nue to apply the exceptions until 
+required to cease their application as specified in paragraphs 102J–102N of LKAS 39.
+BC267 The Council considered but rejected alternatives that woul d have allowed entities to apply the 
+exceptions voluntarily. In the Council’s view, voluntary application of these exceptions could give 
+rise to selective discontinuation of hedge accounting and selec tive reclassification of the amounts 
+recorded in other comprehensive income related to previously discontinued hedging relationships. 
+The Council does not expect that requiring entities to apply the exceptions would entail significant 
+cost for preparers and other a ffected parties because the exceptions require entities to assume that 
+the interest rate benchmark, on which the hedged risk and the hedged cash flows and cash flows of 
+the hedging instrument are based, is not altered as a result of the reform.
+BC268 In addition, the Council observed that in some circumstanc es the exceptions in paragraphs 102D –
+102N of LKAS 39 may not be applicable. For example, for a particular interest rate benchmark not 
+subject to the reform or replacement with an alternative benchm ark rate, there is no uncertainty 
+affecting the timing or the amount of the interest rate benchma rk-based cash flows arising from a 
+
+<!-- page 28 -->
+
+28A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+hedged item or a hedging instrument. The exceptions set out in paragraphs 102D–102N of LKAS 
+39 would not be applicable to such a hedging relationship. 
+ 
+BC269 Furthermore, for a particular hedging relationship the ex ceptions may be applicable to some but 
+not all aspects of the hedging relationship. For example, if an  entity designates a hedged item that 
+is based on LIBOR against a hedging instrument that is already referenced to an alternative 
+benchmark rate (assuming the entity can demonstrate that hedging relationship meets the qualifying 
+criteria for hedge accounting in LKAS 39), the exceptions in paragraphs 102D and 102F of LKAS 
+39 would apply for the hedged item because there is uncertainty  related to its future cash flows. 
+However, there is no uncertainty regarding how the reform would  impact the cash flows of the 
+hedging instrument and, therefore, the exception in paragraph 1 02F of LKAS 39 is not applicable 
+for the hedging instrument. Similarly, the exception applicable  to non-contractually specified 
+designated portions would not be relevant for hedging relations hips that do not involve the 
+designation of non- contractually specified portions. 
+End of application 
+BC270 As described in paragraph  BC227, the Council decided to a mend LKAS 39 to address specific 
+aspects of hedge accounting affected by uncertainties in relati on to the hedged items and hedging 
+instruments about when the interest rate benchmarks will change  to alternative benchmark rates, 
+when any spread adjustment between the interest rate benchmark and the alternative benchmark 
+rate will be determined (collectively, timing) and what the cas h flows based on the alternative 
+benchmark rate will be, including their frequency of reset, and any spread adjustment between the 
+interest rate benchmark and the alternative benchmark rate (col lectively, amount). Therefore, the 
+Council intended the exceptions set out in paragraphs 102D–102N of LKAS 39 to be available only 
+while these uncertainties are present. 
+ 
+BC271 The Council considered whet her to provide an explicit end date for the exceptions but decided not 
+to do so. The reform is following different timelines in differ ent markets and jurisdictions and 
+contracts are being modified at different times and, therefore,  at this stage, it is not possible to 
+define a period of applicability for the exceptions. 
+ 
+BC272 The Council decided that an entity ceases applying the ex ceptions at the earlier of (a) when the 
+uncertainty regarding the timing and the amount of interest rate benchmark-based cash flows is no 
+longer present as it relates to a hedged item and/or hedging instrument (depending on the particular 
+exception) and (b) the discontinuation of the hedging relationship.7 The exceptions require entities 
+to apply specific hedge accounting requirements assuming the in terest rate benchmark on which 
+the hedged risk, hedged cash flows or the cash flows of the hed ging instrument are based is not 
+altered as a result of the reform. The end of applicability of the exceptions means that entities would 
+from that date apply all hedge accounting requirements in LKAS 39 without applying these 
+exceptions. 
+ 
+BC273 In the Council’s view, for uncertainty regarding the timing and  the amount of cash flows arising 
+from a change in an interest rate benchmark to be eliminated, the underlying contracts are generally 
+required to be amended to specify the timing and the amount of cash flows based on the alternative 
+benchmark rate (and any spread adjustment between the interest rate benchmark and the alternative 
+benchmark rate). The Council noted that, in some cases, a contr act may be amended to include 
+reference to the alternative benchmark rate without actually al tering the interest rate benchmark-
+                                                           
+7  For  the  purpose of applying the exception in paragraph 102E  of LKAS 39 to a discontinued hedging relationship, the amendments 
+require an entity to cease applying the exception at the earlier of (a) as described above and (b) when the entire amount that had been 
+recognised in other comprehensive income with respect to the hedging relationship has been reclassified to profit or loss. See paragraph 
+102K of LKAS 39 
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    29A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+based cash flows in the contract. Such an amendment may not eli minate the uncertainty regarding 
+the timing and the amount of interest rate benchmark- based cash flows in the contract. The Council 
+considered the following scenarios to assess the robustness of the end of application requirements. 
+However, these scenarios are not exhaustive and other scenarios  m a y  e x i s t  i n  w h i c h  t h e  
+uncertainties arising from the reform regarding the timing and the amount of cash flows would no 
+longer be present.
+BC274 Scenario A —a contract is amended to include a clause that specifies (a) th e date the interest rate 
+benchmark will be replaced by an alternative benchmark rate and  (b) the alternative benchmark 
+rate on which the cash flows will be based and the relevant spread adjustment between the interest 
+rate benchmark and the alternative benchmark rate. In this case, the uncertainty regarding the timing 
+and the amount of cash flows for this contract is eliminated when the contract is amended to include 
+this clause.
+BC275 Scenario B —a contract is amended to include a clause that states modifications of contractual cash 
+flows will occur due to the reform but that specifies neither the date that the interest rate benchmark 
+will be replaced nor the alternative benchmark rate on which the amended cash flows will be based. 
+In this case, the uncertainty regarding the timing and the amount of cash flows for this contract has 
+not been eliminated by amending the contract to include this clause.
+BC276 Scenario C —a contract is amended to include a clause which states that con ditions specifying the 
+amount and timing of interest rate benchmark- based cash flows will be determined by a central 
+authority at some point in the future. But the clause does not specify those conditions. In this case, 
+the uncertainty regarding the timing and the amount of the interest rate benchmark-based cash flows 
+for this contract has not been eliminated by including this cla use in the contract. Uncertainty 
+regarding both the timing and the amount of cash flows for this  contract will be present until the 
+central authority specifies when the replacement of the benchmark will become effective and what 
+the alternative benchmark rate and any related spread adjustment will be.
+BC277 Scenario D —a contract is amended to include a clause in anticipation of th e reform that specifies 
+the date the interest rate benchmark will be replaced and any spread adjustment between the interest 
+rate benchmark and the alternative benchmark rate will be deter mined. However, the amendment 
+does not specify the alternative benchmark rate or the spread a djustment between the interest rate 
+benchmark and the alternative benchmark rate on which the cash f lows will be based. In this 
+scenario, by amending the contract to include this clause, uncertainty regarding the timing has been 
+eliminated but uncertainty about the amount remains.
+BC278 Scenario E —a contract is amended to include a clause in anticipation of th e reform that specifies 
+the alternative benchmark rate on which the cash flows will be based and the spread adjustment 
+between the interest rate benchmark and the alternative benchma rk rate but does not specify the 
+date from which the amendment to the contract will become effective. In this scenario, by amending 
+the contract to include this clause, uncertainty about the amount has been eliminated but uncertainty 
+with respect to timing remains.
+BC279 Scenario F —in preparation for the reform, a central authority in its capacity as the administrator of 
+an interest rate benchmark unde rtakes a multi-step process to r eplace an interest rate benchmark 
+with an alternative benchmark rate. The objective of the reform  is to cease the publication of the
+current interest rate benchmark and replace it with an alternat ive benchmark rate. As part of the 
+reform, the administrator introduces an interim benchmark rate and determines a fixed spread 
+
+<!-- page 30 -->
+
+30A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 02.03.2023  
+ 
+adjustment based on the difference between the interim benchmark rate and the current interest rate 
+benchmark. Uncertainty about the timing or the amount of the al ternative benchmark rate-based 
+cash flows will not be eliminated during the interim period bec ause the interim benchmark rate 
+(including the fixed spread adjustment determined by the admini strator) represent an interim 
+measure in progressing towards the reform but it does not represent the alternative benchmark rate 
+(or any related spread adjustment agreed between parties to the contract). 
+ 
+BC280 For reasons similar to thos e described in paragraph BC269 , the Council noted that there could be 
+situations in which the uncertainty for particular elements of a single hedging relationship could 
+end at different times. For example, assume an entity is requir ed to apply the relevant exceptions 
+to both the hedged item and the hedging instrument. If the hedg ing instrument in that hedging 
+relationship is subsequently amended through market protocols c overing all derivatives in that 
+market, and will be based on an alternative benchmark rate such  that the uncertainty about the 
+timing and the amount of interest rate benchmark-based cash flo ws of the hedging instrument is 
+eliminated, the relevant exceptions would continue to apply to the hedged item but would no longer 
+apply to the hedging instrument.8 
+ 
+BC281 The Council observed that continuing to apply the excepti on after the uncertainty was resolved 
+would not faithfully represent the actual characteristics of the elements of the hedging relationship 
+in which the uncertainty arising from the reform is eliminated.  The Council considered whether it 
+should extend the relief provided such that the exceptions woul d apply at the hedging relationship 
+level for as long as any element of that hedging relationship was affected by the uncertainties arising 
+from the reform. The Council agreed that doing so would be beyo nd the objective of addressing 
+only those issues directly affected by the uncertainty arising from the reform. This is also because 
+the exceptions in paragraphs 102D –102N of LKAS 39 and the respective requirements in LKAS 
+39 apply to the same elements of the hedging relationship. Ther efore, applying each exception at 
+the hedging relationship level would be inconsistent with how t he underlying requirements are 
+applied. 
+ 
+BC282 The Council decided that the end of application requireme nt would also apply to hedges of a 
+forecast transaction. The Council noted that LKAS 39 requires a n entity to identify and document 
+a forecast transaction with sufficient specificity so that, whe n the transaction occurs, the entity is 
+able to determine whether the transaction is the hedged transac tion. For example, if an entity 
+designates a future issuance of a LIBOR-based debt instrument as the hedged item, although there 
+may be no contract at the time of designation, the hedge documentation would refer specifically to 
+LIBOR. Consequently, the Council concluded that entities should  be able to identify when the 
+uncertainty regarding the timing and the amount of the resulting cash flows of a forecast transaction 
+is no longer present. 
+ 
+BC283 In addition, the Council decided not to require end of ap plication with respect to the exception for 
+the separately identifiable requirements set out in paragraphs 102H and 102I of LKAS 39. Applying 
+these exceptions, entities would continue applying hedge accoun ting when an interest rate 
+benchmark meets the separately identifiable requirement at the inception of the hedging 
+relationship (assuming all other hedge accounting requirements continue to be met). If the Council 
+included an end date for these exceptions, an entity may be req uired to immediately discontinue 
+hedge accounting because, at some point, as the reform progress es, the designated portion based 
+on the interest rate benchmark may no longer be separately identifiable (for example, as the market 
+for the alternative benchmark rate is established). Such immedi ate discontinuation of hedge 
+                                                           
+8  In this scenario, the entity would first consider the account ing consequences of amending the contractual terms of the hedgi ng 
+instrument. The Council will consider the accounting consequences of the actual amendment of financial instruments as a result of 
+interest rate benchmark reform in the next phase of this project (ie the replacement phase) 
+
+<!-- page 31 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    31A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+accounting would be inconsistent with the objective of the exce ption. The Council noted that 
+linking the end of application for these exceptions to contract  amendments would not achieve the 
+Council’s intention either because by definition, non -contractually specified designated portions 
+are not explicitly stated in a cont ract and, therefore, these c ontracts may not be amended for the 
+reform. This is particularly relevant for fair value hedges of a fixed-rate debt instrument. Therefore, 
+the Council decided that an entity should cease applying the ex ceptions to a hedging relationship 
+only when the hedging relationship is discontinued applying LKAS 39.
+BC284 Some respondents to the 2019 Exposure Draft noted that the  Council had not addressed when an 
+entity ceases applying the proposed exceptions to a group of it ems designated as the hedged item 
+or a combination of financial instruments designated as the hedging instrument. Specifically, when 
+assessing whether the uncertainty arising from the reform is no  longer present, these respondents 
+asked whether that assessment should be performed on an individ ual basis (that is, for each 
+individual item within the group or financial instrument within the combination) or on a group basis 
+(that is, for all items in the group or all financial instrumen ts in the combination until there is no 
+uncertainty surrounding any of the items or financial instruments).
+BC285 Consequently, the Council decided to add paragraph 102N of  LKAS 39 to clarify that, when 
+designating a group of items as the hedged item or a combinatio n of financial instruments as the 
+hedging instrument, entities assess when the uncertainty arising from the reform with respect to the 
+hedged risk and/or the timing and amount of the interest rate b enchmark-based cash flows of that 
+item or financial instrument is no longer present on an individual basis—that is, for each individual 
+item in the group or financial instrument in the combination.
+Effective date and transition
+BC286 The Council decided that entities shall apply the amendmen ts for annual periods beginning on or 
+after 1 January 2020, with earlier application permitted.
+BC287 The Council decided that the amendments apply retrospectiv ely. The Council highlighted that 
+retrospective application of the amendments would not allow reinstating hedge accounting that has 
+already been discontinued. Nor would it allow designation in hi ndsight. If an entity had not 
+designated a hedging relationship, the exceptions, even though applied retrospectively, would not 
+allow the entity to apply hedge accounting in prior periods to items that were not designated for 
+hedge accounting. Doing so would be inconsistent with the requi rement that hedge accounting 
+applies prospectively. Retrospective application of the exceptions would enable entities to continue 
+hedge accounting for a hedging relationship that the entity had  previously designated and that 
+qualifies for hedge accounting applying LKAS 39.
+BC288 Many respondents to the 2019 Exposure Draft commented on t he clarity of the proposed 
+retrospective application and suggested that further explanatio n be provided in the Standard. 
+Consequently, the Council amended the transition paragraph to s pecify that retrospective 
+application applies only to those hedging relationships that existed at the beginning of the reporting 
+period in which an entity first applies these amendments or wer e designated thereafter, and to the 
+gain or loss recognised in other comprehensive income that existed at the beginning of the reporting 
+period in which an entity first applies these amendments. The Council used this wording to permit 
+an entity to apply the amendments from the beginning of the rep orting period in which an entity 
+first applies these amendments even if the reporting period is not an annual period.
+
+<!-- page 32 -->
+
+32A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl  iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+Amendments to the Basis for Conclusions on SLFRS 7 Financial Instruments: Disclosures
+This Basis for Conclusions accompanies, but is not part of, SLFRS 7
+After paragraph BC35SS, a new subheading and paragraphs BC35TT –BC35CCC are added
+Uncertainty arising from interest rate benchmark reform
+BC35TT In May 2019 the Council published the Exposure DraftInterest Rate Benchmark Reform (2019
+Exposure Draft), which proposed exceptions to specific hedge accounting requirements in SLFRS 9
+and LKAS 39 to provide relief in the period before the reform of interest rate benchmarks. The 
+Council issued the final amendments to SLFRS 9 and LKAS 39 in Se ptember 2019. Paragraphs 
+BC6.546–BC6.603 of the Basis for Conclusions on SLFRS 9 and paragraphs BC223–BC288 of the
+Basis for Conclusions on LKAS 39 provide the background to these amendments.
+BC35UU In the 2019 Exposure Draft, the Council proposed that entities applying the exceptions provide 
+disclosure about the magnitude of the hedging relationships to which the exceptions apply. As 
+explained in paragraphBC44 of the Basis for Conclusions on the 2019 Exposure Draft, the Council noted
+that SLFRS7already requiresspecificdisclosures abouthedgeaccounting. TheCouncil proposed that for 
+some specifically identified disclosures, information be provid ed separately for hedging 
+relationships to which the proposed exceptions apply. Specifica lly, the Council proposed that an 
+entity provide separately the information required by paragraphs 24A(a), 24A(c )–(d), 24B(a) (i)–(ii),
+24B(a)(iv) and 24B(b) of SLFRS 7 for hedging relationships affected by interest rate benchmark
+reform.
+BC35VV Most respondents to the 2019 Exposure Draft agreed that information about the magnitude of the
+hedging relationships to which the proposed exceptions apply would be useful to users of financial
+statements. However, respondents had mixed views on whether the proposed disclosure requirements
+struck the rightbalancebetweentheexpectedbenefitsforusersoffinancialstatem ents and the expected
+cost for preparers. As a result, these respondents suggested simplifying the proposed disclosure
+requirements.
+BC35WW In addition, users of financial statements told the Council that, since the proposed amendments to
+SLFRS 9 and LKAS 39 would be mandatory, information about the extent to which anentity’s hedging
+relationships are within the scope of the exceptions would provide useful information. Such
+information could be provided by requiring entities to disclose the nominal amounts of hedging 
+instruments in hedging relationships in the scope of the amendm ents, supplemented with an 
+explanation about how the entity is managing the process to tra nsition to alternative benchmark 
+rates. These disclosures would help users of financial statements understand how an entity’s 
+hedging relationships are affected by the uncertainty arising from interest rate benchmarkreform.
+BC35XX On the basis ofrespondents’ comments and feedback from users of financial statements, the Council
+decided to require entities to provide the disclosures set out in paragraph 24H of SLFRS 7 for hedging
+relationships directly affected by interest rate benchmarkreform.
+BC35YY Specific to the disclosure requirement in paragraph 24H(d) of SLFRS 7, the Council acknowledged 
+that given the objective and specificity of the amendments to S LFRS 9 and LKAS 39, there may 
+be limited additional assumptions or judgements in the context of applying those exceptions. For 
+example, the exceptions specify the assumptions to make about the interest rate benchmark-based cash
+flows. Nevertheless, the Council observed that if an entity makes significant assumptions or 
+judgements in applying the exceptions in those amendments (for example, to determine when the 
+uncertainty arising from interest rate benchmark reform is no longer present), that would be useful 
+
+<!-- page 33 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'03'02    33A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -02.03.2023
+information for the users of financial statements. Accordingly,  the Council decided to require 
+entities to disclose information about any significant assumptions or judgements tha t the entity makes
+in applying the exceptions in the amendments.
+BC35ZZ The Council noted that the requirement in paragraph 24H(e) of SLFRS 7 is intended toprovideusers
+of financial statements with information about the quantum of hedging relationships which are 
+directly affected by the uncertaintiesarisingfromthereform.That paragraphrequiresdisclosureof the
+nominal amount of the hedging instruments in a hedging relationship direc t l y  a f f e c t e d  b y  t h e  
+uncertainties arising from the reform so that the information isdisclosed on a gross basis rather than
+on a net basis (that is, offsetting hedging instruments in a liability position against those in an asset 
+position).
+BC35AAA Some respondents to the 2019 Exposure Draft raised concerns about the disclosure requirement 
+in paragraph 28(f) of LKAS 8 Accounting Policies, Changes in Accounting Estimates and Errors. 
+This paragraph requires an entity, on the initial application of an SLFRS (or amendments to an 
+SLFRS), to disclose, for the current period and each prior peri od presented, the amount of any 
+adjustment for each financial statement line item affected.
+BC35BBB These respondents said that requiring such disclosure for the amendments to SLFRS 9 and LKAS 39
+would not provide useful information to users of financial statements and also would be onerous for
+preparers. This is because it would require an entity to maintain parallel systems in order to 
+determine the amount of the adjustment for each financial state ment line item affected. 
+Furthermore, disclosing this information would be inconsistent with the Council’s observation in
+paragraph BC6.550 of SLFRS 9 and paragraph BC227 of LKAS 39, that discontinuing hedge 
+accounting solely due to uncertainties arising from the reform would not provide useful 
+information to users of financial statements.
+BC35CCC The Council agreed with these comments and decided to exempt entities from the requirement in 
+paragraph 28(f) of LKAS 8 in the reporting period in which an entity first applies the amendments 
+to SLFRS 9 and LKAS 39.
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+(2*
