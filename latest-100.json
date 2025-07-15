@@ -463,6 +463,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2442-48",
+    "date": "2025-06-26",
+    "description": "Land Title Settlement Dept. - Ellakkala, Attanagalla D/S Division, Gampaha District (25/0189)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-47",
     "date": "2025-06-26",
     "description": "Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman for 02 Local Government Institutions"
@@ -592,11 +598,5 @@
     "id": "2441-55",
     "date": "2025-06-20",
     "description": "Election Commission - Local Authorities Election - 2025 Notice Under Section 66(2) Elected to the Members for Dehiwala - Mount Lavinia M/C Kotikawatta - Mulleriyawa P.S, Homagama P.S and Weeraketiya Pradeshiya Sabha."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-52",
-    "date": "2025-06-20",
-    "description": "Land Title Settlement Dept. - Halpugala, Bope Poddala D/S Division, Galle District - (25/0186)"
   }
 ]
