@@ -37,6 +37,12 @@
   },
   {
     "doc_type_name": "gazettes",
+    "id": "2025-07-11-legal-section",
+    "date": "2025-07-11",
+    "description": "Legal Section"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-07-11-land-section",
     "date": "2025-07-11",
     "description": "Land Section"
@@ -592,11 +598,5 @@
     "id": "2441-60",
     "date": "2025-06-21",
     "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Kappina Seemamalaka Viharaya call as an Urban Development area"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-59",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Manthinda Priven Viharaya as an Urban Development area"
   }
 ]
