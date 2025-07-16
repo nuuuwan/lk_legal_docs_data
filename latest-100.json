@@ -1,6 +1,30 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-05",
+    "date": "2025-07-14",
+    "description": "2445/05"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-04",
+    "date": "2025-07-14",
+    "description": "2445/04"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-03",
+    "date": "2025-07-14",
+    "description": "2445/03"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-02",
+    "date": "2025-07-14",
+    "description": "2445/02"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-01",
     "date": "2025-07-14",
     "description": "Sri Lanka Customs - Rates of Exchange with effect from 14.07.2025 to 20.07.2025"
@@ -574,29 +598,5 @@
     "id": "2441-59",
     "date": "2025-06-21",
     "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Manthinda Priven Viharaya as an Urban Development area"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-58",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Dickwella Deegawalukarama Rajamaha Vihara as an Urban Development area"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-57",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department Town and Country Planning Ordinance (Chapter 269) Declare that the Land called Purana Athkanda Rajamaha Viharaya called as an Urban Development Area"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-56",
-    "date": "2025-06-20",
-    "description": "Architects Registration Board Sri Lanka Institute of Architects (Amendment) Act, No. 14 of 1996- Chartered Architects, Architects, Architactural Licentiates for the Registration of Persons - 2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-55",
-    "date": "2025-06-20",
-    "description": "Election Commission - Local Authorities Election - 2025 Notice Under Section 66(2) Elected to the Members for Dehiwala - Mount Lavinia M/C Kotikawatta - Mulleriyawa P.S, Homagama P.S and Weeraketiya Pradeshiya Sabha."
   }
 ]
