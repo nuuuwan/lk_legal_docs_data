@@ -1,0 +1,568 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2316$14 - 2023 ckjdß ui 24 jeks w`.yrejdod - 2023'01'24
+No. 2316/14 -  tuesday,   jaNuary  24,  2023
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL                     
+Government Notifications
+1a- PG 6185 - 126 (01/2023) 
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+SRI  LANkA  TELECOmmuNICATION  ACT  NO.  25  Of  1991
+GuideliNes made by telecommunication regulatory Commission of sri lanka regarding the value added  
+telecommunication services provided by licensed Mobile operators under section 5(d) and 5(r) of sri lanka 
+telecommunication act No. 25 of 1991 as amended by sri lanka telecommunication act No. 27 of 1996.
+ R. G. H. K. RanatunGa,
+ acting director General,
+ telecommunications regulatory Commission of sri lanka.
+telecommunication regulatory
+ Commission Of sri lanka,
+276, elvitigala Mawatha,
+Colombo 08,
+20th january, 2023.
+Contents
+1. introduction .............................................................................................................................................................2
+2. Objectives .............................................................................................................................................................. 2
+3. Guidelines .............................................................................................................................................................. 2
+  3.1 General Conditions ........................................................................................................................................2
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+2a
+   3.1.1 Vas information ..................................................................................................................................2
+	 	 	 3.1.2	Activation	/	Confirmation	Process	of	a	VAS .......................................................................................3
+   3.1.3 Naming Convention of the Vas .......................................................................................................... 3
+   3.1.4 subscriber consent for activation  .........................................................................................................3
+   3.1.5 renewal of Vas by subscribers ..........................................................................................................4
+	 	 	 3.1.6	Insufficient	balance	to	activate	the	VAS	(Pre-Paid) .............................................................................4
+   3.1.7 Non sharing of subscriber information ................................................................................................5
+   3.1.8 activation/de-activation command of Vas ........................................................................................ 5
+   3.1.9 Promotional sMs of Vas ....................................................................................................................5
+	 	 3.2	 Specific	Conditions ........................................................................................................................................5
+   3.2.1 Web based Vas ....................................................................................................................................5
+   3.2.2 iVr based Vas .................................................................................................................................... 6
+   3.2.3 ussd based Vas .................................................................................................................................6
+  3.3 Vas Complaints/disputes/redress ............................................................................................................... 6
+  3.4 Vas QOs .......................................................................................................................................................7
+   3.4.1 activation response time  ......................................................................................................................7
+  3.5 revalidation of existing active Vas of subscribers ....................................................................................7
+4. abbreviations  .......................................................................................................................................................... 8
+Guidelines for Telecommunication Value Added Services Provided by Licensed mobile Operators
+1. Introduction:
+ Value added services has been noted as a widely consumed aspect of overall services provided by telecommunications 
+operators	to	its	clientele.	However,	it	has	been	noted	that	significant	amount	of	customer	complaints	increasing	over	
+the years in terms of disputes of subscriptions as well as billing by the operators. With the above the regulator has 
+initiated proceeding to ensure a stringent legal and regulatory framework for Vas for mandatory adherence by all 
+telecommunications operators.
+2. objectives:
+•	 ensuring consumer protection in terms of validating Vas subscriptions.
+•	 ensuring a practical mechanism for unsubscribing Vas for subscribers.
+•	 introduction of Billing / dispute Management Process for consumer complaints for Vas.
+3. Guidelines:
+this guideline is applicable for licensed mobile operators and should be adhered to strictly and any noncompliance would 
+be deemed as a violation of the directives provided for consumer protection by the regulator in terms of Vas.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+3a
+3.1 General Conditions
+3.1.1 V AS Information:
+Operator should make available the V as information in all three languages viz; sinhala, tamil and english and allow 
+subscriber to choose the Vas information in a preferred language.
+Before activating any type of Vas (ussd, iVr, sMs, Web based, etc.), operator should inform following information 
+to the subscriber using subscriber's preferred language.
+ (i) Vas name
+ (ii) Vas terms and conditions (the direct link to t&C should be made available)
+ (iii) Vas charges including taX (Billing Frequency if daily, Weekly, Monthly etc.)
+ (iv) subscription tenure of service (daily, Monthly, Weekly etc.)
+ (v) deactivation method
+No Vas may be promoted as being free if it involves any charges whatsoever to the consumer even at a later date. there 
+should be no hidden charges. any associated charges for services rendered should be clearly disclosed upfront at the point 
+of subscription by the subscriber.
+3.1.2 Activation / Confirmation Process of a V AS 
+3.1.2.1 Activation by Subscriber:
+immediately after successful activation of any type of V as (ussd, iVr, sMs, Web based, etc.) operator should send 
+activation	success	confirmation	SMS	(using	subscriber's	preferred	language)	which	should	contain.
+ (i) Vas name
+ (ii) Vas terms and conditions (the direct link to t&C should be made available)
+ (iii) Vas charges including taX (Billing Frequency if daily, Weekly, Monthly etc.)
+ (iv) subscription tenure of service (daily, Monthly, Weekly etc.)
+	 (v)	 Call	 to	Action	:	"Confirm	to	proceed"	Seek	subscriber	confirmation	through	a	return	response	through	the	
+applicable communication method. (Web based services only)
+ (vi) deactivation method
+3.l.2.2 Confirmation of Service:
+Based on a successful validation of activation of a service by a subscriber as per process noted on section 3.1.2.1, a 
+reconfirmation		should	be	initiated	with	an	OTP		mechanism	(One	Time	Password)	for	reconfirmation	of	the	subscription	by	
+the subscriber. Please note the OTP verification is mandatory only for web based V AS activation. The OTP could be a 
+4-digit code that is generated randomly.
+3.1.3 Naming Convention of the V AS –
+Operator	shall	use	the	same		name	of	the	VAS	that	they	have	filed/will	be	filing	in	the	future	with	TRCSL	in	all	subscriber	
+information	sources	including	advertisements	viz;	OBD	call,	IVR,	Activation	successful	confirmation	SMS,	Un-subscription	
+successful sMs, selfcare app, Operator  web site etc. 
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+4a
+3.1.4 Subscriber consent for activation –
+if the operator provides the Vas directly with their own content,
+•	 First and second consent of the subscriber for activation of Vas should be obtained by operator through a 
+dedicated consent gateway, which is owned by an Operator.
+•	 Operator	is	not	allowed	to	remove/delete	first	and	second	consent	logs	from	the	systems	while	a	service	is	
+active and even after the subscriber de-activates the subscribed Vas. log information should be retained 
+for	a	minimum	period	of	one	(01)	year	or	as	deemed	fit	by	the	operator.
+•	 Operator should keep all consent logs for reference/audit purposes and should be made available to 
+trCsl when requested.
+•	 Operator should provide V as information including logs if requested by the subscriber on a disputed 
+service.
+•	 Charging	should	only	be	applicable	after	receiving	both	confirmations.
+if the operator is providing a Vas with the content obtained from a third-party content provider,
+•	 First consent of the subscriber shall be obtained and stored as a log in the dedicated consent gateway 
+owned by the third-party content provider as well as the operator.
+•	 the second consent of the subscriber shall be obtained and stored as a log in a dedicated consent gateway 
+owned by the operator.
+•	 Operator	is	not	allowed	to	remove/delete	first	and	second	consent	logs	from	the	systems	while	a	service	is	 	
+active and even after the subscriber de-activates the subscrided Vas. log information should be retained 
+for	a	minimum	period	of	one	(01)	year	of	as	deemed	fit	by	the	operator.
+•	 Operator should keep all consent logs for reference/audit purposes and should be made available to 
+trCsl when requested.
+•	 Operator should provide V as information including logs if requested by the subscrber on a disputed 
+service.
+•	 Charging	should	only	be	applicable	after	receiving	both	confirmations.
+3.1.5 Renewal of V AS by Subscribers –
+all activated Vas enrolled to by the subscriber, should be followed up with a message at each time the subscriber is 
+charged based on the opted billing cycle (daily, Weekly, Monthly). the message should include a link to unsubscribe the 
+service based on the discretion of the subscriber. this message is mandatory to be sent to all subscribers at the point of each 
+recursive billing charge initiated on the subscriber. this should be retrospectively applied to all Vas activated previous to 
+this guideline on subscribers.
+	 i.	 Customers	 need	to	be	given	the	diffirent	charging	options	(Daily,	Monthly,	Weekly)	at	the	time	of	activation,	
+clearly mentioning the amount and the tenure (renewal period) of the Vas.
+ ii. any V as Charges applied on pre-paid wallets have to be informed to customers clearly mentioning the Vas used, 
+charge applied and the method of unsubscribing at the time of charging the customer for the Vas (preferably via 
+standard sMs or Flash sMs).
+  For Post-paid customers, the same information has to be clearly made available in the monthly bill as well as the 
+message to be dispatched at the point of charging noted above.
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+5a
+ iii. all V as service details should be made available across all self-care channels for customers to activate/
+deactivate using a smartphone or a featurephone.
+3.1.6 Insufficient balance to activate the V AS (Pre-Paid) –
+1.	For	New	VAS	Activations-Operator	shall	not	activate	a	VAS	if	the	account	balance	is	insufficient	to	activate	the		
+ V as.
+2. For Continuation of subscribed Vas
+ (i) For daily billing - Operator should not deduct the V as charges for the period of zero account balance. daily 
+charge should be deducted from the day that the account had been topped up.
+ (ii) For weekly billing - Operator should not deduct the Vas charges for the period of zero account balance. Weekly 
+charge should be deducted for seven days from the day that the account had been topped up.
+ (iii) For monthly billing - Operator should not deduct the V as charges for the period of zero account balance. 
+Monthly charge should be deducted for one calendar month from the day that the account had been topped up.
+3.1.7 Non sharing of subscriber information.–
+the Operators shall take all necessary organizational and technical measures and procedures to preserve and protect 
+the	confidentiality	of	information,	and	data	of	subscribers.	Further,	Operators	should	not	share	subscriber's	ownership	
+details including connection numbers with third-party content service providers without the express consent of the 
+subscriber.
+3.1.8 Activation/De-activation command of V AS
+The	activation/deactivation	command	should	be	common	for	any	kind	of	VAS	and	could	be	operator	specific.	Any	
+deactivation should be completed on a maximum of 1 hour.
+3.1.9 Promotional SmS of V AS
+Promotional sMs for any kind of a Vas should include following information:
+ (i) Vas name
+ (ii) Vas terms and conditions (the direct link to t&C should be made available)
+ (iii) Vas charges including taX (Billing Frequency if daily, Weekly, Monthly etc.)
+ (iv) subscription tenure of service (daily, Monthly, Weekly etc.)
+ (v) deactivation method
+ Operator should not continue to charge for a Vas on the case of a free trial period offered as part of a Vas promotion. 
+On the completion of such free trial the standard process of subscriber activation as detailed on section 3.1.2.1 should 
+be followed.
+3.2 Specific Conditions:
+in addition to the conditions stipulated in the above item 3.1, following conditions are also applicable for each category 
+specified	below.
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+6a
+3.2.1 Web based V AS –
+ (i) 3rd Party Banner Based activations: under no circumstances should operators allow 3rd party web banner-
+based subscriptions, and no such entities should be allowed to bill subscribers for services unless such services 
+are directly promoted as Vas by the operators based on above approved mechanisms taking full responsibility 
+for such service offerings.
+ (ii) the subscription or Pay-per-use Buttons placed on Content Portals shall mention all charges clearly with a 
+link to the full terms and Conditions of the service. any such carrier billing utilized through 3rd party native 
+applications / web applications; the operators should take maximum measures to validate such web applications 
+/ native mobile apps to ensure that such providing entities adhere to stringent service guidelines without a 
+discontinuation. it is imperative that the operators implement a validation framework for all such 3rd party apps 
+/ portals that carrier billing facilities are provided for.
+ (iii) For Over-the-top ("Ott") service providers where the services are consumed either on-network Or off-
+network	(E.g.	Netflix,spotify,	Google	DCB,	Insurance,	etc.) and where Carrier Billing is only used as a Payment 
+Method, it shall be the responsibility of the Operator to enter into an agreement and implement a validation 
+framework as noted above in sub-section (ii) with such service providers subsequent to careful evaluation of the 
+service provider's charging models and authenticity of the company prior to engagement.
+ (iv) all Content Portal services (owned by operators) consumed on-network shall provide a suitable method of 
+double-confirmation	before	the	customer	is	"opted-in"	to	a	subscription	service.
+ (v) Customer usage of such on-net service shall be monitored by all operators and it shall be the responsibility of 
+each operator to apply a suitable cleansing process to remove long-term inactive customers either by their own 
+initiative or through the respective service providers.
+ (vi) Operator should make sure that the third-party content providers have proper algorithms to identify subscribers 
+who have not utilized their Vas after activation.
+ (vii) the operator is required to identify the capability of user device before  activation of V as as some devices will 
+not support the Vas. the operator is required to obtain the initial subscription requests from the same channel 
+used to consume the service (e.g. if it is a web-based service subscriber has to arrive at the web portal to initiate 
+the subscription).
+3.2.2 IVR based V AS –
+ (i) Charges for iVr calls should be indicated to subscriber at the beginning of the call.
+	 (ii)	 Exit	 option	of	the	IVR	call	should	be	indicated	in	the	first	loop.	Inner	loop	should	have	exit	option	to	main	loop	
+or complete exit.
+ (iii) deactivate/unsubscribe option should be available in the main loop of iVr and any deactivation should be 
+completed on a maximum of 1 hour.
+3.2.3 uSSD based V AS –
+if ussd used to deactivate the service, the unsubscribed option should be available in the main loop of ussd, and any 
+deactivation should be completed on a maximum of 1 hour.
+3.3 V AS Complaints / Disputes / Redress:
+ (i) For Vas complaints a dedicated team should be assigned and required options added to customer care iVr 
+systems to have the option accessible on the main menu.
+	 (ii)	 For	 Pre-paid	subscribers,	If	the	subscriber	disputes,	and	operator	identified	that	VAS	was	activated	without	
+his/her consent the amount charged shall be refunded to the subscriber within three working days (for per day 
+chargeable	VAS)	and	within	five	working	days	(for	other	VAS)	from	the	reporting	date	of	the	complaint.
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+7a
+ (iii) For Post-paid	subscribers,	If	the	subscriber	disputes,	and	operator	identified	that	VAS	was	activated	without	
+his/her consent the amount charged shall be refunded to the subscriber within three working days (for per day 
+chargeable	VAS)	and	five	working	days	(for	other	VAS)	from	the	reporting	date	of	the	complaint.	This	correction	
+should appear in the bill of the following month.
+	 (iv)	 In	 case	of	any	kind	of	operational	failures	(system	down,	link	failure	etc.)	of	VAS	and	operator	identified	that	
+the users had been charged during the failure, operator should refund appropriate amount for affected users 
+mentioning the reason equivalent to the service down time.
+ (v) Operators are required to submit to trCsl the refunding mechanisms for item (iii) above and should obtain 
+approval before implementation.
+ (vi) Operators are required to submit a comprehensive report on consumer complaint resolutions / status at the end 
+of each month according to format provided by trCsl.
+3.4  V AS QOS:
+3.4.1 Activation response time –
+ 
+ a) ussd based - between 30 - 40 s
+ b) sMs based - not greater than 120 s
+ c) iVr based - not greater than 10 s 
+3.5 Revalidation of Existing Active V AS of Subscribers:
+•	 all operators should take mandatory steps to ensure that all subscribers who has opted for any V as (including 3rd 
+party web banner-based subscriptions) is sent a message with a consolidated list of all such V as opted in by the 
+subscriber for their information with an option to un-subscribe based on the validation drive to be commenced at a 
+date prescribed by the regulator. Based on the revalidation drive, a comprehensive report should be provided to the 
+regulator	on	format	prescribed	of	all	discrepancies	notified	by	subscribers.
+•	 Based on above revalidation process, a mechanism should be introduced for subscribers to record any discrepancy 
+they	may	want	to	escalate	to	the	operator.	Based	on	such	discrepancies	notified,	a	dedicated	team	should	be	setup	by	
+all operators to rectify / consider complaints made by any subscriber.
+•	 Furthermore, a short code / sMs service should be introduced to ensure that a subscriber could check on all V as 
+subscribed at any point and an easy mechanism to unsubscribe. this service should be implemented within thirty (30) 
+days from the date of receipt of this guideline.
+•	 it is mandatory that the Vas services that are subscribed be easily accessible on selfcare apps / Customer Web Portal 
+for viewing services that are opted for and to provide unsubscribe facilities.
+4. Abbreviations:
+iVr-interactive V oice response
+OBd-Out Bound dialing
+OtP-One time Password
+Ott-Over the top
+Qos-Quality of service
+sMs-short Message service
+t&C-terms and Conditions
+trCsl-telecommunications regulatory Commission of sri lanka
+ussd- unstructured supplementary service data
+Vas-Value added services
+eOG 01 - 0229/1
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+8a
+SRI  LANkA  TELECOmmuNICATION  ACT,  No.  25  Of  1991
+Guidelines made by telecommunication regulatory Commission of sri lanka regarding the value added telecommunication 
+services provided by licensed Fixed operators under section 5(d) and 5(r) of sri lanka telecommunication act, No. 25 of 
+1991 as amended by sri lanka telecommunication act, No. 27 of 1996.
+ R. G. H. K. RanatunGa,
+ acting director General,
+ telecommunication regulatory Commission of sri lanka.
+telecommunication regulatory Commission 
+ of sri lanka,
+No. 276, elvitigala Mawatha,
+Colombo 08,
+20th january 2023.
+Content
+1. introduction .............................................................................................................................................................. 2
+2. Objectives  .............................................................................................................................................................. 2
+3. Guidelines  .............................................................................................................................................................. 2
+ 3.1  General Conditions............................................................................................................................................ 2
+   3.1.1 Vas information ..................................................................................................................................2
+	 	 	 3.1.2	Activation	/	Confirmation	Process	of	a	VAS .......................................................................................3
+   3.1.3 Naming Convention of the Vas .......................................................................................................... 3
+   3.1.4 subscriber consent for a activation  ......................................................................................................3
+   3.1.5 renewal of Vas by subscribers ..........................................................................................................4
+	 	 	 3.1.6	Insufficient	balance	to	activate	the	VAS	(Pre-paid) ............................................................................. 4
+   3.1.7 Non sharing of subscriber information ................................................................................................5
+   3.1.8 activation/de-activation command of Vas ........................................................................................ 5
+   3.1.9 Promotional sMs of Vas ....................................................................................................................5
+	 3.2		Specific	Conditions ........................................................................................................................................... 5
+   3.2.1 Web based Vas ....................................................................................................................................5
+   3.2.2 iVr based Vas .................................................................................................................................... 6
+   3.2.3 ussd based Vas .................................................................................................................................6
+ 3.3  Vas Complaints / disputes / redress ............................................................................................................... 6
+ 3.4  Vas QOs .......................................................................................................................................................... 7
+   3.4.1 activation response time  ......................................................................................................................7
+ 3.5  revalidation of existing active Vas of subscribers ........................................................................................7
+4. abbreviations ...........................................................................................................................................................7
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+9a
+Guidelines for Telecommunication Value Added Services Provided by 
+fixed Service Licensed Operators
+1. Introduction:
+Value added services (Vas) has been noted as a widely consumed aspect of overall services provided by telecommunications 
+operators	to	its	clientele.	However,	it	has	been	noted	that	significant	amount	of	customer	complaints	increasing	over	the	years	
+in terms of disputes of subscriptions as well as billing by the operators. With the above the regulator has initiated proceeding 
+to ensure a stringent legal and regulatory framework for Vas for mandatory adherence by all telecommunications operators.
+2. Objectives:
+•	 ensuring consumer protection in terms of validating Vas subscriptions.
+•	 ensuring a practical mechanism for unsubscribing Vas for subscribers.
+•	 introduction of Billing / dispute Management process for consumer complaints for Vas.
+3. Guidelines:
+This	guideline	is	applicable	for	fixed	service	licensed	operators	and	should	be	adhered	to	strictly	and	any	noncompliance	
+would be deemed as a violation of the directives provided for consumer protection by the regulator in terms of Vas.
+3.1 General Conditions –
+Operator should make sure that a mobile telephone number or/and email address may obtain from subscribers before 
+registering for Vas, which is mandatory for sending information, activation, de-activation etc.
+3.1.1 Vas information –
+Operator should make available the Vas information in all three languages viz; sinhala, tamil and english and allow 
+subscriber to choose the Vas information in a preferred language.
+Before activating any type of Vas (ussd, iVr, sMs, Web based, etc.), operator should inform following information 
+to the subscriber using subscriber's preferred language.
+ (i) Vas name
+ (ii) Vas terms and conditions (the direct link to t&C should be made available)
+ (iii) Vas charges including taX (Billing Frequency if daily, Weekly, Monthly etc.)
+ (iv) subscription tenure of service (daily, Monthly, Weekly etc.)
+ (v) deactivation method
+No Vas may be promoted as being free if it involves any charges whatsoever to the consumer even at a later date. 
+there should be no hidden charges. any associated charges for services rendered should be clearly disclosed upfront 
+at the point of subscription by the subscriber.
+3.1.2	Activation	/	Confirmation	Process	of	a	VAS	–
+3.1.2.1 Activation by Subscriber
+immediately after successful activation of any type of V as (ussd, iVr, sMs, Web based, etc.) operator should send 
+activation	success		confirmation	SMS/Email	(using	subscriber's	preferred	language)	which	should	contain.
+ (i) Vas name
+ (ii)  Vas terms and conditions (the direct link to t&C should be made available)
+ (iii)  Vas charges including taX (Billing Frequency if daily, Weekly, Monthly etc.)
+ (iv)  subscription tenure of service (daily, Monthly, Weekly etc.)
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+10a
+	 (v)	 Call	 to	Action:	"Confirm	to	proceed"	Seek	subscriber	confirmation	through	a	return	response	through	the	
+applicable communication method. (Web based services only)
+ (v) deactivation method
+3.1.2.2 Confirmation of Service:
+Based on a successful validation of activation of a service by a subscriber as per process noted on section 3.1.2.1, a 
+reconfirmation	should	be	initiated	with	an	OTP	mechanism	(One	Time	Password)	for	reconfirmation	of	the	subscription	by	
+the subscriber. Please note the OTP verification is mandatory only for Web based V AS activation. The OTP could be 
+a 4-digit code that is generated randomly.
+3.1.3 Naming Convention of the Vas –
+Operator	shall	use	the	same	name	of	the	VAS	that	they	filed/will	be	filing	in	the	future	with	TRCSL	in	all	subscriber	
+information	 sources	 including	 advertisements	 viz;	 OBD	 call,	 IVR,	 Activation	 successful	 confirmation	 SMS/Email,	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+un-subscription successful sMs/email, selfcare app, Operator web site etc.
+3.1.4 subscriber consent for activation –
+if the operater provides the Vas directly with their own content.
+•	First and second consent of the subscriber for activation of V as should be obtained by operator through a 
+dedicated consent gateway, which is owned by an Operator.
+•	Operator	is	not	allowed	to	remove/delete	first	and	second	consent	logs	from	the	systems	while	a	service	is	
+active and even after the subscriber de-activates the subscribed Vas. log information should be retained for a 
+minimum	period	of	one	(01)	year	or	as	deemed	fit	by	the	operator.
+•	Operator should keep all consent logs for reference/audit purposes and should be made available to trCsl 
+when requested.
+•	Operator should provide Vas information including logs if requested by the subscriber on a disputed service.
+•	Charging	should	only	be	applicable	after	receiving	both	confirmations.
+if the operator is providing a Vas with the content obtained from a third-party content provider.
+•	 First consent of the subscriber shall be obtained and stored as a log in the dedicated consent gateway owned by 
+the third-party content provider as well as the operator.
+•	 the second consent of the subscriber shall be obtained and stored as a log in a dedicated consent gateway owned 
+by the operator.
+•	 Operator	is	not	allowed	to	remove/delete	first	and	second	consent	logs	from	the	systems	while	a	service	is	active	
+and even after the subscriber de-activates the subscribed Vas. log information should be retained for a minimum 
+period	of	one	(01)	year	or	as	deemed	fit	by	the	operator.
+•	 Operator should keep all consent logs for reference/audit purposes and should be made available to trCsl when 
+requested.
+•	 Operator should  provide Vas information including logs if requested by the subscriber on a disputed service.
+•	 Charging	should	only	be	applicable	after	receiving	both	confirmations.
+3.1.5 renewal of Vas by subscribers –
+all activated Vas enrolled to by the subscriber, should be followed up with a messge at each time the subscriber is charged 
+based on the opted billing cycle (daily, Weekly, Monthly). the message should include a link to unsubscribe the service 
+based on the discretion of the subscriber. This message is mandatory to be sent to all subscribers at the point of each 
+recursive billing charge initiated on the subscriber. This should be retrospectively applied to all V AS activated 
+previous to this guideline on subscribers.
+ i. Customers need to be given the diffecrent charging options (daily, Monthly, Weekly) at the time of activation, 
+clearly mentioning the amount and the tenure (renewal period) of the Vas.
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+11a
+ ii. any V as Charges applied on pre-paid wallets have to be informed to customers clearly mentioning the Vas used, 
+charge applied and the method of unsubscribing at the time of charging the customer for the Vas (preferably via 
+standard sMs/email or Flash sMs).
+  
+  For Post-paid customers, the same information has to be clearly made avalable in the monthly bill as well as the 
+message to be dispatched at the point of charging noted above.
+ iii. all V as service details should be made available across all self-care channels for customers to activate/
+deactivate using a smartphone or a featurephone.
+3.1.6	Insufficient	balance	to	activate	the	VAS	(Pre-paid)	–
+1.	For	New	VAS	Activations-Operator	shall	not	activate	a	VAS	if	the	account	balance	is	insufficient	to	activate	the		
+ V as.
+2. For Continuation of subscribed Vas
+ (i) For daily billing - Operator should not deduct the V as charges for the period of zero account balance. daily 
+charge should be deducted from the day that the account had been topped up.
+ (ii) for weekly billing - Operator should not deduct the Vas charges for the period of zero account balance. Weekly 
+charge should be deducted for seven days from the day that the account had been topped up.
+ (iii) For monthly billing-Operator should not deduct the Vas charges for the period of zero account balance. Monthly 
+charge should be deducted for one calendar month from the day that account had been topped up.
+3.1.7 Non sharing of subscriber information.–
+the Operators shall take all necessary organizational and technical measures and procedures to preserve and protect 
+the	confidentiality	of	information,	and	data	of	subscribers.	Further,	Operators	should	not	share	subscriber's	ownership	
+details including connection numbers with third-party content service providers without the express consent of the 
+subscriber.
+3.1.8 activation / de-activation command of Vas –
+The	activation/	deactivation	command	should	be	common	for	any	kind	of	VAS	and	could	be	operator	specific.	Any	
+deactivation should be completed on a maximum of 1 hour.
+3.1.9 Promotional sMs of Vas –
+Promotional sMs for any kind of a Vas should include following information. 
+ (i)  Vas name
+ (ii) Vas terms and conditions (the direct link to t&C should be made available)
+ (iii)  Vas charges including taX (Billing Frequency if daily, Weekly, Monthly etc.)
+ (iv)  subscription tenure of service (daily, Monthly, Weekly etc.)
+ (v)  deactivation method
+ Operator should not continue to charge for a Vas on the case of a free trial period offered as part of a Vas promotion. 
+On the completion of such free trial the standard process of subscriber activation as detailed on section 3.1.2.1 should 
+be followed.
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+12a
+3.2 Specific Conditions:
+in addition to the conditions stipulated in the above item 3.1, following conditions are also applicable for each category 
+specified	below.
+3.2.1 Web based Vas –
+ (i) 3rd Party Banner Based activations: under no circumstances should operators allow 3rd party web banner-
+based subscriptions, and no such entities should be allowed to bill subscribers for services unless such services 
+are directly promoted as Vas by the operators based on above approved mechanisms taking full responsibility 
+for such service offerings.
+ (ii) the subscription or Pay-per-use Buttons placed on Content Portals shall mention all charges clearly with a 
+link to the full terms and Conditions of the service. any such carrier billing utilized through 3rd party native 
+applications / web applications; the operators should take maximum measures to validate such web applications 
+/ native mobile apps to ensure that such providing entities adhere to stringent service guidelines without a 
+discontinuation. it is imperative that the operators implement a validation framework for all such 3rd party apps 
+/ portals that carrier billing facilities are provided for.
+ (iii) For Over-the-top ("Ott") service providers where the services are consumed either on-network Or off-
+network	(E.g.	Netflix,	Spotify,	Google	DCB,	Insurance	etc.)	and	where	Carrier	Billing	is	only	used	as	a	Payment	
+Method, it shall be the responsibility of the Operator to enter into an agreement and implement a validation 
+framework as noted above in sub section (ii) with such service providers subsequent to careful evaluation of the 
+service provider's charging models and authenticity of the company prior to engagement.
+ (iv) all Content Portal services (owned by operators) consumed on-network shall provide a suitable method of 
+double-confirmation	before	the	customer	is	"opted-in"	to	a	subscription	service.
+ (v) Customer usage of such on-net service shall be monitored by all operators and it shall be the responsibility of 
+each operator to apply a suitable cleansing process to remove long-term inactive customers either by their own 
+initiative or through the respective service providers.
+ (vi) Operator should make sure that the third-party content providers have proper algorithms to identify subscribers 
+who have not utilized their Vas after activation.
+ (vii) the operator is required to identify capability of user devices before  activation of Vas as some devices will not 
+support the Vas. the operator is required to obtain the initial subscription requests from the same channel used 
+to consume the service (e.g. if it's a web-based service subscriber has to arrive at the web portal to initiate the 
+subscription).
+3.2.2 iVr based Vas –
+ (i) Charges for iVr calls should be indicated to subscriber at the beginning of the call.
+	 (ii)	 Exit	 option	of	the	IVR	call	should	be	indicated	in	the	first	loop.	Inner	loop	should	have	exit	option	to	main	loop	
+or complete exit.
+ (iii) deactivate/unsubscribe option should be available in the main loop of iVr and any deactivation should be 
+completed on a maximum of 1 hour.
+3.2.3 ussd based Vas –
+if ussd used to deactivate the service, the unsubscribed option should be available in the main loop of ussd, and 
+any deactivation should be completed on a maximum of 1 hour.
+3.3 V AS Complaints / Disputes / Redress:
+ (i) For Vas complaints a dedicated team should be assigned and required options added to customer care iVr 
+systems to have the option accessible on the main menu.
+	 (ii)	 For	 Pre-paid	subscribers,	If	the	subscriber	disputes,	and	operator	identified	that	VAS	was	activated	without	
+his/her consent the amount charged shall be refunded to the subscriber within three working days (for per day 
+chargeable	VAS)	and	within	five	working	days	(for	other	VAS)	from	the	reporting	date	of	the	complaint.
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2023'01'24
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA  – 24.01.2023
+13a
+	 (iii)	 For	 Post-paid	subscribers,	If	the	subscriber	disputes,	and	operator	identified	that	VAS	was	activated	without	
+his/her consent the amount charged shall be refunded to the subscriber within three working days (for per day 
+chargeable	VAS)	and	five	working	days	(for	other	VAS)	from	the	reporting	date	of	the	complaint.	This	correction	
+should appear in the bill of the following month.
+	 (iv)	 In	 case	of	any	kind	of	operational	failures	(system	down,	link	failure	etc.)	of	VAS	and	operator	identified	that	
+the users had been charged during the failure, operator should refund appropriate amount for affected users 
+mentioning the reason equivalent to the service down time.
+ (v) Operators are required to submit to trCsl the refunding mechanisms for item (iii) above and should obtain 
+approval before implementation.
+ (vi) Operators are required to submit a comprehensive report on consumer complaint resolutions / status at the end 
+of each month according to the format provided by trCsl.
+3.4 V AS QOS:
+3.4.1 activation response time –
+ 
+ a) ussd based - between 30 - 40 s
+ b) sMs based - not greater than 120 s
+ c) iVr based - not greater than 10 s 
+3.5 Revalidation of Existing Active V AS of Subscribers:
+• All operators should take mandatory steps to ensure that all subscribers who has opted for any V AS 
+(including 3rd party web banner-based subscriptions) is sent a message with a consolidated list of all 
+such V AS opted in by the subscriber for their information with an option to un-subscribe based on the 
+validation drive to be commenced at a date prescribed by the regulator. Based on the revalidation drive, 
+a comprehensive report should be provided to the regulator on format prescribed of all discrepancies 
+notified by subscribers.
+•	Based on above revalidation process, a mechanism should be introduced for subscribers to record any discrepancy 
+they	may	want	to	escalate	to	the	operator.	Based	on	such	discrepancies	notified,	a	dedicated	team	should	be	setup	
+by all operators to rectify / consider complaints made by any subscriber.
+•	Furthermore, a short code / sMs/email service should be introduced to ensure that a subscriber could check on 
+all Vas subscribed  at any point and an easy mechanism to unsubscribe. this service should be implemented 
+within thirty (30) days from the date of receipt of this guideline.
+•	it is mandatory that the Vas services that are subscribed should be easily accessible on selfcare apps / Customer 
+Web Portal for viewing services that are opted for and to provide unsubscribe facilities.
+4. Abbreviations:
+iVr-interactive V oice response
+OBd-Out Bound dialing
+OtP-One time Password
+Ott-Over the top
+QOs-Quality Of service
+sMs-short Message service
+t&C-terms and Conditions
+trCsl-telecommunications regulatory Commission of sri lanka
+ussd- unstructured supplementary service data
+Vas-Value added services
+eOG 01 - 0229/2
+PRIntED at tHE DEPaRtMEnt OF GOVERnMEnt PRIntInG,  SRI LanKa.
