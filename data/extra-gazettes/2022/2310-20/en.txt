@@ -1,0 +1,160 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2310$20 - 2022 foieïn¾ ui 14 jeks nodod - 2022'12'14
+No. 2310/20 -  wedNesday,   december  14 ,  2022
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government Notifications
+1a- G 38311 - 8 (12/2022) 
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+SOCIAL   SECuRITY   CONTRIbuTION   LEvY  ACT,  NO.  25  Of  2022 
+by virtue of the powers vested in me under section 8 of the social security contribution Levy act, No. 25 of 2022, I,  
+don ranjith sisira Kumara Hapuarachchi, commissioner General of Inland revenue do by this order specify the social 
+security contribution Levy return to be furnished by every registered person for every quarter commencing on or after October 
+01, 2022, in respect of the Social Security Contribution Levy payable in the format specified in the annexure. 
+The commissioner General may amend the social security contribution Levy return time to time as required.
+ Don Ranjith Sisirakumara Hapuarachchi,
+ commissioner General of Inland revenue.
+Inland revenue department,
+colombo,
+december 05th, 2022.
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'12'14
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 14.12.2022
+2a
+      Form No. -  SSCL_20 (E) 
+Annexure  
+ 
+ 
+ 
+ 
+ 
+SOCIAL SECURITY CONTRIBUTION LEVY 
+TAXABLE QUARTER ENDED: D D M M Y Y  PERIOD CODE:     
+ 
+Taxpayer Identification Number (TIN)          
+ 
+Activity Code (Please, specify, if the nature of business has been changed)       
+ 
+ Address 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 01: Monthly breakup of Turnover 
+ 
+Sector Turnover  Total  Month 1 Month 2 Month 3 
+Liable Turnover for  
+SSCL Rs. Ct. Rs. Ct Rs. Ct. Rs. Ct. 
+Manufacturing         
+Services         
+Wholesale/Retail          
+Distributor         
+Financial services         
+Any other Liable         
+Exempted  / Non-Liable Turnover  
+Exempt  Articles         
+Exempt  Services         
+Any other Non-Liable         
+ 
+ 
+ 
+Part 02: Calculation of Tax 
+ 
+Sector  Turnover  %*  Liable Turnover %  Tax Liability 
+ 
+ 
+ 
+ Rs. Ct.  
+ 
+ 
+ Rs. Ct.  
+ 
+ 
+ Rs. Ct. 
+Manufacturing  
+A   
+ 
+ 
+85 
+ 
+A1   
+ 
+ 
+2.5 
+ 
+A2   
+Services B   100 B1   2.5 B2   
+Wholesale/Retail  C   50 C1   2.5 C2   
+Distributor D   25 D1   2.5 D2   
+Financial Service** E   100 E1   2.5 E2   
+Any other Liable F    F1    F2   
+Total G    G1    G2   
+ 
+* Liable % for SSCL 
+** Value addition attributable to financial services, calculated by applying the attributable method specified in the Gazette Notification issued under 
+section 25C of the Value AddedTax Act, No. 14 of 2002. 
+ 
+ 
+ 
+ 
+Date of Issue:  Due Date: 
+SOCIAL  SECURITY  CONTRIBUTION  LEVY - RETURN
+*
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'12'14
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 14.12.2022
+3a
+PrINTed aT THe deParTmeNT OF GOVerNmeNT PrINTING,  srI LaNKa.
+eOG 12-0153
+Part 03: Total Tax Credits (LKR) 
+Balance Tax payable  {IF (G2>N) THEN (G2-N), else 0} O 
+Excess Credits Carry Forward to next quarter{IF N> G2, (N- G2)} Q 
+Part 04: DECLARATION 
+Name of Secretary/ Principal 
+Officer of the Company 
+Name of Managing Director of 
+the Company 
+I declare to the best of my knowledge and belief that all particulars furnished in this Return are true, correct 
+and    complete. 
+coooo complete 
+ 
+Amount paid 
+Rs. Ct. 
+1st Installment N1 
+2nd Installment N2 
+3rd Installment N3 
+B/F excess payments N4 
+Total Tax Credits N 
+Full Name of the Declarant 
+Designation 
+(Managing Director/Director/Secretary/Principal Officer/Duly Authorized Agent) 
+                      Telephone Number Mobile 
+E-Mail 
+ Signature         
+NIC Number / Passport 
+Number 
+Date D D M M Y Y 
+ Form specified by the Commissioner General of Inland Revenue under section 8 of the Social S ecurity
+Contribution Levy Act, No. 25 of 2022.
+ Please note that penalties are imposed on any person making an incorrect return, not submitting a return and
+accrue for non-payment of taxes on due date
+ Duly complete return of Social Security Contribution  Levy should be submitted to the Inland Revenue
+Department on or before 20thday of the month after the end of each relevant quarter
+then
+OFFICIAL FRANK
