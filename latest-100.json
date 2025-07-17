@@ -84,6 +84,12 @@
     "description": "(I) - General"
   },
   {
+    "doc_type_name": "bills",
+    "id": "620-2025",
+    "date": "2025-07-09",
+    "description": "Rubber Control (Amendment) - Bill"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2444-31",
     "date": "2025-07-09",
@@ -94,6 +100,12 @@
     "id": "2444-26",
     "date": "2025-07-09",
     "description": "2444/26"
+  },
+  {
+    "doc_type_name": "bills",
+    "id": "619-2025",
+    "date": "2025-07-08",
+    "description": "National Audit (Amendment) - Bill"
   },
   {
     "doc_type_name": "bills",
@@ -586,17 +598,5 @@
     "id": "2441-67",
     "date": "2025-06-21",
     "description": "Land Title Settlement Dept. - Unagaswewa, Nuwaragampalatha East D/S Division, Anuradhapura District - (25/0125)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-64",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Kaudana, Four Deh D/S Division, Colombo District - (7826)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-60",
-    "date": "2025-06-21",
-    "description": "National Physical Planning Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Kappina Seemamalaka Viharaya call as an Urban Development area"
   }
 ]
