@@ -36,6 +36,12 @@
     "description": "Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions"
   },
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-59",
+    "date": "2025-07-11",
+    "description": "2444/59"
+  },
+  {
     "doc_type_name": "gazettes",
     "id": "2025-07-11-legal-section",
     "date": "2025-07-11",
@@ -186,6 +192,12 @@
     "description": "Land Acquisition - Pottakulam, Ninthavur D/S Division Ampara District"
   },
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2443-72",
+    "date": "2025-07-05",
+    "description": "Land Acquisition - Deraniyagala, Deraniyagala D/S Division Kegalle District. Kahagalla, Haputale D/S Division Badulla District."
+  },
+  {
     "doc_type_name": "bills",
     "id": "617-2025",
     "date": "2025-07-04",
@@ -313,9 +325,21 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2443-35",
+    "date": "2025-07-02",
+    "description": "Land Title Settlement Dept. - Hindagal (Block 06), Kandy Four Gravets and Gangawata Korale D/S Division, Kandy District (25/1200062)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-34",
     "date": "2025-07-01",
     "description": "2443/34"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2443-33",
+    "date": "2025-07-01",
+    "description": "2443/33"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -409,6 +433,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2442-65",
+    "date": "2025-06-28",
+    "description": "Land Aquisition - Mathugobe (Deniyaya), Kotapola D/S Division, Matara District, Land Aquisition - Corrigenda Kandy Four Gravets Gangawata Korale D/S Division, District, Sec 07"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-63",
     "date": "2025-06-28",
     "description": "Ministry of Labour - Industrial Dispute between Mr. P. M. Jayarathna Sri Lanka Transport Board.  Appt. of J. De Silva as an Arbitrator., Sri Lanka Nidahas Sevaka Sangama & Packserve Pvt. Ltd. Industrial Dispute between Mr. M. N. Abeykoon and Sri Lanka Transport Board."
@@ -436,6 +466,12 @@
     "id": "2442-59",
     "date": "2025-06-27",
     "description": "Land Aquisition - Maharagama, Homagama D/S Division, Colombo District, Land Aquisition - Homagama, Homagama D/S Division, Colombo District, Sec 05"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2442-58",
+    "date": "2025-06-27",
+    "description": "Land Aquisition - Homagama, Homagama D/S Division, Colombo District, Land Aquisition - Maharagama, Homagama D/S Division, Colombo District, Sec 05"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -529,6 +565,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2442-40",
+    "date": "2025-06-24",
+    "description": "Land Title Settlement Dept. - Gangodavila, Sri Jayawardanapura Kotte D/S Division, Colombo District (25/0029)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2442-32",
     "date": "2025-06-24",
     "description": "Land Aquisition - Uppuweli, Town and Gravets  D/S Division, Trincomalee District."
@@ -553,50 +595,8 @@
   },
   {
     "doc_type_name": "extra-gazettes",
-    "id": "2442-16",
+    "id": "2442-22",
     "date": "2025-06-23",
-    "description": "Presidential Secretariat - Appointed Mr. K.G.P. Pushpakumara, as the Chief Secretary of the Western Province with effect from 09 the June 2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-02",
-    "date": "2025-06-23",
-    "description": "Dept of Local Government - Western Province - Appointed Chairman and Vice Chairman for 06 Local Goverment Institutions - 2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-01",
-    "date": "2025-06-23",
-    "description": "Sri Lanka Customs - Rates of Exchange with effect from 23.06.2025 to 29.06.2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-74",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Puttalam, Puttalam D/S Division, Puttalam District (25/0085)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-71",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Aluthgama Bogamuwa, Gampaha D/S Division, Gampaha District (25/0060)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-70",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Kumbalpola, Kurunegala D/S Division, Kurunegala District (7825)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-68",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Mampe, Kesbewa D/S Division, Colombo District - (25/0079)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2441-67",
-    "date": "2025-06-21",
-    "description": "Land Title Settlement Dept. - Unagaswewa, Nuwaragampalatha East D/S Division, Anuradhapura District - (25/0125)"
+    "description": "Land Title Settlement Dept. - karawadeniya, Ruwanwella D/S Division, Kegalle District (24-14-4-00018)"
   }
 ]
