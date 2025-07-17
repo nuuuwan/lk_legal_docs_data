@@ -1,0 +1,57 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022.12.15
+Part I : Sec. (I) - GAZETTE  EXTRAORDINARY  OF  THE  DEMOCRATIC  SOCIALIST  REPUBLIC  OF  SRI  LANKA - 15.12.2022
+1A
+Government  Notifications
+w;s úfYI
+wxl 2310$30 - 2022 foieïn¾ ui 15 jeks n%yiam;skaod - 2022.12.15
+No. 2310/30 - ThursDAY,   December  15,   2022
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+1A-  PG 6105 - 706 (12/2022)
+L.D.b 4/2003
+WELfARE  BENEfITS  ACT,  No. 24  Of 2002  
+reGuLATioNs made by the President under Section 27 of the Welfare Benefits Act, No. 24 of 2002 read with subsection 
+(3) of section 7,  sections 8, 10, 11 and 12 of that Act and read with paragraph (3) of Article 44 of the constitution of the 
+Democratic socialist republic of sri Lanka.
+ 
+   
+Ranil WickRemesinghe,
+   President. 
+colombo,
+15th December, 2022.
+Regulations
+The Welfare Benefit Payment (Selection of Persons Eligible to Receive Payments) Regulations No. 1 of 2022 
+published in the Gazette Extraordinary No. 2302/23 of october 20, 2022 are hereby amended as follows :-
+ (1) in sub regulation (1) of regulation 2 thereof by the substitution for the words and figures “Schedule 1 hereto” 
+of the words and figures “Schedule I hereto for the purpose of the Welfare Benefits Payment Scheme as may be 
+prescribed in terms of Section 9 of the Act.”
+ (2) by the insertion of the following new Part immediately after Part iii of schedule 1 thereof -
+
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022.12.15
+Part I : Sec. (I) - GAZETTE  EXTRAORDINARY  OF  THE  DEMOCRATIC  SOCIALIST  REPUBLIC  OF  SRI  LANKA - 15.12.2022
+2A
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING,  SRI LANKA.
+“ PART  IV
+Calculation of Selection cut - off
+selection cut-off will be set at the district level to distribute the available programme budget in a manner consistent with 
+pattern of deprivation nationally. selection cut-off will be set for each district separately.
+Given a national program quote Q the ith district quota (qi) will be set as follows;
+ (x) = The number of families that needs welfare benefit payments in the country
+   Total number of Families in the country
+ (qi) = Total number of families below xth national percentile of real percapita expenditure in the district.
+ Where;
+ Then
+ Where;”
+ i = 1, 2, 3, ............................................. 25 (districts).”.
+eoG 12-0166
