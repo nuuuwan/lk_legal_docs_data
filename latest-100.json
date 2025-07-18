@@ -1,5 +1,11 @@
 [
   {
+    "doc_type_name": "bills",
+    "id": "621-2025",
+    "date": "2025-07-17",
+    "description": "National Building Research Institute - GS"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2445-05",
     "date": "2025-07-14",
@@ -592,11 +598,5 @@
     "id": "611-2025",
     "date": "2025-06-23",
     "description": "National Audit (Amendment) - GS"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-22",
-    "date": "2025-06-23",
-    "description": "Land Title Settlement Dept. - karawadeniya, Ruwanwella D/S Division, Kegalle District (24-14-4-00018)"
   }
 ]
