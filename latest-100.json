@@ -43,6 +43,18 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-47",
+    "date": "2025-07-17",
+    "description": "Department of Local Government - Western Province - Notice under Section 66C(1) Appointed Chairman and Vice Chairman of 03 L.G. Institutions"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-32",
+    "date": "2025-07-16",
+    "description": "2445/32"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-05",
     "date": "2025-07-14",
     "description": "2445/05"
@@ -172,6 +184,12 @@
     "id": "2444-21",
     "date": "2025-07-08",
     "description": "Ministry of Education, Higher Education and Vocational Education - Service Minute of the Sri Lanka Teachers' Service 3rd Amendment"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-20",
+    "date": "2025-07-08",
+    "description": "2444/20"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -361,6 +379,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2443-52",
+    "date": "2025-07-03",
+    "description": "Land Acquisition - Welpalla, Pannala D/S Division in Kurunegala District , Badabedda East, Pannala D/S Division in Kurunegala District- Sec.05"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-51",
     "date": "2025-07-03",
     "description": "Department of Local Government - UVA Province - Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 12 Local Government Institutions"
@@ -394,6 +418,12 @@
     "id": "2443-32",
     "date": "2025-07-01",
     "description": "2443/32"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2443-31",
+    "date": "2025-07-01",
+    "description": "2443/31"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -568,35 +598,5 @@
     "id": "2025-06-27-iib-advertising",
     "date": "2025-06-27",
     "description": "(IIB) - Advertising"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-27-iia-advertising",
-    "date": "2025-06-27",
-    "description": "(IIA) - Advertising"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-27-i-general",
-    "date": "2025-06-27",
-    "description": "(I) - General"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-49",
-    "date": "2025-06-26",
-    "description": "Divisional Secretatiat Kamburupitiya Pilgrmages Ordinance (Chapter 175) Annual Esala Festival 2025 of Ilangamgoda Ancient Rajamaha Viharaya, Sapugoda Kaburupitiya"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-48",
-    "date": "2025-06-26",
-    "description": "Land Title Settlement Dept. - Ellakkala, Attanagalla D/S Division, Gampaha District (25/0189)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-47",
-    "date": "2025-06-26",
-    "description": "Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman for 02 Local Government Institutions"
   }
 ]
