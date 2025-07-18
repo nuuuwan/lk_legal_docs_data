@@ -1,0 +1,157 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022.11.29
+Part I : Sec. (I) - GAZETTE  EXTRAORDINARY  OF  THE  DEMOCRATIC  SOCIALIST  REPUBLIC  OF  SRI  LANKA - 29.11.2022
+1A
+Government  Notifications
+w;s úfYI
+wxl 2308$08 - 2022 fkdjeïn¾ ui 29 jeks w`.yrejdod - 2022.11.29
+No. 2308/08 - tuesDAY,   November  29,   2022
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+1A-  PG 6065 - 706 (11/2022)
+L.D-b 5/2007 (i)
+ELECTRONIC  TRANSACTIONS  ACT,  No. 19  Of  2006 
+reGuLAtioNs made by the President under section 24 read with subsection (2) of section 8 of the electronic transactions 
+Act, No. 19 of 2006 read with paragraph (3) of Article 44 of the Constitution of the Democratic socialist republic of sri Lanka.
+ 
+   Ranil WickRemesinghe
+   President.
+Colombo,
+28th November, 2022.
+ Regulations
+ 1. these regulations may be cited as the integrated Welfare management system regulations, No. 02 of 2022.
+ 2. these regulations shall authorize and facilitate the use of electronic documents and electronic records for the 
+purposes of Sections 7 and 9 of the Welfare Benefites Act, No. 24 of 2002.
+ 
+ 3. The electronic documents and electronic records shall be used by the Board and the Welfare Beneficiary Information 
+Units established under the Welfare Benefits Payment (Selection of Persons Eligible to Receive Payments) Regulations, 
+
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022.11.29
+Part I : Sec. (I) - GAZETTE  EXTRAORDINARY  OF  THE  DEMOCRATIC  SOCIALIST  REPUBLIC  OF  SRI  LANKA - 29.11.2022
+2A
+No. 1 of 2022 published in Gazette extraordinary No. 2302/23 of october 20, 2022 (hereinafter referred to as the “Welfare 
+Benefits Regulations”) in order to maintain the Welfare Beneficiary Information System established under the Wefare Benefits 
+Regulations and to creat, fille, process, retain share or issue documents or records for the purposes of that regulations.
+ 4. The Authorized Officers shall use the form specified in Schedule hereto to obtain particulars of persons applying 
+for welfare benefits under the Welfare Benefits Act, No. 24 of 2002 for the purposes of these regulations.
+ 5. The particulars obtained by the Authorized Officers under regulation 4 and the particulars furnished in the declaration 
+made by an applicant under the Welfare Benefits Regulations shall be filled an retained in the form of electronic documents 
+and electronic records in the relevant Welfare Beneficiary Information Units established in the relevant Divisioal Secretariat 
+and each applicant shall be assigned with Quick Response Code (QR Code) for the Purpose of Welfare Benefits Regulations.
+ 6. The Commissioner and the Authorized Officers in every Welfare Beneficiary Information Unit established in each 
+Divisional secretariat shall ensure that electronic documents and electronic referred to in regulation 5 are securely maintained 
+in the following manner :-
+ (a) in both text and image data;
+ 
+ (b) by scanning document images and through data capturing and data entry procedures in a manner 
+specified by the Board;
+ 
+ (c) access shall be provided to Authorized Officers in writing by the Board.
+ 7. The control process and procedures followed by the Board to secure the confidentiality authenticity and integrity 
+of an electronic document and electronic record shall be as follows :-
+ (a) All data stored in servers, server system and network of the welfare Beneficiary Information Units of 
+the board including the physical security of servers shall be securely maintained under the supervision 
+of system administrator with secure access rights to be determined from time to time;
+ (b) the electronic documents and electronic records shall be created, edited, viewed and shared only by 
+officers authorized by the Board in writing;
+ (c) access shall be granted to the Authorized Officers through information security control procedure 
+specified by the Board from time to time;
+ (d) the Authorized Officers shall be assigned different job roles in the Welfare Beneficiary Information 
+units for the purpose of control and supervision;
+ (e) data retained in Welfare Beneficiary Information System shall be validated, verified and corrected at 
+several points to minimize data entry errors. the scanned images of source documents shall be made 
+available to the Authorized Officers of the Welfare Beneficiary Information Units for verifying the 
+data at any given time;
+ (f) If any Authorized Officer of the Welfare Beneficiary Information Units makes any change to any data 
+in the said system, it shall be recored in the Welfare Beneficiary Information Units with edited fields, 
+user iD, data and such information shall be required to be recorded by the board;
+ (g) the Board shall inform the Authorized Offiers the purpose for which reports may be generated from 
+the Welfare Beneficiary Information Units;
+ (h) the Authorized Officers shall take daily and weekly backups of the data as well as electronic records 
+and electronic documents in the Welfare Beneficiary Information Units and specify the location and 
+manner in which such backup information may be stored.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022.11.29
+Part I : Sec. (I) - GAZETTE  EXTRAORDINARY  OF  THE  DEMOCRATIC  SOCIALIST  REPUBLIC  OF  SRI  LANKA - 29.11.2022
+3A
+ 8. in these regulations -:
+ “Authorized Officers” means an officer appointed for the purpose of Welfare Benefits Regulations under 
+Section 6 of the Welfare Benefits Act, No. 24 of 2002;
+ “Board” means the Board established under the Welfare Benefits Act, No. 24 of 2002;
+ “Commissioner” means commissioner of Welfare Benefits appointed under section 2 of the Welfare Benefits 
+Act, No. 24 of 2002;
+ “Divisional Secretariat” shall have the same meaning as in the Transfer of Powers (Divisional Secretaries) 
+Act, No. 58 of 1992;
+ “electronic document” and “electronic record” shall have the same meaning assined to those expressions under 
+the electronic transaction Act, No. 19 of 2006.
+ “Quick Response Code (QR Code)” means a code which may be used to verify the contents of the information 
+contained in any document and to established authenticity and intergrity of the same, by using 
+any computer, mobile phone or similar device;
+ “Welfare Beneficiary Information System” means Welfare Beneficiary Information System established under 
+Welfare Benefits Regulations;
+ “Welfare Beneficiary Information Unit” means a Welfare Beneficiary Information Unit established under the 
+Welfare Benefits Payment Regulations, in the Divisional Secretariat of every Divisional Secretary’s 
+Division for the purpose of maintaining an electronic system for creating, generating. sending, 
+receiving, storing, reproducing, displaying, recording or processing information for the purpose 
+of Welfare Benefits Act. 
+ 
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022.11.29
+Part I : Sec. (I) - GAZETTE  EXTRAORDINARY  OF  THE  DEMOCRATIC  SOCIALIST  REPUBLIC  OF  SRI  LANKA - 29.11.2022
+4A
+ Schedule (regulation 4)
+Application - English
+Specimen
+Application for Identification of Person’s Eligibility to 
+Receive Welfare Benefit Payments - 2022
+For office use Only
+01. Full name of the Applicant :- ……………………………………………………………………………………………
+02. Address :- ………………………………………………………………………………………………………………
+03. t elephone No. :- …………………………………………………………………………………………………………
+04.  National identity Card Number :-  
+ 
+ any other identity Card Number :-
+05. Province :- 
+ District :-
+06. If you receive assistance or payment under any scheme a Welfare Benefits, please indicate name of the scheme/  
+ schemes
+  (1) ....................................................... Amount (rs.)
+  (2) ........................................................ Amount (rs.)
+07. t otal Number of members in the family
+08. If you are waiting in any list of Welfare Benefits scheme please indicate the name of such scheme/schemes. 
+ (1) .....................................................     (2) ...............................................
+ Are you a new applicant      Yes                             No
+09. if yes, Name of scheme applied :- ..................................................................................................................
+ i hereby certify that above information provided by me is true and correct. i shall provide further information accurate-
+ly at the time of field data collection. I also know that providing false information shall result in non-entitlement to welfare 
+benefits.   
+ .............................................................. ...........................................................
+ signature of the applicant Date
+i certify that above stated information of .................................................................. is true and correct & recommend to be 
+included into the welfare benefit program. 
+........................................................................................ .....................................................
+Grama Niladhari/ Samurdhi Development Officer/ Economic Development Date
+Officer/ Social Service Officer/ Elderly rights Promotion Officer 
+(seal and signature)
+eoG  11- 0341
+Divisional 
+secretariat :-
+Gramaniladhari
+Division :-
+samurdhi
+Zone :-
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING,  SRI LANKA.
