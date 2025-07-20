@@ -1,0 +1,1324 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2293$62 - 2022 wf.daia;= ui 19 jeks isl=rdod - 2022'08'19
+No. 2293/62  -  FRIDAY,  AUGUST   19,  2022
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+*RYHUQPHQW1RWL¿FDWLRQV
+1A
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+SRI  LANKA  ACCOUNTING  AND  AUDITING  STANDARDS  ACT,  No.  15 OF 1995
+Publication under Section 4(2)
+BY virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the “Institute”), 
+the Institute has adopted Sri Lanka Accounting Standard SLSRS 4 400 (Revised) Agreed - Upon Procedures, published 
+herewith for the purpose of the Sri Lanka Accounting and Auditing Standards, Act, No. 15 of 1995. This Standard shall be 
+H൵HFWLYHIRUDJUHHGXSRQSURFHGXUHVHQJDJHPHQWVIRUZKLFKWKHWHUPVRIHQJDJHPHQWDUHDJUHHGRQRUDIWHU-DQXDU\
+%\2UGHURIWKH&RXQFLO
+ R. S. $ඇඈආൺ3උංඒൺൽൺඋඌඁൺඇං
+ 6HFUHWDU\
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A, 
+Malalasekera Mawatha,
+Colombo 07.
+19th August, 2022.
+1A - PG 5963 - 00 (09/2022)
+
+
+<!-- page 2 -->
+
+2A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+SRI LANKA STANDARD ON 
+RELATED SERVICES 4400 (REVISED) 
+AGREED-UPON PROCEDURES ENGAGEMENTS 
+(Effective for agreed-upon procedures engagements 
+for which the terms of engagement are agreed on or after January 1, 2022) 
+ 
+CONTENTS 
+ 
+Paragraph 
+ 
+Introduction 
+Scope of this SLSRS  1 –3 
+The Agreed-Upon Procedures Engagement  4 –6 
+Authority of this SLSRS  
+ 7–10 
+Effective Date  11 
+Objectives  1 2  
+Definitions  13 
+Requirements 
+Conduct of an Agreed-Upon Procedures Engagement in Accordance with this SLSRS 1 4 –16 
+Relevant Ethical Requirements  17 
+Professional Judgment  18 
+Engagement Level Quality Control  19 –20 
+Engagement Acceptance and Continuance  21 –23 
+Agreeing the Terms of the Engagement  24 –26 
+Performing the Agreed-Upon Procedures  27 –28 
+Using the Work of a Practitioner’s Expert  29 
+The Agreed-Upon Procedures Report  30 –33 
+Undertaking an Agreed-Upon Procedures Engagement Together with Another Engagement 34 
+Documentation  35 
+ 
+ 
+  
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    3A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Application and Other Explanatory Material 
+Scope of this SLSRS  A1 –A8 
+Effective Date  A9 
+Definitions           A10 –A13 
+Relevant Ethical Requirements  A14 –A20 
+Professional Judgment A21-A23 
+Engagement Level Quality Control A24-A27 
+Engagement Acceptance and Continuance A28-A38 
+Agreeing the Terms of the Engagement A39-A44 
+Performing the Agreed-Upon Procedures A45 
+Using the Work of a Practitioner’s Expert A46-A50 
+The Agreed-Upon Procedures Report A51-A58 
+Undertaking an Agreed-Upon Procedures Engagement Together with Another Engagement A59 
+Documentation A60 
+Appendix 1: lllustrative Engagement Letter for an Agreed-Upon Procedures Engagement 
+Appendix 2: lllustrations of Agreed-Upon Procedures Reports 
+ 
+ 
+Sri Lanka Standard on Related Services (SLSRS) 4400 (Revised), Agreed-Upon Procedures 
+Engagements, should be read in the context of the Preface to the Sri Lanka Quality Control, Auditing, 
+Review, Other Assurance, and Related Services Pronouncements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!-- page 4 -->
+
+4A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+Introduction 
+Scope of this SLSRS 
+1. This Sri Lanka Standard on Related Services (SLSRS) deals with:  
+(a) The practitioner’s responsibilities when engaged to perform an agreed-upon procedures engagement; 
+and 
+(b) The form and content of the agreed-upon procedures report. 
+2. This SLSRS applies to the performance of agreed-upon procedures  engagements on financial or non-
+financial subject matters. (Ref: Para. A1–A2) 
+ 
+Relationship with SLSQC 11 
+3. Quality control systems, policies  and procedures are the respon sibility of the firm. SLSQC 1 applies to 
+firms of professional accountants in respect of a firm’s agreed -upon procedures engagements. The 
+provisions of this SLSRS regarding quality control at the level  of individual agreed-upon procedures 
+engagements are premised on the basis that the firm is subject to SLSQC 1 or requirements that are at 
+least as demanding. (Ref: Para. A3–A8) 
+The Agreed-Upon Procedures Engagement 
+4. In an agreed-upon procedures engagement, the practitioner performs the procedures that have been agreed 
+upon by the practitioner and the engaging party,  w h e re the engaging party has acknowledged that the 
+procedures performed are appropriate for the purpose of the engagement. The practitioner communicates 
+the agreed-upon procedures performed and the related findings in the agreed-upon procedures report. The 
+engaging party and other intended users consider for themselves the agreed-upon procedures and findings 
+reported by the practitioner and draw their own conclusions from the work performed by the practitioner. 
+ 
+5. The value of an agreed-upon procedures engagement performed in accordance with this SLSRS results 
+from: 
+(a) The practitioner’s compliance with professional standards, incl uding relevant ethical requirements; 
+and  
+(b) Clear communication of the procedures performed and the related findings. 
+6. An agreed-upon procedures enga gement is not an audit, review  or other assurance engagement. An 
+agreed-upon procedures engagement does not involve obtaining ev idence for the purpose of the 
+practitioner expressing an opinion or an assurance conclusion in any form. 
+Authority of this SLSRS 
+7. This SLSRS contains the objectives of the practitioner in following the SLSRS, which provide the context 
+in which the requirements of this SLSRS are set. The objectives  are intended to assist the practitioner in 
+understanding what needs to be accomplished in an agreed-upon procedures engagement. 
+8. This SLSRS contains requirements, expressed using “shall,” that  are designed to enable the practitioner 
+to meet the stated objectives. 
+9. In addition, this SLSRS contains introductory material, definitions, and application and other explanatory 
+material, that provide context relevant to a proper understanding of this SLSRS. 
+                                                           
+1 Sri Lanka Standard on Quality Control (SLSQC) 1, Quality Control for Firms that Perform Audits and Reviews of 
+Financial Statements, and Other Assurance and Related Services Engagements 
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    5A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+10. The application and other explanatory material provides further  explanation of the requirements and 
+guidance for carrying them out. While such guidance does not in itself impose a requirement, it is relevant 
+to the proper application of the requirements. The application and other explanatory material may also 
+provide background information on matters addressed in this SLS RS that assists in the application of the 
+requirements. 
+Effective Date 
+11. This SLSRS is effective for agreed-upon procedures engagements for which the terms of engagement are 
+agreed on or after January 1, 2022. (Ref: Para. A9) 
+Objectives 
+12. The practitioner’s objectives in an agreed-upon procedures engagement under this SLSRS are to: 
+(a) Agree with the engaging party the procedures to be performed; 
+(b) Perform the agreed-upon procedures; and 
+(c) Communicate the procedures performed and the related findin gs in accordance with the 
+requirements of this SLSRS. 
+Definitions 
+13. For purposes of this SLSRS, the following terms have the meanings attributed below: 
+(a) Agreed-upon procedures – Procedures that have been agreed to by the practitioner and th e engaging 
+party (and if relevant, other parties). (Ref: Para. A10) 
+(b) Agreed-upon procedures engagement – An engagement in which a practitioner is engaged to carry 
+out procedures to which the practitioner and the engaging party  (and if relevant, other parties) have 
+agreed and to communicate the procedures performed and the rela ted findings in an agreed-upon 
+procedures report. (Ref: Para. A10) 
+(c) Engagement partner – The partner or other person in the firm who is responsible for the engagement 
+and its performance, and for th e agreed-upon procedures report that is issued on behalf of the firm, 
+and who, where required, has the appropriate authority from a professional, legal or regulatory body.  
+(d) Engaging party – The party(ies) that engage(s) the practitioner to perform the agreed-upon procedures 
+engagement. (Ref: Para. A11) 
+(e) Engagement team – All partners and staff performing the agreed-upon procedures e ngagement, and 
+any individuals engaged by the firm or a network firm who perfo rm procedures on the engagement. 
+This excludes a practitioner's external expert engaged by the firm or a network firm. 
+(f) Findings – Findings are the factual results of agreed-upon procedures per formed. Findings are 
+capable of being objectively verified. References to findings i n this SLSRS exclude opinions or 
+conclusions in any form as well as any recommendations that the practitioner may make. (Ref: Para. 
+A12–A13)  
+(g) Intended users – The individual(s) or organization(s), or group(s) that the pra ctitioner expects will 
+use the agreed-upon procedures report. In some cases, there may  be intended users other than those 
+to whom the agreed-upon procedures report is addressed. (Ref: Para. A10)  
+
+<!-- page 6 -->
+
+6A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -19.08.2022
+K Practitioner – The individual(s) conducting the engagement (usually the engagement partner or other
+members of the engagement team, or, as applicable, the firm). Where this SLSRS expressly intends
+that a requirement or responsibility be fulfilled by the engagement partner, the term "engagement 
+partner" rather than "practitioner" is used.
+L Practitioner’s expert – An individual or organization possessing expertise in a field ot her than 
+assurance and related services, whose work in that field is use d to assist the practitioner in fulfilling
+the practitioner’s responsibilities for the agreed-upon procedures engagement. A practitioner’s expert
+may be either a practitioner’s internal expert (who is a partne r or staff, including temporary staff, of
+the practitioner’s firm or a network firm) or a practitioner’s external expert.
+M Professional judgment - The application of relevant training, k nowledge and experience, within the 
+context provided by this SLSRS and relevant ethical requirement s, in making informed decisions 
+about the courses of action that are appropriate in the circums tances of the agreed-upon procedures 
+engagement.
+N Relevant ethical requirements – Ethical requirements the engagement team is subject to when 
+undertaking agreed-upon procedures engagements. These requirements ordinarily comprise the Code
+of Ethics for Professional Accountants issued by the Institute of Chartered Accountants of Sri Lanka
+(CA Sri Lanka Code) together with national requirements that are more restrictive.
+O Responsible party - The party(ies) responsible for the subject matter on which the agreed-upon
+procedures are performed. 
+Requirements
+Conduct of an Agreed-Upon Procedures Engagement in Accordance with this SLSRS
+14. The practitioner shall have an understanding of the entire text of this SLSRS, including its application and
+other explanatory material, to understand its objectives and to apply its requirements properly.
+Complying with Relevant Requirements
+ The practitioner shall comply with each requirement of this SLSRS unless a particular requirement is not
+relevant to the agreed-upon procedures engagement, for example,  if the circumstances addressed by the 
+requirement do not exist in the engagement.
+ The practitioner shall not represent compliance with this SLSRS unlessthe practitioner has complied
+with all requirements of this SLSRS relevant to the agreed-upon procedures engagement. 
+Relevant Ethical Requirements
+17. The practitioner shall comply with relevant ethical requirements. (Ref: Para. A14–A20)
+Professional Judgment
+18. The practitioner shall exercise professional judgment in accepting, conducting and reporting on an agreed-
+upon procedures engagement, taking into account the circumstances of the engagement. (Ref: Para. A21–
+A23)
+Engagement Level Quality Control
+19. The engagement partner shall take responsibility for:
+(a) The overall quality of the agreed-upon procedures engagement in cluding, if applicable, work
+performed by a practitioner’s expert; and (Ref: Para. A24)
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    7A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+(b) The engagement being performed in accordance with the firm’s qu ality control policies and 
+procedures by: 
+(i) Following appropriate procedures regarding the acceptance and c ontinuance of client 
+relationships and engagements; (Ref: Para. A25)  
+(ii) Being satisfied that the engagement team, and any practitioner' s experts who are not part of 
+the engagement team, collectively have the appropriate competen ce and capabilities to 
+perform the agreed-upon procedures engagement;  
+(iii) Being alert for indications of non-compliance by members of the  engagement team with 
+relevant ethical requirements, and determining the appropriate actions if matters come to the 
+engagement partner’s attention indicating that members of the e ngagement team have not 
+complied with relevant ethical requirements; (Ref: Para. A26) 
+(iv) Directing, supervising and performing the engagement in complia nce with professional 
+standards and applicable legal and regulatory requirements; and 
+(v) Taking responsibility for appropriate engagement documentation being maintained.  
+ 
+20. If the work of a practitioner’s  expert is to be used, the engagement partner shall be satisfie d that the 
+practitioner will be able to be involved in the work of a practitioner’s expert to an extent that is sufficient 
+to take responsibility for the findings included in the agreed-upon procedures report. (Ref: Para. A27) 
+ 
+Engagement Acceptance and Continuance 
+21. Before accepting or continuing an agreed-upon procedures engage ment, the practitioner shall obtain an 
+understanding of the purpose of the engagement. The practitione r shall not accept or continue the 
+engagement if the practitioner is aware of any facts or circums tances indicating that the procedures the 
+practitioner is being asked to perform are inappropriate for th e purpose of the agreed-upon procedures 
+engagement. (Ref: Para. A28–A31) 
+22. The practitioner shall accept or continue the agreed-upon proce dures engagement only when: (Ref: Para. 
+A28–A31)  
+(a) The engaging party acknowledges that the expected procedures to  be performed by the practitioner 
+are appropriate for the purpose of the engagement;  
+(b) The practitioner expects to be able to obtain the information n ecessary to perform the agreed-upon 
+procedures;  
+(c) The agreed-upon procedures and related findings can be described objectively, in terms that are clear, 
+not misleading, and not subject to varying interpretations; (Ref: Para. A32–A36)  
+(d) The practitioner has no reason to believe that relevant ethical requirements will not be complied with; 
+and  
+(e) If the practitioner is required to comply with independence req uirements, the practitioner has no 
+reason to believe that the independence requirements will not b e complied with. (Ref: Para. A37–
+A38) 
+ 
+
+<!-- page 8 -->
+
+8A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+23. If the engagement partner obtains information that would ha ve caused the firm to decline the engagement 
+had that information been available earlier, the engagement par tner shall communicate that information 
+promptly to the firm, so that the firm and the engagement partner can take necessary action. 
+ 
+Agreeing the Terms of the Engagement 
+24. The practitioner shall agree the terms of the agreed-upon procedures engagement with the engaging party 
+and record the agreed terms of engagement in an engagement lett er or other suitable form of written 
+agreement. These terms shall include the following: (Ref: Para. A39–A40)  
+(a) Identification of the subject matter(s) on which the agreed-upon procedures will be performed; 
+(b) The purpose of the engagement an d the intended users of the agr eed-upon procedures report as 
+identified by the engaging party; 
+(c) If applicable, the responsible party as identified by the engaging party, and a statement that the agreed-
+upon procedures engagement is performed on the basis that the r esponsible party is responsible for 
+the subject matter on which the agreed-upon procedures are performed; 
+(d) Acknowledgement of the relevant ethical requirements with which  the practitioner will comply in 
+conducting the agreed-upon procedures engagement; 
+(e) A statement as to whether the practitioner is required to comply with independence requirements and, 
+if so, the relevant independence requirements; (Ref: Para. A37–A38) 
+(f) The nature of the agreed-upon procedures engagement, including statements that: 
+(i) An agreed-upon procedures engagement involves the practitioner performing the procedures 
+agreed with the engaging party (and if relevant, other parties), and reporting the findings; (Ref: 
+Para. A10) 
+(ii) Findings are the factual results of the agreed-upon procedures performed; and  
+(iii) An agreed-upon procedures engagement is not an assurance engagement and accordingly, the 
+practitioner does not express an opinion or an assurance conclusion;  
+(g) Acknowledgement by the engaging party (and if relevant, other p arties) that the agreed-upon 
+procedures are appropriate for the purpose of the engagement; (Ref: Para. A10) 
+(h) Identification of the addressee of the agreed-upon procedures report;  
+(i) The nature, timing and extent of the procedures to be performed, described in terms that are clear, not 
+misleading and not subject to varying interpretations; and (Ref: Para. A41–A42) 
+(j) Reference to the expected form and content of the agreed-upon procedures report.  
+25. If the agreed-upon procedures are modified during the course of  the engagement, the practitioner shall 
+agree amended terms of engagement with the engaging party that reflect the modified procedures. (Ref: 
+Para. A43) 
+ 
+ Recurring Agreed-Upon Procedures Engagements 
+26. On recurring agreed-upon procedures engagements, the practitioner shall evaluate whether circumstances, 
+including changes in the engagement acceptance considerations, require the terms of the engagement to 
+be revised and whether there is a need to remind the engaging party of the existing terms of engagement. 
+(Ref: Para. A44) 
+ 
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    9A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Performing the Agreed-Upon Procedures 
+27. The practitioner shall perform the procedures as agreed upon in the terms of the engagement.  
+28. The practitioner shall consider whether to request written representations. (Ref: Para. A45)  
+Using the Work of a Practitioner’s Expert 
+29. If the practitioner uses the work of a practitioner’s expert, t he practitioner shall: (Ref: Para. A46–A47, 
+  A50) 
+(a) Evaluate the competence, capabilities and objectivity of the practitioner’s expert; 
+(b) Agree with the practitioner’s expert on the nature, scope and o bjectives of that expert’s work; (Ref: 
+Para. A48–A49)  
+(c) Determine whether the nature, timing and extent of the work per formed by the practitioner’s expert 
+is consistent with the work agreed with the expert; and 
+(d) Determine whether the findings adequately describe the results of the work performed, taking into 
+account the work performed by the practitioner’s expert. 
+The Agreed-Upon Procedures Report 
+30. The agreed-upon procedures report shall be in writing and shall include: (Ref: Para. A51) 
+(a) A title that clearly indicates that the report is an agreed-upon procedures report; 
+(b) An addressee as set forth in the terms of the engagement; 
+(c) Identification of the subject matter on which the agreed-upon p rocedures are performed; (Ref: Para. 
+A52) 
+(d) Identification of the purpose of the agreed-upon procedures rep ort and a statement that the agreed-
+upon procedures report may not be suitable for another purpose; (Ref: Para. A53–A54) 
+(e) A description of an agreed-upon procedures engagement stating that: 
+(i) An agreed-upon procedures engagement involves the practitioner performing the procedures 
+that have been agreed with the engaging party (and if relevant, other parties), and reporting the 
+findings; (Ref: Para. A10) 
+(ii) Findings are the factual results of the agreed-upon procedures performed; and 
+(iii) The engaging party (and if relevant, other parties) has acknowl edged that the agreed-upon 
+procedures are appropriate for the purpose of the engagement; (Ref: Para. A10) 
+(f) If applicable, the responsible party as identified by the engag ing party, and a statement that the 
+responsible party is responsible for the subject matter on whic h the agreed-upon procedures are 
+performed;  
+(g) A statement that the engagement was performed in accordance with SLSRS 4400 (Revised);  
+(h) A statement that the practitioner makes no representation regarding the appropriateness of the agreed-
+upon procedures; 
+
+<!-- page 10 -->
+
+10A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+(i) A statement that the agreed-upon procedures engagement is not a n assurance engagement and 
+accordingly, the practitioner does not express an opinion or an assurance conclusion;  
+(j) A statement that, had the practitioner performed additional pro cedures, other matters might have 
+come to the practitioner’s attention that would have been reported; 
+(k) A statement that the practitioner complies with the ethical  requirements of the CA Sri Lanka Code, 
+or other professional requirements, or requirements imposed by law or regulation, that are at least 
+as demanding; 
+(l) With respect to independence: 
+(i) If the practitioner is not required to be independent and h as not otherwise agreed in the terms 
+of engagement to comply with independence requirements, a state ment that, for the purpose 
+of the engagement, there are no independence requirements with which the practitioner is 
+required to comply; or  
+(ii) If the practitioner is required to be independent or has a greed in the terms of engagement to 
+comply with independence requirements, a statement that the pra ctitioner has complied with 
+the relevant independence requirements. The statement shall ide ntify the relevant 
+independence requirements;  
+(m) A statement that the firm of which the practitioner is a member applies SLSQC 1, or other professional 
+requirements, or requirements in law or regulation, that are at least as demanding as SLSQC 1. If the 
+practitioner is not a professional accountant, the statement sh all identify the professional 
+requirements, or requirements in law or regulation, applied that are at least as demanding as SLSQC 
+1; 
+(n) A description of the procedures performed detailing the nature and extent, and if applicable, the 
+timing, of each procedure as agreed in the terms of the engagement; (Ref: Para. A55–A57) 
+(o) The findings from each procedure performed, including details on exceptions found; (Ref: Para. A55–
+A56) 
+(p) The practitioner’s signature; 
+(q) The date of the agreed-upon procedures report; and 
+(r) The location in the jurisdiction where the practitioner practices.  
+31. If the practitioner refers to the work performed by a practitio ner’s expert in the agreed-upon procedures 
+report, the wording of the report shall not imply that the prac titioner’s responsibility for performing the 
+procedures and reporting the findings is reduced because of the involvement of an expert. (Ref: Para. A58) 
+32. If the practitioner provides a summary of findings in the agreed-upon procedures report in addition to the 
+description of findings as required by paragraph 30(o):  
+(a) The summary of findings shall be described in a manner that is objective, in terms that are clear, not 
+misleading, and not subject to varying interpretations; and  
+(b) The agreed-upon procedures report shall include a statement ind icating that reading the summary is 
+not a substitute for reading the complete report.  
+33. The practitioner shall date the agreed-upon procedures report n o earlier than the date on which the 
+practitioner completed the agreed-upon procedures and determine d the findings in accordance with this 
+SLSRS. 
+ 
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    11A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Undertaking an Agreed-Upon Procedures Engagement Together with another Engagement 
+34. The agreed-upon procedures report shall be clearly distinguished from reports on other engagements. (Ref: 
+Para. A59) 
+Documentation 
+35. The practitioner shall include in the engagement documentation: (Ref: Para. A60) 
+(a) The written terms of engagement and, if applicable, the agreeme nt of the engaging party as to 
+modifications to the procedures;  
+(b) The nature, timing and extent of the agreed-upon procedures performed; and  
+(c) The findings resulting from the agreed-upon procedures performed. 
+ 
+*** 
+Application and Other Explanatory Material 
+Scope of this SLSRS (Ref: Para. 2) 
+A1. Reference to “subject matters” in this SLSRS encompasses anythi ng on which agreed-upon procedures 
+are performed, including information, documents, measurements or compliance with laws and regulations, 
+as relevant.  
+A2. Examples of financial and non-financial subject matters on which an agreed-upon procedures engagement 
+may be performed include: 
+x Financial subject matters relating to: 
+o The entity’s financial statements or specific classes of transa ctions, account balances  o r  
+disclosures within the financial statements. 
+o Eligibility of expenditures claimed from a funding program. 
+o Revenues for determining royalties, rent or franchise fees based on a percentage of revenues. 
+o Capital adequacy ratios for regulatory authorities. 
+x Non-financial subject matters relating to: 
+o Numbers of passengers reported to a civil aviation authority. 
+o Observation of destruction of fake or defective goods reported to a regulatory authority. 
+o Data generating processes for lottery draws reported to a regulatory authority. 
+o Volume of greenhouse gas emissions reported to a regulatory authority. 
+The above list is not exhaustive. Additional types of subject matters may arise as external reporting 
+demands evolve.  
+ 
+ 
+
+<!-- page 12 -->
+
+12A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+Relationship with SLSQC 1 (Ref: Para. 3) 
+A3. SLSQC 1 deals with the firm’s responsibilities to establish and  maintain its system of quality control for 
+related services engagements, including agreed-upon procedures engagements. Those responsibilities are 
+directed at establishing:  
+x The firm’s quality control system; and 
+x The firm’s related policies designed to achieve the objective o f the quality control system and its 
+procedures to implement and monitor compliance with those policies. 
+A4. Under SLSQC 1, the firm has an obligation to establish and maintain a system of quality control to provide 
+it with reasonable assurance that:  
+(a) The firm and its personnel comply with professional standards a nd applicable legal and regulatory 
+requirements; and 
+(b) Reports issued by the firm or engagement partners are appropriate in the circumstances.2 
+A5. A jurisdiction that has not adopted SLSQC 1 in relation to agreed-upon procedures engagements may set 
+out requirements for quality control in firms performing such engagements. The provisions of this SLSRS 
+regarding quality control at the engagement level are premised on the basis that quality control 
+requirements adopted are at leas t as demanding as those of SLSQ C 1. This is achieved when those 
+requirements impose obligations on the firm to achieve the aims  of the requirements of SLSQC 1, 
+including an obligation to establish a system of quality contro l that includes policies and procedures that 
+address each of the following elements:  
+x Leadership responsibilities for quality within the firm; 
+x Relevant ethical requirements; 
+x Acceptance and continuance of client relationships and specific engagements; 
+x Human resources; 
+x Engagement performance; and 
+x Monitoring. 
+ 
+A6. Within the context of the firm’s system of quality control, eng agement teams have a responsibility to 
+implement quality control procedures applicable to the engagement.  
+ 
+A7. Unless information provided by the firm or other parties su ggests otherwise, the engagement team is 
+entitled to rely on the firm’s system of quality control. For e xample, the engagement team may rely on 
+the firm’s system of quality control in relation to: 
+x Competence of personnel through their recruitment and formal training. 
+x Maintenance of client relationships through acceptance and continuance systems. 
+x Adherence to legal and regulatory requirements through the monitoring process. 
+In considering deficiencies identified in the firm’s system of quality control that may affect the agreed -
+upon procedures engagement, the engagement partner may consider measures taken by the firm to rectify 
+the situation that the engagement partner considers are suffici ent in the context of that agreed-upon 
+procedures engagement. 
+ 
+                                                           
+2 SLSQC 1, paragraph 11 
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    13A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+A8. A deficiency in the firm’s system of quality control does not necessarily indicate that an agreed -upon 
+procedures engagement was not performed in accordance with professional standards and applicable legal 
+and regulatory requirements, or that the agreed-upon procedures report was not appropriate. 
+ 
+Effective Date (Ref: Para. 11) 
+A9. For terms of engagement coverin g multiple years, practitioners may wish to update the terms of 
+engagement so that the agreed-upon procedures engagements will be conducted in accordance with this 
+SLSRS on or after the effective date.  
+Definitions 
+Engaging Party and Other Intended Users (Ref: Para. 13(a), 13(b), 13(d), 13(g), 24(f)(i), 24(g), 30(e)(i), 
+30(e)(iii)) 
+A10. In some circumstances, the procedures may be agreed with intend ed users in addition to the engaging 
+party. Intended users other than the engaging party may also ac knowledge the appropriateness of the 
+procedures.  
+A11. The engaging party may be, under different circumstances, the r esponsible party, a regulator or other 
+intended user. References to the engaging party in this SLSRS i nclude multiple engaging parties when 
+relevant.  
+Findings (Ref: Para. 13(f)) 
+A12. Findings are capable of being objectively verified, which means that different practitioners performing 
+the same procedures are expected to arrive at equivalent result s. Findings exclude the expression of an 
+opinion or a conclusion as well as any recommendations that the practitioner may make.  
+A13. Practitioners may use the term “factual findings” in place of “findings”, for example, in cases when the 
+practitioner is concerned that the term “findings” may be misun derstood. This may be the case in 
+jurisdictions or languages where the term “findings” may be understood as including results that are not 
+factual.  
+Relevant Ethical Requirements (Ref: Para. 17) 
+Objectivity and Independence  
+A14. A practitioner performing an agreed-upon procedures engagement is required to comply with relevant 
+ethical requirements. Relevant ethical requirements ordinarily comprise CA Sri Lanka Code, together 
+with national requirements that are more restrictive. CA Sri Lanka Code requires practitioners to comply 
+with fundamental principles including objectivity, which requires practitioners not to compromise their 
+professional or business judgment because of bias, conflict of interest or the undue influence of others. 
+Accordingly, relevant ethical requirements to which the practit ioner is subject would, at a minimum, 
+require the practitioner to be objective when performing an agreed-upon procedures engagement.  
+A15. CA Sri Lanka Code does not contain independence requirements fo r agreed-upon procedures 
+engagements. However, national ethical codes, laws or regulations, other professional requirements, or 
+conditions of a contract, program, or arrangement relating to t he subject matter for the agreed-upon 
+procedures engagement may specify requirements pertaining to independence. 
+
+<!-- page 14 -->
+
+14A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+Non-Compliance with Laws and Regulations3 
+A16. Law, regulation or relevant ethical requirements may:  
+(a) Require the practitioner to report identified or suspected non-compliance with laws and 
+regulations to an appropriate authority outside the entity.  
+(b) Establish responsibilities und er which reporting to an appropriate authority outside the entity may 
+be appropriate in the circumstances.4  
+ 
+A17. Reporting identified or suspected non-compliance with laws  and regulations to an appropriate authority 
+outside the entity may be required or appropriate in the circumstances because: 
+(a) Law, regulation or relevant ethical requirements require th e practitioner to report; 
+(b) The practitioner has determined reporting is an appropriate  action to respond to identified or 
+suspected non-compliance in accordance with relevant ethical requirements; or 
+(c) Law, regulation or relevant ethical requirements provide th e practitioner with the right to do so. 
+ 
+A18. The practitioner is not expected to have a level of unders tanding of laws and regulations beyond that 
+necessary to be able to perform the agreed-upon procedures enga gement. However, law, regulation or 
+relevant ethical requirements may expect the practitioner to ap ply knowledge, professional judgment 
+and expertise in responding to identified or suspected non-compliance. Whether an act constitutes actual 
+non-compliance is ultimately a matter to be determined by a cou rt or other appropriate adjudicative 
+body.  
+A19. In some circumstances, the reporting of identified or susp ected non-compliance with laws and 
+regulations to an appropriate authority outside the entity may be precluded by the practitioner’s duty of 
+confidentiality under law, regulation or relevant ethical requirements. In other cases, reporting identified 
+or suspected non-compliance to an appropriate authority outside  the entity would not be considered a 
+breach of the duty of confidentiality under the relevant ethical requirements.5  
+A20. The practitioner may consider consulting internally (e.g.,  within the firm or network firm), obtaining 
+legal advice to understand the professional or legal implicatio ns of taking any particular course of 
+action, or consulting on a confidential basis with a regulator or a professional body (unless doing so is 
+prohibited by law or regulations or would breach the duty of confidentiality).6 
+Professional Judgment (Ref: Para. 18) 
+A21. Professional judgment is exercised in applying the requirements  of this SLSRS and relevant ethical 
+requirements, and in making informed decisions about courses of  action throughout the agreed-upon 
+procedures engagement, as appropriate. 
+A22. In accepting, conducting and reporting on an agreed-upon proced ures engagement, professional 
+judgment is exercised, for example, in:  
+                                                           
+3 Relevant ethical requirements may indicate that non-compliance with laws and regulations includes fraud.  
+4  (Deleted). 
+5  (Deleted) 
+6  (Deleted). 
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    15A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Accepting the engagement 
+x Discussing and agreeing with the engaging party (and if relevan t, other parties) the nature, timing 
+and extent of the procedures to be performed (taking into account the purpose of the engagement).  
+x Determining whether engagement acceptance and continuance conditions have been met. 
+x Determining the resources necessary to carry out the procedures  as agreed in the terms of the 
+engagement, including the need to involve a practitioner’s expert.  
+x Determining appropriate actions if the practitioner becomes awa re of facts or circumstances 
+suggesting that the procedures to which the practitioner is bei ng asked to agree are inappropriate 
+for the purpose of the agreed-upon procedures engagement. 
+Conducting the engagement 
+x Determining appropriate actions or responses if, when performing the agreed-upon procedures, the 
+practitioner becomes aware of: 
+o Matters that may indicate fraud or an instance of non-compliance or suspected non-compliance 
+with laws or regulations. 
+o Other matters that cast doubt on the integrity of the informati on relevant to the agreed-upon 
+procedures engagement or that indicate that the information may be misleading. 
+o Procedures that cannot be performed as agreed. 
+Reporting on the engagement 
+x Describing the findings in an objective manner and in sufficient detail, including when exceptions 
+are found. 
+A23. In conducting the agreed-upon procedures engagement, the need f or the practitioner to exercise 
+professional judgment when performing the agreed-upon procedures is limited for reasons including:  
+x An agreed-upon procedures engagement involves the performance o f procedures that have been 
+agreed upon by the practitioner and the engaging party, where the engaging party has acknowledged 
+that the procedures performed are appropriate for the purpose of the engagement. 
+x The agreed-upon procedures and the findings that result from pe rforming those procedures are 
+capable of being described objectively, in terms that are clear , not misleading, and not subject to 
+varying interpretations.  
+x The findings are capable of being objectively verified, which m eans that different practitioners 
+performing the same procedures are expected to arrive at equivalent results. 
+ 
+Engagement Level Quality Control (Ref: Para. 19–20) 
+A24. The actions of the engagement partner and appropriate messages to the other members of the 
+engagement team, in taking responsibility for the overall quali ty on each engagement, emphasize the 
+importance to achieving the quality of the engagement of: 
+(a) Performing work that complies with professional standards and regulatory and legal requirements; 
+(b) Complying with the firm’s quality control policies and procedures as applicable; and 
+(c) Issuing the practitioner’s report for the engagement in accordance with this SLSRS.  
+
+<!-- page 16 -->
+
+16A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+A25. SLSQC 1 requires the firm to obtain such information as it cons iders necessary in the circumstances 
+before accepting an engagement with a new client, when deciding  whether to continue an existing 
+engagement, and when considering acceptance of a new engagement  with an existing client. 
+Information that assists the engagement partner in determining whether acceptance or continuance of 
+client relationships and agreed-upon procedures engagements is appropriate may include information 
+concerning the integrity of the principal owners, key managemen t and those charged with governance. 
+If the engagement partner has cause to doubt management’s integ rity to a degree that is likely to affect 
+proper performance of the engagement, it may not be appropriate to accept the engagement. 
+A26. SLSQC 1 sets out the responsibilities of the firm for establish ing policies and procedures designed to 
+provide it with reasonable assurance that the firm and its pers onnel comply with relevant ethical 
+requirements. This SLSRS sets out the engagement partner’s resp onsibilities with respect to the 
+engagement team’s compliance with relevant ethical requirements. 
+A27. If the practitioner is unable to meet the requirement in p aragraph 20, it may be appropriate for the 
+practitioner to agree with the engaging party to limit the scope of the agreed-upon procedures 
+engagement to procedures for which the practitioner can appropriately take responsibility. The 
+engaging party may separately engage an expert to perform the other procedures. 
+ 
+Engagement Acceptance and Continuance (Ref: Para. 21–23) 
+A28. In obtaining an understanding of the purpose of the agreed-upon  procedures engagement, the 
+practitioner may become aware of indications that the procedure s the practitioner is asked to perform 
+are inappropriate for the purpose of the agreed-upon procedures  engagement. For example, the 
+practitioner may be aware of facts or circumstances that indicate: 
+x The procedures are selected in a manner intended to bias the intended users’ decision-making. 
+x The subject matter on which the agreed-upon procedures are performed is unreliable. 
+x An assurance engagement or advisory service may better serve th e needs of the engaging party or 
+other intended users.  
+A29.  Other actions that may satisfy the practitioner that the condit ions in paragraphs 21 and 22 are met 
+include:  
+x Comparing the procedures to be performed with written requirements set out, for example, in law or 
+regulation, or in a contractual agreement (sometimes referred to as the “Terms of Reference”), where 
+appropriate. 
+x Requesting the engaging party to: 
+o Distribute a copy of the anticipated procedures and the form an d content of the agreed-upon 
+procedures report as set out in the terms of engagement to the intended user(s). 
+o Obtain acknowledgement from the intended user(s) of the procedures to be performed. 
+o Discuss the procedures to be performed with appropriate representatives of the intended user(s). 
+x Reading correspondence between the engaging party and other intended user(s) if the engaging party 
+is not the only intended user.  
+A30. If the conditions in paragraphs 21 and 22 are not met, it is un likely that an agreed-upon procedures 
+engagement is able to meet the needs of the engaging party or o ther intended users. In such 
+circumstances, the practitioner may suggest other services, such as an assurance engagement, that may 
+be more appropriate.  
+A31. All the conditions in paragraphs 21 and 22 also apply to proced ures that have been added or modified 
+during the course of the engagement.  
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    17A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Descriptions of Agreed-Upon Procedures and Findings (Ref: Para. 22(c)) 
+A32. The procedures to be performed during the agreed-upon procedure s engagement may be prescribed by 
+law or regulation. In some circumstances, law or regulation may also prescribe the way the procedures 
+or findings are to be described in the agreed-upon procedures r eport. As set out in paragraph 22(c), a 
+condition of accepting an agreed-upon procedures engagement is that the practitioner has determined 
+that the agreed-upon procedures an d findings can be described o bjectively, in terms that are clear, not 
+misleading, and not subject to varying interpretations. 
+A33. Agreed-upon procedures are described objectively, in terms that  are clear, not misleading, and not 
+subject to varying interpretations. This means that they are de scribed at a level of specificity sufficient 
+for an intended user to understand the nature and extent and if applicable, the timing, of the procedures 
+performed. It is important to recognize that any term could pot entially be used in an unclear or 
+misleading manner, depending on context or the absence thereof.  Assuming that the terms are 
+appropriate in the context in which they are used, examples of descriptions of actions that may be 
+acceptable include: 
+x Confirm. 
+x Compare. 
+x Agree. 
+x Trace. 
+x Inspect. 
+x Inquire. 
+x Recalculate. 
+x Observe. 
+A34. Terms that may be unclear, misleading, or subject to varying in terpretations depending on the context 
+in which they are used, may include, for example:  
+x Terms that are associated with assurance under the Sri Lanka Auditing Standards such as “present 
+fairly” or “true and fair,” “audit,” “review,” “assurance,” “opinion,” or “conclusion.” 
+x Terms that imply expression of an assurance opinion or conclusi on such as “we certify,” “we 
+verify,” “we have ascertained” or “we have ensured” with regard to the findings.  
+x Unclear or vague phrases such as “we obtained all the explanations and performed such procedures 
+as we considered necessary.” 
+x Terms that are subject to varying interpretations such as “material” or “significant.” 
+x Imprecise descriptions of procedures such as “discuss,” “evaluate,” “test,” “analyze” or “examine” 
+without specifying the nature and extent, and if applicable, th e timing, of the procedures to be 
+performed. For example, using the word “discuss” may be imprecise without specifying with whom 
+the discussion is held or the specific questions asked. 
+x Terms that suggest that the findings do not reflect factual res ults such as “in our view,” “from our 
+perspective” or “we take the position that.”  
+A35. For example, a procedure such as “review cost allocations to de termine if they are reasonable” is 
+unlikely to meet the condition for terms to be clear, not misle ading, or not subject to varying 
+interpretations because: 
+
+<!-- page 18 -->
+
+18A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+x The term “review” may be misinterpreted by some users to mean t hat the cost allocation was the 
+subject of a limited assurance engagement even though no such a ssurance is intended by the 
+procedure.  
+x The term “reasonable” is subject to varying interpretations as to what constitutes “reasonable.” 
+A36. In circumstances when law or regulation specifies a procedure or describes a procedure using terms that 
+are unclear, misleading, or subject to varying interpretations, the practitioner may satisfy the condition 
+in paragraph 22(c) by, for example, requesting the engaging party to: 
+x Modify the procedure or the description of the procedure so that it is no longer unclear, misleading, 
+or subject to varying interpretations. 
+x If a term that is unclear, misleading or subject to varying int erpretations cannot be amended, for 
+example because of law or regulation, include a definition of t he term in the agreed-upon 
+procedures report. 
+Compliance with Independence Requirements (Ref: Para. 22(e), 24(e)) 
+A37. Paragraph 22(e) applies whe n the practitioner is required to comply with independence requirements 
+for reasons such as those set ou t in paragraph A15. Paragraph 2 2(e) also applies when the practitioner 
+agrees with the engaging party, in the terms of engagement, to comply with independence requirements. 
+For example, the practitioner may have initially determined tha t the practitioner is not required by 
+relevant ethical requirements, law or regulation, or other reas ons to comply with independence 
+requirements. However, when considering engagement acceptance a nd continuance or agreeing the 
+terms of engagement, the practitioner’s knowledge of the follow ing matters may indicate that a 
+discussion with the engaging party as to whether compliance wit h certain identified independence 
+requirements is appropriate for the purpose of the agreed-upon procedures engagement: 
+x The purpose of the agreed-upon procedures engagement; 
+x The identity of the engaging party, other intended users and responsible party (if different from the 
+engaging party); 
+x The nature, timing and extent of the procedures to be performed; or 
+x Other engagements that the practitioner is performing or has pe rformed for the engaging party, 
+other intended users or the responsible party (if different from the engaging party). 
+A38. The practitioner may be the auditor of the financial statements  of the engaging party (or responsible 
+party if different from the engaging party). In such a circumstance, if the practitioner is also engaged to 
+conduct an agreed-upon procedures engagement, intended users of  the agreed-upon procedures report 
+may assume that the practitioner is independent for the purpose  of the agreed-upon procedures 
+engagement. Therefore, the practitioner may agree with the enga ging party that the practitioner’s 
+compliance with the independence requirements applicable to aud its of financial statements is 
+appropriate for the purpose of the agreed-upon procedures engagement. In such a case, a statement that 
+the practitioner is required to comply with such independence r equirements is included in the terms of 
+the engagement, in accordance with paragraph 24(e). 
+ 
+Agreeing the Terms of the Engagement (Ref: Para. 24–25) 
+A39. When relevant, additional matters may be included in the engagement letter, for example:  
+x Arrangements concerning the involvement of a practitioner’s exp ert in some aspects of the agreed-
+upon procedures engagement. 
+x Any restrictions on the use or distribution of the agreed-upon procedures report. 
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    19A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+A40. An illustrative engagement letter for an agreed-upon procedures engagement is set out in Appendix 1.  
+A41. The practitioner may agree with the engaging party that the pro cedures to be performed will include 
+quantitative thresholds for determining exceptions. If so, thes e quantitative thresholds are included in 
+the descriptions of the procedures in the terms of the engagement.  
+A42. In some circumstances, law or regulation may prescribe only the  nature of the procedures to be 
+performed. In such circumstances, in accordance with paragraph 24(i), the practitioner agrees the timing 
+and extent of procedures to be performed with the engaging party so that the engaging party has a basis 
+to acknowledge that the procedures to be performed are appropriate for the purpose of the engagement.  
+A43. In some circumstances, agreeing the terms of engagement and per forming the agreed-upon procedures 
+takes place in a linear and discrete manner. In other circumsta nces, agreeing the terms of engagement 
+and performing the agreed-upon procedures is an iterative proce ss, with changes to the agreed-upon 
+procedures being agreed as the engagement progresses in response to new information coming to light. 
+If procedures that have been previously agreed upon need to be modified, paragraph 25 requires the 
+practitioner to agree the amended terms of engagement with the engaging party. The amended terms of 
+engagement may, for example, take the form of an updated engage ment letter, an addendum to an 
+existing engagement letter, or other form of written acknowledgement.  
+ 
+Recurring Engagements (Ref: Para. 26) 
+A44. The practitioner may decide not to send a new engagement letter  or other written agreement for a 
+recurring engagement. However, the following factors may indica te that it is appropriate to revise the 
+terms of the engagement, or to remind the engaging party of the existing terms of the engagement: 
+x Any indication that the engaging party misunderstands the purpose of the agreed-upon procedures 
+engagement or the nature, timing or extent of the agreed-upon procedures. 
+x Any revised or special terms of the engagement, including any c hanges in the previously agreed-
+upon procedures. 
+x A change in legal, regulatory or contractual requirements affecting the engagement. 
+x A change in management or those charged with governance of the engaging party.  
+Performing the Agreed-Upon Procedures (Ref: Para. 28) 
+A45. The practitioner may decide to request written representations in some circumstances, for example: 
+x If the agreed-upon procedures involve inquiries, the practition er may request written 
+representations on the responses that have been provided verbally. 
+x If the engaging party is not the responsible party, the practitioner may agree with the engaging party 
+to include, as an agreed-upon procedure, requests for written r epresentations from the responsible 
+party.  
+ 
+Using the Work of a Practitioner’s Expert (Ref: Para. 29) 
+A46. Using the work of a practitioner’s expert may involve the use of an expert to assist the practitioner in: 
+x Discussing with the engaging party the agreed-upon procedures t o be performed. For example, a 
+lawyer may provide suggestions to the practitioner on the desig n of a procedure to address legal 
+aspects of a contract; or 
+
+<!-- page 20 -->
+
+20A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+x Performing one or more of the agreed-upon procedure(s). For example, a chemist may perform one 
+of the agreed-upon procedures such as determining the toxin levels in a sample of grains. 
+A47. A practitioner’s expert may be an external expert engaged by the practitioner or an internal expert who 
+is part of the firm and therefore subject to the firm’s system of quality control. The practitioner is entitled 
+to rely on the firm’s system of quality control, unless informa tion provided by the firm or other parties 
+suggests otherwise. The extent of that reliance will vary with the circumstances and may affect the 
+nature, timing and extent of the practitioner’s procedures with respect to matters such as: 
+x Competence and capabilities, through recruitment and training programs. 
+x The practitioner’s evaluation of the objectivity of the practitioner’s expert. 
+x Agreement with the practitioner’s expert. 
+Such reliance does not reduce the practitioner’s responsibility to meet the requirements of this SLSRS.  
+A48. If the practitioner’s expert is p erforming one or more of the a greed-upon procedure(s), the agreement 
+of the nature, scope and objectives of that expert’s work as re quired by paragraph 29(b) includes the 
+nature, timing and extent of the procedure(s) to be performed by the practitioner’s expert. In addition to 
+the matters required by paragraph 29(b), it may be appropriate for the practitioner’s agreement with the 
+practitioner’s expert to include matters such as the following: 
+(a) The respective roles and responsibilities of the practitioner and that expert; 
+(b) The nature, timing and extent of communication between the practitioner and that expert, including 
+the form of any report to be provided by that expert; and 
+(c) The need for the practitioner’s expert to observe confidentiality requirements.  
+A49. The matters noted in paragraph A47 may affect the level of deta il and formality of the agreement 
+between the practitioner and the practitioner’s expert, includi ng whether it is appropriate that the 
+agreement be in writing. The agreement between the practitioner  and the practitioner’s external expert 
+is often in the form of an engagement letter.  
+A50. When the work of a practitioner’s  expert is to be used, it may be appropriate to perform some of the 
+procedures required by paragraph 29 at the engagement acceptance or continuance stage.  
+ 
+The Agreed-Upon Procedures Report (Ref: Para. 30–33) 
+A51. Appendix 2 contains illustrations of agreed-upon procedures reports.  
+Subject Matter on which the Agreed-Upon Procedures Are Performed (Ref: Para. 30(c)) 
+A52. If applicable, to avoid misunderstanding, the practitioner may wish to clarify that the agreed-upon 
+procedures report does not extend to information beyond subject  matters on which the agreed-upon 
+procedures are performed. For example, if the practitioner was engaged to perform agreed-upon 
+procedures on an entity’s accounts receivable and inventory, th e practitioner may wish to include a 
+statement that the agreed-upon procedures report relates only t o these accounts and does not extend to 
+the entity’s financial statements taken as a whole. 
+Purpose of the Agreed-Upon Procedures Report (Ref: Para. 30(d)) 
+A53. In addition to the statement required by paragraph 30(d), the practitioner may consider it appropriate to 
+indicate that the agreed-upon procedures report is intended sol ely for the engaging party and the 
+intended users. Depending on the law or regulation of the parti cular jurisdiction, this may be achieved 
+by restricting the distribution or use of the agreed-upon procedures report. In some jurisdictions, it may 
+be possible to restrict the use of the agreed-upon procedures r eport but not its distribution. In other 
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    21A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -19.08.2022
+jurisdictions, it may be possible to restrict the distribution of the agreed-upon procedures report but not 
+its use. 
+A54. Factors that the practitioner may consider in deciding whet her to restrict the distribution or use of 
+agreed-upon procedures report (if permitted to do so) include, for example whether:
+x There is an elevated risk of users other than the intended users misunderstanding the purpose of the
+agreed-upon procedures engagement or misinterpreting the findings.
+x The agreed-upon procedures are designed solely for the use of i nternal users such as management
+and those charged with governance of the engaging party.
+x The agreed-upon procedures or findings involve confidential information.
+Agreed-Upon Procedures and Findings (Ref: Para. 30(n)–30(o))
+A55. If the practitioner is unable to describe the agreed-upon p rocedures or findings without including 
+confidential or sensitive information, the practitioner may consider:
+x Consulting internally (for example, within the firm or network firm);
+x Consulting externally (for example, with the relevant professional body or another practitioner); or
+x Obtaining legal advice,
+to understand the professional or legal implications of taking any particular course of action.
+A56. There may be circumstances when the fact that previously ag reed-upon procedures have not been 
+performed or have been modified is important to the intended us ers’ consideration of the agreed-upon 
+procedures and findings. For example, this may be the case when  the procedures are set out in law or 
+regulation. In such circumstances, the practitioner may identif y, in the agreed-upon procedures report, 
+the procedures agreed in the original terms of the engagement w hich could not be performed or were 
+modified, and why that has arisen.
+A57. The practitioner may refer to the date when the agreed-upon procedures were agreed in the terms of the 
+engagement. 
+Reference to Practitioner’s Expert (Ref: Para. 31)
+A58. In some circumstances, law or regulation may require a reference, in the agreed-upon procedures report, 
+to a practitioner’s expert who performed any of the agreed-upon procedures. For example, such a 
+reference may be required for the purposes of transparency in t he public sector. The practitioner may 
+also consider it appropriate in other circumstances, for exampl e, when referring to the practitioner’s 
+expert when describing the agreed-upon procedures. Nonetheless,  the practitioner has sole 
+responsibility for the findings included in the agreed-upon pro cedures report, and that responsibility is 
+not reduced by the use of the practitioner’s expert. It is impo rtant therefore that if the agreed-upon 
+procedures report refers to the practitioner’s expert, the repo rt does not imply that the practitioner’s 
+responsibility is reduced because of the reference to the practitioner’s expert.
+Undertaking an Agreed-Upon Procedures Engagement Together with another Engagement (Ref: 
+Para.34)
+A59. A practitioner may be reques ted to perform other engagement s together with the agreed-upon 
+procedures engagement, such as providing recommendations arisin g from the agreed-upon procedures 
+
+<!-- page 22 -->
+
+22A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+engagement. Such requests may take the form of one request for the practitioner to perform agreed-
+upon procedures and make recommendations, and the terms of the various engagements may be set out 
+in a single engagement letter. To avoid misunderstanding, parag raph 34 requires that the agreed-upon 
+procedures report be clearly dis tinguished from the reports of other engagements. For example, the 
+recommendations may be: 
+x Provided in a separate document from the agreed-upon procedures report; or 
+x Included in a document that contains both the agreed-upon procedures report and recommendations 
+but the recommendations are clearly differentiated from the agr eed-upon procedures report, for 
+example, by including the agreed-upon procedures report and the  recommendations in separate 
+sections of the document. 
+Documentation (Ref: Para. 35)  
+A60. Documentation of the nature, timing and extent of the agre ed-upon procedures performed may include 
+a record of, for example: 
+x The identifying characteristics of the subject matter(s) on whi ch the agreed-upon procedures are 
+performed. Identifying characteristics will vary depending on t he nature of the agreed-upon 
+procedure and the subject matter(s) on which the agreed-upon pr ocedure is performed. For 
+example: 
+o For a procedure on purchase orde rs, the practitioner may identi fy the documents selected by 
+their dates and unique purchase order numbers. 
+o For a procedure requiring selection of all items over a specific amount from a given population, 
+the practitioner may record the scope of the procedure and identify the population (for example, 
+all journal entries over a specified amount from the journal re gister for a specific period, all 
+timesheets for hours recorded over a certain number for specifi ed months or every tenth item 
+on a specific list). 
+o For a procedure requiring inquiries of specific personnel, the practitioner may record the dates 
+of the inquiries, the names and job designations of the personn el and the specific inquiries 
+made. 
+o For an observation procedure, the  practitioner may record the p rocess or matter being 
+observed, the relevant individuals, their respective responsibi lities, and where and when the 
+observation was carried out. 
+x Who performed the agreed-upon procedures and the date such procedures were performed. 
+x Who reviewed the agreed-upon procedures performed, and the date and extent of such review. 
+ 
+ 
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    23A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Appendix 1 
+(Ref: Para. A40) 
+Illustrative Engagement Letter for an Agreed-Upon Procedures Engagement 
+The following is an example of an engagement letter for an agreed-upon procedures engagement that illustrates 
+the relevant requirements and guidance contained in this SLSRS. This letter is not authoritative and is intended 
+only to be a guide that may be used in conjunction with the considerations outlined in this SLSRS. It will need 
+to be adapted according to the requirements and circumstances o f individual agreed-upon procedures 
+engagements. It is drafted to refer to an agreed-upon procedures engagement for a single reporting period and 
+would require adaptation if intended or expected to apply to a recurring engagement as described in this 
+SLSRS. It may be appropriate to seek legal advice that any proposed letter is suitable. 
+To [Engaging Party] 
+ 
+You have requested that we perform an agreed-upon procedures en gagement on the procurement of [xyz] 
+products. This letter is to confirm our understanding of the te rms and objectives of our engagement and the 
+nature and limitations of the services that we will provide. Ou r engagement will be conducted in accordance 
+with the Sri Lanka Standard on Related Services (SLSRS) 4400 (R evised), Agreed-Upon Procedures 
+Engagements. In performing the agreed-upon procedures engagement, we will comply with [describe the 
+relevant ethical requirements], which does not require us to be independent. 
+ 
+An agreed-upon procedures engagement performed under SLSRS 4400 (Revised) involves our performing the 
+procedures agreed with you, and communicating the findings in t he agreed-upon procedures report. Findings 
+are the factual results of the agreed-upon procedures performed . You [and if relevant, other parties] 
+acknowledge that the procedures are appropriate for the purpose  of the engagement. We make no 
+representation regarding the appropriateness of the procedures. This agreed-upon procedures engagement will 
+be conducted on the basis that [Responsible Party] is responsib le for the subject matter on which the agreed-
+upon procedures are performed. Further, this agreed-upon proced ures engagement is not an assurance 
+engagement. Accordingly, we do not express an opinion or an assurance conclusion. 
+ 
+The procedures that we will perform are solely for the purpose of assisting you in determining whether your 
+procurement of [xyz] products is compliant with your procuremen t policies.
+7 Accordingly, our report will be 
+addressed to you and our report may not be suitable for another purpose.  
+ 
+We have agreed to perform the following procedures and report to you the findings resulting from our work:  
+x Obtain from management of [Responsible Party] a listing of all contracts signed between [January 1, 
+20X1] and [December 31, 20X1] for [xyz] products (“listing”) an d identify all contracts valued at over 
+Rs.25,000. 
+x For each identified contract valued at over Rs. 25,000 on the l isting, compare the contract to the records 
+of bidding and determine whether each contract was subject to b idding by at least 3 contractors from 
+[Responsible Party]’s “Pre-qualified Contractors List.” 
+  
+                                                           
+7 In this case, the engaging party is also the intended user. 
+
+<!-- page 24 -->
+
+24A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+x For each identified contract valued at over Rs.25,000 on the li sting, compare the amount payable per the 
+signed contract to the amount ultimately paid by [Responsible P arty] to the contractor and determine 
+whether the amount ultimately paid is the same as the agreed amount in the contract. 
+ 
+The procedures are to be performed between [Date] and [Date].  
+Our Agreed-Upon Procedures Report  
+ 
+As part of our engagement, we will issue our report, which will  describe the agreed-upon procedures and the 
+findings of the procedures performed [insert appropriate refere nce to the expected form and content of the 
+agreed-upon procedures report].  
+ 
+Please sign and return the attached copy of this letter to indi cate your acknowledgement of, and agreement 
+with, the arrangements for our engagement, including the specif ic procedures which we have agreed will be 
+performed and that they are appropriate for the purpose of the engagement. 
+ 
+[Insert other information, such as fee arrangements, billings and other specific terms, as appropriate.]  
+ 
+[Firm’s name] 
+ 
+Acknowledged and agreed on behalf of [Engaging party’s name] by: 
+ 
+[Signature] 
+ 
+[Name and Title] 
+ 
+[Date] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    25A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+Appendix 2  
+(Ref: Para. A51) 
+Illustrations of Agreed-Upon Procedures Reports 
+Illustration 1  
+For purposes of this illustrative agreed-upon procedures report, the following circumstances are assumed: 
+x The engaging party is the addressee and the only intended user. The engaging party is not the responsible 
+party. For example, the regulator is the engaging party and intended user, and the entity overseen by the 
+regulator is the responsible party. 
+x No exceptions were found. 
+x The practitioner did not engage a practitioner’s expert to perform any of the agreed-upon procedures. 
+x There is no restriction on the use or distribution of the report. 
+x There are no independence requirements with which the practitioner is required to comply. 
+x A quantitative threshold of Rs. 100 for reporting exceptions in Procedure 3 has been agr eed with the 
+engaging party. 
+AGREED-UPON PROCEDURES REPORT ON PROCUREMENT OF [XYZ] PRODUCTS 
+To [Addressee] 
+Purpose of this Agreed-Upon Procedures Report 
+Our report is solely for the purpose of assisting [Engaging Par ty] in determining whether its procurement of 
+[xyz] products is compliant with its procurement policies and may not be suitable for another purpose. 
+Responsibilities of the Engaging Party and the Responsible Party 
+[Engaging Party] has acknowledged that the agreed-upon procedur es are appropriate for the purpose of the 
+engagement.  
+ 
+[Responsible Party], as identified  by [Engaging Party], is resp onsible for the subject matter on which the 
+agreed-upon procedures are performed. 
+Practitioner’s Responsibilities 
+We have conducted the agreed-upon procedures engagement in acco rdance with the Sri Lanka Standard on 
+Related Services (SLSRS) 4400 (Revised), Agreed-Upon Procedures Engagements . An agreed-upon 
+procedures engagement involves our performing the procedures that have been agreed with [Engaging Party], 
+and reporting the findings, which are the factual results of th e agreed-upon procedures performed. We make 
+no representation regarding the appropriateness of the agreed-upon procedures. 
+This agreed-upon procedures engagement is not an assurance engagement. Accordingly, we do not express an 
+opinion or an assurance conclusion. 
+ 
+
+<!-- page 26 -->
+
+26A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -19.08.2022
+Had we performed additional procedures, other matters might have come to our attention that would have been 
+reported.
+Professional Ethics and Quality Control 
+We have complied with the ethical requirements in [describe the  relevant ethical requirements]. For the 
+purpose of this engagement, there are no independence requirements with which we are required to comply.
+Our firm applies Sri Lanka Standard on Quality Control (SLSQC) 1, Quality Control for Firms that Perform 
+Audits and Reviews of Financial Statements, and Other Assurance and Related Services Engagements , and 
+accordingly, maintains a comprehensive system of quality contro l including documented policies and 
+procedures regarding compliance with ethical requirements, prof essional standards and applicable legal and 
+regulatory requirements.
+Procedures and Findings
+We have performed the procedures described below, which were ag reed upon with [Engaging Party], on the 
+procurement of [xyz] products.
+Procedures Findings
+1 Obtain from management of [Responsible 
+Party] a listing of all contracts signed between 
+[January 1, 20X1] and [December 31, 20X1] for 
+[xyz] products (“listing”) and identify all 
+contracts valued at over Rs.25,000.
+We obtained from management a listing of all 
+contracts for [xyz] products which were signed 
+between [January 1, 20X1] and [December 31, 
+20X1]. 
+Of the 125 contracts on the listing, we identified 
+37 contracts valued at over Rs.25,000.
+2 For each identified contract valued at over 
+Rs.25,000 on the listing, compare the contract to 
+the records of bidding and determine whether 
+the contract was subject to bidding by at least 3 
+contractors from [Responsible Party]’s “Pre -
+qualified Contractors List.”
+We inspected the records of bidding related to the 
+37 contracts valued at over Rs.25,000. We found 
+that all of the 37 contracts were subject to bidding 
+by at least 3 contractors from the [Responsible 
+Party]’s “Pre
+-qualified Contractors List.”
+3 For each identified contract valued at over 
+Rs.25,000 on the listing, compare the amount 
+payable per the signed contract to the amount 
+ultimately paid by [Responsible Party] to the 
+contractor and determine whether the amount 
+ultimately paid is within Rs.100 of the agreed 
+amount in the contract.
+We obtained the signed contracts for the 37 
+contracts valued at over Rs.25,000 on the listing 
+and compared the amounts payable in the 
+contracts to the amounts ultimately paid by 
+[Responsible Party] to the contractor.
+We found that the amounts ultimately paid were 
+within Rs.100 of the agreed amounts in all of the 
+37 contracts with no exceptions noted.
+[Practitioner’s signature]
+[Date of practitioner’s report]
+[Practitioner’s address]
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    27A 
+ PART I  : SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 19.08.2022  
+ 
+ 
+ 
+ 
+Illustration 2  
+For purposes of this illustrative agreed-upon procedures report , the following circumstances are 
+assumed: 
+x The engaging party is the responsible party. The intended user,  who is different from the 
+engaging party, is an addressee in addition to the engaging party. For example, the regulator is 
+the intended user and the entity overseen by the regulator is the engaging party and responsible 
+party. 
+x Exceptions were found. 
+x The practitioner engaged a practitioner’s exp ert to perform an agreed-upon procedure and a 
+reference to that expert is included in the agreed-upon procedures report. 
+x There is a restriction on the use and distribution of the report. 
+x The practitioner is the auditor of the financial statements of the engaging party (who is the 
+responsible party). The practitioner has agreed with the engagi ng party that the practitioner’s 
+compliance with the independence requirements applicable to aud its of financial statements is 
+appropriate for the purpose of the agreed-upon procedures engag ement. The practitioner has 
+agreed to include, in the terms of engagement, compliance with the independence requirements 
+applicable to audits of financial statements for the purpose of  the agreed-upon procedures 
+engagement. 
+x The practitioner included a reference to the date when the agreed-upon procedures were agreed 
+in the terms of the engagement. 
+ 
+AGREED-UPON PROCEDURES REPORT ON PROCUREMENT OF [XYZ] PRODUCTS 
+ 
+To [Addressees] 
+Purpose of this Agreed-Upon Procedures Report and Restriction on Use and Distribution 
+ 
+Our report is solely for the purpose of assisting [Intended User] in determining whether the [Engaging Party]’s 
+procurement of [xyz] products is compliant with [Intended User] ’s procurement policies and may not be 
+suitable for another purpose. This report is intended solely fo r [Engaging Party] and [Intended Users], and 
+should not be used by, or distributed to, any other parties.  
+ 
+Responsibilities of the Engaging Party 
+ 
+[Engaging Party] has acknowledged that the agreed-upon procedur es are appropriate for the purpose of the 
+engagement.  
+ 
+[Engaging Party (also the Responsible Party)] is responsible fo r the subject matter on which the agreed-upon 
+procedures are performed. 
+ 
+
+<!-- page 28 -->
+
+28A  I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -19.08.2022
+Practitioner’s Responsibilities
+We have conducted the agreed-upon procedures engagement in accordance with the Sri Lanka Standard on 
+Related Services (SLSRS) 4400 (Revised), Agreed-Upon Procedures Engagements . An agreed-upon 
+procedures engagement involves our performing the procedures that have been agreed with [Engaging Party],
+and reporting the findings, which are the factual results of th e agreed-upon procedures performed. We make 
+no representation regarding the appropriateness of the agreed-upon procedures.
+This agreed-upon procedures engagement is not an assurance engagement. Accordingly, we do not express an 
+opinion or an assurance conclusion.
+Had we performed additional procedures, other matters might have come to our attention that would have been 
+reported.
+Professional Ethics and Quality Control 
+We have complied with the ethical requirements in [describe the  relevant ethical requirements] and the 
+independence requirements in accordance with [describe the relevant independence requirements].
+8
+Our firm applies Sri Lanka Standard on Quality Control (SLSQC) 1, Quality Control for Firms that Perform 
+Audits and Reviews of Financial Statements, and Other Assurance and Related Services Engagements , and 
+accordingly, maintains a comprehensive system of quality contro l including documented policies and 
+procedures regarding compliance with ethical requirements, prof essional standards and applicable legal and 
+regulatory requirements.
+Procedures and Findings
+We have performed the procedures described below, which were agreed upon with [Engaging Party] in the 
+terms of engagement dated [DATE], on the procurement of [xyz] products.
+Procedures Findings
+1 Obtain from management of [Engaging 
+Party] a listing of all contracts signed 
+between [January 1, 20X1] and [December 
+31, 20X1] for [xyz] products (“listing”) 
+and identify all contracts valued at over 
+Rs.25,000.
+We obtained from management a listing of all contracts 
+for [xyz] products which were signed between [January 
+1, 20X1] and [December 31, 20X1]. 
+Of the 125 contracts on the  listing, we id entified 37 
+contracts valued at over Rs.25,000.
+8 For example, if the CA Sri Lanka Code is the relevant ethical r equirements, this sentence may be worded along the 
+following: “We have complied with the ethical requirements of Code of Ethics for Professional Accountants issued
+by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka Code)”. 
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fcoh -› ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'08'19    29A
+PART I :SEC.(1) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA -19.08.2022
+Procedures Findings
+2 For each identified contract valued at over 
+Rs.25,000 on the listing, compare the 
+contract to the records of bidding and 
+determine whether the contract was 
+subject to bidding by at least 3 contractors 
+from [Engaging Party]’s “Pre -qualified 
+Contractors List.” For records of bidding 
+that were submitted in [foreign language], 
+translate the records of bidding with the 
+assistance of a translator engaged by the 
+practitioner before performing the 
+comparison.
+We inspected the records of bidding related to the 37 
+contracts valued at over Rs.25,000. Of the records of 
+bidding related to the 37 contracts, 5 were submitted in 
+[foreign language]. We engaged a translator to assist us 
+in the translat
+ion of these 5 records of bidding.
+We found that 36 of the 37 contracts were subject to 
+bidding by at least 3 contractors from [Engaging 
+Party]’s “Pre-qualified Contractors List.”
+We found 1 contract valued at Rs. 65,000 that was not 
+subject to bidding. Management has represented to us 
+that the reason that this contract was not subject to 
+bidding was due to an emergency to meet a contractual 
+deadline.
+The engagement of the translator to assist us in the 
+translation of the records of bidding does not reduce 
+our responsibility for performing the procedures and 
+reporting the findings.
+3 For each identified contract valued at over 
+Rs.25,000 on the listing, compare the 
+amount payable per the signed contract to 
+the amount ultimately paid by [Engaging 
+Party] to the supplier and determine 
+whether the amount ultimately paid is the 
+same as the agreed amount in the contract.
+We obtained the signed contracts for the 37 contracts 
+valued at over Rs.25,000 on the listing and compared 
+the amounts payable in the contracts to the amounts 
+ultimately paid by [Engaging Party] to the supplier.
+We found that the amounts payable in the signed 
+contracts differed from the amounts ultimately paid by 
+[Engaging Party] for 26 of the 37 contracts. In all these 
+cases, management has represented to us that the 
+difference in the amounts were to accommodate an 
+increase of 1% in the sales tax rate of [jurisdiction] that 
+became effective in September 20X1.
+[Practitioner’s signature]
+[Date of practitioner’s report]
+[Practitioner’s address]
+(2*
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
