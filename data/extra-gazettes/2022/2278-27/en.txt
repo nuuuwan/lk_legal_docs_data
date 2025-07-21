@@ -1,0 +1,2497 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2278$27 - 2022 uehs ui 07 jeks fikiqrdod - 2022'05'07
+No. 2278/27 -  saturDay, may 07,  2022
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government Notifications
+1a- PG 5836 - 06 (05/2022) 
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+COLLECTIvE  INvESTmENT  SChEmE  CODE  (CIS CODE)
+The Securities and Exchange Commission of Sri Lanka Act, No. 19 of 2021
+ruLEs made by the securities and Exchange Commission of sri Lanka, in terms of section 183 of the securities and 
+Exchange Commission of sri Lanka act, No. 19 of 2021.
+  Viraj Dayaratne PC
+  Chairman
+  securities and Exchange Commission of sri Lanka.
+Colombo,
+07th of may 2022.
+ruLEs
+these rules may be cited as the Collective Investment scheme Code (CIs Code)
+
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+2a
+CIS CODE
+arraNGEmENt OF sECtIONs
+1. Purpose 4
+2. Establishment of a scheme 4
+3. Waiver 4
+4. Interpretation 4
+5. types of schemes 6
+6. Public offers 7
+7. requirements of a trustee and Custodian for the operation of a scheme 7
+8. systems and controls to be maintained by a managing Company, trustee and Custodian of a scheme 7
+9. trust deed of a scheme 7
+10. recognition of Foreign schemes 8
+11. Capital and prudential requirements of a scheme 8
+12. regulatory fees 8
+13. Functions of the managing Company of a scheme 8
+14. Duties of the managing Company of a scheme 10
+15. General Business requirement of a managing Company 11
+16. termination of the services of the managing Company 11
+17. appointment of a trustee 12
+18. requirement for the trustee to be independent of the managing Company 12
+19. Functions of a trustee 12
+20. Duties of a trustee 13
+21. General business requirements of a trustee 14
+22. replacement of the trustee 14
+23. appointment of Custodian 14
+24. Functions of a Custodian 14
+25. Duties of a Custodian 15
+26. General Business Obligations of a Custodian 16
+27. replacement of the Custodian of a scheme 16
+28. marketing schemes: the requirement for fair and clear information 16
+29. responsibility for marketing and promotion 16
+30. requirements for the name of the scheme 17
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+3a
+31. Conditions to be satisfied for the use of the word ‘guaranteed’ or ‘protected’ 17
+32. advertisements and promotional material 17
+33. Investors in a scheme 17
+34. General conditions for initial offers of all schemes 17
+35. General conditions for sale and purchase of all units 18
+36. sale and redemption of units in open-ended and Interval schemes 18
+37. Evidence of ownership of units and transfer of ownership 19
+38. Extent of liability of unit Holders in schemes 19
+39. Investment objectives 19
+40. Limitations on investments of a scheme offered to the public 19
+41. Limitations on borrowing and lending and related activities offered to the Public 20
+42. Payment out of and into the assets of a scheme 20
+43. Creation, issue, repurchases and redemptions of units 20
+44. asset valuation and pricing 21
+45. umbrella schemes 21
+46. money market schemes 22
+47. Exchange traded Funds (EtF) 22
+48. reporting requirements for all schemes 26
+49. approval of annual accounts and interim reports 26
+50. Requirements for annual report and financial statements 26
+51. Interim report and Financial statements 27
+52. auditor of a scheme 27
+53. Co-operation with auditors 29
+54. transfer of a scheme 29
+55. suspension of dealing and termination of a scheme 29
+56. termination/Winding up of a Collective Investment scheme 30
+Appendix 1: Minimum Contents of a Trust Deed 31
+Appendix 2: Guidelines on Collective Investment Scheme advertisements and promotional material 38
+Appendix 3: Key Investor Information Document (KIID) 45
+Appendix 4: Guidance on asset valuation and pricing 49
+Appendix 5: Guidelines in respect of Money Market Schemes 53
+Appendix 6: Guidance on Conflicts of Interests 56
+Appendix 7: Guidance on Complaints Handling 60
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+4a
+CIS CODE
+ThE SECURITIES AND EXChANGE COmmISSION OF SRI LANKA ACT, No. 19 OF 2021
+ruLEs made by the securities and Exchange Commission of sri Lanka, under section 183 of the securities and Exchange 
+Commission of sri Lanka act, No.19 of 2021.
+1.	 Purpose 
+(1) these rules shall be cited as the Collective Investment scheme Code of 2022.
+(2) the provisions of this Code shall apply to all schemes in so far as such provisions are relevant to such schemes 
+For the avoidance of doubt, the rules made by the Commission in respect of the unit trust code for sri Lanka real 
+Estate Investment trusts, No. 1 of 2020 (rEIts) published in the Government Gazette (Extraordinary) bearing No. 
+2186/29, dated July 31, 2020 shall continue to apply in respect of rEIts.
+(3) the unit trust Code, 2011 published in the Government Gazette (Extraordinary) bearing No. 1723/4 dated september 
+12, 2011 shall have no application from date hereof.
+2.	 Establishment of a Scheme
+(1) No person shall establish, manage, operate or market a scheme in sri Lanka without the prior written approval of 
+the Commission. 
+(2) No scheme shall be established, managed, operated or marketed other than by a managing Company licensed by 
+the Commission and such managing Company has obtained the prior written approval of the Commission.
+(3) a body corporate licensed by a regulator of a country other than sri Lanka may market a scheme in sri Lanka and 
+may accept investments provided the prior written approval of the Commission is obtained in the manner provided 
+in this Code.
+(4) the grant of approval for the establishment of a scheme shall be in accordance with the provisions contained in the 
+rules made by the Commission in respect of managing Companies. 
+(5) No person shall use the words “unit trust”, “Exchange traded Fund”, “real Estate Investment trust” or “Hedge 
+Fund” or any other name referring to any scheme unless the managing Company has been granted approval to 
+operate such scheme, Exchange traded Fund, real Estate Investment trust, Hedge Fund or any other scheme. 
+3.	 Waiver
+the Commission may exempt persons from the application of any one (1) or more of these rules on an application 
+made in that behalf or by way of directives which the Commission may from time to time issue.
+4.	 Interpretation
+“Accredited Investor” shall have the same meaning as defined in the SEC Act and shall include institutional investors;
+“Authorized Participant” means a licensed person that has entered into a participating agreement or any similar 
+arrangement with an EtF and participates in the creation and redemption of shares in the EtF in accordance with the 
+terms provided under the agreement between the Authorized Participant and the ETF;
+“Arbitrage” means for the purpose of an EtF, the practice of the authorized Participant to cause the creation of more 
+EtF shares for sale in the secondary market or to purchase EtF shares in the secondary market for redemption, in order 
+to take advantage of the price differential of the ETF’s net asset value per share (“NA Vps”) and the market price;
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+5a
+“Basket of Securities” means the bundle of securities whose names and numbers are specified each business day by an 
+ETF, in exchange for which, the ETF will issue, or in return for which it will redeem ETF shares; provided that the ETF 
+may allow cash to be a part of the basket in accordance with the provisions contained in this Code;
+“Commission” means the Securities and Exchange Commission of Sri Lanka established in terms of the SEC Act;
+“Companies Act” means the Companies Act, No. 07 of 2007 as amended;
+“Custodian” means a Commercial Bank licensed by the Central Bank of sri Lanka to whom the property of the scheme  
+is entrusted for safekeeping;
+“Creation Unit” is the smallest block of EtF units that can be created or redeemed by an authorized Participant from 
+the ETF as specified and disclosed in the KIID;
+“Debenture” has the same meaning as defined in the Companies Act;
+“Distribution Account” means an account which has been set up by the trustee to hold income for distribution to unit 
+Holders;
+“Exchange Traded Fund” (“ETF”) means a pooled investment scheme with shares that can be bought or sold throughout 
+the day on an Exchange at a market-determined price. similar to a unit trust, an EtF offers investors a proportionate 
+share in a pool of stocks, bonds and other assets;
+“Exit Fees” means the portion of proceeds received by the managing Company equivalent to the difference between the 
+redemption price and the proceeds from the sale of a Unit, which is paid to the Unit Holder;
+“Feeder Collective Scheme” means an open-ended scheme which is dedicated to investing not less than a percentage of 
+its assets based on the Scheme as specified by the Commission from time to time, in other specified open-ended Scheme;
+“Foreign Scheme” means a Scheme established in a country other than Sri Lanka;
+“Front End Fee” means the difference between the issue price and the portion of the proceeds from the sale of a unit 
+which is received by the Managing Company;
+“Index” means a single number that is calculated based on known methodology and is used to gauge the price and/or 
+volume movements of a list of selected securities traded in an Exchange;
+“Indicative Net Asset value” (“INAv”) means an approximation of the current value of the Basket of securities on a 
+per share basis computed at a two (2) minute interval throughout the trading hours of an Exchange;
+“Issue Price” means the sum the managing Company would require to be paid over to it for inclusion in the assets of 
+the Scheme in return for issuing one Unit or fraction of a Unit;
+“Issuer” means a person who issues or proposes to issue securities by way of public offer for sale; 
+“Key Investor Information Document (KIID)” means a written statement that discloses in detail the terms of the 
+offering of a Scheme;
+“Leverage” means any method by which the managing Company of a scheme increases the exposure of the scheme 
+whether by borrowing or use of derivatives or otherwise;
+“managing Company” means the managing Company of a scheme licensed by the Commission and shall have the 
+same meaning as defined in the SEC Act; 
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+6a
+“market maker” shall have the same meaning as defined in the SEC Act and for avoidance of any doubt means an 
+authorized Participant that assumes the obligation of providing two-way quotes for the purpose of ensuring liquidity 
+and maintaining a fair and orderly trading market to the ETF Units;
+“money market Scheme” means an open-ended scheme whose primary objective is to maintain the net asset value 
+(NA V) of the Scheme either constant at par (net of earnings) or at the value of the Unit Holder’s initial capital plus 
+earnings and which shall sell and redeem its Units every business day;
+“Net Asset value”(NAv) means the aggregate value of the assets of a scheme as determined by the market value of 
+its underlying securities holdings specified by this Code or the trust deed as the case may be including any cash in the 
+portfolio less liabilities, computed at the close of the trading hours of the Exchange;
+“Net Asset value per Share”(NAvps) means the computed NA V on a per share basis. It is calculated by dividing a 
+Scheme’s total net assets by its number of shares outstanding;
+“Net Asset value per Unit” (NAvpu) means the computed NA V on a per Unit basis. It is calculated by dividing a 
+Scheme’s total net assets by its number of Units outstanding;
+“Professional Participant” means the Managing Company, Trustee and/or Custodian of a Scheme;
+“Public Trustee” means the officer appointed as Public Trustee under the Public Trustee Ordinance (Chapter 88);
+“Scheme” means a Collective Investment Scheme as defined in the SEC Act and established upon approval granted by 
+the Commission as a trust and includes any sub-schemes and any unit trust that has been established in terms of the 
+SEC Act, No. 36 of 1987 and is presently in operation;
+“SEC Act” means the Securities and Exchange Commission of Sri Lanka Act, No.19 of 2021;
+“Sub-Scheme” means a distinct part of the property of an umbrella scheme that is pooled, managed and accounted 
+for separately;
+“Trustee” means a person appointed as trustee in the instrument creating such scheme in accordance with the provi-
+sions of this Code;
+“Umbrella Scheme” means an open-ended scheme which shall be divided into a number of sub-schemes in which 
+Unit Holders are entitled to exchange rights in one Sub-Scheme for rights in another;
+“Unit” means one of the equal proportionate participations into which the beneficial interests in the assets of a Scheme 
+are divided and includes shares; 
+“Unit holder” means any person who by reason of the holding of units or shares or by reason of having invested capital 
+in a scheme is entitled to a proportionate part of the property of the scheme.
+5.	 Types of Schemes 
+(1) a scheme shall be established as:
+(a) an open-ended scheme, which is obliged to redeem unit Holder's holdings upon their request at a price 
+related to the NA V of the property of the Scheme at regular intervals as stated in the KIID of a Scheme, 
+and in any case, not less than once a week; 
+or
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+7a
+(b) a close-ended scheme which is not required to redeem unit Holder's holdings at their request. a close-ended 
+Scheme shall have a fixed or indefinite life. A close-ended Scheme which has a life of more than five (5) 
+years at inception shall list its Units on an Exchange licensed by the Commission;
+or
+(c) an interval Scheme which is obliged to redeem Unit Holder's holdings at a price related to the NA V of the 
+property of the Scheme at regular periodic intervals specified in the KIID of a Scheme but in any case, not 
+less than once a year.
+6. Public offers
+(1) a scheme may be established and operated by way of a public offer or by way of a private placement.
+(2) a scheme which is to be established by way of a public offer may be listed and traded on an Exchange licensed by 
+the Commission. 
+(3) a scheme established by way of a private placement shall only be offered to accredited Investors.
+(4) No sale of Units of a Scheme shall take place unless a copy of the approved KIID has been made available to the 
+prospective investors.
+7. Requirements of a Trustee and Custodian for the operation of a Scheme
+(1) the Custodian of a scheme shall be a Bank licensed by the Central Bank of sri Lanka and the trustee of a scheme 
+shall be a Bank licensed by the Central Bank of sri Lanka. a Custodian and a trustee of a scheme shall obtain prior 
+approval of the Commission in order to function in such capacity.
+(2) a Custodian or trustee who intends to obtain approval from the Commission shall satisfy the Commission that it 
+has the capacity to perform the functions of a Custodian or a trustee.
+8. Systems and controls to be maintained by a managing Company, Trustee and Custodian of a Scheme
+a managing Company, a trustee and a Custodian shall have the capability and capacity to carry out the functions, duties 
+and obligations required of them in respect of a scheme and amongst others shall:
+(a) establish and maintain risk management systems and controls to enable it to identify, assess, mitigate, control and 
+monitor risks in relation to the Scheme; and 
+(b) have adequate and appropriate systems, procedures and processes to properly and efficiently manage the operations 
+of a scheme.
+9. Trust deed of a Scheme 
+(1) the constituting document of a scheme shall be the trust deed.
+(2) the trust deed of a scheme shall not contain any provision which will have the effect of exempting the managing 
+Company, the Trustee, the Custodian or the auditor of the Scheme from any duty or function specified under this 
+Code or of indemnifying any such person against liability for any failure to carry out such duty or function.
+(3) the trust deed of a scheme shall not contain any provision that:
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+8a
+(a) conflicts with the provisions contained in this Code, the provisions contained in the SEC Act or any Directions 
+issued by the Commission from time to time; and
+(b) is prejudicial to the interests of unit Holders in general or any particular class of unit Holders of a scheme.
+(4) a trust deed shall contain comprehensive details pertaining to the scheme and shall amongst others include matters 
+as spelt out in Appendix 1 of this Code including any amendments made to such trust deed. an amendment may 
+be made to the trust deed only upon receiving written approval from the Commission for same.
+(5) the managing Company of a scheme shall ensure that the trust deed of each scheme is  published on its website.
+10. Recognition of Foreign Schemes
+(1)  a body corporate established in a country other than sri Lanka which has been licensed by a foreign regulatory 
+authority to establish, manage, operate and market a scheme may apply to the Commission for approval and the 
+Commission may grant approval to such body corporate to market and operate such scheme in sri Lanka.
+(2) an application for such approval shall be made in the manner provided for under the rules of the Commission made 
+in respect of managing Companies.
+(3) a scheme in respect of which approval is sought from the Commission shall ensure to investors in sri Lanka the 
+same protection that similar schemes in sri Lanka afford to them. 
+11. Capital and prudential requirements of a Scheme 
+The Commission shall by way of directives specify the capital and other prudential requirements to be satisfied by a 
+managing Company and it shall be the duty of such managing Company to comply with such requirements.
+12. Regulatory fees
+the fee payable to the Commission in respect of every scheme at the time of obtaining approval shall be prescribed by 
+way of regulations made by the minister from time to time.
+13. Functions of the managing Company of a Scheme 
+(1) the managing Company shall:
+(a) ensure that all property of the Scheme is clearly identified as the property of the Scheme and that such property 
+is held by a Custodian separately from the property of the managing Company and from the property of any 
+other Scheme operated by the Managing Company;  
+(b) carry out all administrative functions of the Scheme; 
+(c) maintain the register of all Unit Holders of the Scheme; 
+(d) offer and distribute the Units of the Scheme;
+(e) in the case of open-ended and interval Schemes, deal in the Units of the Scheme;
+(f) maintain accounting records of the scheme including the maintenance of proper accounts in respect of assets 
+and expenses of the Scheme;
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+9a
+(g) value the assets of the Scheme and calculate the NA V of the Scheme and the NA Vpu of the Scheme and where 
+relevant the price per Unit for sales and redemptions; 
+(h) decide on the composition of the assets of the scheme in accordance with the stated investment objectives and 
+policy contained in the trust deed and the KIID of the Scheme;
+(i) instruct the trustee or Custodian as the case may be in writing indicating the manner in which rights pertaining 
+to the propertyof the Scheme is to be exercised; and
+(j) maintain all records, prepare and publish reports pertaining to the operations of the scheme and ensure  
+compliance with the KIID, provisions contained in this Code, provisions contained in the SEC Act, rules, 
+and any directives issued by the Commission from time to time and ensure that such records are kept for a 
+minimum period of six (6) years.
+(2) the managing Company may outsource to any other party the performance of any functions mentioned in (1) 
+above, except those mentioned in (1) (h) and (i) having obtained the prior written approval of the Commission. 
+Notwithstanding the outsourcing of any such function, the managing Company shall at all times be liable and shall 
+remain responsible for the functions that have been outsourced.
+(3) Where the managing Company of a scheme outsources any of the functions, it shall ensure that:
+(a) the managing Company can at all times effectively monitor the performance of the functions that have 
+been outsourced; 
+(b) the party to whom any function has been outsourced, enables the Commission to carry out any supervisory 
+functions relating to the functions that have been outsourced;  
+(c) such outsourced functions are carried out in the best interests of Unit Holders;
+(d) there are controls in place to ensure that the person to whom the functions are outsourced complies with 
+the KIID, the provisions contained in this Code, the trust deed, the provisions of the SEC Act, rules and 
+directives issued from time to time by the Commission; and
+(e) the person to whom the functions are outsourced is suitable to undertake the particular functions that have 
+been outsourced and ensure that such outsourcing has been done to a person that:
+(i) has adequate financial resources;
+(ii) has adequate experience and a proven track record in the performance of the functions outsourced; 
+and
+(iii) has adequate and appropriate human resources, systems, procedures and processes in place to 
+carry out the functions that have been outsourced.
+(f) the service agreements entered into between the managing Company and the person to whom functions 
+have been outsourced shall, amongst other things, contain provisions regarding the specific service to be 
+provided and the fees, remuneration and other charges that are payable.
+(4) the managing Company of a scheme shall exercise due care and diligence in the discharge of its duties and shall 
+be liable to the scheme and its unit Holders for any loss suffered by them arising from negligence, malfeasance 
+of employees and directors, fraud, wilful default or recklessness or omission in the performance of the said duties.
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+10a
+14.	 Duties of the managing Company of a Scheme
+(1) the managing Company of a scheme shall at all times:
+(a) operate the Scheme with due care and diligence in compliance with the KIID of the Scheme, the trust deed, 
+the provisions contained in this Code, the provisions contained in the sEC act, rules and directives issued by 
+the Commission from time to time;
+(b) exercise its powers in the best interests of the Unit Holders of the Scheme;
+(c) act impartially between all Unit Holders of the Scheme;
+(d) not profit by its office except through the payment of remuneration permitted in terms of the KIID and the 
+trust deed;
+(e) avoid conflicts of interest between itself and the Unit Holders of the Scheme and in instances where the  
+managing Company operates more than one (1) scheme, ensure that independence is maintained in the 
+management of each Scheme;
+(f) avoid buying or selling any securities in its own name unless otherwise permitted by the Commission;
+(g) take all reasonable steps to obtain the best possible result for the scheme, taking into account factors such as: 
+price, costs, speed, likelihood of execution and settlement, size, nature or any other consideration relevant to 
+the execution of a trade or transaction; 
+(h) ensure that an annual independent audit of the Scheme is carried out;
+(i) have internal policies and procedures to ensure that a scheme is operated in accordance with applicable legal 
+requirements, such as customer due diligence rules issued by the Financial Intelligence Unit; 
+(j) disclose any conflicts of interest that may arise in the operation of a Scheme and how such conflicts will be 
+handled in accordance with the guidelines on Conflicts of Interest as contained in Appendix 6 of this Code; and
+(k) give the unit Holders, not less than one (1) month prior written notice or press notice of any increase in the 
+Managing Company’s annual charges, up to the maximum permitted level specified in the trust deed.
+(2) the managing Company of a scheme shall not retain any rebate from, or otherwise share in any commission with, 
+any broker or dealer in consideration for dealings in the assets of a scheme. accordingly, any rebate or shared 
+commission shall be directed to the account of the relevant scheme. 
+(3) Notwithstanding paragraph (2) above, goods and services (soft commissions) provided by any stock Broker or stock 
+Dealer may be retained by the managing Company if:
+(a) the goods and services are of demonstrable benefit to Unit Holders and are in the form of research and advisory 
+services that assist in the decision making process relating to the Scheme’s investments;
+(b) any dealing with the stock Broker or stock Dealer is executed on terms which are the most favourable for the 
+Scheme; and
+(c) the practice of the Managing Company in relation to soft commissions is adequately disclosed in the KIID and 
+reports of the scheme, including a description of the goods and services received by the managing Company. 
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+11a
+(4) the managing Company shall not enter into excessive trades in order to achieve a particular volume of transactions 
+so as to qualify for soft commissions.
+(5) the receipt of goods and services such as travel, accommodation and entertainment do not meet the conditions set 
+out in 14 (3)(a) and are prohibited. 
+(6) the managing Company of a scheme shall report to the Commission immediately after it becomes aware of any 
+material breach of:
+(a) any provisions contained in this Code, the provisions contained in the sEC act, the rules, and directives issued 
+by the Commission from time to time made or other applicable law in Sri Lanka; and
+(b) The trust deed of the Scheme and the KIID.
+(7) the managing Company of a scheme shall share the details relating to unit Holders in the scheme with the trustee, 
+as and when required to do so by the trustee. 
+(8) all reports prepared by or for the scheme shall be approved by the trustee prior to the dissemination to unit Holders. 
+Subsequent to the approval by the Trustee, the Managing Company shall file such reports with the Commission.
+15.	 General Business Requirement of a managing Company 
+(1) a managing Company of a scheme shall at all times comply with:
+(a) any financial requirements as may be specified by the Commission from time to time; 
+(b) any liquidity requirements for such Schemes as may be specified by the Commission from time to time;
+(c)  any corporate governance best practices as may be specified by the Commission from time to time.
+(2) Nothing in this section shall preclude a managing Company from engaging in any other regulated activity provided 
+that a licence is obtained from the Commission to engage in such other regulated activity.
+(3) the duties of the managing Company imposed upon it by the provisions of the sEC act, provisions of this Code, 
+any rules and directives issued by the Commission from time to time are in addition to and not in derogation of the 
+duties, which are otherwise imposed on them by any other law. 
+16.	 Termination of the services of the managing Company 
+(1) the services of a managing Company shall not be terminated until a new managing Company which has been 
+licensed by the Commission, has been appointed by the trustee with the approval of the Commission and written 
+notice of the termination and appointment of the new managing Company has been sent to unit Holders. the  
+termination shall take effect at the same time as the new Managing Company takes office. 
+(2) a new managing Company may, with effect from the date of its appointment change the name of the scheme with 
+the approval of the Commission and the trustee. 
+(3) Notwithstanding anything to the contrary contained in the trust deed and subject to the provisions contained in (1) 
+above, the services of a managing Company may be terminated by the trustee of a scheme in writing with the 
+approval of the Commission upon the occurrence of one (1) or more of the following events: 
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+12a
+(a) if for good and sufficient reason, the Trustee is of the opinion after an inquiry by a person appointed by the 
+trustee and acceptable to the Commission that a change in the managing Company is desirable in the interests 
+of Unit Holders;
+(b) winding up proceedings of the Managing Company have commenced;
+(c) if Unit Holders representing at least seventy-five percentum (75%) of the total Units in issue (excluding those 
+held by the managing Company) deliver to the trustee or the Commission as the case maybe a written request 
+that the Managing Company be removed;
+(d) the licence issued to the Managing Company by the Commission has been suspended or cancelled; 
+(e) the Managing Company has failed to renew its licence granted by the Commission; and
+(f) the managing Company has violated any provision of the sEC act, the provisions of this Code, rules and 
+directives issued by the Commission.
+(4) In the event the services of a managing Company is terminated due to either of the grounds as enumerated under 
+rule 16 (3) above, the trustee shall with the approval of the Commission appoint in its place another managing 
+Company, licensed by the Commission.
+17.	 Appointment of a Trustee
+(1) a managing Company shall appoint a trustee for every scheme with the prior written approval of the Commission. 
+(2) the trustee of a scheme shall:
+(a) be a bank licensed by the Central Bank of Sri Lanka under the Banking Act, No. 30 of 1988; or
+(b) be a banking institution or trust company incorporated outside sri Lanka which is licensed and regulated by 
+a body in that country exercising powers equivalent to those exercised by the Central Bank of sri Lanka and 
+which is acceptable to the Commission.
+18.	 Requirement for the Trustee to be independent of the managing Company
+(1) the trustee and the managing Company shall be persons who are independent of each other and the trustee shall 
+not be a person who is able to exercise any control over the managing Company.
+For the purpose of this Rule ‘control’ means a relationship between a parent and a subsidiary or a parent and an 
+associate.
+(2) the managing Company shall ensure that it does not place any funds of the scheme as a deposit with the trustee. 
+19.	 Functions of a Trustee 
+(1) the trustee of a scheme shall ensure that:
+(a) the assets of the scheme are held and dealt with by it in a manner that promotes the best interests of the unit 
+Holders of a Scheme and in accordance with the trust deed of the Scheme, the KIID, the provisions of this Code, 
+the provisions contained in the SEC Act, any rules and directives issued by the Commission from time to time;
+(b) the property of the scheme is segregated from its own property, the property of other schemes and the property 
+of the Managing Company of the Scheme; 
+(c) adequate procedures and processes are established to carry out its duties effectively;
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+13a
+(d) a valuation of the assets of the Scheme is carried out; and 
+(e) accounts prepared by the managing Company are properly examined.
+(2) the trustee of a scheme is required to maintain in respect of each scheme, records that will demonstrate compli-
+ance with:
+(a) the provisions contained in the trust deed, the KIID, provisions of this Code, provisions contained in the SEC 
+Act, any rules and directives issued by the Commission from time to time; and
+(b) submit a compliance report regarding the activities of the scheme to the Commission at least on a half yearly basis.
+(3) a trustee shall not destroy, conceal or alter any records or books relating to the scheme which are in its possession 
+or under its control with the intention of defeating, preventing, delaying or obstructing the carrying out of any 
+examination.
+(4) the records referred to above shall be kept for a minimum of six (6) years.
+(5) the trustee of a scheme shall ensure the safe keeping of assets of the scheme.
+(6) the trustee of a scheme shall be liable to the managing Company and unit Holders for any loss suffered by them 
+arising from negligence, fraud, wilful default, recklessness or omission in the performance of its duties.
+20.	 Duties of aTrustee 
+(1) A Trustee of a Scheme is required to act at all times in compliance with the trust deed of the Scheme, the KIID, 
+provisions contained in this Code, provisions of the sEC act, rules and directives issued by the Commission from 
+time to time.
+(2) a trustee of a scheme shall:
+(a) act with due care and diligence at all times and in accordance with the terms of the trust deed; 
+(b) exercise its powers in the best interests of the Unit Holders; 
+(c) act impartially between all the Unit Holders;
+(d) not profit by its office except through the payment of remuneration permitted under the trust deed of the Scheme 
+and the KIID; 
+(e) avoid conflicts of interest between itself and the Unit Holders; If the Trustee is desirous of investing in a Scheme 
+of which it is a trustee, it shall obtain the prior written approval of the Commission.
+(f) to maintain an ‘income account’ where all income received by the Trustee shall be accounted into an income 
+account and held therein pending capitalization or distribution in accordance with the trust deed and a ‘distri-
+bution account’ to which in the event a distribution is made pursuant to the trust deed, an appropriate amount 
+out of the assets of the Scheme shall be transferred into a distribution account by the Trustee; 
+(g) ensure that an independent audit of the Scheme is carried out; 
+(h) ensure that all investments made by the Scheme are recorded in the name of the Scheme;
+(i) keep in its custody and control all documents of title to the property of the Scheme; 
+(j) advise the managing Company of any corporate actions that are required to be taken in relation to the property 
+of the Scheme; 
+
+<!-- page 14 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+14a
+(k) ensure that instructions given to it by the managing Company for the exercise of rights to which the property 
+of the Scheme is entitled to are carried out;
+(l) where applicable verify the NA V of the Scheme and price per Unit for the sales and redemptions with the 
+Managing Company’s records on a daily basis; and
+(m) approve all advertisement and promotional material relating to the Scheme. The Trustee shall file a report with 
+the Commission regarding an approved advertisement as and when such approval is granted.
+21.	 General business requirements of a Trustee
+(1) the trustee of a scheme shall at all times comply with:
+(a) such financial requirements as may be specified by the Commission from time to time;
+(b) the requirements to file with the Commission such reports and information pertaining to the Scheme in a com-
+plete, timely and accurate manner, and
+(c) such corporate governance best practices as may be specified by the Commission from time to time.
+(2) the trustee of a scheme shall report to the Commission immediately after it becomes aware of any contravention of:
+(a) the provisions of the sEC act,provisions of this Code, any rules and directivesissued by the Commission from 
+time to time; and
+(b) the trust deed or the KIID of a Scheme.
+(3) The duties of the Trustee imposed upon it by the provisions of the SEC Act, the KIID, provisions of this Code, any 
+rules and directives issued by the Commission from time to time are in addition to and not in derogation of the duties 
+which are otherwise imposed on them by any other law. 
+22.	 Replacement of the Trustee
+(1) a trustee may withdraw its appointment from the scheme provided that such withdrawal complies with the trust 
+deed and a new trustee approved by the Commission is appointed simultaneously upon such withdrawal.
+(2) the managing Company of a scheme shall, subject to the approval of the Commission, replace the trustee of the 
+scheme in accordance with the provisions of the trust deed and such replacement shall take effect upon a new trustee 
+approved by the Commission being appointed simultaneously.
+(3) The Commission may where it is satisfied that the Trustee of a Scheme has acted in contravention of the trust deed, 
+the KIID, any provision of the SEC Act, provisions contained in this Code, any rules and directive issued by the 
+Commission or is guilty of malpractice or irregularity in the management of the affairs of the scheme, remove the 
+trustee provided a new trustee who has been approved by the Commission is appointed simultaneously.  
+23.	 Appointment of Custodian 
+(1) Every scheme shall appoint a Custodian with the prior written approval of the Commission. 
+(2) the Custodian of a scheme is required to be a Commercial Bank licensed under the Banking act, No. 30 of 1988. 
+24.	 Functions of a Custodian
+(1) the Custodian of a scheme is required to:
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+15a
+(a) hold and deal with the assets of the Scheme in accordance with the KIID, provisions contained in the trust 
+deed of the scheme, the provisions contained in this Code, the provisions contained in the sEC act, rules and 
+directives issued by the Commission from time to time and in a manner that promotes the best interests of the 
+Unit Holders of the Scheme; 
+(b) segregate the property of the scheme from its own property, the property of other schemes and the property of 
+the Managing Company of the Scheme; and
+(c) be responsible for the collection of income due to the scheme.
+(2) the Custodian of a scheme is required to maintain in respect of each scheme, such records that are necessary to 
+comply with the provisions contained in this Code, provisions contained in the sEC act, rules and directives issued 
+by the Commission from time to time.
+(3) a Custodian shall not destroy, conceal or alter any records or books relating to the scheme which are in its pos-
+session or under its control with the intention of defeating, preventing, delaying or obstructing the carrying out of 
+any examination.
+(4) the records referred to above shall be kept for a minimum of six (6) years.
+(5) the Custodian of a scheme shall be liable to the managing Company and unit Holders for any loss suffered by them 
+arising from negligence, fraud, wilful default, recklessness or omission in the performance of its duties.
+25. Duties of a Custodian 
+(1) a Custodian shall enter into a written agreement with the managing Company in order to provide custodial ser-
+vices to the scheme.
+(2) the agreement entered into between the Custodian and managing Company shall contain details with regard to 
+the manner in which its fee in respect of Custodial services is to be computed and such details shall be disclosed 
+in the annual report of the scheme.
+(3) the Custodian shall:
+(a) have custody of all the assets of the scheme and hold it to the order of the trustee, in accordance with the trust 
+deed, the provisions contained in this Code, the provisions contained in the sEC act, and directions issued by 
+the Commission from time to time;
+(b) receive and keep in safe custody documents of title, securities and cash of the Scheme;
+(c) open and maintain a bank account in the name of the Scheme for the exclusive use of the Scheme;
+(d) transfer, exchange or deliver in the required form and manner securities held by the Custodian in accordance 
+with the instructions received from the Managing Company;
+(e) deliver to the trustee and the managing Company copies of all notices received by the Custodian in relation 
+to the assets of the Scheme, financial reports and shareholder communications received from the issuers of 
+securities from time to time;
+(f) exercise subscription, purchase or any other rights represented by the securities of the scheme upon instructions 
+received from the Managing Company; and
+(g) exercise the same standard of care that it exercises over its own assets in holding, maintaining, servicing and 
+disposing of the assets of the Scheme and in fulfilling its other obligations.
+
+<!-- page 16 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+16a
+4. a Custodian in discharging its duties towards the scheme shall not obtain the services of a third party except in 
+instances where any part of the assets of the scheme is invested in offshore investments. In instances where offshore 
+investments have been made, the Custodian may engage the services of an overseas sub-custodian approved by 
+the trustee and the Custodian shall notify the Commission of such appointment.
+26.	 General business obligations of a Custodian 
+(1) the Custodian of a scheme shall at all times comply with –
+(a) such financial requirements as may be specified by the Commission from time to time;
+(b) the requirements to file with the Commission such reports and information pertaining to the Scheme in a 
+complete, timely and accurate manner; and 
+(c) such corporate governance best practices as may be specified by the Commission from time to time.
+(2) the Custodian of a scheme shall report to the Commission immediately after it becomes aware of any contravention of:
+(a) any provision of the sEC act, provisions contained in this Code rules and directives issued by the Commission 
+from time to time; and
+(b) provisions contained in the trust deed or KIID.
+(3) the duties of the Custodian imposed upon it by the provisions of the sEC act, provisions of this Code, any rules 
+and directives issued by the Commission from time to time are in addition to and not in derogation of the duties 
+which are otherwise imposed on them by any other law. 
+27.	 Replacement of the Custodian of a Scheme
+(1) a Custodian may withdraw its appointment provided that such withdrawal complies with the trust deed and a new 
+Custodian approved by the Commission is appointed simultaneously upon such withdrawal.
+(2) the managing Company of a scheme shall, subject to the approval of the Commission, replace the Custodian of 
+the scheme in accordance with the provisions of the trust deed and such replacement shall take effect upon a new 
+Custodian approved by the Commission being appointed simultaneously.
+(3) The Commission may where it is satisfied that the Custodian of a Scheme has acted in contravention of the trust deed, 
+the KIID, any provision of the SEC Act, this Code, any rule or  directive issued by the Commission or is guilty of 
+malpractice or irregularity in the management of the  affairs of the scheme, remove the Custodian provided a new 
+Custodian who has been approved by the Commission is appointed simultaneously.  
+28. marketing Schemes: The requirement for fair and clear information
+the information used to market or promote a scheme shall be accurate, clear and fair and shall not contain any material 
+which is prejudicial to the interests of investors generally or to any class of investors.
+29. Responsibility for marketing and promotion
+the managing Company shall be responsible for all marketing and promotional information in respect of every scheme. 
+any expenditure incurred in marketing and promotional activity shall be borne by the managing Company and shall 
+not be charged to the scheme.
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+17a
+30. Requirements for the name of the Scheme
+the managing Company shall ensure that the name of the scheme or class of units in the scheme is not misleading or 
+in conflict with the name of another Scheme or class of Units in that Scheme.
+31. Conditions to be satisfied for the use of the word ‘guaranteed’ or ‘protected’
+(1) If the word “guaranteed” or “protected” or any other words denoting a similar meaning is to be used by the man-
+aging Company as part of promoting or marketing of a scheme,the managing Company shall demonstrate to the 
+satisfaction of the Commission that:
+(a) the guarantor has the authority and resources to honour the terms of the guarantee; and
+(b) all the terms of the guarantee and the credentials of the guarantor are clearly set out in detail in all material 
+used for such promotion or marketing activity and that any exclusions are highlighted.
+32. Advertisements and promotional material
+In the publication of all advertisements and promotional material a managing Company shall follow the Guideline 
+contained in Appendix 2 of this Code.
+33. Investors in a Scheme 
+(1) Investors in an open-ended, interval and close-ended scheme shall be issued with units representing their partici -
+pation in the scheme. 
+(2) A Managing Company shall make available to all prospective investors in a Scheme, a copy of the KIID approved 
+by the Commission.
+(3) The standard format and contents of a KIID shall be as provided for in Appendix 3 of this Code. 
+(4) Subject to the approval of the Commission, it shall be the duty of the Managing Company to amend its KIID either 
+by the substitution of a completely new memorandum or by the addition or deletion of any information contained 
+therein – 
+(a) upon the occurrence of any material change in the information stated therein; or
+(b) upon the arising of any significant new matter which should be stated therein.
+(5) The date on which such amendment was made shall be recorded prominently in the KIID. 
+34. General conditions for initial offers of all Schemes 
+(1) During the initial offer period for a Scheme the price paid per Unit shall be the fixed price as set out in the KIID. 
+(2) the initial offer period shall not exceed twenty-one (21) business days and no redemptions shall take place during 
+this period.
+(3) all monies subscribed during the initial offer period shall be paid into the bank account of the scheme which shall 
+be controlled by the Custodian and shall not be invested in any other manner until the initial offer period is over. 
+However, investments may be made with the approval of the Commission during the initial offer period once the 
+minimum subscription amount is reached. No charges for entry or exit or management of the scheme shall be made 
+against these monies until the end of the fixed price initial offer period or the minimum subscription amount being 
+reached, whichever is earlier.
+
+<!-- page 18 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+18a
+(4) If during the initial fixed price offer period, the initial fixed price offering fails to reach any minimum subscription 
+value as required by the KIID, the monies held in the account by the Trustee or Custodian shall be returned to the 
+subscribers in full within ten (10) days of the expiry of the initial fixed price offer period.  The Commission shall 
+be informed immediately of such occurrence.
+(5) The price at which Units may be offered for sale immediately after the end of the fixed price initial offer period shall 
+be the NA V of the Unit. However, a separately disclosed initial charge expressed as a percentage of the NA Vpu may 
+be added provided the charge is clearly stated in the KIID.   
+(6) The price at which a Unit may be redeemed immediately after the end of the fixed price initial offer period, shall be 
+the NA V of the Unit. However, a separately disclosed exit charge expressed as a percentage of the NA Vpu may be 
+deducted provided the charge is clearly stated in the KIID.
+35. General conditions for sale and purchase of all Units
+Purchase of units, including initial purchase in a scheme shall be fully paid up and the name of a unit Holder shall not 
+be entered in the register until such time payment for the units has been received. 
+36. Sale and redemption of units in open-ended and interval Schemes 
+(1) upon receipt of a valid order and payment being made therefore, units in an open-ended or interval scheme may 
+be issued only after recording the number of units and the class in the register.
+(2) upon receipt of a valid order for the redemption of units in an open-ended or interval scheme, such redemption-
+may be made by recording the cancellation of the existing number and class of units in the register.
+(3) sale of units may take place only at the next price calculated after receipt of a valid order and payment. However, 
+in the case of different types of income Schemes, the NA V of the previous day may be applied for creation of 
+units, provided such funds received for creation have been invested on the same day. 
+(4) redemption of units may take place only at the next price calculated after receipt of a valid order. 
+(5) the time of the issue or cancellation shall be the time when the record is made.
+(6) On every dealing day, the managing Company shall inform the trustee in writing, the number of units of the 
+scheme to be issued/cancelled along with the amount payable in respect thereof during such day.
+(7) the managing Company shall ensure that at each valuation point there are as many units in issue of any class 
+as there are units of that class registered to unit Holders for that class.
+(8) the managing Company when issuing or cancelling units shall not do or omit to do anything that would confer 
+an advantage on itself or its associated persons at the expense of a unit Holder or potential unit Holder.
+(9) the managing Company of an open-ended or an interval scheme shall at all times during the dealing day be willing 
+to effect the sale of units except where the trust deed of an interval scheme may limit the issue and sale of units. 
+(10) Payment for Units shall be made in full within five (5) business days prior to their issue.
+(11) the managing Company of an open-ended or an interval scheme shall at all times during the dealing day be 
+willing to effect the redemption of units except where the trust deed of an interval scheme limits the redemption 
+and cancellation of units.  
+(12) the proceeds of the redemption of units in an open-ended scheme shall be paid to the redeeming holder within 
+ten (10) business days of the acceptance of the redemption order.
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+19a
+37. Evidence of ownership of Units and transfer of ownership 
+(1) the managing Company shall maintain or cause to be maintained an updated register of the unit Holders of the 
+scheme.
+(2) the register shall be conclusive evidence of the persons entitled to the units entered therein.
+(3) the register of a scheme shall contain:
+(a) the name and address of each Unit Holder; 
+(b) the number of Units held by each Unit Holder; 
+(c) the number of holdings of each class in issue.
+(d) the date on which the unit Holder was registered in respect of the units recorded under his name.
+(4) Every unit Holder in a scheme shall have the right to transfer their units by an instrument of transfer in any form 
+that the managing Company may approve provided such a transfer is permitted by the trust deed. 
+(5) Every instrument of transfer shall be signed by or on behalf of the unit Holder transferring the units and the trans-
+feree shall not be recognized as a unit Holder in the scheme until the name of such transferee has been entered in 
+the register.
+(6) Every instrument of transfer, duly stamped, shall be left for registration with the managing Company, accompanied 
+by any other evidence reasonably required by the person responsible for the register.
+(7) An instrument of transfer on behalf of a body corporate shall be signed by one or more officers authorised to execute 
+documents on behalf of such body corporate and authenticated by the placing of its seal.
+(8) transfer of dematerialised units in a scheme shall be effected in accordance with the provisions contained in the 
+sEC act and/or any requirements of the Central Depository or the Exchange.
+38. Extent of liability of Unit holders in Schemes 
+(1) the liability of a unit Holder of a scheme is limited to the amount, which, at the time when any debts falls due, is 
+equal to the NA V of the Units held by such Unit Holder. 
+(2) a unit Holder in a scheme is not liable for acts or omissions of the managing Company, trustee or of the Custodian 
+of that scheme.
+39. Investment objectives
+(1) Subject to the investment objectives and policy of the Scheme as contained in the KIID, the Managing Company 
+of a scheme shall at all times ensure that, the scheme provides a prudent spread of risk.
+(2) The Managing Company shall ensure that the portfolio of a Scheme shall at all times be consistent with the Scheme’s 
+investment objectives and risks. 
+40. Limitations on investments of a Scheme offered to the public 
+(1) an open-ended or interval scheme that is offered to the public shall ensure that in making investments in the secu-
+rities of any one (1) Issuer, it does not at any given time exceed the percentage of the NA V of the Scheme that may 
+have been specified from time to time by the Commission.
+(2) A Scheme shall make investments only as permitted by the trust deed and the KIID.
+(3) When a Scheme replicates an Index, its exposure to any one (1) constituent of the Index shall reflect the proportion 
+of the Index replicated, provided the same and its implications are prominently specified in the KIID. 
+
+<!-- page 20 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+20a
+41. Limitations on borrowing and lending and related activities offered to the public
+(1) an open-ended or interval scheme that is offered to the public shall not borrow by any method whatsoever except 
+where the borrowing:
+(a) is temporary and is for a period not exceeding three (3) calendar months;
+(b) does not exceed the percentage of the NA V of the Scheme as may have been determined by the Commission 
+by way of its directives; and
+(c) is not used to leverage investment returns.
+(2) a scheme shall not engage in any form of direct lending of any part of its assets.
+(3) a scheme shall not assume, guarantee, endorse or otherwise become directly or indirectly liable for or in connection 
+with any obligation or indebtedness of any third party. 
+42. Payment out of and into the assets of a Scheme 
+No expense shall be paid out of the assets of a Scheme unless clearly provided for in the KIID. 
+43. Creation, issue, repurchases and redemptions of Units 
+(1) the creation, cancellation, sale, repurchase and redemption of units, the valuation of the assets of the scheme and 
+the calculation of the sale, issue, repurchase and redemption prices of units shall be done in accordance with the 
+provisions contained in the trust deed of the scheme.
+(2) the latest available offer and redemption prices of a scheme shall be published, in at least one (1) leading sri Lankan 
+daily newspaper or on the website of the Managing Company. If the NA V of a Scheme is published it may be stated 
+that this price excludes the front-end fee or exit fee if any.
+(3) the maximum interval between the receipt of a properly documented request for redemption of units and the pay-
+ment of the redemption money to the unit Holder, shall not exceed ten (10) business days from the dealing day on 
+which, the request was received. Where, for any exceptional reason, it is not feasible or desirable to make payment 
+of the redemption money within ten (10) business days, the Commission shall be notified forthwith giving reasons 
+as to why such payment should not be made within ten (10) business days.
+(4) a unit Holder of a scheme shall be entitled to have his units repurchased or redeemed in accordance with the terms 
+of the trust deed of the Scheme at a price which is related to the NA V of the Units and determined in accordance 
+with the terms published in the KIID.
+(5) requests for redemption of units in an open-ended or interval scheme shall not be permitted where: 
+(a) the value/ number of units remaining after such redemption is lesser than the minimum value/number of units 
+that was required in order for an investor to qualify to make an investment in the Scheme as spelt out in the KIID;
+(b) any provision contained in the KIID does not permit such redemption; or
+(c) the Commission has temporarily permitted the suspension of redemption of units of a scheme.
+(6) the managing Company of an open-ended and an interval scheme may in consultation with the trustee of that 
+scheme and subject to approval of the Commission suspend redemption of units in a scheme where to do so is in 
+the interests of investors of that scheme, provided the sale of units in the scheme are also suspended. 
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+21a
+(7)	 the Commission may specify a period of time during which the suspension of dealings in the schemes may be valid.
+(8)	 the managing Company of a scheme which suspends redemption and sales of units under (5) (c) above is required 
+to immediately notify the investors of:
+(a) such suspension and the reasons for such suspension; and
+(b) the proposed time period when redemptions and sales may resume.
+(9) the Commission may in exceptional circumstances:
+(a) require a managing Company of a scheme to temporarily suspend the sale and redemption of  units in order 
+to protect the interests of Unit Holders; and
+(b) require a managing Company to resume the sale and redemption of holdings, shares or units of a scheme.
+44. Asset valuation and pricing 
+(1) the managing Company shall be responsible for the valuation of the assets of a scheme and the calculation of the 
+price of units in such scheme. 
+(2) all assets of a scheme shall be valued in accordance with the valuation guidelines contained in Appendix 4 of this 
+Code.
+(3) The valuation method that will be adopted in order to determine the NA V of its portfolio of investments shall be as 
+provided for in the KIID.
+(4) The valuation method to be adopted in order to determine its illiquid assets shall be as provided for in the KIID. 
+(5)  Except in the case of the first public offering, purchase and redemption prices of Units of a Scheme shall be deter-
+mined on the basis of the NA V calculated in the manner provided for in the KIID. 
+(6) The NA V of an open ended Scheme shall be calculated at least once every business day and where such calculation 
+is not possible for reasons as stated in the KIID, it shall be calculated at least once every week or at such frequency 
+as may be approved by the Commission.
+Specialist Types of Schemes
+45. Umbrella Schemes
+(1) a managing Company may establish two (2) or more sub-schemes in respect of an open-ended scheme that is 
+under its management. 
+(2) Each of the sub schemes of an umbrella scheme shall be approved by the Commission.
+(3) Each Sub Scheme shall invest not less than eighty-five per centum (85%) of its assets in the Umbrella Scheme.
+(4) If the number of Sub-Schemes in an Umbrella Scheme, at any time after the first issue of Units of the Umbrella 
+scheme, falls below two (2), in order for it to continue as an umbrella scheme itshall ensure that at least one (1) 
+other sub-scheme is added to the umbrella scheme within a period which is not later than twenty-four (24) months.
+(5) In the event an umbrella scheme has failed to increase the number of sub-schemes to two (2) or more within such 
+period, the umbrella scheme shall come to end. Within two (2) weeks of the umbrella scheme coming to an end, 
+the managing Company shall take steps to inform the unit Holders of the remaining sub-scheme that the umbrella 
+scheme has come to an end. 
+
+<!-- page 22 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+22a
+46. money market Schemes
+Guidelines applicable for the setting up and operating a money market schemes shall be as spelt out in Appendix 5 to 
+this Code. 
+47. Exchange Traded Funds (ETF)
+(1) Authorized Participants of an ETF
+(a) an authorized Participant shall be appointed by the managing Company in respect of an EtF and shall be 
+responsible for in-kind creation and redemption of EtF units.
+(b) an authorized Participant shall enter into a written agreement with the managing Company and the trustee 
+to perform its services.
+(c) an authorized Participant shall possess adequate resources, including competent staff, appropriate systems, 
+procedures and processes in order to execute transactions of ETF shares in a proper and efficient manner.
+(d) an authorized Participant shall comply with any additional conditions that may be imposed by the Commis-
+sion or the relevant Exchange in which the EtF is listed.
+(e) If the managing Company appoints an authorized Participant to handle more than one (1) EtF, the managing 
+Company, shall ensure that it has taken appropriate steps to avoid and eliminate any conflicts of interest.
+(2) Role and duties of an Authorized Participant
+(a) an authorized Participant shall undertake in-kind creation and redemption of shares in the market on behalf 
+of the EtF either as principal or on behalf of unit Holders and shall keep the managing Company informed 
+of all such transactions
+(b) an authorized Participant shall ensure that the creation and redemption of shares undertaken on behalf of 
+unit Holders shall be segregated from trades carried out as principal.
+(c) an authorized Participant shall observe high standards of integrity when dealing in the primary as well as 
+the secondary market in all dealings on behalf of the EtF as principal or on behalf of unit Holders.
+(3) Index Requirements of an ETF
+(a) the Index shall be one that is recognized by the Commission and collectively indicates the price of the un-
+derlying assets traded on an Exchange orunderlying assets traded in a market.
+(b) the price of the underlying assets relevant to the Index or the Index referred to in subparagraph (a) shall be 
+disclosed publicly.
+(c) The ETF shall amongst others, also satisfy the requirements specified by the Commission  pertaining  to the 
+price of the underlying asset, the assets included in the Index, the weight of each asset included in the Index, 
+and the management method to be used to link the performance of the ETF with the fluctuation of the Index 
+and price.
+(4) Liquidity of ETF units and the underlying securities
+ the managing Company of an EtF applying for listingof its shares shall demonstrate to the satisfaction of the 
+Commission that there will be proper price formation in a secondary market for the said shares by ensuring that–
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+23a
+(a) the shares of the ETF shall be listed and traded in an Exchange; 
+(b) at least two (2) authorized Participants willbe appointed by the EtF, provided that at least one (1) of 
+them will act as a Market Maker; 
+(c) the underlying securities included in the Index will be listed and traded in an Exchange and have sufficient 
+liquidity; 
+Provided, that securities that are part of the main Index of an Exchange will be deemed to have sufficient 
+liquidity if the Exchange has considered liquidity as a criterion in the selection of securities for inclusion 
+in the Index.Provided further that the EtF shall provide its own liquidity criteria and methodology which 
+will be disclosed in its trust deed and the KIID; 
+(d) the NA V and the NA Vps shall be calculated daily after trading of the Exchange has closed. It shall be 
+disclosed to the investing public by publication in the website of the Exchange as well as the website 
+of the ETF; and
+(e) the INA V per share shall be calculated and published every two (2) minutes or such other frequency as 
+may be specified by the Commission from time to time or as spelt out by the Exchange in its rules and 
+approved by the Commission. It shall be made available to the investing public by publishing it in the 
+Exchange board and website and on the website of the EtF. 
+(5) In-kind issuance and redemption of ETF shares 
+(a) as a general rule, shares of an EtF shall be:
+(i) issued only upon delivery by the authorized Participant of the Basket of securities included in an Index,
+(ii) redeemed by the authorized Participant surrendering the shares of the EtF to the managing Company 
+and the managing Company delivering to the authorized Participant, the Basket of securities included 
+in an Index. 
+(b) In relation to the issuance and redemption of ETF shares, the KIID of an ETF shall provide for the following:
+(i)	 the terms and conditions for the in-kind issuance and redemption of EtF shares which among others 
+shall include, the valuation methodology, the price, timing and procedures; 
+(ii)	 instructions pertaining to the issue or redemption of ETF shares in Creation Units or multiples thereof;
+(iii)	provision to the effect that only an authorized Participant shall be permitted to submit issuance and 
+redemption instructions to the EtF, 
+Provided that, any person who holds a Basket of securities or EtF shares   equivalent to a Creation unit, 
+shall cause the authorized Participant to present the said Basket of securities or the EtF shares to be 
+issued or redeemed on his behalf; and
+(iv)	the terms and conditions applicable for the redemption of shares held by an investor through the authorized 
+Participant, including the manner in which such redemption shall take place.
+(c) Not with standing the foregoing paragraphs, an EtF may accept cash to account for the fractional value of the 
+portfolio of underlying securities.
+(d) upon receiving a request from an authorized Participant to establish a EtF Creation unit of an existing EtF, 
+the Managing Company shall do so in accordance with the provisions of the trust deed and the KIID.
+
+<!-- page 24 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+24a
+(e) When an authorized Participant seeks to make a request to redeem a Creation unit, it  shall acquire the Basket
+of securities equivalent to the value of the Creation unit .the minimum number of shares required to create or
+invest in an ETF shall be as specified  in the trust deed or the KIID.
+(f) If an investor or a stock Broker or a stock Dealer provides the Basket of securities to an authorized Participant, 
+such Basket of securities shall be transferred to the managing Company via an account transfer made through
+a Central Depository .
+(g) an authorized Participant shall use its own named account when trading securities for purposes of creating an
+EtF or issuance of new shares thereof.
+(6) Issuance of ETF units in exchange for cash
+an EtF may in exceptional circumstances allow the issuance of EtF units in exchange for cash provided:
+(a) this option, when exercised, is not prejudicial to the interests of existing shareholders and shall not result
+in the disruption of an orderly market;
+(b) any expenses or fees that are incurred in relation to such issuance shall be for the account of the person/
+investor making such issuance;
+(c) such an option is specified in the trust deed and the KIID, including the exceptional circumstance under
+which the said option may be exercised;
+(d) only Authorized Participants, for their own accounts, are allowed to exercise such option;
+(e) the ETF shall purchase the underlying securities in full within the period specified in the trust deed and
+the KIID;
+(f) the EtF shall record the exercise of such option and shall make such record available to the Exchange
+and the Commission upon request; and
+Provided however the Commission reserves the right to disallow the exercise of the said option having
+determined that the in-cash arrangement is not in the best interests of the investors and/or the conduct of
+an orderly market.
+(7)
+Direct Redemption
+(a) subject to the approval of the Commission, an EtF may provide for a direct redemption mechanism for inves-
+tors of the secondary market in exceptional circumstances which may amongst others include situations where:
+(i) an ETF is delisted;
+(ii) the secondary trading of ETF shares is disrupted over a prolonged period of time; or
+(iii) the market price of the ETF shares varies significantly from NAVps.
+(b) the threshold for any price variation and any other market circumstances as well as the manner and procedure
+for direct redemption shall be stated in the trust deed and the KIID.
+(8) Index and the Index Provider
+(a) an EtF shall clearly identify and describe the Index that it wishes to track as well as the provider of such Index.  
+(b) Prior to using an index, an EtF shall enter into an agreement with an Index providerwho has designed, con-
+structed and calculated it.
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+25a
+ (c) an EtF shall not be entitled to select or use indices whose rebalancing frequency is less than a period of six 
+(6) months. 
+ (d) An ETF shall provide in its trust deed and KIID, among others, the following information:
+(i) initial composition of the index and the corresponding weights; 
+(ii) methodology used in the selection of the securities included inthe Index and its rationale; 
+(iii) methodology used in the calculation of the Index and its rationale; 
+(iv) name and brief educational and professional background of the directors, officers and persons directly 
+responsible for the design and review of the Index; and
+(v) other indices designed, constructed and calculated by the Index provider, during the last five (5) years which 
+are presently in use.
+(9) Transparency of Index and portfolio holdings
+ (a) an EtF shall maintain a website which shall be freely accessible by the public and which shall provide on a 
+daily basis the following information:
+(i) the Index that the ETF plans to track; 
+(ii) the identities and weightings of the component securities and other assets held by the ETF; 
+(iii) the identities and weightings of the component securities and other assets of the Index; 
+(iv) the number and type of securities comprising the Basket of securities with which the EtF could create or 
+could redeem Creation Units; and
+(v) the performance of the Index and the EtF.
+ (b) In order to alert investors of the current relationship between NA Vps and the market price of the ETF's shares 
+and for the purpose of informing them that they may sell or purchase EtF shares at prices that do not correspond 
+to the NA Vps of the fund, the ETF shall disclose on its website as well as the website of the Exchange where 
+it is traded, the following information:
+(i) the extent and frequency with which market prices of ETF shares have tracked the fund’s NA Vps; 
+(ii) the prior business day's last determined NA V; 
+(iii) the market closing price of its shares; and
+(iv) the premium/discount of the closing price to NA Vps. 
+(10)  Arbitrage mechanism
+an EtF shall operate with an arbitrage mechanism designed to minimize the potential deviation between the market 
+price and NA Vps or INA V per share of ETF shares. The ETF shall establish Creation Unit sizes, the number of 
+shares of which are reasonably designed to facilitate arbitrage, with an offsetting sale (or purchase) of shares on an 
+Exchange at as nearly the same time as practicable for the purpose of taking advantage of a difference in the NA Vps 
+and INA V per share and the current market price of the ETF shares.
+(11)  Securities lending activity
+ (a) an EtF may engage in securities lending with the prior approval of the Commission provided however:
+
+<!-- page 26 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+26a
+(i) the securities lending activity shall be disclosed in the trust deed and the KIID; 
+(ii) the guidelines for securities lending shall provide that the net revenue arising from the activity shall be 
+returned to the ETF; 
+(iii) on-going operations thereon shall be disclosed in the annual report; and
+(iv) the EtF shall be able to recall any securities lent or be entitled to terminate any securities lending agreement 
+it has entered into. 
+ (b) the EtF managing Company shall at all times comply with any directions issued by the Commission or the 
+Exchange with regard to securities borrowing and lending.
+(12) Listing and delisting requirements 
+ (a)  an EtF shall be listed on an Exchange within thirty (30) days of its establishment in accordance with the 
+listing rules of an Exchange. 
+ (b) the EtF shall follow thelisting requirements and delisting requirements of the Exchange it has listed on. 
+48. Reporting requirements for all Schemes
+the managing Company shall for purposes of reporting treat each sub-scheme asa separate scheme.
+49. Approval of annual accounts and interim reports 
+the annual audited accounts and interim reports of a scheme shall be approved by the board of directors of the 
+managing Company and be signed by two (2) directors of the managing Company and the trustee.
+50. Requirements for annual report and financial statements 
+(1) t he annual report and audited accounts prepared based on sri Lankan accounting standards adopted by the Institute 
+of Chartered Accountants of Sri Lanka shall give a true and fair view of the financial position of a Scheme and be 
+prepared by the managing Company for each annual accounting period and shall contain:
+(a) reports from the managing Company, the trustee and the auditor summarising their duties and making any 
+statements required by this Code;
+(b) a balance sheet or statement of assets and liabilities and any off-balance sheet commitments; 
+(c) a statement of total return including a detailed income and expenditure account for the period; 
+(d) a cash flow statement;
+(e) the investment portfolio of the Scheme;
+(f) a report on the activities for the period;
+(g) in the case of an open-ended or interval Scheme, a statement of movement of Unit Holders’ assets;
+(h) disclosure of any related party transactions; and
+(i) disclosure of any significant information which may enable investors to make an informed judgment on the 
+activities and investments and performance of the scheme.
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+27a
+(2) such annual report and audited accounts shall be submitted to the Commission by the managing Company within 
+four (4) calendar months after the end of the annual accounting period.
+(3) the annual report and audited accounts shall be forwarded to the trustee for approval prior to it being submitted to 
+the Commission. 
+(4) the annual report and audited accounts shall be made available to current unit Holders of the scheme and also be 
+published on the website of the managing Company within four (4) calendar months of the end of the last day of 
+the financial year
+(5) the annual report and audited accounts of a scheme shall be a stand-alone document and shall not contain any 
+extraneous or financial promotion material.
+51. Interim Report and Financial Statements 
+(1) An interim report and unaudited accounts shall be produced for each Scheme for the first six (6) months of each 
+annual accounting reporting period and shall contain the same information as required in the annual audited report 
+and accounts but need not contain an auditor’s report. 
+(2) an interim report and unaudited accounts shall contain:
+(a) a balance sheet or statement of assets and liabilities;
+(b) a statement of total return including a detailed income and expenditure account for the period;
+(c) a cash flow statement;
+(d) the investment portfolio of the Scheme;
+(e) a report on the activities for the period;
+(f) in the case of an open-ended or interval scheme, a statement of movement of unit Holders’ assets;
+(g) disclosure of any related party transactions; and
+(h) disclosure of any significant information which shall enable investors to make an informed judgment on the 
+activities and investments and performance of the scheme.
+(3) An interim report and accounts shall be filed with the Commission within three (3) calendar months from the end 
+of the interim accounting period.
+(4) a  listed scheme shall send the interim report and accounts in compliance with the listing rules of the Exchange.
+(5) the interim report and unaudited accounts of a scheme for a reporting period shall be published in the website of 
+the managing Company and the investors shall be informed of such fact by way of a newspaper advertisement. 
+within three (3) calendar month from the end of the interim accounting period.
+(6) the interim report and accounts of a scheme shall be a stand-alone document and shall not contain any extraneous 
+or financial promotional material. 
+52. Auditor of a Scheme 
+(1) the managing Company with the approval of the trustee shall appoint an auditor who shall provide his services 
+for the entirety of the financial year. The audit fees of the auditor shall be determined by the Managing Company 
+with the approval of the trustee.
+
+<!-- page 28 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+28a
+(2) An auditor shall be eligible to serve as an auditor of a Scheme if;
+(a) the auditor has entered into a written agreement, to serve as the auditor to the Scheme;
+(b) the auditor has disclosed to the managing Company and trustee of the scheme that there is no impediment 
+to his serving as auditor to the Scheme;
+(c) the auditor is a member of the Institute of Chartered Accountants of Sri Lanka;
+(d) the auditor has not been disqualified from auditing by any regulatory authority; and
+(e) the auditor has not already served as auditor to the same Scheme for the previous five (5) years.
+(3) the auditor's report shall be reproduced in full in the annual audited report and accounts of the scheme. 
+(4) Where the auditor of a scheme has reason to believe that:
+(a) the information provided to unit Holders or to the Commission in the reports or other documents of the 
+scheme does not truly reflect the financial situation and the assets and liabilities of the Scheme;
+(b) the assets of the scheme are not, or have not been, invested in accordance with the provisions of this Code, 
+the KIID or the trust deed;
+(c) there exist circumstances which are likely to affect materially the ability of the Scheme to fulfil its obligations 
+to unitholders or meet any of its financial obligations under this Code;
+(d) there are material defects in the financial systems and controls or accounting records of the Scheme;
+(e) there are material inaccuracies or omissions of a financial nature made by the Scheme to the Commission; 
+and  
+(f) the auditor proposes to qualify any statements, which he is to provide in relation to financial statements or 
+returns of the scheme.
+*the auditor shall immediately report such matter to the Commission in writing and in any case not later 
+than two (2) weeks.
+(5) the auditor shall review the valuation policies and procedures adopted by the managing Company in a scheme 
+as morefully contained in Appendix 4 of this Code to ensure their acceptability.
+(6) the auditor shall, upon request by the Commission, furnish to the Commission a report stating whether, in his 
+opinion and to the best of his knowledge, the Scheme has or has not complied with a specified financial obligation 
+under this code.  
+(7) the managing Company shall bear the costs of any report required by the Commission under subsection (6).
+(8) The auditor may request the Commission to furnish him with particulars of any financial returns made to the 
+Commission by or on behalf of a scheme if he considers it necessary in order for him to perform his functions 
+under this code more efficiently. 
+(9) the auditor shall send to the managing Company a copy of any report made by him to the Commission under 
+subparagraph (6).
+(10) the Commission may require the auditor to furnish it with any information in relation to the audit of the affairs 
+of the scheme which, in the Commission's opinion, is necessary for the exercise of its functions under this Code 
+for the protection of the interests of investors, and the auditor shall comply with such requirement without delay.
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+29a
+(11) In furnishing information for purposes of subparagraph (10), the auditor shall act independently of the scheme.
+(12) No auditor shall be liable to the scheme, its unit Holders or creditors for anything done in good faith in compliance 
+with any obligation cast on him under this Code. 
+(13) subject to subparagraph (14) the Commission may direct a managing Company to terminate the appointment of 
+an auditor who has contravened any requirements under this code or any other applicable law in sri Lanka.
+(14) the Commission shall not issue a direction under subparagraph (13) unless:
+(a) the reasons for its decision have been disclosed; and
+(b) the auditor and the managing Company have been given an opportunity of being heard.
+(15) the managing Company shall ensure that the auditor of a scheme is invited to attend meetings of the unit 
+Holders and to receives any notice that may be sent to unit Holders and be entitled to be heard at any such 
+meeting pertaining to matters which affects the affairs of the auditor.
+53.	 Co-operation with Auditors 
+(1) a  member of the board of directors of a managing Company, a trustee, or a Custodian of a scheme and their 
+respective officers, servants or shall not knowingly or recklessly make a statement to an auditor, whether written or 
+oral, which conveys or purports to convey any information or explanation which is either:
+(a) false, misleading or deceptive in a material particular; or
+(b) contains any omission and such omission is likely to mislead or deceive the auditor.
+(2) a  member of the board of directors of a managing Company, a trustee, a Custodian of a scheme and their respective 
+officers, servants or agents shall not engage in conduct that would result in:
+(a) the, alteration, concealment or destruction of records;
+(b) coercing, manipulating, misleading or influencing the auditor;
+(c) preventing access to information or documents required by the auditor.
+54. Transfer of a Scheme 
+a scheme may be transferred in whole or in part by the managing Company to another scheme subject to the prior 
+approval of the Commission.   
+55. Suspension of dealing and termination of a Scheme 
+(1) the managing Company may suspend the operations of a scheme in circumstances morefully stated in the trust 
+deed and/or the KIID.
+(2) the managing Company shall:
+(a) obtain the prior approval of the Trustee and the Commission;
+(b) inform all unit Holders once approval of the trustee and the Commission have been obtained and explaining 
+the reasons for such suspension.
+
+<!-- page 30 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+30a
+56. Termination/Winding up of a Collective Investment Scheme
+(1) a  scheme shall be terminated or wound up upon the occurrence of any of the following events:
+(a) the approval granted by the Commission to operate the Scheme is cancelled;
+(b) the Unit Holders representing at least seventy-five per centum (75%) of the total Units in issue (excluding those 
+held by the Managing Company) pass a special resolution to terminate or wind up the Scheme; 
+(c)  the scheme has completed its tenure or circumstances exist that warrants the termination/winding up of a 
+Scheme as specified in the trust deed /KIID;
+(d)  the managing Company and the trustee are of the view that the value of the assets of the scheme has fallen 
+below an operationally viable level;
+(e) the Commission in consultation with the trustee and the managing Company has directed the trustee to wind 
+up the Scheme since the value of the deposited property has fallen below an operationally viable level;
+(f) upon an order made by a competent court.
+(2)  When a decision to terminate/windup has been made, the managing Company shall: 
+(a) cease   all operational activities of the scheme and cease the issuance,cancellation, sale   redemption or the 
+transfer of units; 
+(b) prepare annual audited and interim unaudited accounts and reports up to the completion of the winding up 
+process of the Scheme;
+(c) ensure that no changes are made to the register of unit Holders without the agreement of the trustee and 
+Custodian or as directed by a competent court;
+(d) immediately notify all unit Holders and the Commission of the commencement of proceedings to terminate/
+wind up the Scheme and the circumstances leading to such termination/winding up; and
+(e) publish a notice with the approval of the trustee in three (3) daily newspapers in three (3) languages within 
+(5) five days upon completion of such winding up and through the Trustee submit a report to the Commission 
+setting out in detail the steps taken in such process.
+(3) When a decision to terminate/windup has been made, the trustee shall: 
+(a) liquidate all the assets of the Scheme remaining in its custody; 
+(b) after paying all liabilities or retaining adequate amounts to meet such liabilities and the cost of winding up, 
+distribute to unit Holders the net cash proceeds available for the purpose of such distribution in proportion 
+to the number of units held by the Unit Holders respectively in accordance with these Rules;
+(c) arrange for the auditor of the Scheme to conduct a final review and audit of the Scheme  accounts and shall 
+submit a copy of such report and accounts to the unit Holders and the Commission within one (1) week upon 
+the trustee receiving such report and accounts.
+(4) any unclaimed net proceeds or other cash held by the trustee after the expiration of (12) twelve months from the 
+date on which the same becomes payable shall be paid by the trustee to the Public trustee subject to the right of 
+the trustee to retain there from any expenses incurred by the trustee in making such payment.
+
+<!-- page 31 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+31a
+Appendix 1: minimum Contents of a Trust Deed
+the trust deed shall be prepared in compliance with the provisions and requirements set out in this Code. the minimum 
+contents of the trust deed are given below together with guidance notes. the parties shall ensure that no provision of the trust 
+deed is in derogation with the requirements set out in this Code when preparing the trust deed.
+(1) Name of the scheme
+(2) Classes of units (Refer Guidance Note 01) 
+(3) t ypes of investments of the scheme
+(4) Duration of the scheme
+(5) Permitted expenses of the scheme
+(6) Distribution of Income
+(7) t ransmission of units
+(8) the responsibilities of the trustee and the managing Company to each other and to the unit Holders
+(9) Conduct of meetings and the manner of voting at such meetings (Refer Guidance Note 02)
+(10) statement to the effect that unit Holders shall not be required to make any further payment or assume any further 
+liability except in circumstances set out in such trust deed
+(11) method of calculating the offer and redemption prices of units
+(12) Circumstances in which the redemption of units can be suspended
+(13) maintenance of a register of unit Holders
+(14) a  statement to the effect that the consideration paid in respect of any duly created units (less any charges that the 
+managing Company is entitled to retain) shall become the property of the scheme immediately on receipt of such 
+consideration by the trustee.
+(15) Statement to the effect that a certificate in respect of Units or a relevant electronic entry is made in the register of 
+unit Holders of a depository of a  Exchange to a Unit Holder only on the Trustee being satisfied that the consid-
+eration paid for such units (less any charges that may be retained by the managing Company) has been, or will be 
+vested in the trustee
+(16) minimum initial investment in units permitted
+(17) maximum initial charge which can be levied on the purchase of units
+(18) Determination of Net Asset Value (NA V) of Units 
+(a) Refer Guidance Note 3 (A) for the determination of the NA V of single price Schemes
+(b) Refer Guidance Note 3 (B) for the determination of the NA V of dual price Schemes
+(19)  the obligation requiring the trustee, the managing Company and their related persons to disclose their interests 
+when making investment decisions in securities of companies or other asset classes in which they have a material 
+interest
+(20) a  provision enabling the appointment of auditors and connected matters 
+(21) a  statement prohibiting the trustee from retiring until a new trustee is appointed 
+
+<!-- page 32 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+32a
+(22) a  statement prohibiting the managing Company from entering into any underwriting or sub underwriting contract 
+on behalf of a scheme, except with the prior approval of the trustee and the Commission 
+(23) Prohibit the making or granting of loans out of the scheme property except with the consent of the trustee 
+(24) Provides approval in writing for the trustee for any transaction between the managing Company or any related 
+person of the managing Company and the scheme  
+(25) Provides for a deposit of security by the trustee guaranteeing against loss due to misconduct or negligence, where 
+required by the commission. 
+(26) Details pertaining to trustee's remuneration
+(27) Details pertaining to the Managing Company’s fees
+(28) statement to the effect that the trustee and the managing Company shall ensure compliance with the CIs Code 
+and the directives that may be issued from time to time
+(29) such other information as the Commission may require from time to time
+ Guidance Note 01 - Classes of Units
+(1) List classes of units and state any differences between the rights of the differing classes of units and set out any 
+additional rights the classes of units may be denominated in different currencies, may bear different charges of 
+whatever nature (initial, annual, exit or otherwise), may differ as to limitations on issue and/or redemption (if so, 
+state the basis on which any limited or deferred redemption arrangements or limited issue arrangements may apply), 
+and/or as to minimum investment and/or minimum holding level requirements.  
+(2) set out the basis for the distribution or re-investment of income in respect of any class of units in issue e.g. state 
+whether units are accumulation units or income units.
+(3) Where relevant, for a scheme, if investment in an overseas immovable is to be made through an intermediate holding 
+vehicle or a series of intermediate holding vehicles, include a statement that the purpose of that intermediate holding 
+vehicle or series of intermediate holding vehicles will be to enable the holding of overseas immovable by such scheme. 
+(4) Where a scheme is to be a money market scheme, include statements that:
+(a) The Scheme is a Money Market Scheme;
+(b) The primary investment objective is to maintain the Net Asset Value (NA V) of the undertaking [constant at 
+par (net of earnings)] [at the value of the investors' initial capital plus earnings];
+(c) With a view to achieving this primary investment objective, the scheme shall invest exclusively in high quality 
+(in terms of liquidity, credit quality, the nature of the asset etc.) money market instruments with a maturity 
+or residual maturity of no more than 397 days, or regular yield adjustments consistent with such a maturity, 
+and with a weighted average maturity of no more than 210 days; it may also invest with the same view on an 
+ancillary basis in deposits with credit institutions; and
+(d) the scheme provides same day or next day settlement.
+
+<!-- page 33 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+33a
+Guidance Note 02 : voting at meetings
+(1) a resolution put to the vote of a general meeting shall be decided on a show of hands unless a poll is (before or on the 
+declaration of the result of the show of hands) demanded by the chairman of the meeting or by not less than two (2) 
+holders or by the trustee.  a demand by a proxy is deemed to be a demand by the member appointing the proxy.  the 
+chairman shall exercise his power to demand a poll if requested to do so by the managing Company.
+(2) the entitlement to vote at any meeting of holders or class meeting attaching to each unit is in accordance with this 
+Code.  On a show of hands every unit Holder who is present in person has one (1) vote.  On a poll, votes may be given 
+either personally or by proxy or in any other manner (including the use of ballot papers or electronic or computer voting 
+systems) as the chairman of the meeting may direct and the result of the poll shall be deemed to be the resolution of the 
+meeting at which the poll was demanded.  the chairman of the meeting may (and, if so directed by the meeting, shall) 
+appoint scrutineers and may adjourn the meeting to some place and time fixed by him for the purpose of declaring the 
+result of the poll.
+(3) Where a receiver or other person (by whatever name called) has been appointed by any court claiming jurisdiction in 
+that behalf to exercise powers with respect to the property or affairs of any unit Holder on the ground (however formu-
+lated) of mental disorder, the managing Company may in its absolute discretion upon or subject to production of such 
+evidence of the appointment as the managing Company may require, permit such receiver or other person on behalf of 
+such unit Holder to vote on a poll in person or by proxy at any meeting of unit Holders or class meeting or to exercise 
+any right other than the right to vote on a show of hands conferred by ownership of units in relation to such a meeting.
+(4) No objection shall be raised as to the admissibility of any vote except at the meeting or adjourned meeting at which the 
+vote objected to be or may be given or tendered and every vote not disallowed at such meeting shall be valid for all pur-
+poses.  Any such objection shall be referred to the chairman of the meeting whose decision shall be final and conclusive.
+(5) an instrument appointing a proxy shall be in writing in any usual or common form or in any other form which the man-
+aging Company may approve or in its absolute discretion accept (including as to how it may be signed or sealed).  the 
+signature on such instrument need not be witnessed.  Where an instrument appointing a proxy is signed on behalf of the 
+appointor by an attorney, the letter or power of attorney or a duly certified copy thereof shall (failing previous registration 
+with the managing Company) be lodged with the instrument appointing the proxy pursuant to the next following Clause, 
+failing which the instrument may be treated as invalid.
+(6) an instrument appointing a proxy shall be left at or delivered to such place or one of such places (if any) as may be 
+specified for the purpose in or by way of note to or in any document accompanying the notice convening the meeting 
+(or, if no place is so specified, to or at the Managing Company's head office) by the time which is 48 hours before the 
+time appointed for the holding of the meeting or adjourned meeting or (in the case of a poll taken otherwise than at or 
+on the same day as the meeting or adjourned meeting) for the taking of the poll at which it is to be used and, in default, 
+may be treated as invalid.  the instrument appointing a proxy shall, unless the contrary is stated thereon, be valid as well 
+for any adjournment of the meeting as for the meeting to which it relates.
+(7) a vote cast by proxy shall not be invalidated by the previous death or bankruptcy of the principal or by other transmission 
+by operation of law of the title to the units concerned or by the revocation of the appointment of the proxy or of the au-
+thority under which the appointment of the proxy was made provided that no intimation in writing of such death, insanity 
+or revocation shall have been received by the Managing Company at its head office by the time which is two (2) hours 
+before the commencement of the meeting or adjourned meeting or (in the case of a poll taken otherwise than at or on 
+the same day as the meeting or adjourned meeting) the time appointed for the taking of the poll at which the vote is cast.
+(8) any corporation which is a unit Holder in the scheme may by resolution of the directors or other governing body of such 
+corporation and in respect of any unit or units in the scheme of which it is the unit Holder authorise such individual as 
+it thinks fit to act as its representative at any general meeting of the Unit Holders or of any class of Unit Holders.  The 
+individual so authorised shall be entitled to exercise the same powers on behalf of such corporation as the corporation 
+
+<!-- page 34 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+34a
+could exercise in respect of such unit or units if it were an individual unit Holder in the scheme and such corporation 
+shall for the purposes of this Deed be deemed to be present in person at any such meeting if an individual so authorised 
+is so present.
+Guidance Note 3 (A)
+ Determination of Net Asset value [SINGLE PRICED SChEmES]
+the value of the property of the scheme shall be the value of its assets less the value of its liabilities determined in accordance 
+with the following provisions:
+(1) all the property of the scheme (including receivables) is to be included, subject to the following provisions.
+(2) Property which is not cash (or other assets dealt with in paragraph 3 below) shall be valued as follows and the prices 
+used shall (subject as follows) be the most recent prices which it is practicable to obtain:
+(a) units or shares in a scheme:
+(i) if a single price for buying and selling Units or shares is quoted, at that price; or
+(ii) if separate buying and selling prices are quoted, at the average of the two (2) prices provided the buying 
+price has been reduced by any initial charge included therein and the selling price has been increased 
+by any exit or redemption charge attributable thereto; or
+(iii) if, in the opinion of the managing Company, the price obtained is unreliable or no recent traded price 
+is available or if no recent price exists, at a value which, in the opinion of the managing Company, is 
+fair and reasonable;
+(b)  immovable property:
+(i) by a valuer in accordance with the provisions of this Code;
+(ii) on the basis of a full valuation with physical inspection (including, where the immovable is or includes 
+a building, internal inspection), at least once a year; and
+(iii) on the basis of the last full valuation, at least once a month.
+(c) exchange-traded derivative contracts:
+(i) if a single price for buying and selling the exchange-traded derivative contract is quoted, at that price; or
+(ii) if separate buying and selling prices are quoted, at the average of the two (2) prices.
+(d) over-the-counter derivative contracts shall be valued in accordance with the method of valuation as shall have 
+been agreed between the Managing Company and the Trustee;
+(e) any other investment:
+(i) if a single price for buying and selling the security is quoted, at that price; or
+
+<!-- page 35 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+35a
+(ii) if separate buying and selling prices are quoted, at the average of the two (2) prices; or
+(iii) if, in the opinion of the managing Company, the price obtained is unreliable or no recent traded price is 
+available or if the most recent price available does not reflect the Managing Company's best estimate of 
+the value, at a value which, in the opinion of the Managing Company, is fair and reasonable; and
+(f) property other than that described in  [(a), (b), (c), (d) and (e)] above: at a value which, in the opinion of the 
+managing Company, represents a fair and reasonable mid-market price.
+(3) Cash and amounts held in current, deposit and margin accounts and in other time-related deposits shall be valued 
+at their nominal values.
+(4) In determining the value of the scheme property, all instructions given to issue or cancel units shall be assumed (unless 
+the contrary is shown) to have been carried out and any cash payment made or received and all consequential action 
+required by the Code or the trust deed shall be assumed (unless the contrary has been shown) to have been taken.
+(5) subject to paragraphs 6 and 7 below, agreements for the unconditional sale or purchase of property which are in 
+existence but uncompleted shall be assumed to have been completed and all consequential action required to have 
+been taken.  such unconditional agreements need not be taken into account if made shortly before the valuation 
+takes place and, in the opinion of the Managing Company, their omission shall not materially affect the final net 
+asset amount.
+(6) Futures or contracts for differences which are not yet due to be performed and unexpired and unexercised or pur -
+chased options shall not be included under paragraph 5.
+(7) all agreements are to be included under paragraph 5 which are, or ought reasonably to have been, known to the 
+person valuing the property assuming that all other persons in the managing Company's employment take all rea-
+sonable steps to inform it immediately of the making of any agreement.
+(8) Deduct an estimated amount for anticipated tax liabilities (on unrealised capital gains where the liabilities have ac-
+crued and are payable out of the property of the Scheme; on realised capital gains in respect of previously completed 
+and current accounting periods; and on income where liabilities have accrued) including (as applicable and without 
+limitation) [capital gains tax, income tax, corporation tax, value added tax, stamp duty].
+(9) Deduct an estimated amount for any liabilities payable out of the property of the scheme and any tax thereon treating 
+periodic items as accruing from day-to-day.
+(10) Deduct the principal amount of any outstanding borrowings whenever payable and any accrued but unpaid interest 
+on borrowings.
+(11) add an estimated amount for accrued claims for tax of whatever nature which may be recoverable.
+(12) add any other credits or amounts due to be paid into the property of the scheme.
+(13) add a sum representing any interest or any income accrued due or deemed to have accrued but not received and 
+any stamp duty reserve tax provision anticipated to be received.
+(14) Currencies or values in currencies other than the base currency shall be converted at the relevant valuation point at 
+a rate of exchange that is not likely to result in any material prejudice to the interests of unit Holders or potential 
+unit Holders.
+
+<!-- page 36 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+36a
+Guidance Note 3 (B)
+Determination of Net Asset value [DUAL PRICED SChEmES]
+the value of the property of the scheme shall be the value of its assets less the value of its liabilities determined in accordance 
+with the following provisions.
+(1) all the property of the scheme (including receivables) is to be included, subject to the following provisions.
+(2) the valuation of the property of the scheme shall consist of two parts, one on an issue basis and one on a cancellation 
+basis calculated in accordance with the following provisions.
+ the valuation of property for that part of the valuation which is on an issue basis is as follows:
+ Property which is not cash (or other assets dealt with in paragraphs 3 and 4 below) shall be valued as follows 
+and the prices used shall (subject as follows) be the most recent prices which it is practicable to obtain:
+(a) units or shares in a scheme:
+(i) if a single price for buying and selling units or shares is quoted, at that price plus any dealing 
+costs (as defined below), any preliminary charge payable by the Scheme on the purchase of the 
+units or shares, and any dilution levy or any stamp duty reserve tax provision which would be 
+added in the event of a purchase by the  scheme of the units or shares in question (except that, 
+where the managing Company, or an associate of the managing Company, is also the managing 
+Company or authorised corporate director of the collective investment scheme whose units or 
+shares are held by the scheme, the valuation shall not include any preliminary charge payable 
+in the event of a purchase by the Scheme of those units or shares);or
+(ii) if separate buying (offer) and selling (bid) prices are quoted, at the buying price, less any expected 
+discount plus any dealing costs (as defined below), but where the Managing Company, or an 
+associate of the managing Company, is also the managing Company or authorised corporate 
+director of the collective investment scheme whose units or shares are held by the scheme, the 
+issue price shall be taken instead of the buying price; or
+(iii) if, in the opinion of the managing Company, the price obtained is unreliable or no recent traded 
+price is available or if no recent price exists or if the most recent price available does not reflect 
+the managing Company's best estimate of the value, at a value which, in the opinion of the 
+managing Company, is fair and reasonable.
+(b) immovable property: 
+(i) by a valuer in accordance with the provisions of this Code
+(ii) on the basis of a full valuation with physical inspection (including, where the immovable is or 
+includes a building, internal inspection), at least once a year; and
+(iii) on the basis of the last full valuation, at least once a month;
+(c) exchange-traded derivative contracts:
+(i) if a single price for buying and selling the exchange-traded derivative contract is quoted, at that 
+price; or
+(ii) if separate buying and selling prices are quoted, at the average of the two prices.
+(d) over-the-counter derivative contracts shall be valued in accordance with the method of valuation as 
+shall have been agreed between the Managing Company and the Trustee;
+
+<!-- page 37 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+37a
+(e) any other investment:
+(i) the best available market dealing offer price on the most appropriate market in a standard size 
+(plus any dealing costs, (as defined below)); or
+(ii) if, in the opinion of the managing Company, the price obtained is unreliable or no recent traded 
+price is available or if the most recent price available does not reflect the Managing Company's 
+best estimate of the value, at a value which, in the opinion of the managing Company, is fair and 
+reasonable; and 
+(f) property other than that described in [(a), (b), (c) and (d)]/[(a), (b), (c), (d) and (e)] above: at a value 
+which, in the opinion of the managing Company, is fair and reasonable (plus any dealing costs (as 
+defined below)).
+(3)  Cash and amounts held in current, deposit and margin accounts and in other time related deposits shall be valued at 
+their nominal values.
+(4)  In determining the value of the property of the scheme, all instructions given to issue or cancel units shall be assumed 
+(unless the contrary is shown) to have been carried out and any payment made or received and any consequential 
+action required by the Codes or the trust deed shall be assumed (unless the contrary has been shown) to have been 
+taken.
+(5)  subject to paragraphs 6 and 7 below, agreements for the unconditional sale or purchase of property which are in 
+existence but uncompleted shall be assumed to have been completed and all consequential action required to have 
+been taken.  [Such unconditional agreements need not be taken into account if made shortly before the valuation 
+takes place and, in the opinion of the Managing Company, their omission shall not materially affect the final net 
+asset amount.]
+(6)  Futures or contracts for differences which are not yet due to be performed and unexpired and unexercised written 
+or purchased options shall not be included under paragraph 5.
+(7)  all agreements are to be included under paragraph 5 which are, or ought reasonably to have been, known to the 
+person valuing the property assuming that all other persons in the managing Company's employment take all rea-
+sonable steps to inform it immediately of the making of any agreement.
+(8)  Deduct an estimated amount for anticipated tax liabilities (on unrealised capital gains where the liabilities have ac-
+crued and are payable out of the property of the Scheme; on realised capital gains in respect of previously completed 
+and current accounting periods; and on income where liabilities have accrued) including (as applicable and without 
+limitation) capital gains tax, income tax, corporation tax, value added tax, stamp duty and stamp duty reserve tax.
+(9)  Deduct an estimated amount for any liabilities payable out of the property of the scheme and any tax thereon treating 
+periodic items as accruing from day-to-day.
+(10) Deduct the principal amount of any outstanding borrowings whenever payable and any accrued but unpaid interest 
+on borrowings.
+(11) add an estimated amount for accrued claims for tax of whatever nature which may be recoverable.
+(12) add any other credits or amounts due to be paid into the property of the scheme.
+(13) add a sum representing any interest or any income accrued due or deemed to have accrued but not received and 
+any stamp duty reserve tax provision anticipated to be received.
+(14) Currencies or values in currencies other than the base currency shall be converted at the relevant valuation point at 
+a rate of exchange that is not likely to result in any material prejudice to the interests of unit holders or potential 
+unit holders.
+*"dealing costs" means any fiscal charges, commission or other charges payable in the event of the scheme carrying 
+out the transaction in question (but excluding any preliminary charge payable by the scheme on the purchase of 
+units or shares), assuming that the commission and charges (other than fiscal charges) which would be payable 
+by the scheme are the least that could reasonably be expected to be paid in order to carry out the transaction. 
+
+<!-- page 38 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+38a
+Appendix 2: Guidelines on Collective Investment Scheme advertisements and promotional material
+(1) DEFINITIONS
+Unless otherwise defined, words and expressions used in this set of Guidelines on Collective Investment Scheme Ad-
+vertisements and/or Promotional Materials are as defined in the Securities and Exchange Commission of Sri Lanka Act 
+No. 19 of 2021 and the Collective Investment scheme (CIs) Code 2022 (the Code).  
+these Guidelines are in addition to, and not a derogation from, the duties and responsibilities which are otherwise 
+imposed by law.
+(2) INTRODUCTION
+(a) the Guidelines on scheme advertisements and promotional materials set out the requirements to be complied with 
+by any person who issues advertisements and/or promotional materials for the scheme. the securities and Exchange 
+Commission of sri Lanka (sEC) has promulgated the following Guidelines for the assistance of all issuers of scheme 
+advertisements and/or promotional materials and to provide a regulatory environment that protects the interests of 
+the investing public.
+(b) the issuers of advertisements and/or promotional materials are expected to be guided by the spirit, as well as the 
+content of these Guidelines and they shall not be departed from without sufficient cause. In addition, while the notes 
+and examples enumerated as guidance are primarily intended for illustrative purposes.
+(c) Issuers are responsible for the contents of advertisements and the monitoring of their publication / distribution of 
+the scheme. under no circumstances may an issuer disclaim its liabilities in respect of the accuracy of the contents 
+of its advertisements.
+(d) advertisements and/or promotional material shall not be so framed as to exploit the lack of experience or knowledge 
+of the investors. As the investors may not be sophisticated in legal or financial matters, care shall be taken that the 
+advertisement is set forth in a clear, concise, and understandable manner.  
+(e) No statement made in an advertisement, report or in announcements to unit Holders, the public, the press or other 
+communication media, may be attributed to any person, unless such person has given consent in writing for such 
+statement to be attributed to such person, in the context in which it appears.
+(f) For the purposes of these Guidelines a Key Investor Information Document (KIID) shall not be deemed to be an 
+advertisement.
+(g) advertisement and/or promotional materials include any document, report, newspaper, website or periodical and 
+any material disseminated, intended or apparently intended, to advertise or promote a CIs. Examples of publication 
+medium include but are not limited to, the following:
+(i) Published distribution materials (e.g. print media advertisements, brochures, fact sheets, news-
+letters, magazines, journals or periodicals);
+(ii) Display of posters, banners, notices, signs, billboards on the company's website or outdoor dis-
+plays;
+(iii) Letters, circulars, newsletters, brochures or pamphlets;
+(iv) Sound broadcasting, film or television; and
+
+<!-- page 39 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+39a
+(v) Interactive systems such as internet, interactive voice messages, telephone, facsimile, computer 
+transmission or other electronic transmission.
+(h) a  managing Company in issuing or selling any unit of a scheme shall not directly or indirectly represent or imply 
+in any manner that;
+(i) such Units have been sponsored, recommended or approved by the Commission; or
+(ii) the contents of any memorandum or advertisements issued by such managing Company have 
+been guaranteed by the Commission.
+(i) the advertisement and/or promotional material submitted may be varied, altered or rejected by the Commission as 
+it deems fit.
+(j) The Commission reserves the right to comment or stop any advertisement so filed from being published.
+(k) the sEC may take appropriate actions against persons who fail to comply with or observe any of    the provisions 
+in these Guidelines as are permitted under the sEC act and / or other relevant provisions under the Code or rules 
+pertaining to a managing Company.
+3 CONTENTS OF ADvERTISEmENTS AND PROmOTIONAL mATERIALS
+GENERAL PRINCIPLES
+(a) the advertisement and/or promotional material shall be based on principles of good faith and fair dealing. 
+(b) an advertisement or promotional material shall not in any way mislead or deceive a prospective investor 
+and shall contain information that is timely and consistent with its KIID.
+Guidance
+•	 In applying this principle, issuers shall note that a prospective investor cannot be expected to 
+have any special understanding of the matters contained in the advertisement and/or promotional 
+material.
+•	 Issuers shall be aware that validity of a statement will depend on its contextual setting – a statement 
+made in one context may be misleading even though the same statement may be appropriate in 
+another context.
+•	 Issuers shall avoid the exaggeration of certain incidental features of the scheme which may distort 
+the scheme and mislead investors.
+•	 Issuers shall also note that different levels of explanation or details may be necessary for different 
+investors with varying knowledge of the scheme.
+•	 Issuers shall present the most up-to-date information e.g. Net Asset Value (NA V) or returns. For 
+example, a disclosure of NA V of the Scheme which is more than six (6) months old (at date of 
+publication), with the intention of publishing a more favourable level of NA V could result in 
+investors being misinformed.
+(c) as the exaggeration of certain incidental features may distort the scheme and mislead investors, no due 
+prominence shall be given to any incidental feature (e.g. free insurance coverage, free consumer goods 
+etc.) in any advertisement and/or promotional material. an advertisement and/or promotional material shall 
+stress on fund information and not the incidental features.
+
+<!-- page 40 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+40a
+(d) as such the issuers shall ensure that no hidden or additional costs are imposed on investors with such 
+promotions on incidental features.
+a) the principles of honesty and greatest possible accuracy shall underpin all advertisements and/
+or promotional materials. In this regard, dishonesty or inaccuracy can result from exaggerations, 
+omissions or implications of certain statements contained in the advertisement and/or promotional 
+material. Issuers shall also note that selective emphasis of certain features may create a certain 
+bias towards the presentation of the material which may be misleading.
+Guidance
+In preparing an advertisement and/or promotional material, issuers shall bear in mind that inherent in in-
+vestments are the risks of fluctuating prices and the uncertainty of dividend distributions, rates of return and 
+yield. Accordingly statements about possible benefits connected with investing shall be “counter-balanced” 
+with risks/limitations associated therewith. 
+(e) Care and attention shall always be paid to overall impression of the advertisement and/or promotional 
+material.
+4 LANGUAGE AND GRAPhICS
+(a) the use of ambiguous or industry terms which are not explained in simple language that are not readily 
+understood by the public at large, shall be avoided wherever possible.
+Guidance 
+Issuers of advertisements and/or promotional materials shall be aware that a statement made in an unclear 
+manner may result in a lack of understanding or even a serious misunderstanding. a complex or overly 
+technical explanation may be worse than too little communication.   
+(b) a   statement of opinion regarding a scheme or a managing Company shall be reasonable and, where possible, 
+can be verified. Any testimonial quoted or referred to in an advertisement and/or promotional material shall 
+be relevant, factual and attributable to an independent source. the source and date of testimonial quoted 
+or referred to shall also be disclosed.
+Guidance
+Phrases such as “best performing” or “first” may only be used if attributable to an independent source and 
+the document and/or source of information concerned is readily available for investors for verification.
+(c) an advertisement and/or promotional material shall not give an investor the impression that his capital is 
+secure or his income/profit is guaranteed or that such a rate of return is certain, unless appropriate.
+      Guidance
+•	 Words such as “secure”, “guaranteed”, “safe”, “risk-free”, “protected”, “warranty”, “likely” and “prom-
+ise” shall not be used in an advertisement and/or Promotional material, unless otherwise appropriate
+•	 the terms “low risk” or “minimal risk” shall only be used relative to an alternative form of investment.
+•	 the statement that “aBC scheme is backed by XyZ” shall not be used unless XyZ actually guarantees 
+the scheme against losses or guarantees the return.
+
+<!-- page 41 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+41a
+(d) an advertisement and/or promotional statement shall not give an investor the impression that his investment 
+will always increase in value. In addition, the language shall avoid implying urgency or emergency. the 
+words and context shall not pressurise the reader into investing within a certain time frame or by a certain 
+time.
+Guidance
+•	 statements such as “Get rich quick”, “your investment will grow from strength to strength”, “greater 
+wealth awaits you”, and “you too can be rich” shall be avoided.
+•	 statements such as, “Invest now before it is too late”, “this is the right time to buy” or “buy now 
+before it is too late” or variations of such phrases shall not be used.
+•	 statements such as “Hurry offer period ends on……” or “Hurry before the special promotion ends on 
+…” shall be avoided.
+•	 “Hurry, the scheme will be paying out a dividend by the end of …..” shall be avoided.
+(e) An advertisement or promotional material shall not be definitive or in an unreasonably promising language 
+in its representation of outcome of investing in the scheme.
+Guidance
+the following statements or promising language are not permissible:
+•	 “you will reap returns”
+•	 “you become a winner”
+•	 “you gain every advantage from investing”
+•	 “high rewards awaits you”
+•	 “you will more likely than not to make gains from your investment”
+(f) Direct forecasts or projections of future performance of a scheme shall not be made. any statement that 
+indirectly relates to the future performance of a scheme shall allow for uncertainty in the market and shall 
+not be made in certain terms. 
+Guidance
+the following statements are not permissible:
+•	 “ABC Scheme is expected to achieve 8% growth this year”
+•	 “aBC scheme will achieve good/excellent/attractive results for you at minimal risk”
+•	 “ABC Scheme will provide an excellent hedge against inflation”
+•	 “ABC Scheme will offer investors a rate of return better than that of fixed deposits or savings”
+the following statements are permissible:
+•	 “Our scheme managers will seek to maximise your returns”
+•	 “ABC Scheme hopes to provide you with a reasonable hedge against inflation”
+•	 “aBC scheme seeks to present you with the opportunity to earn attractive returns at an ac-
+ceptable level of risk”.
+
+<!-- page 42 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+42a
+(g) Involvement of regulatory authorities in the industry shall only be stated in a factual manner and not give 
+investors the impression that their investments are safe/secure. In particular an advertisement and/or pro-
+motional material shall not imply that the regulatory authorities have taken responsibility for the financial 
+soundness of the scheme or of the managing Company or that the regulatory authorities recommend the 
+scheme or that statements and opinions expressed are true/accurate. 
+(h) An advertisement and/or promotional material shall not seek to denigrate a Scheme’s competitors in such 
+a way as might lower the reputation of the industry or use language or artwork that would be considered 
+by a reasonable person to be in poor taste. 
+(5) COmPARISON
+(a) Comparisons made between two (2) or more schemes or between two (2) or more alternative investments, 
+shall be fair, reasonable, accurate and based on similar time periods. material differences between the 
+subjects of comparison shall be highlighted.
+(b) When a scheme is compared to an Index, such Index shall be the benchmark for the scheme as disclosed 
+in the KIID. A comparative index once adopted shall be applied consistently and any change shall be sup-
+ported by adequate justification.
+(c) When graphs are shown it shall be clearly presented without distortion. 
+Guidance
+•	 It is essential that a comparison be as complete as is practicable and that no fact be omitted which if disclosed 
+would likely alter the conclusions reasonably drawn or implied by the comparison
+•	 Comparisons with alternative investments or savings vehicles shall explain clearly any relevant difference in 
+guarantees, fluctuation of principal and/or return and any other factor necessary to make such comparisons fair 
+and not misleading
+•	 any performance comparison shall be fairly and accurately based on reports published by an independent organ-
+isation or independently commissioned. Any external source of such material shall be identified and disclosed. 
+Where only extracts of the report is highlighted, that which is highlighted shall not be unfair nor misleading. 
+the excluded information shall not cause the included information to appear exaggerated.
+•	 Only the investment performance of schemes with similar investment objectives, can be compared in order to 
+ensure that there is “like with like” comparison.
+6 INvESTmENT PERFORmANCE
+(a) Performance figures quoted or referred to in an advertisement and/or promotional material shall be factual 
+information, sourced independently or verified independently. 
+(b) Equity schemes
+Performance figures for periods less than one year shall be limited to year to date (calendar year) perfor -
+mance or financial year to date performance. However, short-term performance figures for periods of one 
+(1) month, three (3) months and six (6) months may be permitted if presented together with the year to date 
+performance and the performance of the relevant benchmarks. For performance figures since inception, the 
+cumulative growth since inception and the annualised growth rate together with the relevant benchmark 
+performance shall be published. 
+
+<!-- page 43 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+43a
+(c) money market schemes
+Current yields can be published only for money market schemes and it shall cover a minimum period of 
+at least seven (7) days. 
+ Basis of Calculation of Current yields
+ Current yield = {(P/P-7)-1} {365 x 100 /7}
+ P = net asset value per unit as at date
+ P-7 = net asset value per unit 7 days ago
+(d) Other Income schemes
+Performance figures for a period less than one year shall be limited to year to date (calendar year) perfor-
+mance or financial year to date performance and shall not be annualised. However, short term performance 
+for periods of one (1) month, three (3) months and six (6) months may be considered if presented together 
+with the year to date performance and the performance of the relevant benchmarks. In case of performance 
+figures since inception, it shall be Compound Annual Growth Rate up to the date of calculation. 
+(e) all performance information shall be referenced to the sources and dated. 
+ Guidance
+•	 In general the appropriate time periods for illustration of results are those which are of sufficient duration 
+that the data can be meaningfully appreciated. The selection of a specific time period, solely for the 
+purpose of illustrating performance “at its best”, is likely to mislead or provide bias to the presentation 
+of information and would therefore not be appropriate as this would result in an investment decision 
+made on incomplete information.
+•	 Investment performance data (Current yield) for money market schemes shall be up to date. all other 
+performance data shall be up to a recent reference date based on the last calendar year end date or the 
+last financial year end date of the Scheme.
+•	 Performance benchmarks used in the promotional material shall be relevant, appropriate, widely rec-
+ognised and constructed by an independent party. 
+(f) Performance figures displayed shall be actual rather than hypothetical/simulated results which cannot be 
+annualised except for income schemes.
+ Guidance
+•	 Issuers shall endeavour to present performance results in a manner which is clear and shows that within 
+the longer periods illustrated, there have been short term fluctuations. No single period of any length 
+is to be taken as “typical” of what may be expected in future periods.
+(g) Graphs tables and other diagrams used shall be presented without distortion. Figures shown on graphs shall 
+be fair representation of the position. 
+ Guidance
+•	 In selecting a format for the presentation of performance results, consideration shall be given not 
+only to the completeness and accuracy of the data but also to the clarity and meaningfulness of the 
+
+<!-- page 44 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+44a
+overall presentation. Careful consideration shall be given to the visual impact of data presented as 
+the reader may not go beyond a scanning of the trends depicted.
+•	 Furthermore while a summary of investment results is often necessary in order to make the advertise-
+ment and/or promotional material readable and understandable it shall be recognised that the reader 
+may not look beyond the summary data presented. Consequently issuers shall take into account that 
+the summary data shall be fair in all respects and not likely to mislead either directly or by distracting 
+the reader from other necessary information.
+(h) The basis of computation of performance figures shall comply with either Global Investment Performance 
+standards or Industry standards.
+(7) WARNING STATEmENTS
+Warning statements shall be clearly displayed in all advertisements and/or promotional materials to the following effect:
+(a) Where past performance is quoted, the past performance of a scheme shall not be taken as indicative of its future 
+performance;
+(b) Where current yield is specified, “the current yield is variable and subject to change” shall be stated;
+(c) Warning statements shall be highlighted and generally printed in a font size that is easily readable;
+(d) Furthermore, where the warning statements are submerged by the preponderance of written text, warning statements 
+may be boxed.   
+In addition to the above, the following warning statements shall be clearly printed in all printed brochures and leaflets:
+(i) Investors are advised to read and understand the contents of the KIID before investing. Among others, investors 
+shall consider the fees and the charges involved;
+(ii) In the event if the advertisement is to contain the price of units/shares and dividends payable, if any, it shall be 
+clearly stated that the price of Units / shares may go down as well as up and the dividend payable may change;
+(iii) Sufficient prominences shall be given to any necessary qualification or condition for investing in a particular 
+Scheme; and
+(iv) the managing Company may state that the scheme is approved by the Commission. 
+Where a unit/share split is declared, investors shall be informed of the fact that the value of their investment in rupees 
+will remain unchanged after the distribution of the additional units/shares.
+(8) ADvERTISmENTS BY WAY OF COmPUTER TRANSmISSION 
+these Guidelines apply to advertisements issued by way of computer transmission. amongst others, such advertisements 
+shall draw attention to the KIID of the Scheme. 
+(9) ADvERTISmENTS ON RADIO, TELEvISION OR CINEmA   
+Generally, these Guidelines also apply to advertisements on the radio, television or cinema. In this case, only the scripts 
+for the advertisement are required to be submitted to the sEC for perusal. Notwithstanding this, more care and attention 
+shall be given to the overall impression of the actual advertisements; this information shall be contained in a voice-over 
+at the end of each broadcast.
+For visual advertisements warning statements shall be displayed for such time as to be sufficiently prominent to allow 
+the viewer to read the entire text of the disclosure with reasonable ease. 
+
+<!-- page 45 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+45a
+Appendix 3: Key Investor Information Document (KIID)
+The KIID constitutes the fundamental base of information for the subscribers to Units of a Scheme and shall be reviewed and 
+updated by the Scheme as it becomes necessary. Whenever, the KIID is amended, a copy of the addendum shall be submitted  
+to the commission for its approval. 
+Information under all headings shall be completed in accordance with the requirements of this appendix, the Code and any 
+specific requirements of the SEC Act, including any regulations made there under. The information shall be presented in a 
+clear manner that will facilitate reading and understanding by the investors. 
+the information required by this appendix constitutes a minimum and the scheme may add other information so long as it 
+is not misleading and is designed to increase the comprehension of the investment being proposed. 
+In the case of a family of schemes, the KIID may be divided into difference parts. For example, specific information about 
+each scheme in the family could be in the first part and general information that applies to all the schemes could be in the last 
+part of the KIID.  Also, in the first part, general information on schemes shall be given to assist the investor to understand 
+that type of investment and the risks involved.
+The KIID shall contain a declaration by the Trustee certifying that they have read and agreed with the representations con-
+tained therein.
+The KIID shall also contain a declaration by the board of Directors of the Managing Company in the following form:
+“This KIID has been seen and approved by the board of directors of the Managing Company and we 
+collectively and individually accept full responsibility for the accuracy of the information given and 
+confirm that, after making all reasonable inquiries and to the best of our knowledge and belief, there 
+are no facts, the omission of which, would make any statement herein misleading”.
+The KIID shall include full disclosure of the information required by the investors to make a decision on the investment.
+The KIID shall be reviewed by the Managing Company at least every two years and revised where material to take account 
+of any change or any new matter. 
+1: Introduction to and about the Scheme
+(a) General information concerning the Scheme, indicating its principle sphere of activity defined by the Scheme:
+(i) The full name and type of the Scheme; and
+(ii) If the Scheme is an open-ended / close-ended / interval scheme and classified as a growth / balanced / income 
+scheme.
+(b) type of investors
+(i) the type of investors for whom units of the scheme would be suitable shall be stated.
+2: Investment objectives, risk profile and distribution of the Scheme
+(a) Investment Objectives
+the fundamental investment objectives of the scheme shall be stated, and the types of securities in which the scheme 
+
+<!-- page 46 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+46a
+proposes to invest (shares, bonds, money market instruments etc.), as well as investment policies and practices of 
+the scheme in pursuing its objectives shall be stated.
+(b) risk
+an explanation of nature of the risks, including minimum / maximum exposure to the stock market, sensitivity to 
+rate of interest risk, concentration risk, investment in illiquid securities risk etc. shall be provided. 
+(c) Dividends or Distributions
+(i) the amount of dividends or other distributions, if any, paid by the scheme including income distributed by way 
+of dividend reinvestment, during its last three (3) completed financial years preceding the date of the KIID or 
+trust deed shall be stated.
+(ii) In the case of a new scheme there shall be an explanation of when and how the gains of the scheme will be 
+distributed, if applicable.
+3: Purchases and redemptions
+(a) Purchase of units
+(i) An explanation for the procedure (application form / KYC / Identification etc.) for purchase of Units of the Scheme 
+including the places where purchase orders are received by the scheme shall be stated.
+(ii) If applicable, there shall be an indication whether a minimum purchase is required. 
+(b) redemption of units
+an explanation of the procedure (cut off time for acceptance of redemption request during the day, modes of making 
+a redemption request, disclosure of any limits imposed on redemption within one day, methods of settlement of 
+redemption proceeds etc.) for redemption of units of the scheme shall be stated. 
+(c) Purchase / redemption charges
+the purchase and redemption charge as a percentage of net investment or of the redemption price shall be stated. 
+Where investors have a choice between different types of payment of charges (front load, no load, back load etc.), 
+an explanation of each type in detail and an indication of the effect on return on investment of the choice made 
+shall be provided.
+4: Reports and accounts
+Details of the reports to be sent to the unit Holders of the scheme with applicable periods and modes of accessibility to 
+such reports shall be provided.
+5: management fees and other fees and charges to the Scheme
+the following information shall be provided:
+(a) the method used for calculation of management fees, taking into account the various components and any other 
+information in accordance with this Code shall be stated. The fee shall be specified as a percentage of the  NA V of 
+the Scheme;
+(b) The method used for calculation of Trustee fees shall be stated. The fee shall be specified as a percentage of the NA V 
+of the Scheme;
+
+<!-- page 47 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+47a
+(c) any expenses or disbursements of the custodian which are authorised by the trust deed of scheme to be paid out of 
+the assets of the Scheme;
+(d) The cost of dealing in the assets of the Scheme;
+(e) Interest on borrowing permitted under the scheme and charges incurred in effecting or varying the terms of such 
+borrowings;
+(f) The costs and expenses incurred in obtaining a listing of the shares of the Scheme on any licensed securities exchange;
+(g) The fees and expenses of the auditor of the Scheme;
+(h) The costs incurred in respect of the distribution of income to investors;
+(i) the costs reasonably incurred in respect of the publication of prices of units and in respect of the publication and 
+distribution of the Scheme KIID or  trust deed, annual and interim reports and accounts;
+(j) Any costs incurred in preparation or the modification of the trust deed of the Scheme; 
+(k) Any other costs, incidental to its operation that may be charged to the Scheme; 
+(l) Any change in annual charges of the Managing Company;
+(m) any expenses or disbursements of the trustee, which are authorized by the trust deed to be paid out of the assets of 
+the Scheme;
+(n) fees payable to the Commission in respect of obtaining approval for a Scheme;
+(o) legal expenses incurred in safeguarding the assets of the Scheme;
+(p) in case of an EtF tracking the price of gold or price of any other commodity or an index approved by the Commission, 
+recurring expenses incurred towards storage and handling of gold or such other commodity; and
+(q) any other fee approved by the Commission and specified in the trust deed.
+*Commissions paid to agents shall not be paid out of the assets of the scheme. 
+6: Tax Liability of the Scheme
+Details of income and capital gain taxes applicable to the investors in the scheme shall be provided. 
+7: Information
+(a)	 trust deed of the scheme: Information as to where a subscriber shall obtain the trust deed of the scheme shall be 
+provided. these documents may be in electronic format.
+(b)	 Listing: a statement to be made if the units of the scheme are to be listed. 
+(c)	 Corporate Profile of Managing Company:
+(i) The following information shall be provided electronically or in the KIID:
+ (a) Name and address of the head office of the Scheme Managing Company, date of incorporation shall be 
+provided;
+
+<!-- page 48 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+48a
+ (B) Name and address of each member of the board of directors, indicating those members who are independent. 
+In the case of independent members, indicate their principal employment.
+(ii) Name of persons acting as portfolio managers, with details of qualifications and any previous experience in the 
+management of portfolios of Scheme;
+(iii) Names of persons of the Investment Committee, indicating their principal employment and experience in the 
+field of investment management;
+(iv) Name of person acting as the Compliance Officer.
+(d)	 regulations
+the scheme is required to make the following statements:
+ (i) That it is licensed or approved by the SEC;
+ (ii) The trust deed is binding on the Managing Company, Trustee, Custodian and each Unit Holder;
+ (iii) A statement that all assets of the Scheme are held by the Trustee / Custodian; and
+ (iv) the limits of any liability of unit Holders. 
+8: Delegation of services
+(a) If any services, other than management of investments, are delegated to a third party, provide details of the service 
+provider, such as name and address shall be stated; and 
+(b) a declaration that managing Company is responsible for all actions of commissions and omissions of the third party 
+to whom such function is delegated.
+9: valuation of the investments and pricing of Units of the Scheme
+(a) Valuation of Investments: The method of valuing all assets in the scheme shall be stated.
+(b) Calculation of unit / share price: the method of determining the Issue and redemption prices, frequency of 
+calculation of such prices and availability of such prices on a regular basis shall be stated. 
+10: Suspension of dealing and termination of the Scheme
+(1) the following shall be provided:
+(a) The circumstances under which dealing in Units of a Scheme may be suspended with the relevant time limits; and
+(a) Details of when and how the scheme may be terminated.
+11. Redemptions
+Where applicable redemption requests on any dealing day exceed ten per centum (10%) of the total number of units in 
+issue redemption requests in excess of the ten per centum (10%) may be deferred to the next dealing day provided the 
+Commission is notified in writing of such deferral.
+12. Front end fees and exit fees
+Where applicable 
+
+<!-- page 49 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+49a
+Appendix 4: Guidance on asset valuation and pricing
+General
+1. This Guidance relates to the calculation of a single price and Net Asset Value. Under this Code the managing Company 
+shall take all reasonable steps, and exercise due diligence, to ensure that the assets of the scheme is valued in accordance 
+with the law, the regulations and the trust deed.
+2. this Guidance sets out minimum standards of control in relation to the valuation of the assets of the scheme to which 
+the managing Company shall have regard in determining whether they have met their obligations.
+3. the managing Company shall take action forthwith to rectify any breach in respect of valuation. Where the breach relates 
+to the incorrect pricing of Units, rectification shall extend to the reimbursement or payment of money by the Managing 
+Company to unit Holders or former unit Holders or to the scheme as described in “Compensation on Incorrect Pricing” 
+under paragraphs 27 and 28.
+4. The Custodian or Trustee of the Scheme may direct that rectification need not extend to reimbursement where it appears 
+that the incorrect pricing is of minimal significance. This would only be appropriate where the Managing Company has 
+adequate controls in place.
+5. the price of a unit or share shall be calculated by valuing the assets of the scheme attributable to units / shares and 
+dividing that value by the number of units / shares in issue. all the assets of the scheme shall be valued at each valuation 
+point and any part of the assets of the scheme which is not an investment shall be valued at fair value.  the commision 
+expects a managing Company to agree on its methodology for valuing the assets of the scheme with the trustees of the 
+scheme and the Custodian and that the methodology in place is applied consistently.
+6. In respect of securities quoted on an Exchange:
+(i) the trust deed of the scheme shall set out the valuation policy that will be adopted by the managing Company 
+where a single price for buying and selling a Security is quoted; and also where separate buying and selling 
+prices are quoted on an Exchange. Either the official mid-market price or the closing price shall provide an 
+appropriate basis of valuation for the scheme. the managing Company shall, however, document the choice 
+of methodology and ensure that the procedures are applied consistently and fairly; and
+(ii) where there has been no recent trade in the security concerned, or no reliable price exists, an Investment shall 
+be valued at a price which, reflects a fair and reasonable price for that investment. For example, a Managing 
+Company may obtain a valuation from three (3) experienced stock Brokers and average the value. In such 
+cases, managing Company is required to document the reasons for its decision and shall be prepared to justify 
+any assumptions made.
+7. Where instances of incorrect pricing occur, the de minimis provisions set out in this guidance shall apply only where the 
+managing Company and the trustees of the scheme are able to meet the standards set out in this guidance. Evidence 
+of persistent or repetitive errors, or errors consistently in the Managing Company’s favor, are likely to make it more 
+difficult for the Managing Company to demonstrate that it is able to meet the standards in this guidance.
+Pricing controls by the managing Company
+8. unit prices in scheme valuations shall be up to date and from a reputable source. the reliability of the source of prices 
+and rates shall be kept under regular review, and the use of doubtful prices or rates shall be followed up.
+
+<!-- page 50 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+50a
+9. the mere use of a source for prices does not amount to delegation. However, the use of a third party to carry out the 
+pricing function, whether it is an associate of the managing Company, or the director of the scheme or any independent 
+third party, amounts to outsourcing. In this case the managing Company still retains its operating responsibilities and 
+duties and, remains liable for the acts and omissions of that third party in performing the pricing functions as if they 
+were the acts or omissions of the managing Company. the managing Company shall ensure that the third party contracts 
+to provide the service on a basis which takes account of the Managing Company’s responsibilities which require the 
+scheme to be priced in accordance with this Code and the trust deed of the scheme and rules.
+10. Where the pricing function is outsourced, the managing Company is required, to satisfy itself that the pricing agent 
+remains competent to carry out the function, and that he has taken reasonable care to ensure that the pricing agent has 
+carried out his duties in a competent manner.
+11. The Managing Company shall seek assurance that the pricing agent’s system is robust and will produce accurate results. 
+The Managing Company shall review the outputs from the system at least annually, and on any significant system change. 
+In addition, if the pricing agent is also responsible for calculation of dealing prices of units, the managing Company 
+shall ensure that this system is reviewed to its satisfaction at least annually.
+12. unless the valuation and record keeping systems are integrated, the valuation output shall be agreed with the managing 
+Company’s records of a Scheme at each valuation point. In addition, the Managing Company’s records, including debtors 
+and creditors, shall be agreed with a Trustee’s / Custodian’s records at least monthly, with reconciling items followed 
+up promptly with debtors reviewed for recoverability.
+13. Systems shall be in place whereby all transactions are confirmed in writing or by electronic means to the Managing 
+Company [or to a pricing agent as quickly as possible]. It is desirable that all deals to which the Scheme is committed, 
+which have been notified, at most, one hour before a valuation, are included in that valuation, at estimated prices if 
+necessary. Unless, however, there is likely to be significant movement in a price of a Unit, it is more important that an 
+accurate cut-off procedure is in place to ensure that omissions or duplications do not take place, than it is to ensure that 
+estimates are included in a valuation.
+14. Where prices are obtained otherwise than from the main pricing source (e.g. unquoted, suspended, or illiquid stocks), 
+the managing Company shall maintain a record of the source and basis for the value placed on the investment. these 
+shall be regularly reviewed.
+15. a system shall be in place to ensure that investment and borrowing powers which are contained in the trust deed of the  
+Scheme and KIID  are not breached, and that if breaches occur they are identified and rectified.
+16. a system shall be in place to ensure that dividends are accounted for as soon as stocks are quoted ex-dividend, unless, 
+it is prudent to account for them only on receipt. Fixed dividends and interest shall be accrued at each point unless the 
+level of materiality makes a longer interval appropriate. similar considerations apply to the expenses of the scheme.
+17. the managing Company shall ensure periodically that any charge which is levied on a unit Holder for dilution has been 
+calculated in accordance with the methodology which has been disclosed in the trust deed.
+18. the managing Company shall set a percentage or absolute limit for certain key elements of the valuation, such that any 
+movement outside these limits is investigated. the process for the investigation and a report of its outcome shall be in 
+writing and evidenced by an appropriate signature. these key elements could, where relevant, include the movement of 
+the overall price of the scheme against relevant markets, the movement of the prices and values of individual stocks, and 
+accrual figures for income, expenses, and tax. In addition, prices which appear not to have changed after a fixed period 
+of time shall be investigated, since this may be the result of a price movement having been missed.
+
+<!-- page 51 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+51a
+19. Cash shall be reconciled to the bank account regularly, with outstanding items promptly followed up, and a full 
+reconciliation sent to the trustees of the scheme monthly.
+20. Controls shall be in place to ensure that the correct number of units in issue is recorded at each valuation point. this 
+shall be reconciled with the unit Holder register at least monthly.
+21. A copy of the valuation shall be sent to the Trustee at least weekly. It shall specifically check that the correct securities 
+are recorded.
+Incorrect pricing
+22. the managing Company shall record each instance where the unit price is incorrect and, as soon as the error is discovered, 
+report the fact to the trustees of the scheme together with details of the action taken, or to be taken, to avoid repetition.
+23. the managing Company and or trustees shall if they become aware, report material instances of incorrect pricing to the 
+Commission. materiality shall be determined by taking into account a number of factors, including whether the managing 
+Company has followed the pricing controls set out in this guidance.
+24. The significance of any breakdown in management controls or other checking procedures shall also be taken into account. 
+The significance of any failure of systems shall be considered. This may include situations where inadequate back-up 
+arrangements exist. The duration of an error shall also be taken into account; the longer an error persists, the more likely 
+that it will have a material effect on a price.
+25. The level of compensation paid to Unit Holders, and the Managing Company’s ability (or otherwise) to meet claims for 
+compensation in full, may also be relevant.
+26. the managing Company shall also report to the Commission forthwith any instance of incorrect pricing where the error 
+is greater than 1.0% of the price of a Unit, but where the Managing Company and or Trustees believe that compensation 
+is inappropriate and shall not be paid by the managing Company and the reasons for that belief.
+Action to be taken as regards compensation for incorrect pricing
+27. Prices found to be incorrect by less than 1.0%
+(a) Where the dealing price of any Unit of a Scheme is found to be incorrect by less than 1.0% of the price of a Unit 
+of a scheme, compensation to unit Holders will not normally be required.
+(b) Where an issue or cancellation of Units has taken place at a price which is incorrect by less than 1.0% of the price 
+of a unit of a scheme, compensation to or from the scheme will not normally be required.
+28. Where the dealing price of any Unit of a Scheme is found to be incorrect by 1.0% or more of the price of a Unit of a 
+scheme, compensation to unit Holders will normally be required. 
+
+<!-- page 52 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+52a
+SUmmARY OF ASSET v ALUATION BASES
+Type of Asset valuation method
+Cash at face value
+repurchase agreements and Deposits 
+with financial institutions.
+shall be valued at cost plus accrued interest basis.
+Government securities On a marked to market basis using the daily yield curve published by the 
+Central Bank of sri Lanka until maturity.
+Corporate Bonds traded on a recog-
+nised market
+shall be valued at the last traded price. Where there is no trade for thirty 
+(30) calendar days, it shall be valued on a marked to market basis using the 
+daily yield curve published by the Central Bank of sri Lanka until maturity 
+plus any risk premium attached to the instrument. 
+Unquoted fixed income securities as 
+Commercial Papers, Trust Certificates 
+maturities less than 397 days shall be valued on a cost plus accrued basis. 
+maturities more than 397 days shall be valued on a marked to market basis 
+using the daily yield curve released by the Central Bank of sri Lanka until 
+maturity plus any risk premium attached to the instrument.
+risk premium the risk premium for valuation of unquoted and quoted debt securities 
+shall continue to be calculated as the difference between the yield on 
+the corporate debt and the yield on the government security of a similar 
+maturity at the time of investing. 
+Equity securities traded regularly on a 
+recognised market
+At the day’s volume weighted average price or the market price available 
+immediately prior to the valuation point.
+Derivatives traded on a recognised 
+market
+At the day’s closing market price or the market price available 
+immediately prior to the valuation point.
+Equities traded irregularly or traded on 
+an unofficial or OTC market
+Cost (price paid by scheme) or the most recent traded price provided this was 
+a genuine price resulting from several unconnected deals and not simply one 
+trade or several trades by connected parties or quotes from stock Brokers. 
+unquoted Equity securities Estimated value.
+Estimation methods are:
+(a) Using a fixed multiple of earnings (the P/E ratio) and discounting;
+(b) Comparing with a traded share and applying a discount;
+(c) The company’s net asset value e.g. in the case property companies
+Estimated value to be calculated using estimation method (a) or (b). 
+However, in the event estimation methods (a) and (b) are unavailable, 
+then method (c) could be utilized. 
+Property (real estate) Independently estimated market value reviewed by a panel of Valuers  
+approved by the Commission. 
+
+<!-- page 53 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+53a
+Appendix 5: Guidelines in respect of money market Schemes
+1. Scope
+(1) this appendix applies to a scheme which invests primarily in short term debt securities and money market instruments 
+or places deposits with licensed commercial banks or licensed finance companies. 
+(2) this appendix does not apply to schemes which invest in debt securities and money market instruments or places 
+deposits with licensed commercial banks or licensed finance companies as part of a diversified portfolio and those 
+whose objectives is to invest in riskier and higher yielding debt securities. 
+2. Name and description of Scheme
+(1) the name of a money market scheme shall not appear to draw parallel with the placement of cash on deposit.
+(2) a scheme which does not comply with the guidelines in this appendix shall not hold itself out as a money market 
+scheme in any communication, including marketing material, relating to the scheme. such a scheme shall not 
+adopt the term “money market” as part of its name, or a name that suggests that it is a money market scheme or 
+the equivalent of a money market scheme.
+(3) a scheme which adopts the term “short-term money market scheme” as part of its name or has a name that suggests 
+that it is the equivalent of a short-term money market scheme, or which holds itself out as a short-term money 
+market scheme in any communication, including marketing material, relating to the scheme, shall comply with 
+paragraphs 5(1), 5(2) and 5(3) of this appendix. 
+(4) For the avoidance of doubt, a short-term money market scheme shall comply with all other provisions in this 
+appendix.
+3. Permissible investments 
+(1) For the purpose of this Appendix, a Money Market Scheme’s underlying investment shall only consist of the following:
+(a) treasury bills and repurchase agreements on government securities with a maturity of less than 397 days;
+(b) treasury bonds with a remaining term to maturity of less than 397 days;
+(c) deposits with banks and finance companies licensed by the Central Bank of Sri Lanka with a maturity of less 
+than 397 days;
+(d) commercial papers issued by listed or rated corporate entities with a maturity of less than 397 days;
+(e) listed corporate debentures with a remaining term to maturity of less than 397 days;
+(f) asset-backed securities issued by a listed or rated corporate entity with a remaining maturity of less than 397 
+days; or
+(g) repurchase agreements on listed corporate debt securities and unlisted short term corporate debt securities, 
+such as commercial papers and asset back securities, where such agreements can have a maximum tenure of  
+91 days. No rollovers are permitted beyond 91 days. 
+(2) For the purpose of paragraph 3(1) of this appendix:
+
+<!-- page 54 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+54a
+(a) “listed” refers to the listing of the entity or instrument at an Exchange licensed by the Commission.
+(b) “rated” refers to ratings issued by any Credit rating agency licensed by the Commission.
+4. Spread of investments and exposure limit
+(1) a money market scheme shall have the following investment limits:
+(a) short-term debt instruments
+(i) single exposure limit of 15% of the NA V or less with a rated entity;
+(ii) single exposure limit of 10% of the NA V or less with a listed but not rated entity;
+(iii) single exposure limit of 15% of the NA V or less if the instrument is endorsed or guaranteed by a Com-
+mercial Bank licensed by the Central Bank of sri Lanka or any other party acceptable to the Commission 
+(b) Bank deposits
+(i) single exposure limit of 25% of the NA V or less with a Bank licensed by the Central Bank of Sri Lanka. 
+No limit is applicable on investments in treasury bills, treasury bonds (with a remaining term to maturity 
+of less than 397 days) and repurchase agreements on government securities. 
+(c) Group limit
+(i) aggregate investments in, or exposure to a group of entities through:
+a. corporate debt securities, such as commercial papers, asset-backed securities and listed corporate 
+debentures (with a remaining term to maturity of less than 397 days); and
+B. repurchase agreements on listed corporate debentures,
+shall not exceed 25% of the Money Market Scheme’s NA V (group limit). For the purpose of this 
+paragraph, a group of entities refers to an entity, its subsidiaries, fellow subsidiaries and its holding 
+company.
+(d) short-term deposits
+(i) the group limit does not apply to placements of eligible deposits arising from:
+A.	 subscription monies received at any point in time pending the commencement of investment by 
+the money market scheme; or
+B.	 liquidation of investments prior to the termination or maturity of a money market scheme, where 
+the placing of these monies with various institutions would not be in the interests of participants.
+(2) a money market scheme shall not, 
+(a) invest in any securities with a maturity of more than 397 days.
+(b) invest in any buy and sell back arrangements.
+5. Liquidity levels and average portfolio maturity of investments
+(1) a money market scheme shall maintain the following liquidity levels:
+(a)  5% of its NA V maturing on an overnight basis;
+(b)  10% of its NA V maturing on a weekly basis;
+
+<!-- page 55 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+55a
+(c)  20% of its NA V maturing on a monthly basis.
+(2) A Money Market Scheme shall not hold more than 30% of its net assets in investments that cannot be sold or dis-
+posed of in the ordinary course of business within seven (7) calendar days at approximately the value placed on it 
+by the scheme.  
+(3) a money market scheme shall maintain a dollar-weighted average portfolio maturity that does not exceed 210 cal-
+endar days. The dollar-weighted average portfolio maturity shall be calculated based on each investment’s remaining 
+term to maturity and weighted based on the total NA V of the Scheme.
+(4) Limits stated above under paragraph 5 (1) to (3) are subject to change based on directives issued under the sEC 
+act from time to time. 
+6. Downgrade in rating or in the event of default 
+Where:
+(a) a non-deposit investment ceases to be of high quality;
+(b) there is a default with respect to a permissible investment in the portfolio of the Money Market Scheme; or
+(c) an event of insolvency occurs with respect to the issuer of a non-deposit investment in the portfolio of the 
+money market scheme.
+*The Managing Company shall within one (1) month from the date of the specified event dispose of such 
+non-deposit investment or withdraw such deposit unless the Managing Company has satisfied the Trustee that it 
+is not in the best interest of the participants to do so, in which case, such disposal or withdrawal shall be carried 
+out as soon as the circumstances permit or as soon as it is not commercially punitive. such extension shall be 
+subject to monthly review by the trustee.
+7. Disclosure requirements in the KIID:
+The KIID of a Money Market Scheme shall include the following:
+(a) A description of the instruments the Scheme intends to invest;
+(b) A description of the minimum rating of the issuer with whom the Scheme will make investments;
+(c) A description of how the Scheme intends to maintain the liquidity limits prescribed by the Commission;
+(d) the valuation policy adopted by the scheme for every type of authorised investment the scheme intends to 
+invest; and
+(e) a description of the contingency plan in the event that the redemption needs exceeds the liquidity limits main-
+tained by the scheme.
+8. Semi-annual and annual reports 
+The Money Market Scheme’s semi-annual and annual reports shall contain disclosures on the term to maturity profile 
+of the Money Market Scheme’s underlying investments, such as the distribution of investments grouped by similar 
+maturities. 
+    9. Redemption of investments  
+all money market schemes which value their investments on a cost plus accrued basis (amortised cost method) shall 
+have the following in place:
+(a) the managing Companies shall establish sound policies and procedures to monitor its investors aimed at identifying 
+patterns in the investors’ liquidity needs.
+(b) the managing Companies shall have tools / measures to deal with exceptional market conditions and substantial 
+redemption pressures.
+
+<!-- page 56 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+56a
+Appendix 6: Guidance on Conflicts of Interests
+1. Identifying conflicts
+ A Managing Company shall take all appropriate steps to identify and to prevent or manage conflicts of interest 
+between:
+ (a) the managing Company, including its employees and appointed representatives or any person directly or indirectly 
+linked to them by control, and a Unit Holder of a Scheme operated by the Managing Company; or
+ (b) unit Holders of a scheme operated by a managing Company and a client to whom the managing Company provides 
+any other services under a separate license;
+ that arise or may arise in the course of the managing Company providing any service.
+2. Types of conflict
+	( a)	 For the purposes of identifying the types of conflicts of interest that arise, or may arise, in the course of providing 
+a service and whose existence may damage the interests of unit Holders, a managing Company shall take into account, 
+as a minimum, whether the managing Company or a relevant person, or a person directly or indirectly linked by control 
+to the managing Company:
+(i) is likely to make a financial gain, or avoid a financial loss, at the expense of the Unit Holders;
+(ii) has an interest in the outcome of a service provided to the unit Holders  or of a transaction carried out on behalf of 
+a client, which is distinct from the Unit Holder's interest in that outcome;
+(iii) has a financial or other incentive to favour the interest of a particular Unit Holder or class of Unit Holder’s over the 
+interests of all the Unit Holders; or
+(iv) receives or will receive from a person other than the client an inducement in relation to a service provided to the 
+unit Holder , in the form of monies, goods or services, other than the standard commission or fee for that service.
+	( b)	 The conflict of interest may result from the Managing Company or person providing a service or engaging in any 
+other activity or, in the case of a managing Company, whether as a result of providing the scheme, management services 
+or otherwise.
+	( c)	 The circumstances which shall be treated as giving rise to a conflict of interest cover cases where there is a conflict 
+between the interests of the managing Company or certain persons connected to the managing Company or its group 
+and the duty the Managing Company owes to a Unit Holder; or between the differing interests of two or more of its Unit 
+Holders, to whom the managing Company owes in each case a duty. 
+	( d)	 It is not enough that the Managing Company may gain a benefit if there is not also a possible disadvantage to a Unit 
+Holder, or that one unit Holder to whom the managing Company owes a duty may make a gain or avoid a loss without 
+there being a concomitant possible loss to another such unit Holder.
+3. Records of conflicts
+a managing Company shall keep and regularly update a record of the kinds of service or activity carried out by or on 
+behalf of that managing Company in which a conflict of interest entailing a material risk of damage to the interests of 
+one or more unit Holders has arisen or, in the case of an ongoing service or activity may arise.
+
+<!-- page 57 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+57a
+4. Managing conflicts
+a managing Company shall:
+ (a) maintain and operate effective organisational and administrative arrangements, with a view to taking all reasonable 
+steps designed to identify, prevent, manage and monitor conflicts of interest in order to prevent them from adversely 
+affecting the interests of the Unit Holders;
+ (b) segregate, within its own operating environment, tasks and responsibilities which may be regarded as incompatible 
+with each other or which may potentially generate undue conflicts of interest; 
+ (c) assess whether its operating conditions may involve any other material conflicts of interest and disclose them to 
+the unit Holders.
+5. Disclosure of conflicts
+(a)	 If the organisational arrangements made by the managing Company to identify, prevent, manage and monitor 
+conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to Unit Holders'  
+interests will be prevented, the managing Company shall :
+(i) clearly disclose the general nature or sources of conflicts of interest to the Unit Holders before undertaking 
+business on their behalf; 
+(ii) the steps taken to mitigate those risks; and
+(iii) develop appropriate policies and procedures.
+(b)	 the disclosure shall :
+(i)	 be made in a written form in the KIID or electronic or otherwise;
+(ii)	 clearly state that the organisational and administrative arrangements established by the managing Company 
+to prevent or manage that conflict are not sufficient to ensure, with reasonable confidence, that the risks of 
+damage to the interests of the Unit Holders  will be prevented;
+(iii)	include specific description of the conflicts of interest that arise in the provision of investment services or 
+ancillary services;
+(iv)	explain the risks to the client that arise as a result of the conflicts of interest; and
+(v)	 include sufficient detail, taking into account the nature of the Unit Holder , to enable that Unit Holder to 
+take an informed decision with respect to the service in the context of which the conflict of interest arises.
+(c)	 Managing Companies shall aim to identify and manage the conflicts of interest arising in relation to their various 
+business lines and their group's activities under a comprehensive conflicts of interest policy. In particular, the 
+disclosure of conflicts of interest by a Managing Company shall not exempt it from the obligation to maintain 
+and operate the effective organisational and administrative arrangements to manage conflicts. 
+(d)	 A Managing Company shall treat disclosure of conflicts pursuant to this part as a measure of last resort to be 
+used only where the effective organisational and administrative arrangements established by the company to 
+prevent or manage its conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of 
+damage to the interests of the unit Holders will be prevented.
+6. Conflicts policy
+(a)	 A Managing Company shall establish, implement and maintain an effective conflicts of interest policy that is 
+set out in writing and is appropriate to the size and organisation of the managingCompany and the nature, scale 
+and complexity of its business.
+
+<!-- page 58 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+58a
+(b)	 Where the managing Company is a member of a group, the policy shall also take into account any circumstances, 
+of which the Managing Company is or shall be aware, which may give rise to a conflict of interest arising as a 
+result of the structure and business activities of other members of the group.
+7. Contents of the conflicts policy
+(a)	 The conflicts of interest policy shall include the following content:
+(i) it  shall identify potential conflicts by reference to the specific services and activities carried out by or 
+on behalf of the Managing Company, the circumstances which constitute or may give rise to a conflict of 
+interest entailing a material risk of damage to the interests of one or more Unit Holders; and
+(ii) it shall specify procedures to be followed and measures to be adopted in order to manage such conflicts.
+(b)	 the procedures and measures provided for in paragraph (a)(ii) shall:
+(i) be designed to ensure that relevant persons engaged in different business activities involving a conflict 
+of interest of the kind specified in paragraph (a)(i) carry on those activities at a level of independence 
+appropriate to the size and activities of the company and of the group to which either of them respectively 
+belongs, and to the materiality of the risk of damage to the interests of Unit Holders ; and
+(ii) include such of the following as are necessary and appropriate for the managing Company to ensure the 
+requisite degree of independence:
+(a) effective procedures to prevent or control the exchange of information between relevant persons 
+engaged in activities involving a risk of a conflict of interest where the exchange of that informa-
+tion may harm the interests of one or more Unit Holders ;
+(B) the separate supervision of relevant persons whose principal functions involve carrying out ac-
+tivities on behalf of, or providing services to, Unit Holders  whose interests may conflict, or who 
+otherwise represent different interests that may conflict, including those of the Managing Company;
+(C) the removal of any direct link between the remuneration of relevant persons principally engaged 
+in one activity and the remuneration of, or revenues generated by, different relevant persons 
+principally engaged in another activity, where a conflict of interest may arise in relation to those 
+activities;
+(D) measures to prevent or limit any person from exercising inappropriate influence over the way in 
+which a relevant person carries out services or activities; and
+(E) measures to prevent or control the simultaneous or sequential involvement of a relevant person 
+in separate services or activities where such involvement may impair the proper management of 
+conflicts of interest.
+(c)	 If the adoption or the practice of one or more of those measures and procedures does not ensure the requisite 
+level of independence, a company shall adopt such alternative or additional measures and procedures as are 
+necessary and appropriate for the purposes of paragraph (a)(ii).
+(d)	 In drawing up a conflicts of interest policy which identifies circumstances which constitute or may give rise 
+to a conflict of interest, a managing Company shall pay special attention to the activities of managing invest-
+ments, proprietary trading,  management of a  Scheme and corporate finance business, including underwriting 
+or selling in an offering of securities and advising on mergers and acquisitions. In particular, such special 
+attention is appropriate where the managing Company or a person directly or indirectly linked by control to 
+the managing Company performs a combination of two or more of those activities.
+
+<!-- page 59 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+59a
+8. Conflict Rules relating to investment management
+The guidance relating to types of conflict, records of conflicts, and conflicts of interest policies also apply to a Managing 
+Company when it manages private portfolios under an Investment Manager’s license. 
+9. Chinese walls
+(a)	 When a managing Company establishes and maintains a chinese wall (that is, an arrangement that requires 
+information held by a person in the course of carrying on one part of the business to be withheld from, or not 
+to be used for, persons with or for whom it acts in the course of carrying on another part of its business) it may:
+(i) withhold or not use the information held; and
+(ii) for that purpose, permit persons employed in the first part of its business to withhold the information held 
+from those employed in that other part of the business;
+but only to the extent that the business of one of those parts involves the carrying on of activities regulated by the 
+Commission .
+(b)	 Information may also be withheld or not used by a managing Company when this is required by an established 
+arrangement maintained between different parts of the business (of any kind) in the same group. 
+(c)	 For the purpose of this guidance "maintains" includes taking reasonable steps to ensure that the arrangements 
+remain effective and are adequately monitored and shall be interpreted accordingly.
+10. Attribution of Knowledge
+When a Managing Company manages a conflict of interest using the arrangements which take the form of a chinese wall, 
+individuals on the other side of the wall will not be regarded as being in possession of knowledge denied to them as a result 
+of the chinese wall.
+
+<!-- page 60 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+60a
+Appendix 7: Guidance on Complaints handling
+this Guideline prescribes the complaints handling procedures that are required to be maintained by a managing Company 
+of a scheme.
+(1) Complaints management policy
+a managing Company shall ensure that a complaints management policy is set out in a written document. this policy 
+shall be defined and endorsed by the board of directors of a Managing Company, which shall be responsible for its im-
+plementation and for monitoring compliance with it. 
+the complaints management policy shall be made available to all relevant staff of the managing Company.
+(2) Complaints management function
+a managing company shall have in place a complaints management function which enables complaints to be investigated 
+fairly and possible conflicts of interest to be identified and mitigated.
+(3) Registration
+a managing Company shall maintain a register in which every complaint and the action taken in its regard is recorded. 
+such register shall include for each complaint, the date on which it was received and the date on which it was resolved. 
+the Commission may at any time require the register to be produced for its review. 
+(4) Reporting
+a managing Company shall provide information on complaints and complaints handling to the Commission as and when 
+required. this information shall cover the number of complaints received, differentiated as appropriate or as indicated 
+in any criteria that the Commission may from time to time establish. 
+(5) Internal follow-up of complaints handling
+a managing Company shall analyse complaints handling data on an on-going basis in order to ensure that they identify 
+and address any recurring or systemic problems and any potential legal and operational risks by, for instance, carrying 
+out the following:-
+(a) analysing the causes of individual complaints so as to identify root causes common to types of complaint;
+(b) Considering whether such root causes may also affect other processes or products, including those not directly 
+complained of; and
+(c) Correcting, where reasonable to do so, such root causes.
+(6) Provision of information
+a managing Company shall:
+(a) On request or when acknowledging receipt of a complaint, provide written information regarding their com-
+plaints handling process;
+(b) Publish details of their complaints handling process in an easily accessible manner (for example, in brochures 
+or via managing Company’s website);
+
+<!-- page 61 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'05'07
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 07.05.2022
+61a
+(c) Provide clear, accurate and up-to-date information about the complaints-handling process including,
+(i) details of  how to make a complaint (for example, the type of information to be provided by the complainant 
+and the identity and contact details of the person or the division to whom the complaint shall be directed); 
+and
+(ii) the process that will be followed when handling a complaint ( for example, when the complaint will be 
+acknowledged, an indication of handling timelines and the availability of any alternative dispute resolution 
+mechanisms in the case that a dispute remains unresolved).
+(d) Keep the complainant informed about further handling of the complaint. 
+(7) Procedures for responding to complaints
+(a) a  managing Company shall, in writing, acknowledge receipt of any complaint within seven (7) days of such receipt 
+and shall also provide confirmation of the following:
+(i) The Managing Company shall investigate the complaint;
+(ii) the managing Company shall, on completion of the investigation and without unnecessary delay, write to 
+the complainant concerning the outcome of the investigation and describing its proposed course of action; 
+and
+(iii) If the investigation is not completed within one (1) month of receipt of the complaint, the managing company 
+shall inform the complainant of such fact within seven (7) business days from the end of that period.
+(b) Where a complaint is made orally, the managing Company shall make a summary of the complaint and request the 
+complainant to confirm in writing the said summary;
+(c) the managing Company shall seek to gather and investigate all relevant evidence and information regarding the 
+complaint;
+(d) Where the investigation of a complaint is not completed within one (1) month from receipt of the complaint, the 
+managing Company shall, in the communication referred to in point (iii) of point (a) above:
+(i) Inform the complainant about the cause of the delay; and
+(ii) Provide an indication as to when the investigation is likely to be completed
+(e) When providing a final decision that does not fully satisfy the complainant’s demand, the Managing Company shall 
+provide a thorough explanation of the Managing Company’s position on the complaint.
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING,  SRI LANKA.
