@@ -7,6 +7,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-58",
+    "date": "2025-07-18",
+    "description": "Dept. of Local Government - Eastern Province Notice Under Section 66 (C) Summon the meeting fill the Vacancy for the Post of Lahugala Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-21",
     "date": "2025-07-18",
     "description": "2445/21"
@@ -67,9 +73,21 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-48",
+    "date": "2025-07-17",
+    "description": "Minister of Public Administration Provincial Council and Local Government Appointments Under the Notaries Ordinance."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-47",
     "date": "2025-07-17",
     "description": "Department of Local Government - Western Province - Notice under Section 66C(1) Appointed Chairman and Vice Chairman of 03 L.G. Institutions"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-46",
+    "date": "2025-07-17",
+    "description": "Dept. of Local Government - NWP Notice Under Section 66C (4) Appointed Chairman and Vice Chirman to the 02 L.G. Institutions"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -580,23 +598,5 @@
     "id": "2442-57",
     "date": "2025-06-27",
     "description": "Dept. of Local Government - Western Province Appointed Mayor, Deputy Mayor  Chairman and Vice Chairman for Local Government Institutions"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-27-list-of-jurors",
-    "date": "2025-06-27",
-    "description": "List of Jurors"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-27-legal-section",
-    "date": "2025-06-27",
-    "description": "Legal Section"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-06-27-land-section",
-    "date": "2025-06-27",
-    "description": "Land Section"
   }
 ]
