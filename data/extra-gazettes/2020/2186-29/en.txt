@@ -1,0 +1,3119 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+1A
+w;s úfYI
+wxl 2186$29 - 2020 cQ,s ui 31 jeks isl=rdod - 2020'07'31
+No. 2186/29 - FRIDAY ,  JULY 31, 2020
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government  Notiﬁ cations
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  1A-  G  032325 — 67 (07/2020)
+THE SECURITIES AND EXCHANGE COMMISSION OF SRI LANKA ACT, No. 36 OF 1987 
+RULES made by the Securities and Exchange Commission of Sri Lanka, in terms of Sections 53 and  13 of the 
+Securities and Exchange Commission of Sri Lanka Act, No. 36 of 1987 
+                                                                       V IRAJ DAYARATNE, PC,
+ Chairman,
+ Securities and Exchange Commission of Sri Lanka.
+Colombo,
+31st July, 2020.
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+2A
+SEC (REITs) Regulations, No. 1, 2020
+Rules
+1. These Rules may be cited as the Unit Trust Code for Sri Lanka Real Estate Investment Trusts, No. 1 of 2020
+PART I
+GENERAL
+Interpretation 1 In these Rules unless the context otherwise requires  
+“annual report and accounts” means in relation to a SL-REIT a report on the operations, ﬁ nancial 
+performance and ﬁ nancial condition of such a SL-REIT during an accounting year and shall include 
+the auditor’s report;
+“approved accounting standards” has the meaning assigned to it in the Sri Lanka Accounting 
+Standards;
+“CBSL” means the Central Bank of Sri Lanka;
+“CSE listing requirements” means the listing requirements of the Colombo Stock Exchange; 
+“Explanatory Memorandum” means the document containing information of a SL-REIT inviting 
+members of the public to subscribe to or purchase units in the SL-REIT;
+“ﬁ nancial institution” means a commercial bank licensed by the Central Bank of Sri Lanka or any 
+other ﬁ nancial institution licensed/registered by the SEC; 
+“general public” means the general public within or outside Sri Lanka;
+“immovable property” means land, and any constructions and work of a permanent nature  standing 
+thereon and anything forming an integral part thereof;
+“independent person” means a person who is free of any relationship with the managing company 
+or a controlling shareholder of the managing company or with the unit holders or with the assets of 
+the fund that would otherwise interfere with the member’s exercise of independent judgment. The 
+following persons shall not be deemed to be independent:-
+(a) An of ﬁ cer of the Managing Company excluding its non-executive director
+(b) An of ﬁ cer of the trustee of the SL- REIT
+(c) An of ﬁ cer of any body corporate or unincorporated body that has the power to appoint or 
+make recommendations  towards the appointment of members to the investment committee 
+of the SL-REIT
+(d) A close family member of an of ﬁ cer of the Managing Company or trustee of the SL-REIT
+(e) A person representing or seen to be representing anybody corporate or un incorporate with 
+a controlling interest in the managing company; or
+(f) A person who, within six months prior to his appointment as an independent member, has 
+derived any remuneration or bene ﬁ t, other than retirement bene ﬁ t, from the Managing 
+Company or anybody corporate or un incorporate that has the power to appoint or make 
+recommendations towards the appointment of members of the board of directors of the 
+Managing Company or to the members of the investment committee of the SL-REIT.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+3A
+SEC (REITs) Regulations, No. 1, 2020
+“IPO” means Initial Public Offer;
+“key management personnel” means directors, chief executive ofﬁ cer, compliance ofﬁ cer, property 
+manager, project manager, designated person or member of the investment committee;
+“local equity” means equity provided by the citizens of the Democratic Socialist Republic of Sri 
+Lanka in a Managing Company of a Unit Trust intending to manage a SL-REIT;
+“major modiﬁ cation” means modiﬁ cations of the value not exceeding 25% of the value of the 
+building in terms of the latest valuation;
+“major unit holder” means the person who holds the largest percentage of units;
+ “Managing Company” shall have the same meaning as given under the SEC Act No. 36 of 1987;
+“net asset value (NA V)”means the value of all the SL-REIT’s assets less the value of all the                            
+SL- REITS’s liabilities at the point of valuation; 
+“near cash” means investments such as bank/call deposits, re-purchase agreements with maturities 
+of less than three months, commercial paper endorsed or guaranteed by a licensed commercial bank 
+or licensed specialized bank with maturities of less than three months and government securities 
+including government bonds with maturities of less than one year which can be readily convertible 
+into cash;
+“non real-estate assets” means any other permitted investment other than real estate;
+“ordinary resolution” means a resolution passed by a simple majority of votes validly cast at a 
+meeting of unit holders;
+“property development activities” means an activity which involves a construction or an extension 
+of  a building or a modi ﬁ cation thereof or any other related activity pertaining to the existing real 
+estate property of a SL-REIT;
+ “real estate investment trust scheme” means a real estate investment scheme which aims to provide 
+the opportunity for investors to participate together in the scheme’s pro ﬁ ts or income and capital 
+gains arising from the acquisition, holding, a management or disposal of real estate or any other 
+property vested in the trustee or trust managed by the managing company for a speciﬁ ed fee;
+“real-estate” means income generating land and buildings including all things that naturally form 
+part and parcel of the land as well as things attached to the land both below and above the ground 
+and also including rights, interests and beneﬁ ts related to the ownership of the real estate. Such land 
+and buildings shall be fully completed and either fully or partially occupied. Real-estate shall also 
+include income generating infrastructure built or owned by the Government; 
+“related party” means:-
+(a) the managing company of a SL-REIT;
+(b) the trustee of a SL-REIT;
+(c) a major unit holder of a SL-REIT;
+(d) a director, chief executive of ﬁ cer or major shareholder of the managing company; or
+(e) close family members of the persons described in (d) above and subsidiaries and associate 
+companies or any other company   connected with any of the above
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+4A
+SEC (REITs) Regulations, No. 1, 2020
+“SL-REIT assets” means the assets of the SL- REIT including property; 
+“stock exchange” has the meaning assigned to it in the Securities and Exchange Commission of 
+Sri Lanka Act No. 36 of 1987; 
+“sponsor” means any person who transfers or leases property to a SL-REIT;
+“strategic investor” means any person who becomes a unit holder in a SL-REIT after the initial 
+setting up of a SL-REIT and who together with or without the sponsor will hold an aggregate 
+of not less than 30% and not more than 80% of the total units in issue of a SL-REIT; 
+“SEC” means the Securities and Exchange Commission of Sri Lanka;  
+“SL-REIT” means a Sri Lanka Real Estate Investment Trusts; 
+“Sri Lanka real estate investment trust (SL-REIT)” means a unit trust that invests or proposes to 
+invest primarily in income-generating real estate;
+“the property manager” means the person selected by the Managing Company, responsible for the 
+proper management of the real estate property vested in the SL-REIT;
+“the valuer” means the person selected by the trustee to value the SL-REIT’s assets;
+ “The SEC Act” means the Securities and Exchange Commission of Sri Lanka Act No. 36 of 1987;
+“unit holder in relation to a SL-REIT” means any person for the time being registered by the real 
+estate investment trust as a holder of a unit under such real estate investment trust; 
+Object of the Rules 2 These Rules provide the regulatory framework for Real Estate Investment Trusts in Sri Lanka 
+and the manner in which they will operate in Sri Lanka. 
+Regulatory 
+Framework
+3 (1) The SEC Act, Directives issued thereunder, these Rules, and Rules of a licensed Stock 
+Exchange shall form the regulatory framework for Real Estate Investment Trusts that shall 
+be listed in Sri Lanka. All parties to a Real Estate Investment Trust shall be governed by 
+the framework referred to herein and the regulatory requirements.
+  (2) Any person engaged in dealing, marketing and distributing (including issuance of 
+advertisements and promotional material) or online transactions/activities relating to 
+Real Estate Investment Trusts in Sri Lanka, shall observe and ensure compliance with 
+the regulatory framework referred to in Rule 3 and all other Laws applicable to property.
+Regulatory 
+authority
+4 The regulatory authority for the SL-REITs shall be the Securities and Exchange Commission 
+of Sri Lanka. 
+Exemptions and 
+variations
+5 In circumstances which the SEC deems exceptional, the SEC may on its own motion or upon 
+application made to it, grant exemptions or variations from compliance with any rule hereunder.
+Amendment of 
+these Rules
+6 The SEC may amend, vary or rescind any of these Rules in the same manner as these Rules 
+are made.
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+5A
+SEC (REITs) Regulations, No. 1, 2020
+Unit Trust Code 
+and Directives to 
+be followed
+7 Every person engaged in dealing, marketing and distributional activities for SL-REITS shall 
+follow the Unit Trust Code issued by Gazette Extraordinary No. 1723/4 dated September 12
+th 
+2011 and relevant directives that have been issued by the SEC, when issuing advertisements 
+and promotional material.
+8 A person shall not issue, offer for subscription or purchase, make an invitation to subscribe for 
+or purchase any units of a SL-REIT unless the Explanatory Memorandum and the Trust Deed 
+have been approved by the SEC.
+9 In the event that there is a con ﬂ ict between the provisions of these Rules or the Listing Rules 
+these Rules shall prevail. In the event that these Rules are silent on any matter pertaining to 
+the provisions in the Listing Rules, the SEC may issue directives to address the issue and such 
+Directives shall take precedence over the Listing Rules.
+                              PART II
+Establishment of a SL-
+REIT 
+10. A SL-REIT shall be a newly created REIT which may take the form of any one or 
+more of the following;
+(a) The purchase of a property with the intention of leasing residential or 
+commercial units of a building standing thereon for a certain period of time 
+and terminating the SL-REIT upon a subsequent sale of the property; 
+(b) The leasing of a property with the intention of sub-leasing residential or 
+commercial units of a building standing thereon for a certain period of time 
+and terminating the SL-REIT upon the expiry of the lease; 
+(c) Any other property which has been approved by the SEC upon terms and 
+conditions imposed by it.
+However, all buildings standing on the property purchased outright or obtained by 
+way of a lease as referred to above, shall be fully completed and no building which 
+is partially completed shall qualify hereunder.
+Provided that the newly created SL-REIT shall be structured in compliance with the 
+requirements of these Rules and shall have a life of more than ﬁ ve years from the 
+inception and shall be listed on a licensed Stock Exchange in Sri Lanka. 
+Provided further that once the SL-REIT is listed the unit holders may only exit from the 
+secondary market and shall not be entitled for redemption by the Managing Company 
+other than at the point of winding up or terminating the SL-REIT.  
+The real estate property of 
+a SL-REIT
+11. The real estate which shall form part of the assets of a SL-REIT shall;
+(1)  Where the real estate of the SL-REIT is to be owned by the SL- REIT-
+(a)  The property shall be transferred to the SL-REIT pursuant to the 
+veriﬁ cation of validity of the title deeds demonstrating clear title to the 
+property free of all encumbrances.
+(b) That all survey plans pertaining to the land including sub division plans 
+have been duly approved by the relevant authorities.
+(c)  That all buildings standing on the property have received all relevant 
+approvals, licenses and clearances for their design and construction from 
+the relevant authorities, Municipalities and or Provincial Councils.
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+6A
+SEC (REITs) Regulations, No. 1, 2020
+The real estate property of 
+a SL-REIT (Contd.)
+(d) That all rates and taxes have been duly paid to the relevant authorities.
+(e) That the real estate of the SL-REIT has, in accordance with these Rules, 
+been valued by a competent independent valuer.
+(f) Any other requirements that the SEC may specify from time to time
+(2) Where the real estate of the SL-REIT is to be leased to the SL-REIT:-
+(a) The property shall be leased to the Trust pursuant to a valid lease 
+agreement entered into with the owner of the property, who has 
+established his ownership and the right to lease such property with valid 
+title, free of all encumbrances and such lease agreement has authorized 
+the trust to enter into sub lease the buildings standing on the property. 
+The tenure of the lease entered into by the SL-REIT shall not be for a 
+period less than for the minimum period approved by the SEC. 
+(b) That all survey plans pertaining to the land including sub division plans 
+have been duly approved by the relevant authorities.
+(c) That all buildings standing on the property have received all relevant 
+approvals, licenses and clearances for their design and construction from 
+the relevant authorities, Municipalities and or Provincial Councils.
+(d) That all rates and taxes payable upto the point of lease have been duly 
+paid by the lessor to the relevant authorities.
+(e) The real estate of the SL-REIT has been valued by a competent 
+independent valuer acceptable to the SEC. 
+(f) The lessor shall be responsible for the payment of rates and taxes in 
+respect of the property during the tenure of the lease.
+(g) Any other requirements that the SEC may specify from time to time.
+Public Offers 12. (1) SL-REIT shall be established and marketed by way of public offer or by way of 
+private placement to investors within or outside Sri Lanka.
+          (2) SL-REIT which is to be established by way of public offer shall be listed and 
+traded on an exchange licensed by the SEC.
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+7A
+SEC (REITs) Regulations, No. 1, 2020
+PART III
+The Managing Company 13. (1)  A Managing Company shall not manage or operate a SL-REIT without ﬁ rst having 
+obtained a license from the SEC to operate such SL-REIT.
+(2) A Managing Company intending to operate and manage a SL-REIT shall be a body 
+corporate and shall provide in its Articles of Association: -
+(a) for the establishment and management of a SL-REIT ;
+(b) for the issuance, offering for subscription, making an invitation to 
+subscribe for or purchase units of the Real Estate Investment Trust; and 
+(c) for operating and administering the underlying asset of the Real Estate 
+Investment Trust.
+Eligibility Requirements 14. A Managing Company shall –
+(a) be a body corporate  incorporated in Sri Lanka;
+(b) ensure the Stated Capital of the body corporate consists of  50% or 
+more of local equity;
+(c) have a minimum Shareholders’ Funds of LKR 50 Million at all times;
+(d) have identi ﬁ ed the real estate which is to form the SL-REIT property 
+and shall have entered into an agreement with the sponsor either for 
+outright purchase or to lease which has been notarially executed; and
+(e) have entered into a trust agreement with a Trustee approved by the 
+SEC.
+Change of Managing 
+Company
+15. A Managing Company which has been granted a license to operate a SL-REIT shall only 
+be permitted to withdraw as the Managing Company in the following circumstances:-
+(a) due to a liquidation of the licensed Managing Company in accordance 
+with the provisions of the Company’s Act, No. 7 of 2007, and where 
+a corporate entity deemed suitable by the SEC has been nominated 
+prior to its liquidation;
+(b) a proposal has been made by  the Managing  Company to the SEC 
+to appoint an identiﬁ ed “nominated competent Managing Company” 
+which has more competencies and resources in managing REITs than 
+the existing company together with the consent of the nominated party. 
+In such an event the Managing Company shall prove to the satisfaction 
+of the SEC that the proposed entity has fulﬁ lled all required criteria of 
+the SEC in terms of the provisions of the SEC Act, Directives issued 
+thereunder, these Rules, and Rules of a licensed Stock Exchange to 
+become eligible to obtain a license from the SEC to operate the SL-
+REIT;
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+8A
+SEC (REITs) Regulations, No. 1, 2020
+Provided however, the services of a Managing Company shall not be terminated until 
+a new Managing Company which has been licensed to operate a SL-REIT has been 
+appointed by the Trustee with the prior approval of the SEC and written notice of the 
+termination and the appointment of the new Managing Company has been sent to 
+unit holders. The termination shall take effect at the same time as the new Managing 
+Company takes ofﬁ ce;
+(c) a new Managing Company may with effect from the date of its 
+appointment change the name of the SL-REIT at its discretion with 
+the consent of the SEC  and the Trustee.
+Reconstruction, 
+Amalgamation and Change 
+in Shareholding 
+16. Any reconstruction or amalgamation of a SL-REIT in which the Managing Company is 
+a party, or any change in the shareholding of the Managing Company shall, require the 
+prior approval of the SEC in order to ensure its continued eligibility to be a Managing 
+Company of a SL-REIT.
+Board of Directors 17. (1) (a)  The Board of Directors of a Managing Company shall comprise of at least 
+two independent directors whilst maintaining a minimum ratio of at least one-third 
+independent directors at all times. 
+(b) The Managing Company shall obtain from its directors an af ﬁ davit which 
+shall contain a declaration of their ﬁ tness and propriety to hold such position 
+(in the case of independent directors, a further declaration setting out their 
+independence) in the Managing Company and submit such af ﬁ davit to the 
+SEC and to the stock exchange on which the SL-REIT is listed; the afﬁ davit 
+shall be tendered:-
+ (i) at the time of submitting the application to the SEC to obtain a 
+license to operate a SL-REIT
+ (ii) before appointing a new director to the board of directors of the 
+Managing Company and
+ (iii) on an annual basis
+ 
+(c) The independent directors of a Managing Company shall, in addition to their 
+duties and responsibilities as directors, represent and safeguard the interest of 
+unit holders. In the event of a conﬂ ict between the best interest of the Managing 
+Company and those of the unit holders the latter shall prevail.
+(d) In the event the independence of the independent directors is impaired in any 
+manner the Managing Company shall report to the SEC immediately and also 
+make a disclosure to the stock exchange simultaneously.
+(2) The persons appointed shall–
+(a) be of good repute and standing as deemed by the SEC;
+(b) observe high standards of integrity and fair dealing in carrying out their 
+duties and responsibilities;
+(c) act with due skill, care and diligence in carrying out their duties and 
+functions in accordance with the SEC Act, Directives issued thereunder 
+and these Rules; and
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+9A
+SEC (REITs) Regulations, No. 1, 2020
+(d) possess the necessary quali ﬁ cations and demonstrable expertise and 
+experience particularly in the  ﬁ eld of managing REITS to perform their 
+duties and responsibilities in a ﬁ t and proper manner to ensure that  funds 
+of the unit holders are managed with utmost care.
+(3) It shall be the responsibility of the Managing Company to assess the ability of the 
+directors and ofﬁ cers to carry out the duties and responsibilities required of them.
+(4)  (a) Where any person becomes subject to any disqualiﬁ cation or becomes otherwise 
+unﬁ t to hold of ﬁ ce, the Managing Company shall ensure that such person 
+vacates the position immediately. 
+(b) The Managing Company shall notify the SEC forthwith of any disqualiﬁ cation 
+and when such position becomes vacant.
+(5) A director of a Managing Company shall not–
+(a) hold of ﬁ ce as a Director of more than one Managing Company at any one 
+time; nor
+(b) hold of ﬁ ce as a member of the investment committee of funds managed by 
+another Managing Company
+Chief Executive Ofﬁ cer 18. A Managing Company shall appoint a suitable person as a Chief Executive Of ﬁ cer 
+who shall be a full time ofﬁ cer.
+Requirement for 
+Explanatory Memorandum
+19. The Managing Company shall execute an Explanatory Memorandum in compliance 
+with the requirements set out in these Rules and shall contain details as to how the 
+SL-REIT is to be set up and operated and shall also contain disclosures which are 
+adequate in order to enable the investors to make informed investment decisions. 
+Duties of a Managing 
+Company
+20. (1) A Managing Company shall at all times carry out its duties and functions in 
+accordance with the SEC Act, Directives issued there under and these Rules; 
+       (2) The Managing Company shall ensure that the property sought to be transferred or 
+leased to the SL-REIT has valid title free of all encumbrances and that the transfer 
+or the lease of the property to the SL-REIT has been properly executed and that 
+the subsequent lease or rental agreements have been properly executed by or on 
+behalf of the SL-REIT.
+        (3)  In order to ensure that the property sought to be transferred or leased to a SL-REIT 
+is acceptable, the Managing Company and Trustee shall ensure that an Attorney at 
+Law who is also Notary Public with not less than ten years of notarial experience 
+shall examine the title of the property for the preceding 30 years.
+For this purpose, the Managing Company shall ensure that the following documents 
+are made available:-
+(a) original of the current owner’s deed or certi ﬁ cate of title;
+(b) latest approved survey or condominium plan;
+(c) other plans to cover the preceding 30 year and other related deeds to 
+cover the preceding 30 years unless the title originates from a partition 
+decree or grants issued by the Government of  Sri Lanka;
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+10A
+SEC (REITs) Regulations, No. 1, 2020
+(d) certi ﬁ ed extracts from the Land Registry evidencing encumbrances to 
+cover the preceding 30 years;
+(e) original approvals and certificates issued by the local authorities 
+including certiﬁ cates of ownership, certi ﬁ cates of non vesting, street 
+line and building line certiﬁ cates, notice of assessment for the current 
+year with receipt of tax paid for the full year, certiﬁ cate on sanctioned 
+building lines and certiﬁ cate on sanctioned street lines;
+(f) approved building plan and certi ﬁ cate of conformity;
+(g) certi ﬁ cate of approval by the local authority of the amalgamation or sub 
+division of the property;
+(h) bill of quantities prepared by chartered architects or engineers together 
+with the approved building plan in the case of major modi ﬁ cations 
+needing to be carried out; 
+(i) clearance from the National Environmental Authority;
+(j) ﬁ re insurance policy for the building; and
+(k) any other relevant title documents including letters of administration, 
+probates, afﬁ davits and death certiﬁ cates
+(4) A Managing Company shall operate the SL-REIT under its management and exercise 
+its obligations in accordance with the Trust Deed, Explanatory Memorandum, the SEC 
+Act, Directives issued thereunder, these Rules and all applicable laws of Sri Lanka.
+(5) The Managing Company shall adopt proper business practices in a timely manner in 
+carrying out its duties and functions
+(6) In carrying out its duties and functions a Managing Company shall:-
+(a) exercise the degree of care and diligence that a reasonable person would exercise 
+in the position of a Managing  Company
+(b) act in the best interests of unit holders and, if there is a con ﬂ ict between unit 
+holders’ interests and its own interests, give priority to the interests of unit holders;
+(c) not improperly make use of information acquired through being the Managing 
+Company to–
+(i)   gain an advantage for itself or other person; or
+(ii)   cause detriment to unit holders in the SL-REIT;
+(d) ensure that the trust’s property is–
+ (i) clearly identi ﬁ ed as the property of the trust; 
+ (ii) that the real estate of the trust property is free from all encumbrances; 
+and
+ (iii) held separately from the assets of the Managing Company and any 
+other funds managed by the Managing  Company; 
+(e)      (i)  establish and maintain risk management systems and controls to enable it 
+to identify, assess and mitigate risks in relation to the SL-REIT it operates 
+and manages;
+          (ii)  have adequate human resources with the necessary qualiﬁ cations, expertise 
+and experience to carry on business as a Managing Company of a SL-
+REIT; and
+       (iii)  have adequate and appropriate systems, procedures and processes to 
+undertake the business as a Managing Company of a SL-REIT in a proper 
+and efﬁ cient manner;
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+11A
+SEC (REITs) Regulations, No. 1, 2020
+(f) the Managing Company shall be;
+ (i) subject to the supervision and oversight of the Trustee;
+ (ii) comply with any instructions given by the Trustee; and
+(iii) accountable to the Trustee for any loss suffered by the SL-REIT as 
+a result of its failure to exercise the degree of care and diligence 
+required in operating and managing a SL-REIT;
+(g) ensure that its of ﬁ cers and employees do not make improper use of 
+information acquired during the course of their duties and functions to 
+gain an advantage for himself or another person or cause detriment to 
+the unit holders of the SL-REIT; 
+(h) ensure that the of ﬁ cers and employees comply with all duties and 
+obligations speciﬁ ed under the SEC Act, Directives issued thereunder, 
+these Rules, the Listing Rules of a licensed Stock Exchange and all other 
+Laws that may be applicable;
+(i) have a contingency plan that enables it to respond to any urgent need 
+that may arise in the course of its investment and management of the 
+assets of the SL-REIT and divestment of such assets; 
+(j) take all reasonable steps and exercise due diligence to ensure that the 
+property of the SL-REIT is correctly valued in line with the provisions 
+of the SEC Act, Directives issued thereunder and these Rules; 
+(k) for the purpose of valuing the property of the SL-REIT, not do or omit to 
+do anything that would, or might confer on itself a beneﬁ t or advantage 
+at the expense of unit holders or potential unit holders.
+(l) ensure all lease rentals are collected and are credited to a bank account 
+approved by the Trust;
+(m) the lease rentals collected are invested in a manner approved by the 
+Investment Committee and the Trust until dividends are distributed;
+(n) ninety percent of the income of the SL-REIT is distributed in a timely 
+manner as provided in the Explanatory Memorandum;
+(o) perform Know Your Customer (KYC) and Customer Due Diligence 
+(CDD) requirements to comply with applicable regulations and to ensure 
+that the assets of the SL-REIT are not utilized for an illegal purpose;
+(p) if the Managing Company fails to achieve the objectives mentioned in 
+the Explanatory Memorandum for one year, or any subsequent years 
+thereafter, the Managing Company shall obtain a rating for the SL-REIT 
+from a rating agency registered by the SEC until such objectives in 
+Explanatory Memorandum are achieved; 
+(q) in the event that the SL-REIT distributes a dividend less than 90% of the 
+distributable income for any ﬁ nancial year, the Managing company shall 
+obtain a rating certiﬁ cate for the SL-REIT from a Credit Rating agency 
+registered with the SEC at its cost and disclose same to the licensed 
+Stock Exchange unless otherwise the approval of unit holders have been 
+obtained at an Extraordinary General Meeting via a resolution, to pay 
+a dividend less than 90%.
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+12A
+SEC (REITs) Regulations, No. 1, 2020
+The Sponsor 21 (1) It shall be the responsibility of the Managing Company to identify one or more 
+sponsors who shall own the property which will be transferred or leased out to the 
+SL-REIT and such property shall thereafter form the assets of a SL-REIT.
+(2) A sponsor shall be disquali ﬁ ed from holding shares or holding a position as a 
+Director or key management person of a Managing Company.
+(3) In addition to other requirements as may be speciﬁ ed from time to time, a sponsor 
+shall have investment capabilities to meet the required criteria of the SEC which may 
+be issued from time to time by way of Directives. A Managing Company shall obtain 
+a written undertaking from the sponsor that he will duly comply with the instructions 
+if any, issued to him by the SEC through the Managing Company.
+(4) The Sponsor shall enter into an agreement with the Managing Company and the 
+Trustee and such agreement shall contain the following terms and conditions:-
+(a) Where it is necessary that major modiﬁ cations are required to be effected 
+to the property that is to be transferred or leased to the SL-REIT and such 
+necessity has been spelt out in the Explanatory Memorandum but the 
+SL-REIT fails to carry out such major modiﬁ cation, all funds disbursed 
+for such major modiﬁ cations shall be deemed to be part of the value of 
+the property transferred or leased by the Sponsor to the SL-REIT and 
+not from the funds of other unit holders. In such event the Sponsor shall 
+be entitled to receive any payment only if there is any residue after all 
+other unit holders are paid. 
+(b) At all times the Sponsor shall hold not less than 30% of all units.
+(c) A Sponsor shall exit his holding in SL-REIT full or part, only if he’s 
+able to sell such holding to a strategic investor. 
+(d) In the event the sponsor exits from the SL-REIT in full he shall ensure 
+that the strategic investor shall hold a minimum of 30% of the units in 
+issue and not exceed 80% of the total units in issue.
+(e) In the event the sponsor exits from the SL-REIT in part the sponsor shall 
+ensure that the sponsor and strategic investor in aggregate shall hold a 
+minimum of 30% of the units and not exceeding 80% of the total units 
+in issue.
+(f) The Sponsor shall submit a Title Report and supporting Deeds in order to 
+demonstrate that he has valid title to the property that is to be transferred 
+or leased to the SL-REIT, devoid of any encumbrances and shall also 
+submit an afﬁ davit to that effect. 
+(g) The Sponsor shall submit a written undertaking to the SEC and Managing 
+Company that he will warrant and defend the title to the real estate 
+property vested in the SL-REIT, at his own cost if a dispute arises in 
+respect of the title of the property of a SL-REIT, in addition to a covenant 
+in the deed that he warrants and defends title of the real estate property.
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+13A
+SEC (REITs) Regulations, No. 1, 2020
+(h) The Sponsor shall submit to the SEC and Managing Company an 
+undertaking by way of an af ﬁ davit along with supporting documents, 
+that the buildings have been constructed upon receiving all relevant 
+approvals from the relevant authorities, municipalities and or Provincial 
+Councils.
+(i) Where the Managing Company is of the view that a SL-REIT shall be 
+wound up or liquidated such proposal may be considered by the SEC 
+provided, the unit holders other than the sponsor or strategic investor are 
+given priority in disbursing the value of the property of the SL-REIT on 
+liquidation or winding up. Such unit holders shall be entitled at minimum 
+to the higher of the amounts contributed during the IPO or the NA V at 
+the time of winding up or liquidating, before the sponsor or strategic 
+investor becomes entitled to any distribution. Excess remaining if any, 
+may only be used to settle the sponsor or strategic investor after settling 
+such unit holders. 
+Provided however the ﬁ nal value to be settled to the sponsor or strategic 
+investor shall be either equal or lower than the amount paid to the public 
+unit holders.
+Property Manager 22 (1) A Managing Company shall have a person as property manager to manage the 
+real estates of the SL-REIT and shall notify to the Trustee of such appointment.
+ (2) The property manager shall possess the necessary experience and expertise in 
+real estate management.
+ (3) The property manager shall be responsible to maintain the assets of the SL-REIT 
+in a marketable condition and shall ensure that all material contracts including rental or 
+lease agreements entered on behalf of the SL-REIT are valid, binding and enforceable 
+by and on behalf of the SL-REIT.
+Designated Persons 
+Responsible for the Fund 
+23 (1) A Managing Company shall employ an individual as a designated person who shall 
+be responsible for the real estate portfolio management of the SL-REIT and who shall 
+be competent in managing real estate investments and shall possess a minimum of 
+ﬁ ve years of senior managerial demonstrable experience and expertise in Real Estate 
+Investment.
+(2) Where the SL-REIT’s investment strategy includes investments in non-real estate-
+related assets in addition to real estate assets, the Managing Company shall ensure 
+that a designated person responsible for the fund management function in respect of 
+non-real estate related assets is appointed. Such designated person shall be competent 
+with a minimum ﬁ ve years of demonstrable senior managerial experience in the ﬁ eld 
+of managing non-real estate related assets.
+Compliance Ofﬁ cer 24 (1) A Managing Company shall appoint an Attorney at Law who is also a notary 
+public with a minimum of ten years’ experience in property matters as Compliance 
+Ofﬁ cer who shall be responsible for ensuring compliance with the SEC Act, Directives 
+issued thereunder, these Rules, Rules of a licensed Stock Exchange and all other Laws 
+applicable to Property. 
+(2) A Compliance Of ﬁ cer shall report to the Board of Directors
+
+<!-- page 14 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+14A
+SEC (REITs) Regulations, No. 1, 2020
+ (3) The duties and functions of a Compliance Ofﬁ cer shall include but are not limited 
+to the following;-
+(a) Preparation of compliance reviews regularly at every meeting of the 
+Board of Directors and/or audit committee meetings. The compliance 
+review shall examine compliance issues relating to each area of the 
+Managing Company’s operations.
+(b) Review of compliance procedures for each area of the Managing 
+Company’s operations.
+(c) Examine and/or inquire into any irregularity in the Managing Company’s 
+operations. All ﬁ ndings shall be properly documented. If the Board of 
+Directors of the Managing Company is unable to rectify any irregularity 
+or contravention within a period of one month the compliance ofﬁ cer 
+shall notify the Trustee to enable the Trustee to address and take 
+necessary action to rectify such irregularity or contravention and shall 
+keep the SEC informed simultaneously.
+(d) The preparation of the compliance manual and the code of conduct for 
+employees of the Managing Company and shall be entrusted with the 
+creation of awareness amongst the employees of the Managing Company 
+with regard to compliance matters and regulatory requirements of the 
+SEC and other regulators where relevant.
+(e) Regular updating of the compliance manual and code of conduct.
+(f) Monitor and resolve con ﬂ icts of interests between SL-REITs managed 
+and administered by the Managing Company and between the Managing 
+Company and a SL-REIT.
+(g) Reporting to the investment committee, the Board of Directors and the 
+Audit Committee on all irregularities or contraventions or breaches of 
+the SEC Act, Directives issued thereunder, these Rules or any other 
+applicable Laws relating to property by the Managing Company or a 
+delegate or agent or employee of the Managing Company. 
+If the Board of Directors of the Managing Company fails to initiate remedial 
+action within a period of two weeks of the reporting thereof the Compliance 
+Ofﬁ cer shall forthwith report the matter to the Trustee. 
+(h) Advising on any matter relating to compliance with the applicable 
+requirements, including but not limited to fund management, dealings 
+by employees and directors of the Managing Company and all matters 
+relating to the Law of property, registration of title, apartment ownership 
+Law and the Law relating to prevention of fraud in Sri Lanka.
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+15A
+SEC (REITs) Regulations, No. 1, 2020
+Construction
+Contractor 
+25 (1)  If the SL-REIT is to effect major modi ﬁ cations the Managing Company shall 
+appoint a construction contractor to construct and develop the real estates of the 
+SL-REIT with the prior approval of the Trustee and with notice to the SEC.
+     (2) The construction contractor shall be an entity registered with the Construction 
+Industry Development Authority (CIDA) in the highest category for at least 5 
+years for Building Construction Category and in the case of a foreign contractor 
+shall posses an equivalent registration from the country of origin.
+       (3) Prior to selecting the construction contractor, the Managing Company shall ensure 
+that competitive bids or quotations are obtained from a minimum of three eligible 
+contractors. Any person local or foreign who has successfully completed at least 
+two comparable construction undertakings during the last ten years of operation 
+in Sri Lanka of comparable scale and value shall be deemed to be eligible for the 
+purpose of obtaining competitive bids or quotations.
+      (4)  In selecting a construction contractor the Managing Company shall ensure that the 
+value threshold for the cost of construction shall be based on the total value of 
+the major modiﬁ cation.
+      (5)   Contracts with the contractors for such major modi ﬁ cations shall follow the 
+applicable CIDA conditions of contract
+Internal Audit 26 (1) (a) A Managing Company shall maintain an internal audit to report on the 
+adequacy, effectiveness and efﬁ ciency of managing operations, risk management 
+and internal controls.
+(b) A Managing Company shall cause to be conducted an internal audit in to the 
+affairs of the SL-REIT at least once a year.
+External Audit (2) The Managing Company shall ensure independent competent auditor is  engaged 
+to timely complete the audit of the ﬁ nancials of the Managing Company as well 
+as of the SL-REIT.
+Legal Audit (3) A Managing Company shall cause a legal audit to be conducted after the 
+establishment of the SL-REIT and a report shall be made available to the SEC 
+and the Stock Exchange together with the ﬁ rst quarterly ﬁ nancials. In the event 
+a new property is acquired by the SL-REIT, the Managing Company shall cause 
+a legal audit to be performed and a report shall be made available to the SEC 
+and the Stock Exchange at the ﬁ rst quarterly ﬁ nancials that are due pursuant 
+to such acquisition. 
+Permitted Investments in 
+Real Estate  
+27 (1) A Managing Company shall ensure that real estate having valid title and free of 
+encumbrances shall be allowed to form the underlying assets of a SL-REIT. 
+      (2)  In carrying out the duties speciﬁ ed in Rule 28 the Managing Company shall ensure 
+that the real estate property forming the underlying asset of a SL-REIT shall have 
+a minimum occupancy of 20% or as may be speciﬁ ed by the SEC.
+       (3) A Managing Company shall ensure that the property of a SL-REIT shall not be 
+used for an unauthorized or illegal purpose.
+
+<!-- page 16 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+16A
+SEC (REITs) Regulations, No. 1, 2020
+Valuation 28 A Managing Company shall ensure that the valuation of the assets of an SL-REIT 
+is done in accordance with PART X of these Rules and the valuation report shall 
+comply with all requirements stipulated therein.
+Pricing of Units 29 (1) A Managing Company shall take all reasonable steps and exercise due diligence 
+to ensure that the SL-REIT’s units are correctly priced at the initial public offerings 
+and any subsequent issues, in line with the provisions of the SEC Act, Directives 
+issued thereunder, these Rules, the Trust Deed, the Explanatory Memorandum and 
+Rules of a licensed Stock Exchange.
+(2) For the purpose of pricing the units, a Managing Company shall not do or omit 
+to do anything that would, or might confer on itself a bene ﬁ t or advantage at the 
+expense of unit holders or potential unit holders.
+(3) A Managing Company shall obtain an independent veri ﬁ cation from a ﬁ rm of 
+chartered accountants conﬁ rming that IPO price or listing price calculation is accurate 
+and price is a reasonable representation of the value of assets of the SL-REIT. A copy 
+of same is required to be submitted to the Trustee, SEC and CSE prior to listing.  
+Maintenance of Records 30 (1)  A Managing Company shall maintain proper accounting records and other 
+records as necessary–
+(a) to enable a complete and accurate view of the fund to be formed; 
+and
+(b) to comply with the SEC Act, Directives issued thereunder, these 
+Rules and all other Laws applicable to Property.
+(2)  A Managing Company shall ensure that the ﬁ nancial statements of the SL-REIT 
+give a true and fair view of the trust’s ﬁ nancial position as at the end of the trust’s 
+ﬁ nancial period.
+(3) A Managing Company shall prepare and present, or cause to be prepared and 
+presented, its ﬁ nancial statements in accordance with approved accounting and 
+auditing standards, the Trust Deed, the Explanatory Memorandum, the SEC Act, 
+Directives issued there under, these Rules and Rules of a licensed Stock Exchange
+Provision of Information 31 A Managing Company shall submit or make available any information relating to 
+the Trust, its business and any other information as may be required by the SEC 
+and the Trustee from time to time.
+Insurance 32 (1) A Managing Company shall ensure at all times that adequate insurance policies 
+for itself and the properties of the SL-REIT are obtained and ensure that it complies 
+with accepted industry standards and policies. It shall ensure;-
+(a) that insurance policies are taken in the name of the Trustee to cover all insurable 
+risks in relation to the property from an insurance provider approved by the 
+Trustee;
+(b) that the insurance policies taken are adequate to cover the risks; and 
+(c) that quarterly updates signed by the Board of Directors are given to the Trustee 
+on the insurance taken to assure the Trustee of its adequacy and validity.
+(2) A detailed list of insurance policies indicating adequate coverage shall be 
+forwarded to the SEC and Trustee together with quarterly reporting requirements.
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+17A
+SEC (REITs) Regulations, No. 1, 2020
+PART IV
+Trust Deed 33 (1) The SL-REIT shall come into existence upon establishing a Trust by the 
+Managing Company. The Trust Deed shall contain the minimum requirements set 
+out in these Rules and those speciﬁ ed under the SEC Act where applicable and any 
+Directives that may be issued thereunder.
+(2) A Managing Company and Trustee shall be responsible for executing the Trust 
+Deed and for making necessary amendments to the Trust Deed in accordance with 
+the SEC Act, Directives issued thereunder and these Rules. 
+Investment Objectives of 
+the SL-REIT
+34 (1) The investment objectives of the SL-REIT shall be clearly stipulated in the Trust 
+Deed and the Explanatory Memorandum.
+(2) Where the mechanism to be adopted to attain the investment objectives set 
+out in the Explanatory Memorandum and the Trust Deed involve investments in a 
+particular style, asset class, category, economic sector, market or geographical area, 
+it shall be the duty of the Managing Company to ensure that an appropriate portion 
+of the SL-REIT is invested in accordance with that objective.
+Amendments to the Trust 
+Deed
+35 (1) Any amendment to a Trust Deed of a SL-REIT shall be made in accordance with 
+the provisions of the Trust Ordinance, SEC Act, Directives issued there under, these 
+Rules and Rules of a licensed Stock Exchange where relevant and shall be subject 
+to the prior approval of the SEC.
+(2) Any amendment to the Trust Deed of a SL-REIT, including any material change 
+to the investment objectives set out for the SL-REIT shall be approved by the unit 
+holders of the SL-REIT by way of a resolution passed by not less than seventy ﬁ ve 
+percent (75%) of unit holders. 
+
+<!-- page 18 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+18A
+SEC (REITs) Regulations, No. 1, 2020
+PART V
+The appointment of 
+Trustee 36 A Trustee shall be appointed for a SL-REIT with the prior approval of the SEC, and 
+shall be a bank licensed by the Central Bank of Sri Lanka.
+Trustee’s Obligations 37 It shall be the duty of the Trustee to exercise due diligence in monitoring the operation 
+and management of the SL-REIT by the Managing Company.
+38 (1) A Trustee shall, at all times, through proper and adequate supervision ensure that 
+the Trust is operated and managed by the Managing Company, in accordance with–
+(a) the Trust Deed;
+(b) the Explanatory Memorandum;
+(c) the SEC Act, the Directives issued thereunder and these Rules; 
+(d) the Rules of a licensed Stock Exchange; and
+(e) all applicable Laws relating to property in Sri Lanka;
+(2) Where necessary the Trustee shall act promptly including instituting legal action 
+to protect the Trust property in order to safeguard the interests of the unit holders.
+Duties and Responsibilities 
+of the Trustee
+39 (1) In addition to the duties stipulated in the Trust Deed, the Trustee shall observe 
+and carry out its duties in accordance with the SEC Act, Directives issued thereunder, 
+these Rules and the provision of the Trust Deed.
+(2) The Trustee shall have the ﬁ duciary duty to hold the assets of a SL-REIT in trust 
+for the beneﬁ t of the unit holders and ensure that all investment activities carried 
+out by the Managing Company are in line with the investment objective and policy 
+of the SL-REIT and are in the best interests of the unit holders. The Trustee shall 
+also ensure that the activities of the Managing Company complies with the relevant 
+regulatory requirements applicable to the SL-REIT.
+  
+40 A Trustee shall ensure that the Managing Company complies with the obligations 
+cast on it with regard to the SL-REIT property as morefully set out in PART III.
+ And further ensure;
+(a) that all contracts (such as property contracts, lease agreements 
+and any other agreements) entered into on behalf of the SL-REIT 
+are legal, valid and binding and enforceable by and on or behalf 
+of the SL-REIT;
+(b) that all property owned or leased by the SL-REIT is clearly 
+identiﬁ ed as the trustee’s property and ensure that all the assets 
+of the SL-REIT are properly segregated and held for the beneﬁ t 
+of the unit holders in accordance with the provisions of the SEC 
+Act, Directives issued thereunder, these Rules the Trust Deed 
+and the Explanatory Memorandum;
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+19A
+SEC (REITs) Regulations, No. 1, 2020
+(c) that the property of the SL-REIT is held separately from any 
+other asset or property held by or entrusted to the Trust;
+(d) that the property of the SL-REIT is registered in the name of, or 
+to the order of the Trust;
+(e) cause a valuation of any of the real estate of the SL-REIT to be 
+carried out if it, or the Managing Company, reasonably believes 
+that such valuation is appropriate; and  
+(f) that the investment and borrowing limitations as provided for 
+by the SEC Act, Directives issued thereunder, these Rules, the 
+Trust Deed and the Explanatory Memorandum are complied with. 
+Any breach of the maximum borrowing limit shall be noti ﬁ ed 
+to the SEC and unit holders. Further, Trustee shall instruct the 
+Managing Company to rectify such non-compliance but not later 
+than three calendar months.
+Trustee’s Reporting and 
+Disclosure Obligations
+41 The Trustee shall notify the SEC as soon as practicable of any irregularity, any breach 
+of the provisions or covenants of the Trust Deed any contravention of the SEC Act, 
+Directives issued thereunder, these Rules and Rules of a licensed Stock Exchange 
+or any inconsistency between the disclosures in the Explanatory Memorandum the 
+provisions or covenants of the Trust Deed, which in the trustee’s opinion, are not in 
+the best interest of the unit holders.
+Trustee’s obligations in 
+relation to related party 
+transactions and other 
+obligations  
+42 Where the real estate of the SL-REIT is occupied partly or wholly by related parties, 
+the Trustee shall ensure that the terms and conditions of the tenancy agreements 
+or lease agreements are entered into at arm’s length and under prevailing market 
+conditions. In determining lease rental rates for related tenants or lessees, the Trustee 
+shall be guided by the recommendation of at least one independent valuer.
+43 It shall not be permitted to lease any property of the SL-REIT either to the Managing 
+Company, its shareholders, its directors, its key management personnel or to the 
+sponsor and related parties unless the full term and value of the agreement is covered 
+by an on demand guarantee securing the payment of the lease rentals from a licensed 
+Commercial Bank.
+44 A Trustee shall carry out any instructions given by the Managing Company or its 
+investment committee relating to acquisitions or disposals or the exercise of the rights 
+attaching to a SL-REIT’s property. A trustee may refuse to effect any instruction 
+given by the Managing Company in respect of a SL-REIT’s property if the trustee 
+is of the opinion that the carrying out of such instruction shall materially devalue 
+the SL-REIT property or be to the detriment of the minority unit holders.
+45 In the event of a breach of the terms and conditions of the tenancy or lease agreements 
+entered into in respect of the SL-REIT property, the trustee shall ensure that prompt 
+measures are taken including and not limited to the institution of legal action to 
+safeguard the interests of unit holders.
+46 A Trustee shall ensure that the systems, procedures and processes employed by the 
+Managing Company are adequate in terms of Part III.
+
+<!-- page 20 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+20A
+SEC (REITs) Regulations, No. 1, 2020
+Provision of Information 47 A Trustee shall submit or make available any statement, document, book, record and 
+other information relating to the SL-REIT and the business of the trustee, as may be 
+required by the SEC from time to time.
+Holding of Units by 
+Trustee
+48 (1) A Trustee shall not hold units or other interests in the SL-REIT
+  (2) A Trustee shall ensure that the Managing Company maintains proper accounting 
+records and other records as necessary:-
+(a) to enable a complete and accurate view of the SL-REIT to be formed; and
+(b) to ensure that the SL-REIT is operated and managed in accordance with 
+the Trust Deed, the Explanatory Memorandum, the SEC Act, Directives 
+issued thereunder, these Rules, Rules of a licensed Stock Exchange and all 
+applicable Laws relating to property.
+Retirement of a Trustee 49  (1) A Trustee shall not retire except upon the appointment of a new Trustee whose 
+appointment has been subject to the prior approval of the SEC and only if such 
+retirement is in compliance with the Trust Deed. The retirement of the trustee shall 
+take effect simultaneously with the appointment of the new Trustee.
+(2) The SEC may where it is satisﬁ ed that:-
+(a) for good and suf ﬁ cient reason a change in the trustee is desirable in the 
+interest of unit holders; or 
+(b) unit holders representing at least 75 per centum of the total units in issue 
+excluding those held by the sponsor or strategic investor deliver to the SEC 
+as the case may be, a written request that the Trustee be dismissed, the SEC 
+may remove the Trustee of the SL-REIT and direct the Managing Company to 
+appoint a new Trustee subject to the prior approval of the SEC. The removal 
+of the Trustee who was dismissed shall take effect at the same time the new 
+Trustee takes ofﬁ ce. 
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+21A
+SEC (REITs) Regulations, No. 1, 2020
+PART VI
+Delegation or outsourcing 
+of functions by the 
+Managing Company
+50 (1) A Managing Company may delegate or outsource certain of its functions to a 
+competent or suitable third party or service provider with the prior approval of the 
+SEC. Notwithstanding such delegation or outsourcing:-
+(a) the Managing Company shall be fully liable to the unit holders and 
+the SEC for the matters delegated or outsourced;
+(b) the Managing Company shall ensure that adequate procedures are in 
+place to monitor the conduct of the person to whom the functions are 
+delegated or outsourced and ensure that the functions so delegated 
+or outsourced are  performed in a proper and efﬁ cient manner; and
+(c) the Managing Company shall ensure that there are controls in place 
+to ensure that the person to whom the functions are delegated or 
+outsourced comply with the Trust Deed, Explanatory Memorandum, 
+the SEC Act, Directives issued there under, these Rules and Rules 
+of a licensed stock exchange as may be relevant.
+(2) A Managing Company shall ensure that the person to whom the functions are 
+delegated or outsourced is suitable to undertake the particular functions so delegated 
+or outsourced and ensure that such delegation or outsourcing is made to a person:-
+(a) who is duly licensed  or authorized by a relevant supervisory or other 
+authority, (where applicable);
+(b) has adequate ﬁ nancial resources;
+(c) has adequate experience and a proven track record in the performance 
+of the functions delegated;
+(d) has adequate and appropriate human resources, systems, procedures 
+and processes in place to carry out the functions so delegated or 
+outsourced (including  compliance with applicable requirements, 
+policies and procedures on internal controls); and
+(e) has taken an insurance policy adequate to cover the period of 
+delegation or outsourcing.
+(3) The service agreement between the Managing Company and the person to whom 
+its functions are delegated or outsourced shall, amongst other things, contain clear 
+provisions on–
+(a) the services to be provided;
+(b) the fees, remuneration, and other charges;
+(c) any restriction or prohibition regarding the performance of the 
+function to be delegated; 
+(d) reporting requirements, including the line of reporting to the 
+Managing Company or Trustee and means of evaluating the 
+performance of the person to whom the functions have been delegated 
+or outsourced; and
+(e) indication of a timeframe within which the agreed scope of work is 
+to be completed.
+
+<!-- page 22 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+22A
+SEC (REITs) Regulations, No. 1, 2020
+(4) Remuneration to the delegate or service provider shall be paid by the Managing 
+Company and not be charged to the SL-REIT.
+(5) Where a Managing Company appoints a delegate or service provider the 
+agreement between the Managing Company and its delegatee or service provider 
+shall include inter alia the power of the Managing Company, the Trustee or the 
+SEC to examine and inspect the services provided by the delegatee or service 
+provider to ensure that the delegate or service provider  is in compliance with 
+the applicable requirements of the Trust Deed, Explanatory Memorandum, the 
+SEC Act, Directives issued thereunder and these Rules.
+(6) An of ﬁ cer of the delegatee or service provider (whether foreign or local) shall 
+not hold ofﬁ ce as a member of:
+(a) the investment committee of any SL-REIT; and
+(b) a panel of advisors of any SL-REIT for which the delegate or service 
+provider is  appointed to manage.
+(7) Delegating or outsourcing shall not relieve a Managing Company from the 
+responsibility for proper conduct of the delegated or outsourced activities and 
+functions. 
+(8) A Managing Company shall remain responsible for the actions and omissions of 
+its delegatee or service provider as though they were its own actions or omissions.
+For any avoidance of doubt the function of SL-REIT management shall not be delegated 
+totally.
+PART VII
+Delegation of Functions 
+by the Trustee 
+51 (1) A Trustee may delegate the custodial function for the SL-REIT’s non real estate 
+related assets with the prior approval of the SEC
+(2) Where a custodial function of the Trustee is delegated the Trustee shall ensure 
+that;
+(a) it retains control of the SL-REIT’s property at all times; and
+(b) there are adequate arrangements to prevent the delegatee from 
+releasing the custody or control of the SL-REIT’s property without 
+its prior consent
+(3) The Trustee shall remain responsible for the functions delegated in like manner 
+as the Managing Company is responsible for the functions of its delegatee. 
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+23A
+SEC (REITs) Regulations, No. 1, 2020
+PART VIII
+Oversight arrangements 52 (1) A Managing Company shall, in addition to the appointment of a Trustee, establish 
+and maintain additional arrangements to provide oversight on the operation and 
+management of the SL-REIT.
+(2) A Managing Company shall implement and maintain the following arrangements:
+(a) appoint an investment committee for the SL-REIT; and 
+(b) appoint where applicable of a panel of advisors for a SL-REIT that is 
+expressed to be managed in accordance with speciﬁ c principles
+Investment committee 53 (1) The Investment Committee appointed by the Managing Company shall comprise–
+(a) at least three individual members of whom at least two shall be independent 
+whilst maintaining a minimum ratio of at least one-third independent 
+members at all times.
+(b) at least one member shall be a practicing lawyer with at least ten years 
+experience inter alia in the Law relating to property including condominiums, 
+conveyancing and the Law relating to land lord and tenant.
+(c) at least one member shall be an engineer with minimum of ten years 
+demonstrable expertise relating to property management preferably a Fellow 
+of a professional body relating to engineering.
+(2) No person shall be a member of an investment committee–
+(a) if he is a member of an investment committee of a SL-REIT managed and 
+administered by another Managing Company;
+(b) if he is a director of another Managing Company; or
+(c) if he is an of ﬁ cer of the delegatee that performs the fund management 
+functions of the SL-REIT
+Duties and 
+Responsibilities of the 
+Investment Committee of 
+a SL-REIT
+54 (1) An Investment Committee of a SL-REIT shall ensure that the SL-REIT is managed 
+in accordance with–
+(a) the SL-REIT’s investment objectives;
+(b) the Trust deed;
+(c) the Explanatory Memorandum ;
+(d) the SEC Act, Directives issued there under ,these Rules the and Rules 
+of a licensed Stock Exchange.
+(e) the internal investment restrictions and policies; 
+(f) all other Laws applicable to property; and
+(g) acceptable investment management practices within the real 
+estate investment trust industry.
+(2) An Investment Committee’s duties and responsibilities shall include without 
+limitation the following:
+(a) the adoption of strategies to achieve the proper performance of 
+the SL-REIT in accordance with the investment policies;
+
+<!-- page 24 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+24A
+SEC (REITs) Regulations, No. 1, 2020
+(b) ensuring that the strategies adopted are properly and ef ﬁ ciently 
+implemented by the Managing Company;
+(c) actively monitoring, measuring and evaluating the performance 
+of the Managing Company;
+(d) where construction or major modifications are involved, 
+reviewing the processes once in every three months and advising 
+the trustee on the adherence to these Rules and  timely submission  
+of deliverables;
+(e) ensuring that the income from the lease agreements entered into 
+with regard to the SL-REIT’s property are collected in a timely 
+manner and if there are any defaults or delays in collecting the 
+lease rental and other income of the SL-REIT’s property to advise 
+the Trustee to take remedial action including the institution of 
+legal action to recover any sums owing to the SL-REIT and to 
+take any other ancillary or incidental action necessitated by such 
+defaults; and
+(f) ensuring that values of all lease rentals are in the best interest of 
+the SL-REIT and either equal or above the valuer’s rent per square 
+foot rate. Members in the investment committee shall approve 
+any discounts to valuer’s rate and shall declare such arrangement 
+is in the best interest of unit holders. 
+(3) (a) The persons constituting the Investment Committee shall not have been 
+charged or concerned in any business practices which in the opinion of the SEC 
+is fraudulent, unethical or inappropriate. 
+(b) A person shall be disquali ﬁ ed from being a member of an Investment 
+Committee or from serving in an Investment Committee if such person;
+ (i) has been declared an undischarged bankrupt ;
+ (ii) has been convicted by a competent court of law in Sri Lanka 
+or outside Sri Lanka for fraud, dishonesty or any other offence 
+punishable with imprisonment of one year or more;
+(c) It shall be the responsibility of the Managing Company to assess the ability 
+of the person to carry out the duties and responsibilities required of him as a 
+member of the Investment Committee. 
+(4) (a) Where any member of an Investment Committee becomes subject to any 
+disqualiﬁ cation or becomes otherwise unﬁ t to hold such position, the Managing 
+Company shall ensure that such member is removed or vacates his position in 
+the Investment Committee with immediate effect.
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+25A
+SEC (REITs) Regulations, No. 1, 2020
+(b) The Managing Company shall notify the SEC and the Trustee immediately 
+in the event a member of the Investment Committee becomes disqualiﬁ ed and 
+is no longer suitable to hold such position.
+(5) A member of the Investment Committee shall not be a member of a committee 
+of any other SL-REIT or unit trust or hold any position that shall be deemed or 
+seem to create a conﬂ ict of interest.
+(6) A person before accepting an appointment as a member of an investment 
+committee to a SL-REIT shall swear or afﬁ rm by way of an afﬁ davit declaring 
+that he is not disqualiﬁ ed under any of the criteria mentioned above and has no 
+interest in the SL-REIT either directly or indirectly and such af ﬁ davit shall be 
+submitted to the SEC prior to accepting such position.
+PART IX
+Investments of the SL-
+REIT
+55 (1) The Managing Company shall ensure that the property of the SL-REIT shall be 
+relevant and consistent with the investment objective of the SL-REIT.
+(2) All necessary steps shall be taken to ensure that the property of the SL-REIT 
+provides a prudent spread of risks.
+Dealings in the SL-REIT’s 
+Property
+56 (1) The Managing Company shall ensure that all dealings in the SL-REIT’s property 
+shall be appropriate to the SL-REIT and consistent with–
+(a) the Trust deed;
+(b) the Explanatory Memorandum;
+(c) the SEC Act, Directives issued thereunder, these Rules,  Rules of 
+a licensed Stock Exchange and all other applicable Laws relating 
+Property; and
+(d) acceptable practices within the real estate investment trust industry.
+(2) A Managing Company shall–
+(a) notify the trustee in writing and keep the Trustee updated on any proposal 
+relating to acquisitions or disposals of real estate;
+(b) notify the Trustee in writing of any acquisition or disposal of real estate-
+related assets and non-real estate-related assets within one business day 
+after which the acquisition or disposal was effected;
+(c) ensure that the SL-REIT’s property has adequate proof of valid title or 
+ownership to allow proper custodial arrangements to be made; 
+ 
+
+<!-- page 26 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+26A
+SEC (REITs) Regulations, No. 1, 2020
+(d) cancel a transaction or make a corresponding acquisition or disposal 
+at its own expense to secure restoration of the previous position where 
+the Trustee conveys an opinion that a particular acquisition or disposal 
+exceeds the powers conferred on it, or is otherwise contrary to the 
+interests of the unit holders
+(e) ensure that all adequate insurance policies are in force; and
+(f) notify the Trustee in the event of a default by any lease holder or tenant 
+occupying the buildings owned or leased by the SL-REIT and advice 
+the trustee to take appropriate action including the institution of legal 
+action in a timely manner to rectify matters or to minimize losses to the 
+SL-REIT.
+Permitted Investments 57 (1) A SL- REIT shall only invest in the following:
+(a) Real estates; up to a maximum of 80% of the SL-REIT’s value; 
+and
+(b) The balance 20% of the SL-REIT shall only be invested in 
+Government Securities and or in Cash or Near Cash. 
+(c) A SL-REIT’s property may consist of real estate-related assets and 
+non-real estate-related assets
+(d) The maximum amount to be invested in real estate may exceed 80% 
+with the prior approval of the SEC
+(2) The Managing Company shall ensure that the investment limits and restrictions 
+set out herein are complied with at all times based on the latest value of the 
+SL-REIT.
+(3) In determining compliance with the authorized investments and their limits any 
+accrued entitlement on the investments of the SL-REIT may be excluded. The 
+entitlement shall not be exercised in the event the exercise results in a breach 
+of any limit or restriction.
+(4) It shall be the duty of the Managing Company to take all steps necessary to 
+rectify the breach within a time frame of not more than three months.
+(5) A ﬁ ve percent allowance in excess of any limit or restriction imposed under 
+these Rules shall be permitted where the limit or restriction is breached through 
+an appreciation or depreciation of the NA V of the SL-REIT.
+(6) The Managing Company shall not in the event an investment limit is breached 
+make any further acquisitions until steps have been taken to rectify the breach.
+(7) The Managing Company shall ensure that the investment limits and restrictions 
+are complied with at all times based on the most up-to-date value of the SL-
+REIT. 
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+27A
+SEC (REITs) Regulations, No. 1, 2020
+Acquisition of Property 58 (1) A Managing Company shall ensure that the property to be acquired:-
+(a) has good prospects of future  net rental income of reasonable levels;
+(b) is competitive and located within suitable areas, as evidenced by 
+competent  market studies analysis; 
+(c) has good potential to secure lessees and of sale to prospective buyers;
+(d) that any capital expenditure to be incurred to enhance the property would 
+not materially affect the yield to unit holders; 
+(e) that the acquisition would be able to yield a reasonable return within a 
+reasonable period of time;
+(f) major modi ﬁ cation shall mean modiﬁ cations of the value not exceeding 
+25% of the value of the building in terms of the latest valuation;
+(g) in the event of any subsequent acquisition not covered in the Explanatory 
+Memorandum, the Managing Company shall disclose to the market 
+via a stock exchange filing,  a feasibility report on the proposed 
+acquisitions which inter-alia shall cover, information relating to the title 
+of the property, ﬁ nancing the purchase, estimated time to complete (if 
+applicable) and future prospects of the property;
+(h) any payments for the acquisition of the property shall be made after 
+obtaining adequate title insurance as recommended by the investment 
+committee;
+(i) any payments by the SL-REIT to the contractor shall not be made unless 
+a security in an equivalent value of the estimated approved cost has been 
+submitted by the contractor to the Trustee of the SL-REIT;
+(j) any payments by the SL-REIT to construction contractors shall be subject 
+to adequate retention as advised by the investment committee but shall 
+not be less than 10% of the estimated cost. Release of retention shall be 
+subject to the approval of the investment committee;
+(k) The property so acquired shall be ;
+(i) in a fully completed condition, 
+(ii) partially or fully leased out and 
+(iii) generating income to meet the applicable thresholds speciﬁ ed 
+by the SEC from time to time
+(l) shall be a property with buildings standing thereon which are fully 
+completed and are partly or fully leased and generating an income. The 
+applicable thresholds shall be determined by the SEC from time to time.
+(2) For leasehold real estates, a Managing Company shall ensure that–
+(a) the consent of the relevant authority to transfer the lease has been obtained 
+before the SL-REIT’S Explanatory Memorandum is approved  by the SEC, 
+or prior to the acquisition of the leasehold property; and
+(b) The lease shall be a registered lease.
+
+<!-- page 28 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+28A
+SEC (REITs) Regulations, No. 1, 2020
+Disposal of Property 59 Where the value of the property to be disposed of, exceeds 50% of the SL-REIT’s 
+total asset value, the disposal shall be announced to the market fourteen (14) days 
+prior to the unit holders’ meeting. The unit holders shall approve the disposal by way 
+of an ordinary resolution, except where the disposal is for the purpose of terminating 
+or winding up the SL-REIT, in which event the resolution shall be passed by not 
+less than 75% of the unit holders present and voting.
+Provided however if a breach of the ratio provided in Rule 59 occurs as a result of 
+a disposal exceeding 50% of the total asset value of the SL-REIT, the Managing 
+Company shall ensure compliance with Rule 59 within a period of three months from 
+the date of disposal if the SL-REIT is not to be wound up or liquidated. 
+If the Managing Company fails to comply with Rule 59 the Managing Company shall 
+wind up or liquidate the SL-REIT at the Managing Company’s cost with prior notice 
+to the Trustee, the SEC and the licensed Stock Exchange on which the SL-REIT is 
+listed. In such event the distribution of proceeds on liquidation to unit holders shall 
+take precedence over the management fees and any other fee chargeable by the 
+Managing Company and the Trustee.
+Acquisition and Disposal 
+Price
+60 (1) A SL-REIT shall not acquire property at a premium of beyond 10% of the value 
+assessed in a valuation report obtained six months immediately prior or the latest 
+available valuation report whichever is nearer to the date of acquisition, provided 
+that the value has not been revised. 
+(2) A SL-REIT shall not dispose of real estates at a discount less than 10% of the 
+value assessed in a valuation report obtained six months or the latest whichever 
+is nearer to the date of the resolution of the unit holders.
+(3) Part selling of SL-REIT property shall be allowed subject to the cancellation or 
+reduction of units upon full settlement of the agreed consideration unless the 
+unit holders have given prior consent to reinvest the sale proceeds in accordance 
+with the Trust Deed and permitted investments.
+Borrowings 61 (1) A SL-REIT may use borrowings to acquire real estates, and for capital expenditure 
+purposes subject to a maximum of 30% of the NA V of the SL-REIT.
+(2) A SL-REIT may only borrow through the issuance of listed debentures or 
+loans. When obtaining loans it shall not offer any of the SL-REIT’s property 
+as collateral. 
+(3) For the purposes of this part all provisions in relation to the Construction 
+Contractor shall be as speciﬁ ed in these Rules.
+Prohibited Activities 62 A Managing Company shall not -
+(a) grant loans or provide any other credit facility to any person using the assets 
+of a SL-REIT under its management;
+(b) undertake or carryout  any activity that is in violation of the Trust Deed;
+(c) permit or allow the carrying out of any illegal or unauthorized activity using 
+the property of a SL-REIT
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+29A
+SEC (REITs) Regulations, No. 1, 2020
+PART X
+Valuation 63  A Managing Company shall ensure that a fair and accurate valuation of all assets 
+and liabilities of the SL-REIT is conducted.
+Appointment of a Valuer 64 (1) All valuations and revaluations of real estates shall be conducted by an 
+independent valuer duly appointed by the Trustee.
+(2) The Trustee shall only appoint a valuer who is a Fellow of the Institute of 
+Valuers of Sri Lanka (IVSL) or is a Fellow of the Royal Institute of Chartered 
+Surveyors (RICS) with a minimum of ten years experience of valuing similar 
+property or the Government Chief Valuer in the case of a state owned entity. 
+(3) (a) A valuer shall only conduct up to two consecutive valuations of any particular 
+real estate of a SL-REIT. 
+(b) Subject to the approval of the Trustee, however it shall not be prohibited for 
+the same valuer to conduct more valuations for a further period of two years, if 
+the real estates of the SL-REIT under valuation did not constitute a part of the 
+previous valuations carried out by the same valuer.  
+Valuation and Revaluation 
+of Real Estate
+65 (1) A valuation shall be carried out on all real estates to be acquired and disposed 
+of by a SL-REIT.
+(2) (a) A revaluation of all the real estates in the SL-REIT’s investment portfolio 
+shall be carried out twice a year by a competent and independent valuer of 
+which at least one valuation shall be subject to the review of a panel of valuers 
+as approved by the SEC.  However, this shall not preclude valuations being 
+carried out during the interim period.
+(b) Any valuation carried out for the SL-REIT shall be shared with the Stock 
+Exchange on which the SL-REIT is listed for the timely information of investors. 
+Such valuation shall disclose  the leasing rate per square foot of the property 
+which was considered by the valuer for the  valuation.
+(3) A Trustee may, at any time on its own accord, appoint a valuer to conduct a 
+valuation of the real estates owned by a SL-REIT.
+(4) The valuations referred to above shall be disclosed to the Stock Exchange 
+on which the SL-REIT is listed on the ﬁ rst market day immediately after the 
+submission of the valuation report by the valuer to the Managing Company 
+upon completion of such report.
+Valuation Report 66 (1) The appointed valuer shall, for each valuation of a real estate prepare a valuation 
+report to be given to the Managing Company and Trustee.
+(2) The valuation report shall comply with all valuation standards and standards 
+of evidence acceptable to global best practices or standards as required by the 
+SEC.
+(3) The valuation report shall - 
+
+<!-- page 30 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+30A
+SEC (REITs) Regulations, No. 1, 2020
+(a) be prepared in accordance with the applicable valuation standards;
+(b) be prepared within a period of six months immediately preceding the 
+signing of the deed of sale or the lease agreement as the case may be or the 
+date of the balance sheet of the SL-REIT of the relevant year, whichever 
+is later; 
+(c) actual and expected lease rental per square foot of the buildings standing 
+on the property of the SL-REIT; and 
+(d) submitted to the SEC–
+ (i) within one month from the date of the deed of sale or the 
+lease  agreement as the case may be; or
+ (ii) together with the annual report of the SL-REIT in the case 
+of a revaluation.
+(4) Where there has been a change in the value of the real estates, the Trustee shall 
+ensure that the appointed valuer makes the necessary adjustments in the valuation 
+report
+Regulatory Parameters on 
+Valuation of Real Estates
+67 (1) Where a property is the subject of an acquisition–
+(a) as part of the establishment of a new SL-REIT; or
+(b) which has been ﬁ nanced, or reﬁ nanced within one year of establishment, 
+through the issuance of new units, the value of the real estate shall require 
+approval by the Trustee. 
+(2) The SEC shall have the right to obtain an independent valuation from a valuer 
+appointed by the SEC, if the SEC is of the opinion that the valuation of the real 
+estate carried out in terms of paragraph (1) is unacceptable for any reason. In 
+such event the fees and costs incurred shall be borne by the Managing Company.
+(3) Valuations of the SL-REIT’s property shall be based on processes that are 
+consistently applied, and lead to objective and veriﬁ able conclusions. Valuations 
+shall be disclosed to the stock exchange on which the SL-REIT is listed forthwith. 
+The due dates for valuations to be carried out shall be clearly disclosed in the 
+Explanatory Memorandum and shall not exceed an interval of six calendar 
+months from each valuation date.
+(4) Upon receipt of the valuation report, the Managing Company shall notify the 
+Trustee immediately of the NA V per unit of the SL-REIT.
+Announcement or 
+Publication of the NA V 
+per Unit of a SL-REIT
+68 The Managing Company shall disclose the NA V per unit of the SL-REIT to the 
+Stock Exchange on which the SL-REIT is listed on a quarterly basis
+
+<!-- page 31 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+31A
+SEC (REITs) Regulations, No. 1, 2020
+PART XI
+Management Fee and 
+Trustee Fee
+69 (1) A Managing Company shall only be remunerated by way of fees charged to the 
+SL-REIT and such fees shall be limited to:-
+(a) Front end fee  – to be disclosed as a percentage of the value of the                       
+SL-REIT at cost
+(b) Annual fee – to be disclosed as a maximum percentage of the value of the 
+SL-REIT and a maximum percentage of assets under management of the 
+SL-REIT upon completion and achieving projected lease rental yields. No 
+annual fee shall be payable after third year until the major modiﬁ cations 
+to the buildings are completed and projected yields for the applicable real 
+estate property are achieved.
+(c) Performance fee on lease rentals - to be disclosed as a maximum 
+percentage of lease income (after providing for doubtful debts and 
+writing off bad debts) after occupancy exceeds 80% of total ﬂ oor area 
+and all classes have surpassed any other thresholds indicated in the 
+Explanatory Memorandum (applicable only to lease installments collected 
+and outstanding invoices shall not be considered). The above mentioned 
+performance fee calculation formula shall be clearly included in the 
+Explanatory Memorandum. 
+Performance fee calculation shall only be incorporated in to the formula 
+for calculating the performance fee only upon completion of any major 
+modiﬁ cation and upon successfully surpassing the criteria prede ﬁ ned in 
+the Explanatory Memorandum. In any event total of all fees paid shall 
+factor in the percentage of total ﬂ oor areas “not generating an income” 
+and such percentage shall be used to discount the total performance fees 
+payable other than front end fees. 
+The Managing Company may propose other methods of calculating a 
+performance fee which shall require the prior approval of the SEC.
+(d) Benchmark Performance fee:  to be disclosed as realized capital gain 
+over and above a market index of the stock exchange on which the                              
+SL-REIT is listed + maximum of 2%. (the market index shall be factored 
+on the date of realization of the proposed independent benchmark as 
+deﬁ ned in the Explanatory Memorandum).
+Provided however that all such fees enumerated above shall not exceed 4% of the total 
+value of the SL-REIT.
+(2) The fees shall be charged to the SL-REIT only if permitted by the Trust Deed 
+and are clearly disclosed in the Explanatory Memorandum. Trustee fees shall 
+be disclosed in the Explanatory Memorandum.
+
+<!-- page 32 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+32A
+SEC (REITs) Regulations, No. 1, 2020
+Remuneration of the 
+Managing Company
+70 (1) A Managing Company shall specify a management fee that is reasonable and 
+which is approved by the Trustee considering–
+(a) the duties and responsibilities of the Managing Company;
+(b) the interests of unit holders;
+(c) the nature and extent of the services provided by the Managing Company;
+(d) the size and composition of the property of the SL-REIT;
+(e) the success of the Managing Company in meeting the SL-REIT’s 
+investment objective;
+(f) the need to maximize returns to unit holders; and
+(g) the maximum rate stipulated in the Trust Deed.
+(2) If at any time the Trustee is of the opinion that the management fee charged to 
+the SL-REIT is unreasonably high, the Trustee shall take such action, which may 
+include but is not limited to convening a unit holders’ meeting, to have the fee 
+approved as being commensurate with the services provided by the Managing 
+Company.
+Remuneration of Trustee 71 The remuneration paid to the Trustee shall be fair and reasonable, considering–
+(a) the duties and responsibilities of the Trustee;
+(b) the interests of the unit holders;
+(c) the maximum rate stipulated in the deed; and
+(d) the size and composition of the property of the SL-REIT
+Expenses of the SL-REIT 72 (1) Only expenses (or part thereof) directly related and necessary in operating and 
+administering a SL-REIT shall be paid out of fund of the SL-REIT. These shall 
+include the following:-
+(a) Maintenance of property owned by or leased to the SL-REIT;
+(b) Taxes and other duties charged on the fund of the SL-REIT or its 
+underlying  assets by the Government and other authorities;
+(c) Fees and other expenses incurred by the auditor appointed for the 
+SL-REIT;
+(d) Fees for the valuations carried out by independent valuers of any 
+investment of the SL-REIT for the beneﬁ t of the SL-REIT;
+(e) Costs incurred for the amendment of the Trust Deed, Title Deeds or 
+lease agreements as the case may be of the SL-REIT other than those 
+for the beneﬁ t of the Managing Company or Trustee;
+(f) Costs incurred for any meeting of the unit holders other than those 
+convened for the beneﬁ t of the Managing Company or Trustee; 
+(g) Expenses for listing the SL-REIT on a licensed Stock Exchange;
+
+<!-- page 33 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+33A
+SEC (REITs) Regulations, No. 1, 2020
+(h) Legal expenses incurred to protect the interests of unit holders as 
+approved by the Trustee other than legal expenses caused due to the 
+negligence of the Managing Company or the Trustee as determined 
+by the SEC. In the event of such negligence the negligent party shall 
+bear the cost of the legal expense; and 
+(i) Any other expenses authorized by the SEC
+(2) A Trustee may be reimbursed by the SL-REIT for any expenses appropriately 
+incurred in the performance of its duties and responsibilities as a Trustee with 
+the approval of the SEC.
+PART XII
+Price of a Unit 73 (1) During the initial offer period a unit shall be sold at the initial price determined 
+by the Managing Company. Any creation or cancellation of units shall also be at the 
+initial price
+(2) Where units are offered to related parties in conjunction with the initial public 
+offering, the price of the units must be set at least at the issue price to the public.
+(3) Upon the listing of a SL-REIT on a stock exchange, the unit shall be traded at 
+the prices quoted on the exchange.
+(4) Valuation of unit prices shall be conﬁ rmed by an independent ﬁ rm of chartered 
+accountants 
+Dealing in Units 74 Any dealing in units shall comply with the SEC Act, Directives issued there under, 
+these Rules and the Rules of a licensed Stock Exchange on which the SL-REIT is 
+listed where applicable.
+Suspension of Dealing in 
+Units
+75 Suspension of dealing in units shall only be done in compliance with these Rules 
+and the Listing Rules of a Stock Exchange on which the SL-REIT is listed or with 
+any Directives issued by the SEC where relevant.
+Creation and Cancellation 
+of Units
+76 (1) A Managing Company shall instruct the Trustee in writing to create or cancel 
+units of a SL-REIT fund stating the number of units to be created or cancelled, and 
+pay or receive cash to or from the Trustee for the transaction. Such instructions to the 
+Trustee shall contain a report from a ﬁ rm of chartered accountants on the accuracy 
+of calculation and details of creation or cancellation of units.
+(2) A T rustee shall create or cancel units immediately on receipt of, and in 
+accordance with, the instructions given by the Managing Company.
+(3) A Managing Company shall pay the Trustee the value of units created within 
+ten days of giving instructions to the Trustee to create units.
+(4) A Managing Company shall not, when giving instructions to the Trustee for 
+the creation or cancellation of units, do or omit to do anything which would 
+confer on itself or a delegate or service provider a bene ﬁ t at the expense of a 
+unit holder or a potential unit holder.
+
+<!-- page 34 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+34A
+SEC (REITs) Regulations, No. 1, 2020
+(5) Any instructions for the creation or cancellation of units given by the Managing 
+Company may be modiﬁ ed only if the Trustee agrees and has taken reasonable 
+care to determine that–
+(a) the modi ﬁ cation corrects an error in the instruction; and
+(b) the error is an isolated one. 
+(6) Any error referred to in this Rule shall be corrected within the payment period 
+speciﬁ ed in paragraph 3 of this Rule.
+(7) A Trustee shall pay the unit holder the value of units cancelled within ten days 
+of receiving instructions from the Managing Company to cancel units unless 
+the SL-REIT lacks suf ﬁ cient cash or liquid assets, and the Trustee considers 
+that payment within ten days is not in the best interests of unit holders.
+(8) Where permitted, the creation and cancellation of units shall be at NA V per 
+unit of the SL-REIT as at the next valuation point after instructions from the 
+Managing Company is received by the Trustee.
+Trustee May Refuse to 
+Create or Cancel Units
+77 Notwithstanding any other provision contained in these Rules, a Trustee may by 
+notice to the Managing Company refuse to–
+(a) create units;
+(b) cancel units; or
+(c) create or cancel units in the number instructed by the Managing Company,
+Where the Trustee considers that the creation or cancellation is not in the best interests 
+of unit holders or it would result in a breach of the trust deed, the SEC Act, Directives 
+issued thereunder, these Rules and the Rules of a licensed Stock Exchange.
+PART XIII
+Public offers and listings 78 The requirements for the public offer and primary listing of a SL-REIT on an exchange 
+licensed by the SEC shall be as follows:-
+(a) All REITs shall be listed within three months of obtaining approval from the 
+SEC.
+(b) The SL-REIT shall offer at least 20% of its units to the public at the time of 
+listing 
+(c) The SL-REIT shall have a minimum of 100 unit holders at the time of listing.
+(d) In order to be eligible to claim any applicable tax beneﬁ ts, the SL-REIT shall 
+maintain a minimum of 50 unit holders at all times. 
+Methods of Issuing Units 79 (1) Units of the SL-REIT of the same class shall have the same rights attached to 
+them. No units shall have any preferential treatment over others except other than 
+as provided for in these Rules.
+(2) Wherever practicable the methods of issuing units selected shall enable the                  
+SL-REIT to have a broad base of unit holders and comply with the public 
+holding requirement of the exchange.
+
+<!-- page 35 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+35A
+SEC (REITs) Regulations, No. 1, 2020
+(3) The Managing Company shall determine the method of issuing units to the 
+public unless otherwise directed by the SEC in the interests of the securities 
+market and the public. In such event the Managing Company shall comply with 
+the directions given by the SEC in respect of the method of issuing units to the 
+public. 
+(4) A Managing Company shall issue only one class of units in a SL-REIT. If  any 
+other classes of units are to be issued, the Managing Company shall obtain the 
+prior approval of the Trustee and the SEC.
+(5) In a public issue the number of units issued shall not exceed 70% of the NA V 
+of the SL-REIT. The units issued to the public shall constitute at least 20% of 
+the approved fund size for a SL-REIT with total minimum asset value of LKR 
+500 million.
+(6) At the time of making an application to list a SL-REIT on a licensed Stock 
+Exchange the information pertaining to the bene ﬁ cial ownership of the units 
+shall be submitted to the exchange except in the following instances:-
+(a) When the unit holder is a statutory institution managing funds belonging 
+to contributors or investors who are members of the public where the 
+number of beneﬁ ciaries are 200 or more; and
+(b) Unit trust funds or other investment funds approved by the SEC, where 
+there are 200 or more beneﬁ ciaries.
+(7) The aggregate amount of units which may be offered to related parties during 
+an IPO shall not be more than10% of the approved size of the SL-REIT.
+(8) In the event of a con ﬂ ict between the listing Rules and these Rules, these Rules 
+shall prevail.
+(9) Lock in
+A sponsor’s holding of 30% or more of the units issued shall be barred   from being 
+traded through the secondary market of a stock exchange at all times other than in 
+the following instances:-
+(a) In the event the sponsor exits from the SL-REIT in full he shall ensure 
+that the strategic investor shall hold a minimum of 30% of the units in 
+issue and not exceed 80% of the total units in issue.
+(b) In the event the sponsor exits from the SL-REIT in part the sponsor shall 
+ensure that the sponsor and strategic investor in aggregate shall hold a 
+minimum of 30% of the units and not exceeding 80% of the total units 
+in issue.
+(c) Where a sponsor disposes the minimum holding of 30% in full or in part 
+to an identiﬁ ed strategic investor, the Managing Company shall make an 
+announcement to the Stock Exchange on which the SL-REIT is listed 
+on the following market day indicating at minimum the details of the 
+new strategic investor and the unit price at which the transaction was 
+concluded.
+(10) Any issuance of new units shall only be made with the prior approval of the 
+SEC.
+
+<!-- page 36 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+36A
+SEC (REITs) Regulations, No. 1, 2020
+Further Issue of Units 
+subsequent to a Listing 
+80 Where the unit holders of a SL-REIT have by way of a resolution at a general meeting, 
+given a general mandate to the Managing Company to issue further units, any such 
+issue under such general mandate shall comply with the following requirements:
+(a) The number of units to be issued, when aggregated with the number of units 
+issued during the preceding 24 months, shall not exceed 20% of the approved 
+size of the SL-REIT unless prior approval of the SEC has been obtained by 
+the Managing Company.
+(b) Further units shall not be issued at a discount to the weighted average market 
+price of the units calculated for the 30 market days immediately preceding 
+the date of ﬁ xing the price.
+(c) Any further units of the SL-REIT issued shall be in the same class as units 
+of the initial issue and no preferential rights shall attach to any units issued 
+after the initial offer other than as provided in these Rules. 
+Rights Issue of units 81 Rights issue of units shall be allowed subject to the unit holders’ status quo being 
+maintained in relation to the holding percentage at the time of issue. 
+Issues of Units to ﬁ nance 
+acquisitions of property to 
+the SL-REIT
+82 The Managing Company shall make its observations on the reasonableness of the 
+terms and conditions of an intended acquisition of property including the purchase 
+price. Such observations shall be made in the Explanatory Memorandum which shall 
+be accompanied by the opinion of a competent and independent valuer’s opinion 
+regarding the price.
+Issue of Debentures to 
+ﬁ nance acquisitions of 
+property to the SL-REIT
+83 (1) A Managing Company shall comply with rules of a Stock Exchange on which a 
+SL-REIT is listed when issuing debentures to ﬁ nance acquisition of property for a 
+SL-REIT.
+(2) The amount raised by the issue of debentures shall not exceed 30% of the NA V 
+calculated for the most recent quarterly ﬁ nancial statements disclosed to the 
+Stock Exchange.
+Issue of Bonus Units 84 Where there is a surplus of funds in a SL-REIT pursuant to a revaluation of the 
+property  owned by such REIT, the Managing Company may utilize such surplus 
+for an issue of bonus units provided the following conditions are satisﬁ ed:-
+(a) The value of such bonus units shall not exceed 90% of such surplus;
+(b) Such bonus units shall be issued only once in a ﬁ nancial year;
+(c) The SL-REIT has acquired the property by way of an outright purchase 
+with freehold title; and
+(d) Where the property is held on a lease, any value appreciation of the land 
+shall not be considered for the issue of bonus units.
+ 
+Underwriting 85 If the SL-REIT is created for a single asset then the initial public offering shall be 
+underwritten by an underwriter registered with the SEC for 80% of the subscription.
+
+<!-- page 37 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+37A
+SEC (REITs) Regulations, No. 1, 2020
+PART XIV
+Size of a SL-REIT 86 (1) The minimum value of a SL-REIT at the time of listing shall be LKR 500 Million.
+(2) In determining the size of a SL-REIT, a Managing Company shall take into 
+account its resources, expertise, experience, and overall capacity to carry out 
+its duties in accordance with–
+(a) the Trust Deed;
+(b) the SEC Act, Directives issued thereunder, these Rules and Rules of a 
+licensed Stock Exchange on which the SL-REIT is to be listed; and 
+(c) internationally or globally acceptable and ef ﬁ cacious business practices 
+pertaining to the management of Real Estate Investment Trusts.
+Register 87 The Central Depository of the Stock Exchange on which a SL-REIT is listed shall 
+maintain a register of unit holders and such register shall contain details of unit 
+holders updated as at the end of the last trading day. Entry of a person’s name in 
+such register maintained by the Central Depository shall be the best evidence of the 
+fact that the person is a Unit Holder of such SL-REIT.
+Distribution of Income 88 (1) Of the distributable income, 90% shall be distributed. Distributions shall only 
+be made from collected and realized gains or realized income unless approval of 
+the unit holders excluding the sponsor, strategic investor and any party acting in 
+concert with them, have been obtained by way of a resolution to decline to receive 
+the distributable income in a given year or circumstance. Any deviation from the 
+dividend distributions which is less than 90% shall result in disentitlement to any 
+tax beneﬁ ts available to Unit Trusts.
+(2) Distribution of income to the unit holders of a SL-REIT shall be made after the 
+Managing Company has taken into consideration the following:
+(a) Total returns for the period;
+(b) Cash ﬂ ow for distribution;
+(c) Stability and sustainability of distribution of income;
+(d) Solvency Certi ﬁ cate obtained from a ﬁ rm of chartered accountants; 
+and
+(e) The investment objective and distribution policy of the SL-REIT as 
+disclosed in the Explanatory Memorandum.
+(3) Where a distribution is made, the Managing Company shall send to every unit 
+holder a statement setting out relevant information.
+Meetings of Unit Holders 89 (1) The Managing Company and Trustee may convene a meeting of the unit holders 
+at any time in addition to any meeting made mandatory under these Rules.
+(2) Unit holders may also convene a meeting with prior notice to the Managing 
+Company and the Trustee to discuss unresolved matters. In order to convene 
+such a meeting at least 50 unit holders shall give their consent to convene the 
+meeting and the Trustee shall be present at such meeting.
+
+<!-- page 38 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+38A
+SEC (REITs) Regulations, No. 1, 2020
+Notice of Meetings 90 (1) A Managing Company or Trustee may convene a unit holders’ meeting on any 
+date, subject to the following:-
+(a) written notice of at least 21 calendar days prior to the meeting has been 
+given to unit holders;
+(b) specifying in the notice, the date, venue and time of the meeting and the 
+resolutions proposed; and
+(c) publishing of an advertisement giving notice of the unit holder’s meeting 
+in all three languages in daily newspapers with a wide circulation.
+(2) Where there has been a breach of the provisions of the Trust Deed by the 
+Managing Company, the Trustee may convene a meeting of unit holders and 
+where necessary by giving  shorter period of notice considering the urgency of 
+the matter.
+(3) When a meeting is called by the unit holders, for the purpose of passing a 
+resolution the Managing Company shall convene the meeting within 21 days 
+of receiving the request from the unit holders.
+Chairman of unit holders 
+meetings
+91 A meeting of unit holders’ shall be chaired by a member of the trustee or by a person 
+appointed by the Trustee other than a unit holder or a director of the Managing 
+Company.
+Quorum 92 (1) The quorum for a meeting of unit holders shall be ﬁ fty one percent of the total 
+number of unit holders present by way of proxy or attending in person.
+(2) If after a reasonable time from the start of the meeting, a quorum is not present, 
+the meeting–
+(a) if convened at the request of the unit holders shall be dissolved; and
+(b) in any other case shall stand adjourned to a date and time to be held at a 
+place determined by the Chairman which is seven or more days after the 
+date of the convened meeting  
+Resolutions 93 (1) Except where expressly provided in these Rules any resolution of unit holders 
+shall be passed by a simple majority.
+(2) Any resolution to alter the objectives of the SL-REIT shall only be passed by 
+75% of the registered unit holders as appearing as of the date of the notice of 
+the resolution.
+Voting Rights 94 (1) V oting shall take place on a show of hands by every unit holder who is present 
+in person or by proxy.
+(2) A poll may be demanded on any resolution. In such instance every unit holder 
+who is present shall have one vote per each unit held
+(3) In the case of joint unit holders, only one of the joint unit holders shall be allowed 
+to attend a meeting of unit holders and such person shall be entitled to one vote 
+only. At a poll the joint unit holders shall be entitled to one vote per each unit 
+held jointly.
+
+<!-- page 39 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+39A
+SEC (REITs) Regulations, No. 1, 2020
+(4) A Managing Company or its nominees shall not exercise the voting rights for 
+the units it holds in aggregate with its nominees at any unit holders’ meeting, 
+regardless of the party who requested for the meeting and the matter or matters 
+that are laid before the meeting.
+(5) Related parties of the Managing Company shall not vote or be counted for the 
+quorum at a meeting of unit holders if they have an interest in the outcome of a 
+resolution tabled for approval which is different from the interests of other unit 
+holders.
+Right to Demand a Poll 95 (1) A resolution put to the vote at a unit holders’ meeting shall be determined by a 
+show of  hands unless a poll is demanded before or immediately after any resolution 
+is tabled by–
+(a) the Chairman;
+(b) the Trustee;
+(c) the Managing Company; or
+(d) unit holders present (or represented by proxy) who hold between them 
+not less than one-tenth of the total number of units in issue.
+(2) Unless a poll is demanded, a declaration by the chairman as to the result of the 
+resolution is conclusive evidence of the passing or defeat of such resolution.
+(3) A Managing Company shall not exercise the voting rights for the units it or its 
+nominees hold at any unit holders’ meeting.
+(4) A copy of a resolution passed at a unit holders meeting shall be submitted to the 
+SEC, CSE and the Trustee.
+Proxies 96 (1) A unit holder may appoint another person to attend a unit holders’ meeting and 
+vote in the unit holder’s place.
+(2) Every notice calling a unit holders’ meeting shall contain a statement that a unit 
+holder is entitled to attend and vote, or may appoint a proxy.
+(3) The document appointing a proxy shall be deposited to reach the of ﬁ ce of the 
+Managing Company not less than 48 hours before the meeting or adjourned 
+meeting.
+Adjournment and Minutes 97 A Managing Company shall ensure that–
+(a) the minutes of all resolutions and proceedings at every unit holders’ meeting 
+shall be  recorded and preserved; and
+(b) any minute recorded as speci ﬁ ed under sub paragraph (a) shall be signed by 
+the Chairman of the unit holders’ meeting.
+
+<!-- page 40 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+40A
+SEC (REITs) Regulations, No. 1, 2020
+Terminating and Winding 
+up of a SL-REIT
+98 (1) A SL-REIT shall be terminated or wound up upon the occurrence of any of the 
+following events:-
+(a) The license granted by the SEC to operate a SL-REIT is cancelled;
+(b) A special resolution is passed at a unit holders’ meeting to terminate or 
+wind up the SL-REIT with 75% of unit holders present and voting in favor 
+of the resolution; or
+(c) When the SL-REIT has completed its tenure or as speciﬁ ed in the trust deed 
+and the Explanatory Memorandum where applicable
+(2) In any of above circumstances, the Trustee shall–
+(a) Liquidate all the SL-REIT’s assets remaining in its custody; and
+(b) after paying all liabilities or retaining adequate amounts to meet such 
+liabilities and the cost of winding up, distribute to unit holders the net cash 
+proceeds available for the purpose of such distribution in proportion to the 
+number of units held by the unit holders respectively in accordance with 
+these Rules; 
+(3) The Managing Company and Trustee shall within one market day subsequent 
+to the triggering of any of the events mentioned above take steps to-
+(a) disclose to the stock exchange by way of an announcement 
+(b) inform the  unit holders of the termination and or winding up of the SL-REIT 
+by way of a circular. This requirement shall not apply where the unit holders 
+have already approved a resolution for the termination and or winding up 
+of a SL-REIT; and
+(c) publish a notice in all three languages on the termination or winding up of 
+the SL-REIT in three newspapers having a wide circulation. 
+(4) The Managing Company and Trustee shall notify the SEC in writing–
+(a) upon the passing of a resolution to terminate or wind up the SL-REIT 
+by the unit holders, or in any other circumstances leading to the 
+termination or winding up of the SL-REIT; and
+(b) upon the completion of the termination and/or winding up of the SL-
+REIT.
+(5) Where a SL-REIT is being terminated or wound up, the Trustee shall arrange for 
+the auditor of the SL-REIT to conduct a ﬁ nal review and audit of the SL-REIT’s 
+accounts.
+
+<!-- page 41 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+41A
+SEC (REITs) Regulations, No. 1, 2020
+PART XV
+Reporting Requirements 99 (1) A Managing Company shall prepare an annual report for the SL-REIT and 
+shall issue audited ﬁ nancial statements and quarterly reports. The audited ﬁ nancial 
+statements shall be prepared in compliance with the applicable Sri Lanka Accounting 
+Standards and audited in compliance with Sri Lanka Auditing Standards. The Annual 
+Report and the quarterly ﬁ nancial statements shall be disclosed to the market in 
+accordance with the listing requirements of the Stock Exchange on which the SL-
+REIT is listed.
+(2) If a Managing Company intends to change a SL-REITs ﬁ nancial year or interim 
+ﬁ nancial period, the Managing Company shall obtain–
+(a) a written con ﬁ rmation from the auditor of the SL-REIT stating 
+that the change of the ﬁ nancial year or the period as the case 
+may be would not result in any signi ﬁ cant distortion of the 
+ﬁ nancial position of the SL-REIT; and
+(b) the SEC’s prior approval before implementing such change.
+Submission of Reports to 
+the SEC
+100 (1) The annual report of a SL-REIT and the annual report of the Managing Company 
+shall be lodged with the SEC within three months of the end of the ﬁ nancial year.
+(2) The quarterly report of the SL-REIT shall be submitted to the SEC within seven 
+business days of the quarter following the end of the period of reporting.
+(3) A SL-REIT’s quarterly report shall contain a declaration by the Compliance 
+Ofﬁ cer responsible for all compliance matters that the SL-REIT’s quarterly 
+report is complete, true and accurate to the best of his/her knowledge and 
+belief and shall also include a conﬁ rmation of compliance with the regulatory 
+requirements.
+Submission of SL-REIT’s 
+quarterly reports during 
+termination or winding up
+101 (1) When a SL-REIT is being terminated or wound up, a managing company shall 
+continue to submit such SL-REIT’s quarterly report until the termination or winding 
+up is completed.
+(2) The Compliance Review Report shall be submitted to the SEC not later than 
+seven business days from the date of submission of the SL-REIT’s quarterly 
+report.
+Contents of an Annual 
+Report of a SL-REIT
+102 An annual report of a SL-REIT shall include the following amongst others that may 
+be speciﬁ cally required by the Managing Company:
+(a) Information pertaining to the SL-REIT;
+(b) Report on the performance of the SL-REIT;
+(c) A report by the Managing Company;
+(d) A report by the Trustee;
+(e) A report by the valuer together with the NA V .
+(f) Audited ﬁ nancial statements for the accounting period of the SL-REIT; 
+(g) Auditor’s report on the SL-REIT.
+(h) A report of the Investment committee 
+
+<!-- page 42 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+42A
+SEC (REITs) Regulations, No. 1, 2020
+Audit 103 (1)  A Managing Company and Trustee shall ensure that the ﬁ nancial statements of 
+the SL- REIT are audited annually by an auditor appointed by the trustee.
+(2) A Trustee shall appoint an auditor for the SL-REIT who is independent of the 
+Managing Company and the trustee.
+(3) Where the SEC is of the opinion that the auditor appointed by the trustee is 
+not suitable, or where an auditor has not been appointed, the SEC may direct 
+the trustee to replace or appoint an auditor to the SL-REIT in accordance with 
+these Rules.
+(4) A Trustee may, at any time if it deems appropriate, remove the auditor of the 
+SL-REIT and appoint another in its place. In addition the unit holders may, by 
+way of an ordinary resolution request the Trustee to replace the auditor.
+Co-operation with 
+Auditors
+104 (1) A Managing Company shall take reasonable steps to ensure that its employees–
+(a) provide such assistance as the auditor reasonably requires to discharge 
+its duties;
+(b) give the auditor right of access at all reasonable times to relevant records 
+and information;
+(c) do not interfere with the auditor’s ability to discharge its duties;
+(d) do not provide false or misleading information to the auditor; and
+(e) report to the auditor any matter which to the knowledge of an employee 
+may signiﬁ cantly affect the ﬁ nancial position of the SL-REIT.
+(2) A Managing Company shall, in writing, require any person to whom the 
+Managing Company has delegated or outsourced any function to co-operate 
+with the SL-REIT’S auditor in accordance with the provisions of these Rules.
+Corporate Governance 
+Report
+105 (1) A Managing Company shall adopt good corporate governance practices and best 
+industry standards for all activities conducted in relation to the SL-REIT and any 
+matter arising out of its listing or trading on a Stock Exchange. The valuer of the 
+SL-REIT shall observe the best  practices and standard
+(2) The chairman of the Managing Company shall by way of declaration con ﬁ rm 
+that the corporate governance provisions in these Rules and the relevant listing 
+Rules have been complied with. Any deviations therein shall be explained with 
+a proposed plan to comply with such Rules within the next twelve months. 
+Financial 
+Statements and 
+Other Reports 
+of the Managing 
+Company
+106 (1)  A Managing Company of a SL-REIT shall prepare audited ﬁ nancial statements 
+annually and unaudited ﬁ nancial statements monthly of the Managing Company. The 
+unaudited ﬁ nancial statements of the Managing Company shall be signed by two 
+Directors of the Managing Company and submitted to the SEC within two weeks 
+from the end of the month of reporting.
+(2) A Managing Company shall prepare a Compliance Review Report on a quarterly 
+basis. The report shall be signed by two Directors of the Managing Company. 
+In the event of any non-compliance the Managing Company shall provide an 
+explanation for the said non-compliance and the action to be taken or taken to 
+rectify same in the Compliance Review Report. 
+
+<!-- page 43 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+43A
+SEC (REITs) Regulations, No. 1, 2020
+PART XVI
+Application for a license 
+to manage a SL-REIT to 
+the SEC 
+107 (1) An application to operate a SL-REIT shall be submitted in accordance with the 
+requirements, terms and conditions stipulated under Part IV of the Schedule to the 
+SEC Act and shall in addition comply with the requirements set out in these Rule.
+(2) An application for a license to manage a SL-REIT shall be accompanied by:-
+(a) all particulars relating to the issuance or offer of units of a real estate 
+investment trust which the Managing Company is intending to manage 
+including a draft Explanatory Memorandum;
+(b) all particulars relating to the listing of units on a stock exchange;
+(c) details of the Managing Company intending to manage a SL-REIT 
+including details of Shareholders, Directors and Key Management Persons 
+(d) details of the proposed Trustee including the draft Trust deed for the SL-
+REIT prepared in accordance with these Rules; 
+(e) all details of the property or properties to be acquired for the SL-REIT 
+including details relating to the title of the property or properties; 
+(f) documentary proof of all relevant approvals granted in respect of the  
+buildings standing on the properties identi ﬁ ed for inclusion in the SL-
+REIT  
+(g) V aluation reports relating to the properties of the REIT (shall be submitted 
+in accordance with the Valuation Guidelines applicable to REITs as 
+approved by the SEC);
+(h) report from a ﬁ rm of chartered accountants on the accuracy/reasonableness 
+of unit price;
+(i) audited ﬁ nancials of Managing Company for the last three years with 
+unmodiﬁ ed opinion;
+(j) information to demonstrate that the applicant has processes in place to 
+safeguard the funds of the investing public or the unit holders;
+(k) certi ﬁ ed copy of Business Registration; and
+(l) a certi ﬁ cate or letter of assurance from a notary public who is a member 
+of a reputed ﬁ rm of lawyers certifying the validity of the title to the 
+properties or proposed properties that are to be owned by or leased to 
+the SL-REIT.
+(3) The SEC may, if the application complies with all the requirements set out in 
+the SEC Act and these Rules. 
+(a) grant a license to the applicant to manage and operate the SL-REIT 
+subject to such terms and conditions as the SEC deems ﬁ t and subject 
+to the payment of a license fee as required in terms of the SEC Act; and
+(b) approve the proposed Trustee to act as the Trustee of the SL-REIT;or
+(c)  reject the application if the SEC deems that the applicant or the 
+application does not meet the requirements speciﬁ ed hereunder
+(4) After obtaining the license from the SEC the Managing Company shall be 
+required to obtain the prior approval of the SEC in the following instances:-
+(a) appointment of a new Trustee.
+
+<!-- page 44 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+44A
+SEC (REITs) Regulations, No. 1, 2020
+(b) in case of reconstruction, amalgamation or any change in the shareholding 
+of a Managing Company;
+(c) appointment or change of construction contractor for the buildings standing 
+on a SL-REIT’s property where the cost of such construction amounts to 
+values over 10% of the SL-REIT’s NA V;
+(d) appointment or change of property managers;
+(e) appointment of new directors or for any other material change in the 
+information provided to the SEC in its application for the license;
+(f) amendments to the Trust Deed and any supplementary trust deeds of the 
+SL-REIT; and
+(g) amendments to the Explanatory Memorandum and supplementary 
+memoranda of the SL-REIT.
+Notiﬁ cations to an 
+Exchange in which a 
+REIT is listed
+108 (1) A Managing Company shall forthwith disclose to the Stock Exchange on which a 
+SL-REIT is listed the occurrence of any one or more of the following in addition to 
+the disclosures required to be made under the listing rules of such Stock Exchange:-
+(a) Appointment and resignation of directors of a Managing Company of a 
+SL-REIT;
+(b) Appointment and resignation of chief executive of ﬁ cer of the Managing 
+Company;
+(c) Appointment and resignation of any Members of an investment committee 
+of a Managing Company of a SL-REIT; 
+(d) Appointment of a delegate or service provider by a Managing Company 
+in relation to its primary functions;
+(e) Appointment or resignation of the property manager to mange a SL-REIT;
+(f) Appointment and resignation of a property developer;
+(g) Any acquisition of real estates for a SL-REIT;
+(h) Any disposal of real estates of a SL-REIT;
+(i) A resolution passed to terminate or wind up a SL-REIT; 
+(j) The completion of the termination or winding up of a SL-REIT;
+(k) Any matter materially affecting the SL-REIT’s income; and
+(l) All other disclosures as may be required by the SEC or the stock exchange 
+on which the SL-REIT is listed
+Documents required to be 
+ﬁ led with the SEC
+109 (1) A Managing Company shall ﬁ le with the SEC the following:
+(a) the annual report of the SL-REIT simultaneously with the releasing of 
+such report to the Exchange;
+(b) the annual report of the Managing Company;
+(c) all interim reports of the SL-REIT; and
+(d) copies of any notices issued or published after the approval of the SEC is 
+obtained for the Explanatory Memorandum; and
+
+<!-- page 45 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+45A
+SEC (REITs) Regulations, No. 1, 2020
+(e) certi ﬁ cate of assurance of clear title as to the real estate property belonging 
+to the SL-REIT issued by a notary public having over ten years experience 
+in conveyancing real estate with similar value, prior to a real estate property 
+being acquired by or leased to a SL-REIT.
+The documents speciﬁ ed in paragraphs (1) shall be submitted to the SEC by the 
+following;
+ (i) a Managing Company
+ (ii) a Trustee where the application relates to the approval of the Trustee 
+and appointment of a Company to act as a Trustee
+(2) Documents which are unsatisfactory will be returned. The applicant including 
+directors and/or sponsors, advisors, experts and any other person of a Managing 
+Company accepting responsibility for all information and documents submitted 
+to the SEC shall exercise due care and diligence in respect of the information 
+submitted relating to or in connection with a SL-REIT. The information so 
+provided shall be accurate as on the date of submission.
+
+<!-- page 46 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+46A
+SEC (REITs) Regulations, No. 1, 2020
+PART XVII
+Document Constituting a 
+SL-REIT
+110 (1) The document constituting a SL-REIT established by way of a trust means the 
+Trust Deed  
+(2) Any provision contained in a Trust Deed referred to in paragraph (1) shall be 
+void in so far as it would have the effect of exempting the Managing Company, 
+the Trustee, or the auditor of the SL-REIT from any duty or function required 
+under these Rules or of indemnifying any such person against liability for any 
+failure to carry out such a duty or function.
+(3) The Trust Deed of a SL-REIT shall not contain any provision that:-
+(a) con ﬂ icts with these Rules or any other applicable laws in Sri Lanka 
+or 
+(b) is prejudicial to the interests of the unit holders
+(4) The Trust Deed of a SL-REIT shall require its Managing Company and Trustees 
+to be under a continuous duty to:-
+(i) act in the best interests of the unit holders of the SL-REIT;
+(ii) disclose to the SEC promptly any material information relating to 
+the SL-REIT of which the SEC would reasonably expect notice to 
+be given in a timely and accurate manner; and
+(iii)  disclose to all the relevant parties to a SL-REIT information which 
+is accurate in a timely manner in order that all parties to a SL-REIT 
+may fulﬁ ll their obligations to unit holders as required by these Rules 
+or any other applicable Law.
+(5) The Managing Company of a SL-REIT shall make the Explanatory Memorandum 
+and the Trust Deed of a SL-REIT under its operation, available in electronic 
+format on its website and in hard copy for inspection during normal working 
+hours at a physical address which is easily accessible to the public. 
+(6) A Trust Deed for a SL- REIT shall in addition to the requirements of the Trust 
+Ordinance contain such provisions, covenants, requirements, information and 
+particulars speciﬁ ed by the SEC.
+(7) The requirements stipulated herein are in addition to the requirements imposed 
+on a Managing Company and a Trustee under the Law. The provisions of these 
+Rules are in addition to and not in derogation of any other Law.
+
+<!-- page 47 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+47A
+SEC (REITs) Regulations, No. 1, 2020
+Minimum Contents for a 
+Trust Deed
+111 (1) A Trust Deed of a SL-REIT shall contain at a minimum the following, in addition 
+to any other information which the SEC may require to be included in the trust deed:-
+(a) Name of the SL-REIT ;
+(b) Participating Parties ;
+(c) A statement to specify the participating parties such as the Managing 
+Company and the Trustee;
+(d) a statement to bind the Trustees and the Managing Company to the 
+provisions of the Trust Deed and to authorize the Trustee to give 
+instructions to the Managing Company as required by the terms of the 
+Trust Deed;
+(e) a provision that a unit holder of a SL-REIT is not liable to make any 
+further payment after he has paid the purchase price of his units and 
+that no further liability can be imposed on him in respect of the units 
+which he holds; and
+(f) a declaration that the assets of the SL-REIT are held by the Trustee on 
+trust for the unit holders who shall hold such units pari-passu according 
+to the number of units held by each unit holder.
+Covenants of the 
+Managing Company
+112 A Trust Deed of a SL-REIT shall specify the duties of a Managing Company, which 
+are required by the SEC in terms of the SEC Act, Directives issued thereunder and 
+these Rules and shall include without limitation the following covenants:-
+(a) that the SL-REIT has, at all times, an appointed Trustee;
+(b) that payment to the trustee is made, within ten working days after 
+receipt by the Managing Company, of any monies which, under the 
+Trust Deed, is payable to the Trustee;
+(c) not to sell any units to which the deed relates other than in accordance 
+with these Rules or the listing Rules of a Stock Exchange on which 
+the SL-REIT is listed;
+(d) to specify the basis of the calculation of the NA V per unit of a SL-REIT;
+(e) to make available to the Trustee all such information as the Trustee 
+requires on all matters relating to the SL-REIT;
+(f) to not exercise the voting rights with respect to the units it holds at any 
+unit holders ‘meeting, regardless of the party who requested for and 
+convened the meeting and the matter or matters that are laid before the 
+unit holders; and
+(g) to circulate the trustee’s report together with the annual report of the 
+SL-REIT to all unit holders.
+
+<!-- page 48 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+48A
+SEC (REITs) Regulations, No. 1, 2020
+Covenants of the Trust 113 A Trust Deed of a SL-REIT shall specify duties of the Trust which are required by 
+the SEC Act, Directives issued thereunder and these Rules and shall include without 
+limitation the following covenants:-
+(a) That the SL-REIT shall at all times have a Managing  Company;
+(b)  That all due diligence and care will be exercised in carrying out its 
+functions and duties and in safeguarding the rights and interests of unit 
+holders to which the Trust Deed relates and undertaking that timely 
+action will be taken against any party that will cause any loss to a 
+property of a SL-REIT in any manner;
+(c)  That it will ensure that the Managing Company does not act improperly 
+or engage in unethical business practices in managing the SL-REIT 
+to gain directly or indirectly an advantage for itself or for any other 
+person or to prejudice the interests of unit holders;
+(d)  That it will keep or cause to be kept proper books of accounts for all 
+investments and properties of the SL-REIT;
+(e) That it will ensure that proper records are kept of all transactions, 
+dividends, interests and income received and distributed for the SL-
+REIT; and
+(f) That it will cause the accounts of the SL-REIT to be audited at the end 
+of each ﬁ nancial year by an auditor appointed by the Trustee.
+Joint Covenants of the 
+Management Company 
+and Trustee
+114 A Trust Deed of a SL-REIT shall contain joint covenants by the Managing Company 
+and Trustee which shall include the following:-
+(a) To safeguard the interests of unit holders;
+(b) To ensure that for the duration of the SL-REIT there is a valid deed in 
+force at all times and a covenant undertaking not to exercise the voting 
+rights where there is a conﬂ ict of interest; and
+(c) To ensure timely action including the institution of legal proceedings 
+against any defaulter or user of the real estate belonging to the SL-REIT
+Other Provisions 115 A Trust Deed of a SL-REIT shall also provide for the following:
+(a) Creation of the SL-REIT or declaration of trust, which also sets out 
+full particulars of the trust, including precise information as to the 
+circumstances in which the money, securities, investments, and properties 
+which are the subject of the SL-REIT and the duties and obligations of 
+the trustee towards the SL-REIT.
+(b) That the Trust Deed–
+ (i) is binding on each unit holder as if it had been made a party to it 
+and that it or he is bound by its provisions;
+ (ii) authorizes and requires the Managing Company and the Trustee 
+to do the things required of them by the terms of the deed; and
+ (iii) is made and governed under the laws of Sri Lanka;
+(c) Appointment of a Trustee to the SL-REIT;
+
+<!-- page 49 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+49A
+SEC (REITs) Regulations, No. 1, 2020
+(d) Full particulars of the SL-REIT including, but not limited to–
+ (i) name of the SL-REIT;
+ (ii) investment objective of the SL-REIT;
+ (iii) permitted investments, limits, and restrictions;
+ (iv) valuation of the assets of the SL-REIT;
+ (v) the nature of the SL-REIT;
+ (vi) the SL-REIT’s distribution policy including the basis for the 
+distribution or re investment of income;
+ (vii) accounting period of the SL-REIT; 
+(e) Full particulars of circumstances by which all or any of the investments 
+may be varied.
+(f) Full particulars on the provision to be made for investments in property 
+that depreciates in value, including the source from which the replacement 
+is to be made or from which the cost of replacement is to be met. If no 
+provision is made, a clear statement to that fact must be made;
+(g) Full particulars on the circumstances in which the Managing Company 
+may be required to repurchase from a unit holder any unit which the unit 
+holder has purchased and the method of calculation of the repurchase price 
+of the unit if or where relevant;
+(h) Full particulars on the conditions governing the transfer of any unit to 
+which the trust deed relates;
+(i) Full particulars on the remuneration of the Managing Company and Trustee 
+respectively and expenses including dealing charges (if any) and expenses 
+which are  allowed to be paid out of the SL-REIT;
+(j) Where the deed requires, or confers a right on, unit holders to enter into 
+an agreement in connection with the SL-REIT, a provision incorporating 
+the terms and conditions of that agreement;
+(k) A declaration that unless the conditions of issue of any unit expressly 
+provide that a certi ﬁ cate is not to be issued or that a certi ﬁ cate will be 
+issued at the option of the unit holder, by the trustee to a purchaser of any 
+unit purchased or subscribed for, not more than 21 calendar days after the 
+issue of the unit where relevant. This subparagraph may not be applicable 
+if the units are to be dematerialized;
+(l) Circumstances under which the dealing in units can be deferred or 
+suspended;
+(m) Circumstances, procedures and processes for termination or winding up 
+the SL-REIT;
+(n) Circumstances, procedures and processes for convening of meetings of 
+unit holders, including the manner in which votes may be counted at a 
+meeting of unit holders;
+(o) Circumstances, procedures and processes for retirement, removal and 
+replacement of the Managing Company and the Trustee;
+
+<!-- page 50 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+50A
+SEC (REITs) Regulations, No. 1, 2020
+(p)   Circumstances, procedures and processes for the appointment retirement, 
+removal, and replacement of the auditor for the SL-REIT;
+(q) Speci ﬁ c provisions whereby the Managing Company undertakes to keep 
+and maintain an up-to-date register of unit holders and to make that register 
+available for inspection, free of charge, to any unit holder at any time 
+during ordinary business hours of the Managing Company;
+(r) The extent of the indemnity provided by the Managing Company;
+(s) Full particulars relating to unit holders’ rights and the extent of their 
+liability; and
+(t) Provisions governing the modi ﬁ cation of the trust deed; and
+(u) Provisions on the method of calculating the liquidation and delisting price.
+Minimum content 
+in the Explanatory 
+Memorandum
+116 The Explanatory Memorandum constitutes the fundamental base of information 
+for the subscribers to units of a SL-REIT and shall be reviewed and updated by the 
+SL-REIT as it becomes necessary. In the event the Explanatory Memorandum is 
+intended to be amended, a copy of the addendum shall be submitted and ﬁ led with 
+the SEC for its prior approval. 
+The information required below constitutes the minimum and is not  intended to be 
+exhaustive. The Managing Company is obliged to disclose any information which 
+may be necessary for investors to make an informed decision. 
+(1) Constitution of the SL-REIT 
+(a) Introduction to and about the SL-REIT
+(b) Name, registered address and date of creation of the SL-REIT
+(c) Type of investors 
+(2) Investment Objectives and Restrictions 
+The Explanatory Memorandum of the SL-REIT shall clearly include the following:-
+(a) Investment Objectives – the fundamental investment objectives of the SL-
+REIT must be stated and the types of permissible investments in which the 
+fund proposes to invest.
+(b) A disclosure shall be made as to whether the SL-REIT is perpetual or for a 
+ﬁ xed or speciﬁ ed term. 
+(c) The investment policy and strategy indicating the asset allocation of the 
+SL-REIT in pursuing its objectives; 
+(d) The proposed use of the monies raised from the public offering of the units 
+in the SL-REIT and any business plan for the SL-REIT; 
+(e) A discussion of the business plan for property investment and management 
+covering the scope and type of investments made or intended to be made by 
+the SL-REIT, including the type(s) of real estate; 
+(f) The general character and competitive conditions of all real estate now held 
+or intended to be acquired by the SL-REIT and how it meets the established 
+criteria for selection;
+
+<!-- page 51 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+51A
+SEC (REITs) Regulations, No. 1, 2020
+Actual and expected rent per square foot as projected by the valuer shall be 
+disclosed. Where the property has already been leased to any party at a discount 
+less than ten percent of the valuer’s projected rent per square foot, such fact shall 
+be disclosed together with the rationale thereto. 
+(g) The nature and risks of making property investments in each of the relevant 
+locations, including, an explanation of the nature of the risks, including 
+minimum/maximum exposure, concentration risk; 
+ (i) demographics; 
+ (ii) state of the economy, economic risks and foreign exchange risk; 
+ (iii) political risks; 
+ (iv) legal risks and tax considerations; 
+ (v) policies that affect property investments and property sales; 
+ (vi) overview of the property market; 
+ (vii) analysis of the speci ﬁ c property sector and the competitive 
+dynamics in the rental market; 
+ (viii) operational requirement; and 
+ (ix) rules and regulations governing property ownership and tenancy 
+matters; 
+(h) Details of the legal title/bene ﬁ cial ownership of the underlying property/
+securities of the SL-REIT; 
+(i) Transaction history of the relevant property in the ﬁ ve years immediately 
+preceding and within the date of the valuation report included in the 
+explanatory memorandum; 
+(j) Any proposed program for renovation or improvement to the real estate, 
+including the estimated costs thereof and the method of ﬁ nancing to be used; 
+(k) The operating data of each of the property including the period of occupancy, 
+occupancy rate, number of tenants and its mix in terms of occupation or 
+business, average annual rental per square foot, and schedule of lease 
+expirations for the next ﬁ ve years;
+(l) The borrowing policy and the method or proposed method of operating and 
+ﬁ nancing the scheme’s real estate investments; 
+(m) The measures in place to mitigate or minimize risks relating to the investment 
+and management of real estate owned by the SL-REIT; 
+(n) The insurance arranged for the SL-REIT;
+(o) The exit strategy in the event of divestment factors and risks which may 
+impact or act as an impediment to an exit, and the contingency plan; 
+(p) Details of transactions or agreements entered into with connected parties; 
+
+<!-- page 52 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+52A
+SEC (REITs) Regulations, No. 1, 2020
+(q) Full particulars of the nature and extent of the interest, if any, of any director 
+of the Trustee, the Managing Company, the Principal Valuer or any other 
+connected persons to the SL-REIT, in the property owned or proposed to be 
+acquired by the SL-REIT; and where the interest of such a director consists 
+in being a partner in a ﬁ rm, the nature and extent of the interest of the ﬁ rm, 
+with a statement of all sums paid or agreed to be paid to him or the ﬁ rm for 
+services rendered to the SL-REIT;
+(r) The Members in the Audit Committee and how frequently they have to meet; 
+(s) A valuation report prepared by the Principal Valuer in accordance with 
+regulatory standards applicable for managing the REIT with respect to all 
+the SL-REIT’s  interest in real estate, including particulars of each property 
+owned by the SL-REIT or contracted for purchase by the SL-REIT;
+(t) Particulars of any bank overdrafts or similar indebtedness of the SL-REIT, 
+or if there is no such indebtedness, a statement to that effect;
+(u) Occupancy Projections for the next three years;
+(v)  Projected Income Statement, Balance Sheet, Cash ﬂ ow forecast for the three 
+years commencing on the date of the Explanatory Memorandum;
+(w) Accountant’s Report on above (t), (u), (v);
+(x) Intervals at which dividends will be paid.
+Note: All the above information has to be disclosed in the context of the 
+speciﬁ c characteristics and circumstances of the investments made or to be 
+made by a SL-REIT, and shall not be generic statements of investment in 
+the property market. 
+If the nature of the investment policy so dictates, a warning that investment 
+in the SL-REIT is subject to abnormal risks, and a description of the risks 
+involved. 
+(3) Designated Persons
+The names, registered addresses and responsibilities of the parties involved in 
+the Managing Company operation and valuation of the SL-REIT, including the 
+following parties (where applicable): 
+(a) The Managing Company; 
+Information on the Managing Company shall include: 
+(i) a description of the expertise, experience, resources, internal controls 
+and risk management system regarding the investment activities of 
+SL-REIT; 
+ (ii) Audited Financial Statements of the Managing Company for a period 
+of three years;
+ (iii) description of the SL-REIT management activities;
+ (iv) Speci ﬁ c details of the Investment Committee;
+ (v) The details of the members in the Audit Committee;
+(vi) How frequently they have to meet; and
+ (vii) What are the roles and responsibilities of Audit Committee.
+(b) the Trustee; 
+(c) delegates of the Managing Company where applicable; 
+(d) the sponsor; a description of his expertise and experience;
+
+<!-- page 53 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+53A
+SEC (REITs) Regulations, No. 1, 2020
+(e) the property valuer; a description of his expertise, experience, resources, and 
+qualiﬁ cations
+(f) the property manager; a description of his expertise, experience and 
+qualiﬁ cations
+(g) the fund manager ; a description of his expertise and experience
+(h) the auditor
+(i) the registrar
+(j) the project manager; a description of his expertise and experience
+(k) the construction contractor; a description of his expertise and experience
+(4) Characteristics of Units 
+      Minimum investment and Subsequent holding (if any)
+Issue and Redemption of Units
+(5) Application Procedure 
+Procedure for subscribing units
+(6) Distribution Policy 
+The dividend policy and approximate dates on which dividends will be paid.
+(7) Fees and Charges 
+(a) The types of all fees and charges payable by a unit holder, including all 
+charges levied on subscription; 
+(b) The types of all fees chargeable by the SL-REIT, including management 
+fees, trustee fees, start-up expense and fees in relation to listing etc 
+(including underwriting fees, where applicable); and 
+(c) The period of notice to be given to unit holders for fee increases. 
+Note: the basis of calculation or the estimated ranges shall be disclosed. 
+the expected maximum expense percentage the managing company intends to charge 
+against the value of the SL-REIT
+Disclose details of fees payable in respect of attestation of transfer  Deeds and Lease 
+agreements.
+(8) Taxation 
+Details of the principal taxes levied on the SL-REIT’s income and capital, including 
+tax, if any, deducted on distribution to holders. Details of applicability of tax pass 
+through status.
+(9) Valuation Policy 
+The frequency of the valuations to be carried out, qualiﬁ cations of the valuer and 
+the maximum time of engagement of the valuer. 
+If the valuer is removed then the relevant disclosure and details of valuations to 
+be handed over to the incoming valuer.
+Disclosure of the actual and expected rent per square foot in respect of a building 
+or proposed building of a SL-REIT
+(10) Permitted Investments
+Details to be included under Permitted Investments.
+(11) Unit Holders Meeting 
+The Managing Company and trustee may convene a meeting of the unit holders 
+at any time, provided any exceptional circumstances require such meeting. All 
+meetings shall be conducted in compliance with the provisions of the SEC Act, 
+Directives issued thereunder, these Rules and the provisions of the Trust Deed.
+
+<!-- page 54 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+54A
+SEC (REITs) Regulations, No. 1, 2020
+(12) Reports and Accounts 
+(a) The date of the scheme’s ﬁ nancial year. 
+(b) Particulars of the types of reports and the timelines 
+(13) Warnings 
+Statements/warnings shall be prominently displayed in the Explanatory 
+Memorandum as follows: 
+(a) “Important - if you are in any doubt about the contents of this explanatory 
+document, you shall seek independent professional ﬁ nancial advice”. 
+(b) A statement to the effect that the rental yield on real estate held by the 
+SL-REIT is not equivalent to the yield on the units. 
+(c) A statement to explain: 
+ (i) the current rental receipts and that yields may not be sustained; 
+(ii) that the value of the property may rise as well as fall; and 
+(iii) the standards according to which the property valuations are 
+conducted. 
+(d) A statement to explain the investment characteristics and risk pro ﬁ le of 
+the SL-REIT.
+(14)  General Information
+(a) The date of publication of the Explanatory Memorandum. 
+(b) De ﬁ nitions
+(c) A responsibility statement 
+     A statement that the Managing Company, Trustee and its directors 
+accept responsibility for the information contained in the Explanatory 
+Memorandum as being accurate at the date of publication. 
+(d)  Details of listing procedures and special information relating to listing.    
+(e) Governing Laws
+(f) Rights of Unit Holders
+(15) Termination of SL-REIT 
+A summary of the circumstances in which the SL-REIT can be terminated.
+(16) Disclosures
+         Disclosure of information shall be made regarding the real estates of the SL-
+REIT, including but not limited to, the following:
+(a) Details of the real estates owned proposed to be owned/leased by the 
+fund (to be disclosed separately for each real estate unless the details are 
+disclosed in the ﬁ nancial statements) such as–
+ Name and address of the real estates;
+ Description, property type, and age of the real estates;
+ Title details, encumbrances or limitations in title/ interests (if any); 
+ Net lettable area, existing use, occupancy rates, period of 
+occupancy, and number of parking spaces; 
+ Non lettable area (If any) ;
+ brief particulars of tenancies highlighting the information of major 
+tenants, average lease period etc; 
+ date of acquisition of real estates; 
+ acquisition price; 
+ copy of the standard lease agreements as prepared by a reputed 
+lawyer;
+
+<!-- page 55 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+55A
+SEC (REITs) Regulations, No. 1, 2020
+ market value of the real estate, date of latest valuation, and name 
+of independent valuer that carried out the valuation; 
+ net book value of the real estate.
+(b)  Where a real es tate is acquired or disposed during the period, the following 
+information must be disclosed;
+ Identity of vendor or lessor and purchaser of the real estate;
+  In the case of acquisitions information required in (a) above; and
+ In the case of disposal date of disposal, disposal price, market value 
+as per valuation report of the real estate, date of latest valuation, 
+name of independent valuer that carried out the valuation, and gain 
+or loss on disposal; and
+(c) Where a real estate is acquired from, or disposed to, a related party during 
+the period, the following details must be disclosed:
+ Information required in (a) above;
+ Relationship between the vendor/purchaser with the fund or 
+management company; and
+ Where unit holders’ approval is required and a resolution has been 
+obtained, details of the meeting (such as the date of meeting, number 
+of attendees etc.), and the resolution; and
+(d) Name and address of the property manager for each real estate
+(e) There should also be disclosure of the following information:
+(i) Name, address, telephone, e mail, active web address and facsimile 
+numbers of the registered ofﬁ ce of the managing company and trustee;
+(ii) Name, address, telephone, and facsimile numbers of each of ﬁ ce at 
+which a register of unit holders is kept;
+(iii) Particulars of each director of the managing company including the 
+following information:
+A. Name, age, nationality, qualification, and whether the 
+director is an executive, non-executive or independent 
+director;  
+B. Work experience and occupation;
+C. Date on which he was ﬁ rst appointed to the board;
+D. Details of any board sub-committee to which he belongs;
+E. Other directorship of listed companies;
+F. Con ﬂ ict of interest if any that he has with the SL-REIT;
+G. List of convictions for offences within the past ten years 
+other than trafﬁ c offences, if any; and a negative statement 
+if not; and
+H. Number of board meetings attended in the ﬁ nancial year
+(f) Particulars of the chief executive of ﬁ cer and where the chief executive 
+ofﬁ cer is not a director, the following particulars:
+(i) Name, age, nationality, and quali ﬁ cation;
+(ii) Work experience;
+(iii) Date on which he was ﬁ rst appointed by the managing company;
+(iv) Details of any interest in the fund ;
+(v) Other directorship of public companies ;
+(vi) Conﬂ ict of interest tha he has with the SL-REIT ; and
+(vii) List of convictions for offences within the past ten years other than 
+trafﬁ c offences, if any; or a negative statement where applicable. 
+
+<!-- page 56 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+56A
+SEC (REITs) Regulations, No. 1, 2020
+(g) Particulars of each investment committee member of the SL-REIT including 
+the following information :
+(i) Name, age, nationality, qualiﬁ cation and whether he is an independent 
+member ;
+(ii) Working experience and occupation ;
+(iii) Date on which he was ﬁ rst appointed to the Committee;
+(iv) Conﬂ ict of interest if any that he has with the SL-REIT;
+(v) List of convictions for offences within the past ten years other than 
+trafﬁ c offences, if any; or a negative statement;
+(vi) Number of Committee meetings attended in the ﬁ nancial year.
+(h) Name and address of any delegates, including the functions delegated to them.
+(i) Particulars of material contracts of the SL REIT involving the managing 
+company and major unit holders’ interests, either still subsisting at the end 
+of the ﬁ nancial year or, if not then subsisting, entered into since the end 
+of the previous ﬁ nancial year, providing the following particulars for each 
+contract:
+A. The date;
+B. The parties;
+C. The general nature;
+D. The consideration passing to or from the SL-REIT;
+E. The mode of satisfaction of the consideration; and 
+F. The relationship between the director or major unit holder and the 
+contracting party (if the director or major unit holder is not the 
+contracting party).
+Note:
+If no material contract has been entered into, a statement to that effect must be clearly 
+disclosed.
+(j) Where the above contract relates to a borrowings of through a loan the 
+following particulars:
+(i) Names of the lender and the borrower;
+(ii) Relationship between the borrower and the director or major shareholder 
+(if the director or the major shareholder is not the borrower);
+(iii) Purpose of the loan;
+(iv) Amount of the loan;
+(v) Interest rate;
+(vi) Terms as to payment of interest and repayment of principal;
+(vii) Security/collateral provided; and
+(viii) Fund’s gearing ratio.
+(ix) Rational as to why borrowed through a loan instead of listed 
+debentures.
+(k) A statement (indicating the date of such statement) that sets out–
+the names of the major unit holders (excluding bare trustees) and 
+their direct and deemed interests, stating the number and percentage 
+of units in which they have an interest Eg- 20 largest unit holders no 
+of units & % held
+(l) advantages and disadvantages when investing in SL-REITs.
+(m) Litigation, disputes and contingent liabilities
+(17) Declarations
+(a) Declaration by Managing Company 
+(b) Declaration by Trustee
+
+<!-- page 57 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+57A
+SEC (REITs) Regulations, No. 1, 2020
+SCHEDULE I
+Contents of a SL-REIT’s 
+Annual Report
+The purpose of a SL-REIT’s Annual Report is to provide information to enable unit 
+holders to evaluate the performance of the SL-REIT.
+The information required by the SEC under this schedule is the minimum that must be 
+included in a SL-REIT’s Annual Report.
+A. Information of the SL-REIT (a) This section should disclose the following information:
+(i) Name, type, and category of the SL-REIT;
+(ii) The SL-REIT’s investment objective;
+(iii) The SL-REIT’s performance benchmark;
+(iv) The SL-REIT’s distribution policy;
+(v) Composition of the SL-REIT’s investment portfolio grouped in 
+appropriate categories, e.g. property (listed by types e.g. Residential, 
+commercial, industrial, etc.), 
+real estate-related assets and non-real estate related-assets (e.g. 
+government securities, cash and near cash), including the respective 
+percentages;
+(vi) Breakdown of unit holding as follows:
+No of Holders Total Number of 
+Units Held
+%
+Less than 100
+100 to 1,000
+1,001 to 10,000
+10,001 to 100,000
+100,001 to less than 5% of 
+approved SL-REIT size
+10% and above the approved SL-
+REIT size
+(b) Disclosure of information regarding the real estates of the SL-REIT, including 
+but not limited to the following:
+(i) Details of the property owned by the SL-REIT (to be disclosed separately 
+for each property unless the details are disclosed in the ﬁ nancial statements) 
+such as–
+ Name and address of the properties;
+ Description, property type and age of the property;
+ Report of the underlying property in relation to the  title and a letter 
+of assurance from an attorney at law who is notary public with 
+over ten years’ experience (in conveyancing similar properties) 
+that the properties have no encumbrances and if there are any 
+encumbrances or interests or charges on the property the details 
+of same  (if any);
+
+<!-- page 58 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+58A
+SEC (REITs) Regulations, No. 1, 2020
+ Net lettable area, existing use, occupancy rates, and number of 
+parking spaces;
+ Non lettable area (If any)
+ Brief particulars of tenancies specifying information in areas of 
+tenancy/lease periods, average lease period etc;
+ Date of acquisition of properties;
+ Acquisition prices;
+ Market value of the property, date of latest valuation, and name 
+of independent valuer that carried out the valuation; and 
+ Net book value of the property
+(ii) Where a property is acquired or disposed during the period, the following 
+information must be disclosed;
+ Identity of vendor/purchaser of the property;
+ (For acquisitions) Information required in (i) above; and
+ (For disposal) Date of disposal, disposal price, market value as 
+per valuation report of the property, date of latest valuation, name 
+of independent valuer that carried out the valuation, and gain/loss 
+on disposal; and
+(iii) Where a property is acquired from, or disposed to, related party during the 
+period, the following details must be disclosed:
+ Information required in as above;
+ Relationship between the vendor/purchaser with the SL-REIT or 
+Managing Company, the rationale for disposing to  related party; 
+and
+ Whether the unit holders’ approval is required and a resolution has 
+been obtained, details of the meeting (such as the date of meeting, 
+number of attendees etc.), and the resolution; and
+(iv) Name and address of the property manager for each property
+(c) There should also be disclosure of the following information:
+(i) Name, address, telephone, e mail, active web address and facsimile 
+numbers of the registered of ﬁ ce of the management company and 
+trustee;
+(ii) Particulars of each director of the Managing Company including the 
+following information;
+ Name, age, nationality, qualiﬁ cation, and whether the position 
+is an executive or non-executive one, and whether such director 
+is an independent director;
+ Working experience and occupation;
+ Date he was ﬁ rst appointed to the board;
+ Details of any board committee to which he belongs;
+ Other directorship of public companies;
+ Family relationship with any director and/or major unit holder 
+of the SL-REIT;
+ Conﬂ ict of interest that he has with the SL-REIT (if any);
+ List of convictions for offences within the past 10 years other 
+than trafﬁ c offences, if any; and
+ Number of board meetings attended in the ﬁ nancial year
+
+<!-- page 59 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+59A
+SEC (REITs) Regulations, No. 1, 2020
+(iii) Particulars of the chief executive ofﬁ cer and where the chief executive 
+ofﬁ cer is a director, the following particulars:
+ Name, age, nationality, and qualiﬁ cation;
+ Working experience;
+ Date he was ﬁ rst appointed by the managing company;
+ Details of any interest in the; SL-REIT;
+ Other directorship of public companies;
+ Family relationship with any director and/or major unit holder 
+of the SL-REIT;
+ Conﬂ ict of interest that he has with the SL-REIT; and
+ List of convictions for offences within the past 10 years other 
+than trafﬁ c offences, if any;
+(d) Particulars of each investment committee member of the SL-REIT including 
+the following information:
+(i) Name, age, nationality, quali ﬁ cation, and whether he is an independent 
+member;
+(ii) Working experience and occupation;
+(iii) Date he was ﬁ rst appointed to the Committee;
+(iv) Conﬂ ict of interest that he has with the SL-REIT;
+(v) List of convictions for offences within the past 10 years other than 
+trafﬁ c offences, if any; and
+(vi) Number of Committee meetings attended in the ﬁ nancial year.
+(e) Name and address of any delegates, including the functions delegated to them.
+(f) Name and address of the company secretary of the Managing Company;
+(g) Total number of board meetings in relation to the SL-REIT held during the 
+ﬁ nancial year by the Managing Company;
+(h) Particulars of all sanctions and/or penalties imposed on the SL-REIT, directors 
+of the management company or the Managing Company by the relevant 
+regulatory bodies;
+(i) Amount of non-audit fees incurred for services rendered to the SL-REIT for 
+the ﬁ nancial year by the SL-REIT’s auditors, or a ﬁ rm or company afﬁ liated 
+to the auditors’ ﬁ rm;
+(j) Particulars of material contracts of the SL-REIT involving the Managing 
+Company and major unit holders’ interest, either still existing at the end of 
+the ﬁ nancial year or entered into since the end of the previous ﬁ nancial year, 
+providing the following particulars for each contract:
+(i) The date;
+(ii) The parties;
+(iii) The general nature;
+(iv) The consideration passing to or from the SL-REIT;
+(v) The mode of satisfaction of the consideration; and 
+(vi) The relationship between the director or major unit holder and the 
+contracting party (if the director or major unit holder is not the 
+contracting party).
+
+<!-- page 60 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+60A
+SEC (REITs) Regulations, No. 1, 2020
+Note :If no material contract has been entered into, a statement to that effect must be 
+clearly disclosed.
+(k) Where a material contract relates to a borrowing through a loan, the following 
+particulars:
+(i) Names of the lender;
+(ii) Whether the lender is a related party
+(iii) Purpose of the loan;
+(iv) Amount of the loan;
+(v) Following details if borrowed from a related party:
+- Interest rate;
+- Terms as to payment of interest and repayment of 
+principal;
+- Security/collateral provided; and
+(vi) SL-REIT gearing ratio.
+(l) Details of twenty largest unit holders
+B. SL-REIT’s Performance (a) The following information should be disclosed in this section:
+(i) A comparative table consisting the following details for the last three ﬁ nancial 
+years, or since inception if shorter, showing for the end of each ﬁ nancial year–
+ the total asset value of the SL-REIT;
+ the NA V of the SL-REIT;
+ the NA V per unit of the SL-REIT;
+ the highest and lowest NA V per unit;(The ﬁ gures referred to in 
+(ii) to (iv) should be shown as ex-distribution.)
+ the highest and lowest market  price per unit;
+ the number of units listed or in circulation;
+ the distribution per unit (interim and ﬁ nal) and the date for each 
+distribution. The effects of the income distribution on the NA V 
+per unit before and after distribution should be clearly disclosed;
+ the distribution yield of the SL-REIT; and
+ the management expense ratio (MER) of the SL-REIT  If 
+applicable
+(ii) Average total return of the SL-REIT measured over the following periods to 
+the date of the report:
+ One year, or since inception if shorter;
+ Three years; and
+ Five years.
+(iii) Annual total return of the SL-REIT for each of the last ﬁ ve ﬁ nancial years, or 
+since inception if shorter.
+(iv) A SL-REIT report may include other performance data aside from those 
+mentioned in above. 
+However, all performance data presented must comply with the following requirements:
+ The bases of calculation and any assumptions made should be 
+consistently applied, adequately disclosed and independently 
+veriﬁ ed; and
+ Whether the data used was obtained from independent sources.
+(v) It must be clearly stated that past performance is not necessarily indicative of 
+future performance and that unit prices and investment returns may ﬂ uctuate.
+
+<!-- page 61 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+61A
+SEC (REITs) Regulations, No. 1, 2020
+C. Manager’s Report (a) A Managing Company shall prepare a report containing an operational review of 
+the SL-REIT, the result of those operations and details of signiﬁ cant changes in the 
+state of affairs of the SL-REIT during the ﬁ nancial period.
+(b) In selecting a format for the presentation of the manager’s report, consideration 
+should be given, not only to its completeness and accuracy, but also to the clarity 
+of the overall presentation.
+(c) The manager’s report shall include, but not be limited to the following:
+(i) Explanation on whether the SL-REIT  has achieved its investment objective. 
+The explanation should be stated upfront and clearly. 
+(ii) Comparison between the SL-REIT’s performance and the performance 
+benchmark stated in the explanatory memorandum. This should cover the last 
+ﬁ ve ﬁ nancial years, or since inception if shorter, and should be illustrated in 
+graphical form;
+(iii) Description and explanation of signi ﬁ cant changes in the state of affairs of 
+the SL-REIT during the period and up to the date of the manager’s report, not 
+otherwise disclosed in the ﬁ nancial statements;
+(iv) An explanation on any differences in portfolio composition between the period 
+under review and previous year (where applicable);
+(v) An analysis of the SL-REIT’s performance based on changes in total NA V and 
+NA V per unit since the last review period or since commencement (for newly 
+established SL-REIT);
+(vi) An analysis of the SL-REIT’s performance based on changes in prices since the 
+last review period or since commencement (for newly established SL-REIT);
+(vii) A brief explanation of the status of utilization of proceeds raised from any 
+issuance of new units (where applicable);
+(viii) Any circumstances which materially affect any interests of the unit holders;
+(ix) Changes in material litigation (including status of any pending material 
+litigation) since the last annual balance sheet;
+(x) Explanation on any maintenance costs and major capital expenditure incurred 
+during the period;
+(xi) Statement explaining the Managing Company’s responsibility for preparing 
+the annual  accounts for auditing purpose
+D. Trustee’s Report (a) A T rustee shall prepare a report stating in its opinion whether the Managing Company 
+has managed the SL-REIT in accordance with the following:
+(i) Limitations imposed on the investment powers of the Managing Company 
+by the trustee under the Trust Deed, the SEC Act, directives issued 
+thereunder, these Rules and other applicable laws;
+(ii) Valuation/pricing is carried out in accordance with the Trust Deed and any 
+regulatory requirement; and
+(iii) Creation and cancellation of units are carried out in accordance with the 
+Trust Deed and any regulatory requirement.
+
+<!-- page 62 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+62A
+SEC (REITs) Regulations, No. 1, 2020
+(b) If the Trustee is of the opinion that the Managing Company has not done so, the 
+trustee should disclose the shortcoming(s) which may have an impact on the decision 
+of the existing or the potential unit holders to remain invested or to invest in the 
+SL-REIT. The trustee should highlight steps taken to address the shortcoming(s) 
+and/or to prevent the recurrence of the shortcoming(s).
+(c) The report prepared by the trustee under (a)  shall include a further statement stating 
+in its opinion whether the distribution of returns by the SL-REIT is relevant and 
+reﬂ ects the investment objective(s) of the SL-REIT.
+E. Auditor’s Report (i) An annual report for a SL-REIT shall be accompanied by an auditor’s report.
+(ii) An auditors report shall contain an opinion on the accounts of the SL-REIT. Where 
+the report is qualiﬁ ed, the details of the qualiﬁ cation shall be noted under the section 
+dedicated for comments. 
+(iii) to provide all necessary information to enable unit holders to evaluate the 
+performance of the REIT.
+(iv) The ﬁ nancial statement shall give a true and fair view of the ﬁ nancial position, 
+ﬁ nancial performance and cash ﬂ ows of a SL-REIT. The ﬁ nancial statements shall 
+be prepared and audited in accordance with applicable and approved accounting and 
+auditing standards and shall comply with all statutory and regulatory requirements.
+(v) For interim reports, it shall be clearly stated whether the ﬁ nancial statements in the 
+interim report are audited or unaudited.
+(vi) For the purpose of interim reports where unaudited ﬁ nancial statements are used, the 
+ﬁ nancial statements shall include a declaration by the director(s) of the Managing 
+Company stating that the ﬁ nancial statements give a true and fair view of the 
+ﬁ nancial position, ﬁ nancial performance and cash ﬂ ows of the SL-REIT. A signed 
+copy of the declaration, which are identical to the declaration printed in the report 
+shall be submitted to the SEC.
+(vii) There shall be additional information disclosed in the ﬁ nancial statements as follows:
+ NA V of the SL-REIT;
+ Number of units listed or in circulation;
+ NA V per unit (ex-distribution, where applicable);
+ Net assets/liabilities attributable to unit holders; and
+ NA V backing at book value of each unit as at balance sheet date 
+of the accounts.
+Note
+The carrying amounts of investments (where applicable) should be 
+categorized as follows:
+Property;
+Non-real estate-related assets;
+Cash and cash equivalents; and
+
+<!-- page 63 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+63A
+SEC (REITs) Regulations, No. 1, 2020
+ Amounts and percentages of fees, charges and reimbursements 
+paid to the managing company and Trustees, with each type of 
+fees charged shown separately;
+ Fee paid to trustee and any reimbursement of trustee’s expenses;
+ Valuation fees;
+ Total amount available for distribution and distribution per 
+unit(interim and ﬁ nal); and
+ The net income after tax to be shown separately between realized 
+and unrealized portions.
+The number of units and value held by the managing company 
+(directly or indirectly) together with related parties 
+Auditor’s veriﬁ cation of management expense ratio and portfolio 
+turnover ratio (applicable only for annual report);
+Sources of distribution made to unit holders must be disclosed(the 
+prescribed format is as follows):
+Description FY1 FY2
+Rental income
+Dividend income
+Realized gains (less losses) on sale 
+of investments
+Other income
+Less- expenses
+Taxation
+Distribution as per unit
+Distribution as %
+
+<!-- page 64 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+64A
+SEC (REITs) Regulations, No. 1, 2020
+SCHEDULE II
+A. Submission of Applications 
+for License to the SEC
+(a) An application submitted for SEC’s approval should comprise the following–
+Cover letter, specifying (where applicable)–
+ the approval sought, including particulars of the proposal(s);
+ particulars of the initial public offering (IPO) proposal;
+ Particulars of other required approvals obtained/pending (if applicable); declaration 
+of conﬂ ict of interest, if any, by advisers/experts of the application. If a conﬂ ict of 
+interest exists, to provide full disclosure of the nature of conﬂ ict and the rational 
+to proceed with a transaction/engagement despite the prevalence of a conﬂ ict of 
+interest.
+ Draft Explanatory Memorandum
+ Information on real estates to be acquired by the SL-REIT
+ Commentary on the SL-REIT s future performance.
+ Performa balance sheets after incorporating the effects of the proposal
+ Opinion of the competent, independent expert on proﬁ t forecast
+ Draft Trust Deed
+ Any other document to support the application
+(b) An application for the appointment of a company to act as managing company to 
+a SL-REIT shall be accompanied by
+(c) Statutory declaration from the applicant stating that it is independent of the trustee.
+(d) A declaration letter from the directors of the applicant,  quali ﬁ cations , experience  
+and suitability to perform as  a director
+(e) Details on the property manager, including corporate information and track record.
+(f) Request for the appointment of a licensed commercial bank to act as Trustee of a 
+SL-REIT. 
+(g) All applications should be accompanied with the appropriate fee 
+
+<!-- page 65 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+65A
+SEC (REITs) Regulations, No. 1, 2020
+SCHEDULE  III
+An Application for approval 
+of the SEC by a Managing 
+Company to Appoint a Delegate 
+or Service Provider
+An application for approval to appoint a delegate or service provider shall be accompanied 
+with the following; 
+(a) An undertaking that the applicant will take responsibility for the actions and 
+omissions of the delegate as though they were its own actions and omissions.
+(b) A declaration by the applicant that it–
+ has adequate procedures to monitor the conduct of the delegate 
+to ensure that the delegated function is performed in a proper and 
+efﬁ cient manner;
+ has conducted a review of the operations of the delegate, and is 
+satisﬁ ed that the delegate has the capabilities and capacity, and is 
+suitable to undertake the delegated function; and
+ is satis ﬁ ed that the delegate will be able to ful ﬁ ll its duties and 
+responsibilities of the delegated function in a proper and ef ﬁ cient 
+manner.
+
+<!-- page 66 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2020'07'31
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC  OF   SRI   LANKA - 31.07.2020
+66A
+SCHEDULE  IV
+GUIDANCE NOTES
+GUIDANCE UNDER 
+GENERAL SECTION
+The SEC may from time to time, provide guidance by way of Directives or otherwise 
+on the provisions of these Rules to a Managing Company and the Trustee. The SEC 
+reserves the right to decide on any matter pertaining to SL-REIT as and when required. 
+The Managing Company and Trustee shall comply with the guidance provided and 
+any decision made or instruction given by the SEC in the same manner as these Rules. 
+GUIDANCE UNDER FOR 
+ENSURING V ALID TITLE  
+UNDER MANAGING 
+COMPANY
+(i) The deed and the plan should be the original deed and plan of the current owner or 
+copy of the duplicate certiﬁ ed by the Registrar of lands or the copy of the protocol 
+certiﬁ ed by the relevant notary who attested same.
+(ii) Copies of plans are required to be certiﬁ ed by the surveyor who prepared the plan 
+or if he is not available the certi ﬁ cate should be obtained from the surveyor in 
+whose custody the duplicate copies of the plans are kept.
+(iii) Where there has been a change to the lot size there should be an endorsement by 
+the surveyor stating that there is no further change to the status or boundaries of 
+the property.
+(iv) If the building is under construction the approved building plan or if the building is 
+already constructed the certiﬁ cate of conformity shall be submitted for examination
+GUIDANCE UNDER DUTIES 
+AND RESPONSIBILITIES OF 
+THE TRUSTEE
+ To safeguard the interests of unit holders, the trustee may if deemed appropriate 
+conduct independent reviews without depending solely on information submitted 
+by the Managing Company.
+ A trustee shall ensure that it is fully informed of the investment policies of the trust 
+adopted by the Managing Company and of changes made if any. If the Trustee is 
+of the opinion that such policies are not in the best interests of unit holders, it shall 
+after considering any representations made by the Managing Company, instruct 
+the Managing Company to take appropriate action as the Trustee deems ﬁ t and 
+or summon a unit holders’ meeting or give such instructions to the Managing 
+Company to hold such meeting.
+ Functions of the Managing Company and do everything in its power to ensure 
+that the Managing Company remedies any breach as may come to the knowledge 
+of the Trustee of the provisions or covenants of the Trust Deed, disclosures in 
+the Explanatory Memorandum, requirements of the SEC Act, Directives issued 
+thereunder, these Rules and Rules of a licensed Stock Exchange.
+GUIDANCE UNDER 
+PERMITTED INVESTMENTS 
+The use of the SL-REIT’s latest total asset value, as disclosed in the latest published 
+audited accounts of the fund and adjusted for any subsequent transaction since the 
+publication of such accounts shall be used in determining compliance with the limits 
+and restrictions.
+08-66
+PRINTED  AT  THE  DEPARTMENT  OF  GOVERNMENT  PRINTING,  SRI  LANKA.
