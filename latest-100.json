@@ -289,6 +289,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2444-08",
+    "date": "2025-07-07",
+    "description": "2444/08"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2444-07",
     "date": "2025-07-07",
     "description": "Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)"
@@ -499,6 +505,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2443-26",
+    "date": "2025-07-01",
+    "description": "Land Title Settlement Dept. - Kudamaduwa, Homagama D/S Division, Colombo District (25/551408)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-21",
     "date": "2025-07-01",
     "description": "Dept of Local Government N W P - Appointed Chairman and Vice Chairman for 03 Local Government Institutions"
@@ -520,6 +532,18 @@
     "id": "2443-14",
     "date": "2025-06-30",
     "description": "Public Debt Management Office- Public Debt Management Act, No. 33 of 2024. Public Debt Management Regulations No. 01 of 2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2443-12",
+    "date": "2025-06-30",
+    "description": "Land Title Settlement Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c Rathinapuram (Block 03), Karachchi D/S/D, Kilinochchi District (25/1200058)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2443-11",
+    "date": "2025-06-30",
+    "description": "Land Title Settlement Department \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c Ambathalawa (Block 02), Kotmale D/S/Division, Nuwara Eliya District (25/1200058)"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -553,6 +577,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2443-04",
+    "date": "2025-06-30",
+    "description": "2443/04"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-01",
     "date": "2025-06-30",
     "description": "Sri Lanka Customs - Rate Of Exchange with Effect from 30.06.2025 to 06.07.2025"
@@ -565,38 +595,8 @@
   },
   {
     "doc_type_name": "extra-gazettes",
-    "id": "2442-65",
+    "id": "2442-78",
     "date": "2025-06-28",
-    "description": "Land Aquisition - Mathugobe (Deniyaya), Kotapola D/S Division, Matara District, Land Aquisition - Corrigenda Kandy Four Gravets Gangawata Korale D/S Division, District, Sec 07"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-63",
-    "date": "2025-06-28",
-    "description": "Ministry of Labour - Industrial Dispute between Mr. P. M. Jayarathna Sri Lanka Transport Board.  Appt. of J. De Silva as an Arbitrator., Sri Lanka Nidahas Sevaka Sangama & Packserve Pvt. Ltd. Industrial Dispute between Mr. M. N. Abeykoon and Sri Lanka Transport Board."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-62",
-    "date": "2025-06-27",
-    "description": "Presidential Secretariat - Call out All the Members of the Armed Forces with effect from 27th June, 2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-61",
-    "date": "2025-06-27",
-    "description": "Department of The Local Government N.C.P - Appointed Chairman and Vice Chairman for the Anuradgapura Local Authorities 2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-60",
-    "date": "2025-06-27",
-    "description": "Election Commission - Local Autherities Elections- 2025 Notice Under Section 66 (2) Elected to members of 36 Local Governments Institutions"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2442-59",
-    "date": "2025-06-27",
-    "description": "Land Aquisition - Maharagama, Homagama D/S Division, Colombo District, Land Aquisition - Homagama, Homagama D/S Division, Colombo District, Sec 05"
+    "description": "2442/78"
   }
 ]
