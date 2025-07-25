@@ -1,0 +1,314 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 2261$53 - 2022 ckjdß ui 06 jeks n%yiam;skaod - 2022'01'06
+No. 2261/53  -  thursday,  jaNuary 06,  2022
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government  Notifications
+1a- G 35892 - 510 (01/2022) 
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+L.d.- B 3/2013 (ii)
+MERChANT  ShIPPING  ACT,  No.  52  Of  1971
+  
+REGULATIONS made by the Minister of Ports and shipping under section 321 of the Merchant shipping act, No. 52 of 
+1971 read with section 139 of the said act. 
+ Rohitha abeygunawaRdena, 
+ Minister of Ports and shipping.
+Colombo, 29th december, 2021.
+Regulations
+ 1. (1) these regulations may be cited as the Merchant shipping (radio communications) regulations, No. 5 of 2021.
+      (2) the purpose of these regulations shall be to give effect to the enforcement of Chapter IV of the International 
+Convention for the safety of Life at sea 1974, Protocol of 1988 as amended from time to time and any subsequent 
+amendment made to such Protocol.
+Part I
+applicability of these Regulations
+ 2. (1) subject to the provisions of sub-regulations (2), (3) and (4) of this regulation, these regulations shall apply to the 
+ships which are entitled to fly its Sri Lanka flag and engaged in international voyages and to any other foreign 
+ships while they are in sri Lankan waters.
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'01'06
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 06.01.2022
+2a
+  (2) Except as expressly provided otherwise in the International Convention for the safety of Life at sea 1974, Protocol 
+of 1988 (in these regulations referred to as the “Convention”), these regulations shall not apply to:
+ (a) ships of war and troopships;
+ (b)  cargo ships of less than 300 gross tonnage;
+ (c)  ships not propelled by mechanical means;
+ (d)  wooden ships of primitive build;
+ (e)  pleasure yachts not engaged in trade; and
+ (f)  fishing vessels.
+  (3) these regulations do not apply to sri Lankan ships to which the Convention would otherwise apply while such 
+ships are being navigated within the Great Lakes of North america and their connecting and tributary waters as 
+far east as the lower exit of the st. Lambert Lock at Montreal in the Province of Quebec, Canada.
+  (4) No provision in these regulations shall prevent the use by any ship, survival craft or person in distress, of any 
+means at their disposal to attract attention, make known their position and obtain help.
+ 3. (1)  a ship which is not normally engaged on international voyages but which, in exceptional circumstances, is required 
+to undertake a single international voyage may be exempted by the director-General of Merchant shipping (in 
+these regulations referred to as the “director-General”) from any of the requirements of these regulations: 
+   Provided that such ship complies with safety requirements which are adequate in the opinion of the director-
+General for the voyage which is to be undertaken by the ship.
+  (2) (a) the director-General may exempt any ship which embodies features of a novel kind from any of the 
+provisions of Chapters II -1, II -2, III and IV of the Convention relating to the application of which might 
+seriously impede research into the development of such features and their incorporation in ships engaged 
+on international voyages:
+    Provided however, such ships shall comply with safety requirements which, in the opinion of the director-
+General, are adequate for the service for which they are intended and are such as to ensure the overall safety 
+of the ship and which are acceptable to the Governments of the states to be visited by the ship.
+   (b)  the director-General who allows exemptions under sub-regulation 2(a) shall communicate to the 
+International Maritime Organization (in these regulations referred to as the “Organization”) particulars of 
+same and the reasons therefor.
+ 4. (1) the director-General may grant partial or conditional exemptions to individual ships from the requirements of 
+regulations 7 to 11 of Chapter IV of the Convention:
+   Provided that,
+ (a)  such ships comply with the functional requirements of regulation 6 of these regulations; and
+ (b)  the Director-General has taken into account the effect such exemptions may have upon the general efficiency 
+of the service for the safety of all ships.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'01'06
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 06.01.2022
+3a
+  (2) an exemption may be granted under sub-regulation (1) only:
+ (a) if the conditions relating to safety are such as to render the full application of regulations 7 to 11 of the 
+Chapter IV of the Convention unreasonable or unnecessary; and
+ (b) in exceptional circumstances, for a single voyage outside the sea area or sea areas for which the ship is 
+equipped.
+  (3) The Director-General shall submit to the Organization, as soon as possible after the first of January in each year, 
+a report showing all exemptions granted under sub-regulations (1) and (2) during the previous calendar year and 
+giving the reasons for granting such exemptions.
+ 5. (1)  Exemptions referred to in regulations 3 and 4 shall be issued in accordance with the Merchant shipping (surveys 
+and Certificates) Regulations, No. 01 of 2021 published in the Gazette No. 2261/49 of 06.01.2022
+  (2) an approval or typed approval required by Chapter IV of the Convention, is only valid if -
+ (a)  it is in writing;
+ (b)  it specifies the date on which it takes effect; and
+ (c)  any conditions stated in it are complied with.
+  (3) the director-General may, on giving reasonable notice, alter or cancel any exemption, or approval granted under 
+these regulations.
+Part II
+functional RequiRements, Radio installations and Radio equipment
+ 6.  Every ship, while at sea, shall be capable -
+ (a)  except as provided in regulations 8.1.1 and 10.1.4.3 of Chapter IV of the Convention, of transmitting 
+ship-to-shore distress alerts by at least two separate and independent means, each using a different radio 
+communication service;
+ (b)  of receiving shore-to-ship distress alerts;
+ (c)  of transmitting and receiving ship-to-ship distress alerts;
+ (d)  of transmitting and receiving search and rescue coordinating communications;
+ (e)  of transmitting and receiving on-scene communications;
+ (f)  of transmitting and, as required by regulation 19.2.3.2 of Chapter V of the Convention, receiving signals 
+for locating;
+ (g)  of transmitting and receiving maritime safety information;
+ (h)  of transmitting and receiving general radio communications to and from shore-based radio systems or 
+networks subject to regulation 15.8 of Chapter IV of the Convention; and
+ (i)  of transmitting and receiving bridge-to-bridge communications.
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'01'06
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 06.01.2022
+4a
+ 7.  (1)  Every ship shall be provided with radio installations capable of complying with the functional requirements 
+prescribed by regulation 6 throughout its intended voyage and, unless exempted under regulation 4, complying 
+with the requirements of regulation 7 of Chapter IV of the Convention and, as appropriate for the sea area or 
+areas through which it will pass during its intended voyage, the requirements of either regulation 8, 9, 10 or 11 
+of Chapter IV of the Convention.
+  (2) Every radio installation referred in sub-regulation (1) of this regulation shall be-
+ (a) so located that no harmful interference of mechanical, electrical or other origin affects its proper use, and 
+so as to ensure electromagnetic compatibility and avoidance of harmful interaction with other equipment 
+and systems;
+ (b) be so located as to ensure the greatest possible degree of safety and operational availability;
+ (c) be protected against harmful effects of water, extremes of temperature and other adverse environmental 
+conditions;
+ (d)  be provided with reliable, permanently arranged electrical lighting, independent of the main and emergency 
+sources of electrical power, for the adequate illumination of the radio controls for operating the radio 
+installation; and
+ (e) be clearly marked with the call sign, the ship station identity and other codes as applicable for the use of 
+the radio installation.
+8. In addition to meeting the requirements of regulation 7 of Chapter IV of the Convention, every ship engaged on 
+voyages exclusively in sea area a1 shall be provided with a radio installation in accordance with regulation 8 of Chapter IV 
+of the Convention.
+9. In addition to meeting the requirements of regulation 7 of Chapter IV of the Convention, every ship engaged on 
+voyages beyond sea area a1, but remaining within sea area a2, shall be provided with radio installations and equipment in 
+accordance with regulation 9 of Chapter IV of the Convention.
+10. In addition to meeting the requirements of regulation 7 of Chapter IV of the Convention, every ship engaged 
+on voyages beyond sea areas a1 and a2, but remaining within sea area a3, shall be provided with radio installations and 
+equipment in accordance with the regulation 10 of Chapter IV of the Convention.
+11. In addition to meeting the requirements of regulation 7 of Chapter IV of the Convention, every ship engaged 
+on voyages in all areas, shall be provided with radio installations and equipment in accordance with the regulation 11 of 
+Chapter IV of the Convention. 
+Part III
+Watches and sources of energy
+ 12. (1) Every ship, while at sea, shall maintain a continuous watch in accordance with regulation 12 of Chapter IV of 
+the Convention.
+  (2) Every ship, while at sea, shall maintain a radio watch for broadcast of maritime safety information on the appropriate 
+frequency or frequencies on which such information is broadcast for the area in which the ship is navigating.
+13. There shall be available at all times, while the ship is at sea, a supply of electrical energy sufficient to operate the 
+radio installations and to charge any batteries used as part of a reserve source or sources of energy for the radio installations 
+in accordance with regulation 13 of Chapter IV of the Convention.
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'01'06
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 06.01.2022
+5a
+Part IV
+Performance standards and maintenance requirements
+ 14. (1) all equipment to which these regulations apply shall be of a type approved by the director-General. such 
+equipment shall conform to appropriate performance standards not inferior to those adopted by the organization.
+  (2) In pursuance of sub-regulation (1) of this regulation, the director-General accepts equipment approvals granted by 
+a recognized Organization (rO) or by the united states Coast Guard, Maritime Coast Guard agency in united 
+Kingdom or Maritime administration of japan, provided, the approvals are fully in accordance with Convention 
+requirements. the director-General will also accept equipment that has been approved under the European union 
+Marine Equipment Directive certification procedure. 
+ 15. (1) an equipment shall be so designed that the main units can be replaced readily, without elaborate recalibration or 
+re adjustment.
+  (2) Where applicable, an equipment shall be so constructed and installed that it is readily accessible for inspection 
+and on-board maintenance purposes.
+  (3) adequate information shall be provided to enable the equipment to be properly operated and maintained, taking 
+into account the recommendations of the organization.
+  (4) adequate tools and spares shall be provided to enable the equipment to be maintained.
+  (5) radio equipment required by these regulations shall be maintained to provide the availability of the functional 
+requirements specified in regulation 6 and to meet the recommended performance standards of such equipment.
+  (6) On ships engaged on voyages in sea areas a1 and a2, the availability shall be ensured by using such methods as 
+duplication of equipment, shore-based maintenance or at sea electronic maintenance capability, or a combination 
+of these, as may be approved by the director-General.
+  (7) On ships engaged on voyages in sea areas a3 and a4, the availability shall be ensured by using a combination of 
+at least two methods such as duplication of equipment, shore-based maintenance or at sea electronic maintenance 
+capability, as may be approved by the director-General, taking into account the recommendations of the 
+organization.
+  (8) While all reasonable steps shall be taken to maintain the equipment in efficient working order to ensure compliance 
+with all the functional requirements specified in regulation 6, malfunction of the equipment for providing the 
+general radiocommunications required by regulation 6 (h) shall not be considered as making a ship unseaworthy 
+or as a reason for delaying the ship in ports where repair facilities are not readily available, provided the ship is 
+capable of performing all distress and safety functions.
+  (9) the satellite Emergency Position Indicating radio Beacons (EPIrB) shall be -
+ (a) annually tested for all aspects of operational efficiency, with special emphasis on checking the emission on 
+operational frequencies, coding and registration, at intervals as specified below -
+ (i)  on passenger ships, within 3 months before the expiry date of the passenger   ship safety certificate; and
+ (ii)  on cargo ships, within 3 months before expiry date, or 3 months before or after the anniversary date, of 
+the cargo ship safety certificate.
+  the test may be conducted on board a ship or at an approved testing station by the director-General; and
+ (b)  subject to maintenance at intervals not exceeding five years, performed at an approved shore-based maintenance 
+facility that has been approved by the director-General in accordance with the guidelines developed by the 
+Organisation.
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'01'06
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 06.01.2022
+6a
+16. In all sri Lanka ships to which these regulations apply a person nominated by the Master, normally the person 
+qualified under regulation 17, shall, while the ship is at sea, carry out the appropriate tests as prescribed by implementation 
+standards published by the director General. If any of the radio installations required by these regulations are not in working 
+order, the nominated person shall inform the Master and record details of the deficiencies in the Radio Log referred to in 
+regulation 18 below.
+Part V
+radio Personnel, radio records and Position uPdating
+ 17.  (1)  Every ship shall carry personnel qualified for distress and safety radio communication purposes as specified 
+in paragraph (3) or (4) of this regulation. Such personnel shall be holders of certificates specified in the Radio 
+regulations as appropriate.
+ (2) (a) In the case of passenger ships, at least one such person as mentioned in sub-regulation (1) above shall be 
+assigned by the master to perform only radio communication duties during distress incidents.
+  (b) In the case of all other ships one such person as mentioned in sub-regulation (1) above shall be designated 
+by the master to have primary responsibility for radio communications during distress incidents.
+  (3)  On ships trading in sea area A1, the person qualified as mentioned in sub-regulation (1) above shall hold at least 
+a Global Maritime distress and safety system (in these regulations referred to as the “GMdss”) restricted 
+operator’s certificate issued in accordance with the Radio Regulations and a certificate of competency as GMDSS 
+Restricted Radio Operator issued in accordance with Merchant Shipping (Standards of Training, Certification 
+and Watch Keeping for seafarers) regulations, 2016 published in the Gazette No. 1987/19 of October 4, 2016. 
+  (4)  On ships trading in sea areas A2, A3 and A4, the person qualified as mentioned in sub-regulation (1) above shall 
+hold at least a GMDSS general operator’s certificate issued in accordance with the Radio Regulations and a 
+certificate of competency as GMDSS Radio Operator issued in accordance with Merchant Shipping (Standards 
+of Training, Certification and Watch Keeping for Seafarers) Regulations, 2016.
+ 18.  (1) a  record called GMdss radio log book shall be kept on board every ship and the following information shall be 
+recorded in that log book –
+ (a) a summary of all the radio communications relating to any distress, urgency and safety traffic of the ship 
+together with time of the communications;
+ (b) the names of all the persons handling the communications including their certification details;  
+ (c) all the important service incidents relating to the ship and the time of their occurrences;
+ (d) the daily position of the ship; and
+ (e) date, time and details of appropriate tests and checks referred in regulation 16.
+  (2) the Master shall inspect and sign each day’s entries in the radio Log.
+ 19.  (1) this regulation applies to a ship on which a piece of two-way communication equipment which is capable of 
+including the ship’s position in a distress alert is provided.
+  (2) If a navigation receiver is installed on a ship, the receiver must automatically provide the ship’s position to the 
+two-way communication equipment on the ship, so that the ship’s position can be included in a distress alert.
+  (3) If no navigation receiver is installed on a ship, the ship’s position and the time at which the ship is at that position 
+must be manually updated at intervals not exceeding four hours while the ship is engaged in a voyage, so that 
+the ship’s position and the time can be transmitted by the two-way communication equipment at any time.
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2022'01'06
+Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 06.01.2022
+7a
+PrINtEd  at  thE  dEPartMENt  Of  GOVErNMENt  PrINtING,  srI  LaNKa.
+Part VI
+   general Provisions
+20. a ship shall be issued with a ship station radio license, in accordance with the radio regulations.
+21. a ship shall not go to sea on a voyage to or from any port or place in sri Lanka and a sri Lanka ship shall not 
+perform an international voyage unless there is in force a ship station radio license.
+22. the director-General may, with the concurrence of the Minister, issue such implementing standards for the 
+compliance with the minimum technical standards of the provisions of the Convention or Protocol 1988 as may be required 
+for the implementation of the provisions of these regulations.
+23. the footnotes in Chapter IV of the Convention and the resolutions, circulars or documents referred by such 
+footnotes shall be deemed to be a part of these regulations.
+24. Where any ship, being in any port or place in sri Lanka is found to be an unsafe ship is by reason of the defective 
+condition of such ship’s hull, equipment, machinery, under manning, overloading or improper loading or any other condition 
+that is not consistent with the Convention, unfit to proceed to sea without serious damage to human life having regard to 
+the nature of the service for which such ship is intended, such ship may be provisionally detained for the purpose of being 
+surveyed or rectifying the defective condition.
+25. In these regulations -
+“cargo ship” means any ship which is not a passenger ship;
+“convention” means the International Convention for the safety of Life at sea 1974, Protocol of 1988 as amended 
+from time to time and any subsequent amendment made to such Protocol;
+“GMdss” means Global Maritime distress and safety system;
+“Mf (Medium frequency)” means the frequency spectrum exceeding 300khz and not exceeding 3000khz;
+“organization” means International Maritime Organisation;
+“passenger ship” means a ship which carries more than twelve passengers;
+“radio regulations” means the radio regulations annexed to, or regarded as being annexed to, the Constitution 
+and Convention of the International telecommunication union as in force from time to time;
+“recognised organization” means any organization that has been recognized in accordance with the provisions 
+of the Code for recognised Organisations adopted by the Organisation;
+“sea area a1” means a sea area within the radiotelephone coverage of at least one Very high frequency coast 
+station in which continuous digital selective calling alerting is available;
+“sea area a2” means a sea area within the radiotelephone coverage of at least one Medium frequency coast 
+station in which continuous digital selective calling alerting is available, other than any sea area a1;
+“sea area a3” means a sea area within the coverage of an INMarsat geostationary satellite in which continuous 
+alerting is available, other than any sea area a1 or sea area a2;
+“sea area a4” means a sea area other than any sea area a1, sea area a2 or sea area a3;
+“Vhf (Very high frequency)” means the frequency spectrum exceeding 30Mhz and not exceeding 300Mhz.
+EOG 01-0245
