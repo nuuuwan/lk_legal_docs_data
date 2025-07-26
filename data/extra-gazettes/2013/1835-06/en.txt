@@ -1,0 +1,334 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+1A
+w;s úfYI
+wxl 1835$6 - 2013 fkdjeïn¾ ui 04 jeks i÷od - 2013'11'04
+No. 1835/6 - MONDAY,  NOVEMBER  04, 2013
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government Notifications
+1A
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+This Gazette Extraordinary can be downloaded from  www.documents.gov.lk
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+SRI LANKA ACCOUNTING AND AUDITING STANDARDS ACT, No. 15 OF 1995
+Publication under Section 4(2)
+BY virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the “Institute”),
+the Institute has issued the Statement of Alternative Treatment (SoAT) on Right-to-use of Land on Lease with effect from 1st
+January, 2012, published herewith for the purpose of the Sri Lanka Accounting and Auditing Standards, Act, No. 15 of 1995.
+By Order of the Council,
+ARUNA ALWIS,
+Secretary.
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A,
+Malalasekera Mawatha,
+Colombo 07.
+4
+th November, 2013.
+STATEMENT  OF  ALTERNATIVE  TREATMENT  (SoAT)
+RIGHT-TO-USE OF LAND ON LEASE
+This Statement of Alternative Treatment contains the Institute of Chartered Accountants of Sri Lanka copyright material.
+Reproduction in an unaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the
+inclusion of an acknowledgement of the source. Requests and inquiries concerning reproduction and rights for commercial
+purposes should be addressed to the Secretary, Mr. Aruna Alwis, The Institute of Chartered Accountants of Sri Lanka, 30 A,
+Malalasekara Mawatha, Colombo 07, Sri Lanka.
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+2A
+RIGHT-TO-USE OF LAND ON LEASE
+CONTENTS
+Paragraphs
+Objective 1
+Scope 2
+Definitions 3
+Recognition 4 - 5
+Initial Measurement 6 - 9
+Subsequent Measurement 10 - 14
+Amortisation 15
+Impairment 16
+Presentation 17-19
+Short term Leases 20
+Disclosure 21 - 30
+Effective Date 31
+Transition 32 - 39
+Although the provisions for this Statement of Alternative Treatment (SoAT) are not mandatory, entities falling within their
+scope are encouraged to comply with the recommendations set out in this SoAT.
+Objective:
+1. The objective of this SoAT is to prescribe for lessees an allowed alternative treatment and related disclosure to apply
+in relation to right to use of land on leases.
+Scope:
+2. This SoAT may be applied in accounting for leases on land, right-of-use of land,that were entered into prior to the date
+of transition to SLFRS and were accounted as finance leases by applying Sri Lanka Accounting Standards Application
+Guidance No. 01 issued and published by the UITF ruling dated 31
+st May 2007.
+Definitions:
+3. The following terms are used in this SoAT with the meanings specified:
+Contingent rentals are the lease payments that arise under the contractual terms of a lease because of changes in facts
+or circumstances occurring after the date of inception of the lease, other than the passage of time.
+Date of commencement of the lease is the date on which the lessor makes the underlying  asset available for use by the
+lessee.
+Date of inception of the lease is the earlier of the date of the lease agreement and the date of commitment by the parties
+to the lease agreement.
+Initial direct costs  are recoverable costs that are directly attributable to negotiating and arranging a lease that would
+not have been incurred had the lease transaction not been made.
+Lease is a contract in which the right to use a land (the underlying asset) is conveyed for a period of time in exchange
+for consideration.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+3A
+Lease liability is the lessor’s obligation to permit the lessee to use the underlying asset over the lease term.
+Lease payments  are the payments arising under a lease including fixed rentals and rentals subject to uncertainty
+including but not limited to contingent rentals and amounts payable by the lessee under residual value guarantees and
+term option penalties.
+Lease term is the longest possible term that is more likely than not to occur.
+Lessee is an entity that enters into a contract to provide another entity with consideration in return for the right to use
+the underlying asset for a period of time.
+Lessee’s incremental borrowing rate is a rate of interest that at the date of inception of the lease, the lessee would
+have to pay to borrow over a similar term and with a similar security, the funds necessary to purchase a similar
+underlying asset.
+Rate the lessor charges the lessee is a discount rate that takes into account the nature of the transaction as well as the
+specific terms of the lease such as lease payments, lease term and contingent rentals.
+Residual value guarantee is a guarantee made by the lessee that the fair value of the underlying asset that the lessee
+will return to the lessor will be at least a specified amount. If the fair value is less than that amount, the lessee is obliged
+to pay the difference to the lessor.
+Right-of-use land is a land that represents the lessee’s right to use or control the use of a specified asset for the lease
+term.
+Short-term lease is a lease that at the date of commencement of the lease has a maximum possible lease term including
+options to renew or extend of twelve months or less.
+Sublease is a transaction in which an underlying asset is re-leased by the original lessee (or intermediate lessor) to a
+third party and the lease agreement (or head lease) between the original lessor and lessee remains in effect.
+Underlying asset is the land for which a right of use is conveyed in a lease.
+Effective interest method is defined in LKAS 39 Financial Instruments: Recognition and Measurement and is used in
+the SoAT.
+Recognition:
+4. At the date of commencement of a lease, a lessee shall recognise in the statement of financial position a right-of-use
+land and a liability to make lease payments.
+5. A lessee shall recognise the following items in the statement of comprehensive income, except to the extent that
+another LKAS requires or permits its inclusion in the cost of an asset:
+(a) interest expense on the liability to make lease payments (see paragraph 10(a))
+(b) amortisation of the right-of-use land (see paragraphs 10(b) and 15).
+(c) any changes in the liability to make lease payments resulting from reassessment of the expected amount of
+contingent rentals or expected payments under term option penalties and residual value guarantees relating to
+current or prior periods (see paragraph 12(a)).
+(d) any impairment losses on a right-of-use land (see paragraph 16).
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+4A
+Measurement:
+Initial measurement:
+6. At the date of inception of the lease, a lessee shall measure:
+(a) the liability to make lease payments at the present value of the lease payments (see paragraphs 7-9), discounted
+using the lessee’s incremental borrowing rate or, if it can be readily determined, the rate the lessor charges the
+lessee.
+(b) the right-of-use land at the amount of the liability to make lease payments, plus any initial direct costs incurred
+by the lessee.
+Present value of lease payments:
+7. A lessee shall determine the lease term by estimating the probability of  occurrence for each possible term, taking into
+account the effect of any options to extend or terminate the lease.
+8. A lessee shall determine the present value of lease payments payable during the lease term on  the basis of expected
+outcome, determined using all relevant information. The expected outcome is the present value of the probability-
+weighted average of the cash flows for a reasonable number of outcomes. In determining the present value of  lease
+payments payable, a lessee shall include:
+(a) an estimate of contingent rentals payable. If the contingent rentals depend on an index or a rate, the lessee shall
+determine the expected lease payments using readily available forward rates or indices. If forward rates or
+indices are not readily available,the  lessee shall use the prevailing rates or indices.
+(b) an estimate of amounts payable to the lessor under residual value guarantees. Residual value guarantees that
+are provided by an  unrelated third party are not lease payments.
+(c) an estimate of expected payments to the lessor under term option penalties.
+9. The exercise price of a purchase option included in a lease is not a lease  payment and the purchase option is not
+included in determining the  present value of lease payments payable.
+Subsequent measurement :
+10. After the date of commencement of the lease, a lessee shall measure:
+(a) the  liability to make lease payments  at amortised cost using the effective interest method subject to the
+requirements in paragraphs 11-13.
+(b) the  right-of-use land at amortised cost unless paragraph 16 apply.
+Reassessment of the liability to make lease payments:
+11. After the date of commencement of the lease, the lessee shall reassess the carrying amount of the liability to make lease
+payments arising from each lease if facts or circumstances indicate that there would be a significant change in the
+liability since the previous reporting period. When such indications exist, a lessee shall:
+(a) reassess the length of the lease term in accordance with paragraph 7 and adjust the right-of-use land to reflect
+any resulting change to the liability to make lease payments arising from changes to the lease term.
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+5A
+(b) reassess the expected amount of any contingent rentals and expected payments under term option penalties
+and residual value guarantees in accordance with paragraph 8. A lessee shall recognise any resulting changes
+to the liability to make lease payments.
+12. A lessee shall distinguish changes in contingent rentals and expected payments under term option penalties and
+residual value guarantees that relate to current or prior periods from those that relate to future periods. A lessee shall
+recognise changes in the expected amount of such payments:
+(a) in profit or loss, to the extent that those changes relate to current or prior periods.
+(b) as an adjustment to the right-of-use land to the extent that those changes relate to future periods.
+For example, when lease payments depend on the amount of the lessee’s sales, changes relating to sales in the
+current or prior periods are recognised in profit or loss, whereas changes relating to expectations of future sales are
+recognised as an adjustment to the right-of-use land.
+13. A lessee shall not change the rate used to discount the lease payments  except to reflect changes in reference interest
+rates when contingent rentals are based on those reference interest rates. When contingent rentals are based on
+reference interest rates, a lessee shall recognise any changes to the liability to make lease payments arising from
+changes in the discount rate in profit or loss.
+14. No further  revaluation is permitted on or after the effective date of this SoAT.
+Amortisation of the right-of-use land:
+15. If a lessee measures the right-of-use land at amortised cost, it shall amortise the asset on a systematic basis from the
+date of commencement of the lease to the end of the lease term or over the useful life of the underlying asset if shorter.
+The lessee shall select the amortization method and review the amortisation period and amortisation method in
+accordance with LKAS 38.
+Impairment of the right-of-use land:
+16. A lessee shall apply LKAS 36 Impairment of Assets  at each reporting date to determine whether the right-of-use land
+is impaired and shall recognise  any impairment loss in accordance with LKAS 36.
+Presentation:
+17. A lessee shall present the following items in the statement of financial position:
+(a) liabilities to make lease payments, separately from other financial liabilities.
+(b) right-of-use land as if they were tangible assets within property, plant and equipment or investment property
+as appropriate separately from assets that the lessee does not lease.
+18. A lessee shall present amortisation of the right-of-use land and interest expense on the liability to make lease payments
+separately from other amortisation and interest expense, either in profit or loss or in the notes.
+19. A lessee shall classify cash payments for leases as financing activities in the statement of cash flows and present them
+separately from other financing cash flows.
+Short-term leases:
+20. At the date of inception of a lease, a lessee that has a short-term lease may select on a lease-by-lease basis to measure,
+both at initial measurement and subsequently,
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+6A
+(a) the liability to make lease payments at the undiscounted amount of the lease payments ; and
+(b) the  right-of-use land at the undiscounted amount of lease payments plus initial direct costs.
+Such lessees shall recognise  lease payments in profit or loss over the lease term.
+Disclosure:
+21. An entity shall disclose quantitative and qualitative financial information that:
+(a) identifies and explains the amounts recognised in the financial statements arising from leases; and
+(b) describes how leases may affect the amount, timing and uncertainty of the entity’s future cash flows.
+22. An entity shall consider the level of detail necessary to satisfy the disclosure requirements in paragraphs 24-30 and
+how much emphasis to  place on each of the various requirements. An entity shall aggregate or disaggregate disclosures
+so that useful information is not obscured by  either the inclusion of a large amount of insignificant detail or the
+aggregation of items that have different characteristics.
+23. If the disclosures required by this and other SLFRS do not meet the objectives in paragraph 21, an entity shall disclose
+the additional information necessary to meet the objectives.
+Information that identifies and explains the amounts in the financial statements:
+24. An entity shall disclose:
+(a) the nature of its lease arrangements, including:
+(i) a general description of those lease arrangements.
+(ii) the basis and terms on which contingent rentals are determined.
+(iii) the existence and terms of options, including for renewal and termination. A lessee shall provide narrative
+disclosure about the options that were recognised as part of the right-of-use land and those that were not.
+(iv) the existence and principal terms of any options for the lessee to purchase the underlying asset.
+(v) information about assumptions and judgements relating to amortisation methods and changes to those
+assumptions and judgements.
+(vi) the existence and terms of residual value guarantees.
+(vii) initial direct costs incurred during the reporting period and included in the measurement of the right-of-use
+asset or right to receive lease payments.
+(viii) the restrictions imposed by lease arrangements, such as those relating to dividends, additional debt and
+further leasing.
+(b) information about the principal terms of any lease that has not yet commenced if the lease creates significant
+rights and obligations for the entity.
+25. An entity shall identify the nature and amount of significant subleases included in the disclosures provided in
+accordance with paragraph 24.
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+7A
+26. An entity that accounts for short-term leases in accordance with paragraphs 20 shall disclose that fact and, for
+lessees, the amount recognised in the statement of financial position for such  short-term leases.
+27. A lessee shall disclose a reconciliation of opening and closing balances of right-of-use land and liabilities to make
+lease payments, disaggregated  by class of underlying asset. The reconciliation shall show separately the total cash
+lease payments paid during the period.
+Information about the amount, timing and uncertainty of cash flows arising from leases:
+28. An entity shall disclose information about significant assumptions and judgements and any changes in assumptions
+and judgements relating to renewal options, contingent rentals, term option penalties, residual value guarantees and
+the discount rate used when determining the present value of lease payments.
+29. Except as described in paragraphs 30, an entity shall disclose information relating to risks arising from a lease required
+by paragraphs 32–43 of SLFRS 7 Financial Instruments: Disclosures.
+30. In place of the maturity analyses required by paragraph 39(a) and (b) of SLFRS 7, a lessee shall disclose a maturity
+analysis of the liabilities to make lease payments showing the undiscounted cash flows on an annual basis for the first
+five years and a total of the amounts for the remaining years. The maturity analysis shall distinguish the minimum
+obligations specified in the lease (i.e. excluding contingent rentals and expected payments under term option penalties
+and residual value guarantees) and the amounts recognised in the statement of financial position.
+Effective date:
+31. An entity shall apply this SoAT in its annual financial statements for periods beginning on or after 01 January 2012.
+Transition:
+32. For the purposes of the transition provisions in paragraphs 31–38, the  date of initial application is the beginning of the
+first comparative period  presented in the first financial statements in which the entity applies this SoAT. An entity
+shall recognise and measure all outstanding  contracts within the scope of the SoAT as of the date of initial  application
+using a simplified retrospective approach as described in paragraphs 34-38.
+33. An entity shall adjust the opening balance of each affected component of   equity for the earliest prior period presented
+and the other comparative amounts disclosed for each prior period presented as if the new  accounting policy had been
+applied from the beginning of the earliest  period presented.
+Lessees:
+34. Unless paragraphs 35-37 apply, at the date of initial application, a lessee shall:
+(a) recognise a liability to make lease payments for each outstanding lease, measured at the present value of the
+remaining lease payments, discounted using the lessee’s incremental borrowing rate on the date of initial
+application.
+(b) recognise a right-of-use land for each outstanding lease, measured at the amount of the related liability to make
+lease payments, subject to any adjustments required to reflect impairment.
+35. When lease payments are uneven over the lease term, a lessee shall adjust the right-of-use land  recognised at the date
+of initial application by the amount of any recognised prepaid or accrued lease payments.
+36. For leases that were classified and accounted in accordance with Sri Lanka Accounting Standards Application Guidance
+No: 01, issued and published by the UITF dated 31
+st May 2007, the carrying amount at the date of initial application of
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'11'04
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 04.11.2013
+8A
+the right-of-use land should be the carrying amount of that asset after making an adjustment for the increase in liability
+according to this SoAT.
+37. For each short-term lease that the lessee accounts for, at the date of initial application a lessee shall recognise a liability
+to make lease payments measured at the undiscounted amount of the remaining lease payments and a right-of-use land
+at the amount of the liability recognised.
+Disclosure:
+38. An entity shall provide the transition disclosures required by LKAS 8 Accounting Policies, Changes in Accounting
+Estimates and Errors, without the disclosure of adjusted basic and diluted earnings per share.
+39. This SoAT supersedes the following SLFRSs:
+(a) LKAS 17 Leases
+(b) IFRIC 4 Determining whether an Arrangement contains a Lease
+(c) SIC-15 Operating Leases—Incentives
+(d) SIC-27 Evaluating the Substance of Transactions Involving the Legal Form of a Lease.
+11 - 680
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING , SRI LANKA.
