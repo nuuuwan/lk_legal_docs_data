@@ -36,6 +36,12 @@
     "description": "(IIA) - Advertising"
   },
   {
+    "doc_type_name": "gazettes",
+    "id": "2025-07-25-i-general",
+    "date": "2025-07-25",
+    "description": "(I) - General"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2446-42",
     "date": "2025-07-23",
@@ -58,6 +64,12 @@
     "id": "09-2025",
     "date": "2025-07-23",
     "description": "Budgetary Relief Allowance of Workers (Amendment)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-36",
+    "date": "2025-07-22",
+    "description": "Universities Act, No. 16 of 1978 Order under Section 25A Degree Awarding Institute Order"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -586,17 +598,5 @@
     "id": "2443-33",
     "date": "2025-07-01",
     "description": "2443/33"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-32",
-    "date": "2025-07-01",
-    "description": "2443/32"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-31",
-    "date": "2025-07-01",
-    "description": "2443/31"
   }
 ]
