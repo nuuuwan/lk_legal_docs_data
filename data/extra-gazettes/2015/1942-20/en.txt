@@ -1,0 +1,1506 @@
+
+
+<!-- page 1 -->
+
+w;s úfYI
+wxl 1942$20 - 2015 fkdjeïn¾ ui 26 jeks n%yiam;skaod - 2015'11'26
+No. 1942/20  -  THURSDAY, NOVEMBER  26,  2015
+EXTRAORDINARY
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government  Notifications
+1AThis Gazette Extraordinary can be downloaded from www.documents.gov.lk
+SRI LANKA ACCOUNTING AND AUDITING STANDARDS ACT, NO. 15 OF 1995
+Publication under Section 4(2)
+By virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the
+“Institute”), the Institute has adopted the publication on Sri Lanka Accounting Standard for Smaller Entities 2015 (SLFRS
+for Smaller Entities 2015), published herewith for the purpose of the Sri Lanka Accounting and Auditing Standards, Act,
+No. 15 of 1995. These changes shall be effective for financial statements covering period commencing on or after the
+first day of January Two Thousand Sixteen.
+By Order of the Council,
+A
+RUNA  ALWIS,
+Secretary
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A,
+Malalasekera Mawatha,
+Colombo 07.
+26th November, 2015
+N.B.— Sinhala and Tamil versions of this Gazette Extraordinary are published separately.
+PG 2705 (2015/11)
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+2A
+Introduction
+Financial statements of most entities which have a high level of public interest are publicly available and members
+of the public use them to make economic decisions. Therefore, such entities are required to comply with SLFRSs.
+Other entities could prepare their financial statements in compliance with SLFRS for SMEs. However, SLFRSs
+and SLFRS for SMEs are too complex for smaller entities and its adoption may not be cost effective for those
+entities due to:
+(a) smaller revenue, equity, assets, and liabilities; and
+(b) access to financial statements being generally restricted to stakeholders who may be in a position to
+request for additional information.
+SLFRS for Smaller Entities is a simple financial reporting standard which could be cost effectively used by smaller
+entities. It could be applied by an entity that is not any of the following:
+(a) an entity that had revenue in excess of Rs. 100 million in the reporting period;
+(b) an entity that had equity in excess of Rs. 50 million at the end of the previous reporting period;
+(c) a company that is required to prepare group financial statements by the law relating to companies; or
+(d) an entity that holds assets in a fiduciary capacity as one of its primary businesses.
+The standard includes, among others, the following simplifications:
+(a) complex requirements relating to financial instruments were excluded;
+(b) complex requirements relating to fair value, value in use and actuarial valuations were excluded;
+(c) measurement of items were further simplified, for example by the measurement of most leases on a
+straight line basis, exclusion of overheads from the cost of inventory, exclusion of borrowing costs from
+the cost of assets, measurement of retirement gratuity at the amount payable if the employees leave on
+the reporting date, and recognition of the cost of leave in the period in which leave is taken;
+(d) changes in accounting policies and corrections of prior period errors to be presented as adjustments to
+retained earnings at the beginning of the reporting period, without the need to change comparative
+information;
+(e) transition to SLFRS for Smaller Entities has been made easier, by having the transition date as the beginning
+of the first reporting period of the financial statements prepared in compliance with SLFRS for Smaller
+Entities;
+(f) requirements relating to disclosure substantially reduced;
+(g) statement of profit or loss and retained earnings to be presented in place of statement of comprehensive
+income and the statement of changes in equity; and
+(h) not including requirements relating to activities and transactions not likely to be carried out by a smaller
+entity.
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+3A
+Preface to SLFRS for Smaller Entities
+1. The objective of SLFRS for Smaller Entities is to provide a simple financial reporting standard which
+could be cost effectively used by smaller entities.
+2. Entities which could use SLFRS for Smaller Entities are specified in Chapter 1 of the standard.
+3. SLFRS for Smaller Entities can be read, interpreted and applied without reference to SLFRSs or SLFRS
+for SMEs.
+4. Concepts and pervasive principles of SLFRS for Smaller Entities are stated in chapter 2 of the standard.
+The Conceptual Framework for SLFRSs and the Concepts and Pervasive Principles of SLFRS for SMEs
+are not applicable to SLFRS for Smaller Entities.
+5. The requirements stated in SLFRS for Smaller Entities recocognises the size, level of complexity, availability
+of resources and their effect on cost effectiveness in the preparation and presentation of financial
+statements of smaller entities. Therefore the principles of presentation, recognition and measurement
+stated in this standard are simpler than those stated in SLFRSs and SLFRS for SMEs.
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+4A
+Contents
+SLFRS for Smaller Entities
+Sri Lanka Accounting Standard for Smaller Entities
+Chapter
+1 Scope of this SLFRS
+2 Concepts and Pervasive Principles
+3 Presentation of Financial Statements
+4 Accounting Policies, Estimates and Errors
+5 Inventories
+6 Property, Plant and Equipment
+7 Leases
+8 Employee Benefits
+9 Revenue
+10 Provisions and Contingencies
+11 Borrowing Cost
+12 Foreign Currency Translation
+13 Related Party Disclosures
+14 Government Grants
+15 Other Assets and Liabilities
+16 Events after the End of the Reporting Period
+17 Transition to SLFRS for Smaller Entities
+Illustrative presentation of financial statements
+Comparison with SLFRSs
+Comparison with SLFRS for SMEs
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+5A
+Chapter 1 –Scope of this SLFRS
+Introduction
+1.1 This standard, SLFRS for Smaller Entities may be used in the preparation and presentation of the financial statements
+of a smaller entity with the meaning specified in this chapter.
+Smaller Entity
+1.2 An entity that is not any of the following is a smaller entity:
+(a) an entity that had revenue in excess of Rs. 100 million in the reporting period;
+(b) an entity that had equity in excess of Rs. 50 million at the end of the previous reporting period;
+(c) a company that is required to prepare group financial statements by the law relating to companies; or
+(d) an entity that holds assets in a fiduciary capacity as one of its primary business.
+Chapter 2 - Concepts and Pervasive Principles
+Objective of financial statements
+2.1 The objective of financial statements prepared in compliance with this standard is to cost effectively provide
+financial information about the reporting entity that is useful to users of financial statements of a smaller entity.
+Assets, liabilities, and Equity
+2.2 Assets, liabilities, and equity are defined as follows:
+(a) an asset is a present economic resource controlled by the entity as a result of past events;
+(b) liability is a present obligation of the entity to transfer an economic resource as aresult of past events; and
+(c) equity is the residual interest in the assets of the entity after deducting all its liabilities.
+Income and Expenses
+2.3 Income and expenses are defined as follows:
+(a) income is increases in economic benefits during the reporting period in the form of inflows or enhancements
+of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions
+from equity investors; and
+(b) expenses are decreases in economic benefits during the reporting period in the form of outflows or depletions
+of assets or incurrences of liabilities that result in decreases in equity, other than those relating to distributions
+to equity investors.
+Recognition of assets, liabilities, income and expenses
+2.4 An item shall be recognised (ie, incorporated in the financial statements) if it meets the definition of an asset,
+liability, income or expense and satisfies the following criteria:
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+6A
+(a) it is probable (ie, more likely than not) that any future economic benefit associated with the item will flow
+to or from the entity; and
+(b) the item has a cost or value that can be measured reliably.
+Accrual basis
+2.5 An entity shall prepare its financial statements, using the accrual basis of accounting. On the accrual basis, items
+are recognised as assets, liabilities, equity, income or expenses when they satisfy the definitions and recognition
+criteria for those items.
+Chapter 3 – Presentation of Financial Statements
+Fair presentation
+3.1 The financial position and financial performance of an entity, shall be presented fairly in financial Statements.
+Compliance with SLFRS for Smaller Entities
+3.2 An entity that meets the requirements of this standard and whose financial statements comply with this standard
+shall make a statement of compliance with SLRFS for Smaller Entities in the notes to the financial statements.
+Going concern
+3.3 The management shall make an assessment of the entity’s ability to continue as a going concern. An entity is a
+going concern unless management either intends to liquidate the entity or to cease operations, or has no realistic
+alternative but to do so. In assessing whether the going concern assumption is appropriate, management takes into
+account all available information about the future, which is at least, but is not limited to, twelve months from the
+reporting date.When management is aware, in making its assessment, of material uncertainties related to events
+or conditions that cast significant doubt upon the entity’s ability to continue as a going concern, the entity shall
+disclose those uncertainties.
+Frequency of reporting
+3.4 An entity shall present a complete set of financial statements at least annually.
+Consistency of presentation
+3.5 An entity shall retain the presentation and classification of items in the financial statements from one period to the
+next unless it is apparent, following a significant change in the nature of the entity’s operations or a review of its
+financial statements, that another presentation or classification would be more appropriate.
+Comparative information
+3.6 Except when this standard permits or requires otherwise, an entity shall disclose comparative information in
+respect of the previous comparable period for all amounts presented in the current period’s financial statements.
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+7A
+Materiality and aggregation
+3.7 Information is material if its omission or misstatement could, individually or collectively, influence the economic
+decisions of users made on the basis of the financial statements.
+3.8 An entity need not follow a requirement in this Standard if the effect of doing so would not be material.
+3.9 An entity shall present separately each material class of similar items. An entity shall present separately items of a
+dissimilar nature or function unless they are immaterial.
+Complete set of financial statements
+3.10 A complete set of financial statements of an entity shall include all of the following:
+(a) a statement of assets and liabilities;
+(b) astatement of profit or loss and retained earnings for the reporting period;
+(c) a statement of cash flows for the reporting period; and
+(d) notes, comprising a summary of significant accounting policies and other explanatory information.
+Identification of the financial statements
+3.11 An entity shall clearly identify each of the financial statements (including the notes) and distinguish them from
+other information in the same document. In addition, an entity shall display the following information prominently,
+and repeat it when necessary for an understanding of the information presented:
+(a) the name of the reporting entity and any change in its name since the end of the preceding reporting period;
+(b) the date of the end of the reporting period and the period covered by the financial statements;
+(c) the currency in which the financial statements are presented; and
+(d) the multiples of the number of currency units (such as Rs. ‘000s), if any, at which amounts are presented
+in the financial statements.
+3. 12 An entity shall disclose the following in the notes:
+(a) the legal form of the entity, its country of incorporation, the address of its registered office, and the
+principal place of business; and
+(b) a description of the nature of the entity’s operations and its principal activities.
+Statement of assets and liabilities
+Introduction
+3.13 The statement of assets and liabilities, shall present the entity’s assets, liabilities and equity as at the reporting date.
+Current/non-current distinction
+3.14 An entity shall present current and non-current assets, and current and non-current liabilities, as separate
+classifications in its statement of assets and liabilities.
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+8A
+3. 15 An entity shall classify an asset as current when:
+(a) it expects to realise the asset, or intends to sell or consume it, in the entity’s normal operating cycle;
+(b) it holds the asset primarily for the purpose of trading;
+(c) it expects to realise the asset within twelve months after the reporting date; or
+(d) the asset is cash or a cash equivalent, unless it is restricted from being exchanged or used to settle a liability
+for at least twelve months after the reporting date.
+3.16 An entity shall classify all other assets as non-current. When the entity’s normal operating cycle is not clearly
+identifiable, its duration is assumed to be twelve months.
+3.17 An entity shall classify a liability as current when:
+(a) it expects to settle the liability in the entity’s normal operating cycle;
+(b) the liability is due to be settled within twelve months after the reporting date; or
+(c) the entity does not have an unconditional right to defer settlement of the liability for at least twelve months
+after the reporting date.
+3. 18 An entity shall classify all other liabilities as non-current.
+Information to be presented either in the statement of assets and liabilities or in the notes
+3.19 An entity shall disclose, either in the statement of assets and liabilities or in the notes, the following sub classifications
+of the line items presented:
+(a) property, plant and equipment in classifications appropriate to the entity;
+(b) trade and other receivables showing separately amounts due from related parties, amounts due from other
+parties, and receivables arising from accrued income not yet billed;
+(c) inventories, showing separately amounts of inventories:
+(i) held for sale in the ordinary course of business (for example, inventories held by retailers and the
+finished goods of a manufacturer);
+(ii) in the process of production for such sale (for example, the work in progress of a manufacturer);
+(iii) in the form of materials or supplies to be consumed in the production process or in the rendering of
+services (for example, raw materials); and
+(d) trade and other payables, showing separately payables to trade suppliers, payables to related parties, deferred
+income and accruals;
+(e) provisions,showing separately provisions for employee benefits and other items; and
+(f) classes of equity, such as stated capital, and retained earnings.
+3.20 An entity with share capital shall disclose the following, either in the statement of assets and liabilities or in the
+notes:
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+9A
+(a) for each class of share capital:
+(i) the number of shares issued and fully paid, and issued but not fully paid;
+(ii) a reconciliation of the number of shares outstanding at the beginning and at the end of the period;
+(iii) the rights, preferences and restrictions attached to that class including restrictions on the distribution
+of dividends and the repayment of capital; and
+(iv) shares reserved for issue under options and contracts for the sale of shares, including the terms and
+amounts; and
+(b) a description of each reserve within equity.
+Statement of Profit or Loss and Retained Earnings
+3.21 An entity shall present items of income and expense recognised in determining profit or loss of the reporting
+period, retained earnings of the commencemnet of the reporting period, corrections of prior period errors,
+effect of changes in accounting policy relating to prior periods, dividends, any other items that effect the retained
+earnings, and retained earnings at the end of the reporting period in the statement of profit or loss and retained
+earnings for the reporting period.
+3.22 An entity shall present an analysis of expenses using a classification based on the function of expenses within the
+entity. Cost of sales, distribution costs and administration expenses are examples of aggregations based on function
+of expenses. An entity shall not present or describe any items of income or expense as ‘extraordinary items’ in the
+financial statements.
+Statement of Cash Flows
+Cash equivalents
+3.23     Cash equivalents are short-term, highly liquid investments held to meet short-term cash commitments. Therefore, an
+investment normally qualifies as a cash equivalent only when it has a short maturity of, say, three months or less
+from the date of acquisition. Bank overdrafts are normally considered financing activities similar to borrowings.
+Information to be presented in the statement of cash flows
+3.24 An entity shall present a statement of cash flows that presents cash flows for a reporting period classified by
+operating activities, investing activities and financing activities.
+Operating activities
+3.25 Operating activities are the principal revenue-producing activities of the entity. Therefore, cash flows from operating
+activities generally result from the transactions and other events and conditions that enter into the determination of
+profit or loss. Some transactions, such as the sale of an item of plant by a manufacturing entity, may give rise to a
+gain or loss that is included in profit or loss. However, the cash flows relating to such transactions are cash flows
+from investing activities.
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+10A
+Investing activities
+3.26 Investing activities are the acquisition and disposal of long-term assets and other investments not included in cash
+equivalents.
+Financing activities
+3.27 Financing activities are activities that result in changes in the size and composition of the contributed equity and
+borrowings of an entity.
+Reporting cash flows from operating activities
+3.28 An entity shall present cash flows from operating activities using the indirect method, whereby profit or loss is
+adjusted for the effects of non-cash transactions, any deferrals or accruals of past or future operating cash receipts
+or payments, and items of income or expense associated with investing or financing cash flows.
+3.29 The net cash flow from operating activities is determined by adjusting profit or loss for the effects of:
+(a) changes during the period in inventories and operating receivables and payables;
+(b) non-cash items such as depreciation, provisions, accrued income (or expenses) not yet received (or paid) in
+cash, and unrealised foreign currency gains and losses; and
+(c) all other items for which the cash effects relate to investing or financing.
+Notes
+3. 30 The notes shall:
+(a) present information about the basis of preparation of the financial statements and the specific accounting
+policies used.
+(b) disclose the information required by this standard that is not presented elsewhere in the financial statements;
+and
+(c) provide information that is not presented elsewhere in the financial statements but is relevant to an
+understanding of any of them.
+3.31 An entity shall, as far as practicable, present the notes in a systematic manner. An entity shall cross-reference
+each item in the financial statements to any related information in the notes.
+3.32 The following is an example of a systematic order for presenting the notes:
+(a) a statement that the financial statements have been prepared incompliance with the SLFRS  for smaller
+entities ;
+(b) a summary of significant accounting policies applied;
+(c) supporting information for items presented in the financial statements,in the sequence in which each statement
+and each line item is presented;and
+(d) any other disclosures.
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+11A
+Disclosure of accounting policies
+3.33 An entity shall disclose the following in the summary of significant accounting policies:
+(a) the measurement basis (or bases) used in preparing the financial statements (for example, historical cost);
+and
+(b) the other accounting policies used that are relevant to an understanding of the financial statements.
+Chapter 4 - Accounting Policies, Estimates and Errors
+Selection and application of accounting policies
+4.1 Accounting policies are the specific principles, bases, conventions, rules and practices applied by an entity in
+preparing and presenting financial statements. An entity shall select and apply its accounting policies consistently
+for similar transactions, other events and conditions.
+Changes in accounting policies
+4.2 An entity shall change an accounting policy only if the change results in the financial statements providing reliable
+and more relevant information about the effects of transactions, other events or conditions on the entity’s financial
+position, or financial performance. Therefore, changes in accounting policies are generally rare.
+4.3 The application of a new accounting policy for transactions, other events or conditions that did not occur previously
+or were not material is not treated as a change in an accounting policy.
+Applying changes in accounting policies
+4.4 An entity shall present effect of changes in accounting policy relating to prior periods in the statement of profit
+or loss and retained earnings as an item which is not recognised in determining profit or loss of the reporting
+period, but recognised in determining the retained earnings brought forward.
+Changes in accounting estimates
+4.5 A change in accounting estimate is an adjustment of the carrying amount of an asset or a liability, or the amount
+of the periodic consumption of an asset, that results from the assessment of the present status of, and expected
+future benefits and obligations associated with, assets and liabilities. Changes in accounting estimates result
+from new information or new developments and, accordingly, are not corrections of errors. When it is difficult
+to distinguish a change in an accounting policy from a change in an accounting estimate, the change is treated as
+a change in an accounting estimate.
+4.6 Examples of changes in accounting estimate include:
+(a) a change in the method of depreciating an item of property, plant and equipment from a reducing balance
+method to a straight line method to reflect a revised assessment of the pattern of consumption of benefits
+of the asset; and
+(b) the re-estimate of useful life of an item of property, plant and equipment.
+4.7 An entity shall recognise the effect of a change in an accounting estimate, prospectively by including it in profit
+or loss in:
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+12A
+(a) the period of the change, if the change affects that period only; or
+(b) the period of the change and future periods, if the change affects both.
+4.8 To the extent that a change in an accounting estimate gives rise to changes in assets or liabilities, the entity shall
+recognise it by adjusting the carrying amount of the related asset or liability in the period of the change.
+Correction of prior period errors
+4.9 Prior period errors are omissions from, and misstatements in, the entity’s financial statements for one or more prior
+periods arising from a failure to use, or misuse of, reliable information that:
+(a) was available when financial statements for those periods were authorised for issue; and
+(b) could reasonably be expected to have been obtained and taken into account in the preparation and
+presentation of those financial statements.
+4.10 Such errors include the effects of mathematical mistakes, mistakes in applying accounting policies, oversights or
+misinterpretations of facts, and fraud.
+4.11 An entity shall present effect of errors relating to prior periods in the statement of profit or loss and retained
+earnings as an item which is not recognised in determining profit or loss of the reporting period, but recognised in
+determining the retained earnings broughtforward.
+Disclosures
+Disclosure of a change in accounting policy
+4. 12 When a change in accounting policy has an effect on the current period or any prior period, an entity shall disclose
+the following:
+(a) the nature of the change in accounting policy;
+(b) the reasons why applying the new accounting policy provides reliableand more relevant information;
+(c) to the extent practicable, the amount of the adjustment for the profit or loss:
+(i) for the current period; and
+(ii) in the aggregate for periods before current period ; and
+(d) an explanation, if it is impracticable to determine the amounts to be disclosed in (c) above.
+Financial statements of subsequent periods need not repeat these disclosures.
+Disclosure of a change in estimate
+4.13 An entity shall disclose the nature of any change in an accounting estimate and the effect of the change on assets,
+liabilities, income and expense for the current period.
+Disclosure of prior period errors
+4.14 An entity shall disclose the following about prior period errors:
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+13A
+(a) the nature of the prior period error;
+(b) the amount of the correction ofthe retained earnings;
+(c) an explanation if it is not practicable to determine the amounts to be disclosed in (a) or (b) above.
+Financial statements of subsequent periods need not repeat these disclosures.
+Chapter 5 - Inventories
+Scope
+5.1 Inventories are assets:
+(a) held for sale in the ordinary course of business;
+(b) in the process of production for such sale; or
+(c) in the form of materials or supplies to be consumed in the production process or in the rendering of services.
+Measurement of inventories
+5.2 An entity shall measure inventories at the lower of cost and estimated selling price less costs to complete and sell.
+A reduction in carrying value of inventories is recognized in profit or loss as impairment of inventories.
+Cost of inventories
+5.3 An entity shall include in the cost of inventories cost of purchase, cost of conversion and other costs incurred in
+bringing the inventories to their present location and condition.
+Cost of purchase
+5.4 The cost of purchase of inventories comprise purchase price, import duties and other taxes (other than those
+subsequently recoverable by the entity fromthe taxing authorities), and transport, handling and other costs directly
+attributable to the acquisition of finished goods, material and services. Trade discounts, rebates and other similar
+items are deducted in determining the cost of purchase.
+Cost of conversion
+5.5 The cost of conversion of inventories include only costs directly related to the units of production, such as direct
+material and direct labour.
+Joint products and by-products
+5.6 A production process may result in more than one product being produced simultaneously. This is the case, for
+example, when joint products are produced or when there is a main product and a by-product. When the costs of raw
+materials or conversion of each product are not separately identifiable, an entity shall allocate them between the
+products on a rational and consistent basis. The allocation may be based, for example, on the relative sales value of
+each product either at the stage in the production process when the products becomes separately identifiable, or at
+the completion of production. When the cost of a by-product is not material, the entity shall measure it at selling
+price less costs to complete and sell and deduct this amount from the cost of the main product.
+
+<!-- page 14 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+14A
+Costs excluded from inventories
+5.7 Examples of costs excluded from the cost of inventories and recognised as expenses in the period in which they are
+incurred are:
+(a) abnormal amounts of wasted material, labour or other production cost;
+(b) storage cost, unless storage is required between production stages;
+(c) production and administrative overhead;
+(d) selling cost;
+(e) interest cost; and
+(f) foreign exchange differences.
+Cost of inventories of a service provider
+5.8 Service providers who have inventories, measure such inventories at the cost of production. Cost of production
+consist primarily of cost of personnel directly engaged in providing the service, including supervisory personnel.
+Cost relating to sales and general administrative personnel are not included but are recognised as expenses in the
+period in which they are incurred. The cost of inventories of a service provider does not include profit margins or
+non-attributable overheads.
+Techniques for measuring cost, such as standard costing, retail method and most recent purchase price
+5.9 An entity may use techniques such as the standard cost method, the retail price less margin or most recent
+purchase price for measuring the cost of inventories if the result approximates actual cost. Standard costs take
+into account normal levels of materials and supplies, labour, efficiency and capacity utilisation. They are regularly
+reviewed and, if necessary, revised based on current conditions.
+Methods of  Cost  Ascertainment
+5.10 An entity shall measure the cost of inventories of items that are not ordinarily interchangeable and goods or
+services produced and segregated for specific projects by using specific identification of their individual costs.
+5.11 An entity shall measure the cost of inventories, by using the first-in, first-out (FIFO) or weighted average cost
+method. An entity shall use the same method for all inventories having a similar nature and use to the entity. For
+inventories with a different nature or use, different methods may be justified. The last-in, first-out method (LIFO)
+is not permitted.
+Recognition as an expense
+5.12 When inventories are sold, the entity shall recognise the carrying amount of those inventories as an expense
+(often referred to as cost of goods sold) in the period in which the related revenue is recognised.
+5.13 Some inventories may be allocated to other asset accounts, for example,inventory used as a component of self-
+constructed property, plant or equipment.Inventories allocated to another asset in this way are subsequently
+accounted for in accordance with the chapter of this Standard relevant to that type of asset.
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+15A
+Disclosures
+5.14 An entity shall disclose the following:
+(a) the accounting policies adopted in measuring inventories, including the method used;
+(b) the total carrying amount of inventories and the carrying amount in classifications appropriate to the entity;
+(c) the amount of inventories recognised as an expense during the period;
+(d) impairment losses recognised or reversed in profit or loss; and
+(e) the total carrying amount of inventories pledged as security for liabilities.
+Chapter 6 - Property, Plant and Equipment
+Scope
+6.1 Property, plant and equipment are tangible assets that:
+(a) are held for use in the production or supply of goods or services, for rental to others, or for administrative
+purposes; and
+(b) are expected to be used during more than one reporting period.
+Recognition
+6.2 Items such as spare parts, stand-by equipment and servicing equipment are property, plant and equipment if the
+entity expects to use them during more than one period or if they can be used only in connection with an item of
+property, plant and equipment. Otherwise, such items are classified as inventories.
+Land and buildings are separable assets, and an entity shall account for them separately, even when they are
+acquired together.
+Measurement at recognition
+6.3 An entity shall measure an item of property, plant and equipment at initial recognition at its cost.
+Elements of cost
+6.4 The cost of an item of property, plant and equipment comprises all of the following:
+(a) its purchase price, including legal and brokerage fees, import duties and non-refundable purchase taxes,
+after deducting trade discounts and rebates; and
+(b) any cost directly attributable to bringing the asset to the location and condition necessary for it to be
+capable of operating in the manner intended by management. These can include the cost of site preparation,
+initial delivery and handling, installation and assembly,and testing of functionality.
+6.5 The following costs are not costs of an item of property, plant and equipment,and an entity shall recognise them
+as an expense when they are incurred:
+
+<!-- page 16 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+16A
+(a) cost of opening a new facility;
+(b) cost of introducing a new product or service (including costs ofadvertising and promotional activities);
+(c) cost of conducting business in a new location or with a new class of customer (including costs of staff
+training);
+(d) administration and other general overhead cost; and
+(e) borrowing cost.
+6.6 The income and related expenses of incidental operations during construction or development of an item of
+property, plant and equipment are recognised in profit or loss if those operations are not necessary to bring the
+item to its intended location and operating condition.
+Measurement after initial recognition
+6.7 An entity shall measure an item of property, plant and equipment after initial recognition at cost less any subsequent
+accumulated depreciation and any subsequent accumulated impairment losses.
+6.8 The relevant proportion of cost less accumulated depreciation of an item of property, plant and equipment that
+has suffered damages, other than due to normal use, shall be recognized in profit or loss as impairment. An entity
+shall recognise the cost of day-to-day servicing of an item of property, plant and equipment in profit or loss in
+the period in which such cost is incurred.
+Depreciable amount and depreciation period
+6.9 An entity shall allocate the depreciable amount of an asset on a systematic basis over its useful life. The depreciable
+amount is cost minus accumulated depreciation and accumulated impairment losses, minus residual value.The
+residual value of an asset is the estimated amount that an entity would currently obtain from disposal of the asset,
+after deducting the estimated cost of disposal, if the asset was already of the age and in the condition expected at
+the end of its useful life.
+6.10 The depreciation charge for each period shall be recognised in profit or loss.
+6.11 Factors such as a change in how an asset is used, significant unexpected wear and tear, technological advancement,
+and changes in market prices may indicate that the residual value or useful life of an asset has changed since the
+most recent annual reporting date. If such indicators are present, an entity shall review its previous estimates and,
+if current expectations differ, amend the residual value, depreciation method or useful life. The entity shall
+account for the change in residual value, depreciation method or useful life as a change inan accounting estimate.
+6.12 Depreciation of an asset begins when it is available for use, ie, when it is in the location and condition necessary
+for it to be capable of operating in the manner intended by management. Depreciation of an asset ceases when the
+asset is derecognized or fully depreciated.
+6.13 The useful life of an asset is the period over which the asset is expected to be available for use by the entity or the
+number of production or similar units expected to be obtained from the asset by the entity. An entity shall consider
+all of the following factors in determining the useful life of an asset:
+(a) the expected usage of the asset. Usage is assessed by reference to the asset’s expected capacity or physical
+output;
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+17A
+(b) expected physical wear and tear, which depends on operational factors such as the number of shifts for
+which the asset is to be used and the repair and maintenance programme, and the care and maintenance of
+the asset while idle;
+(c) technical or commercial obsolescence arising from changes or improvements in production, or from a
+change in the market demand for the product or service output of the asset; and
+(d) legal or similar limits on the use of the asset, such as the expiry dates of related leases.With some exceptions,
+such as quarries and sites used for landfill, land has an unlimited useful life and therefore is not depreciated.
+Depreciation method
+6.14 An entity shall select a depreciation method that reflects the pattern in which it expects to consume the asset’s
+future economic benefits. The possible depreciation methods include the straight-line method, the diminishing
+balance method and a method based on usage such as the units of production method.
+Derecognition
+6.15 An entity shall derecognise an item of property, plant and equipment:
+(a) on disposal; or
+(b) when no future economic benefits are expected from its use or disposal.
+6.16 An entity shall recognise the gain or loss on derecognition of an item of property, plant and equipment in profit
+or loss when the item is derecognised.The entity shall not classify such gains as revenue.
+6.17 The date of disposal is the date when the risks and rewards of ownership of the asset have passed.
+6.18 An entity shall determine the gain or loss arising from derecognition of an item of property, plant and equipment
+as the difference between the net disposal proceeds, if any, and the carrying amount of the item.
+Disclosures
+6.19 An entity shall disclose the following for each class of property, plant and equipment:
+(a) the measurement bases used for determining the gross carrying amount;
+(b) the depreciation methods used;
+(c) the useful lives or the depreciation rates used;
+(d) the gross carrying amount, accumulated depreciation,and accumulated impairment losses if any at the
+beginning and end of the reporting period; and
+(e) a reconciliation of the carrying amount at the beginning and the end of the reporting period showing
+separately:
+(i) additions;
+(ii) disposals;
+(iii) depreciation; and
+(iv) impairment.
+
+<!-- page 18 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+18A
+This reconciliation need not be presented for prior periods.
+6.20 The entity shall also disclose the existence and carrying amounts of property, plant and equipment to which the
+entity has restricted title or that is pledged as security for liabilities.
+Chapter7 –Leases
+Scope
+7.1 A lessor is an agreement whereby the lessor conveys to the lessee in return for a payment or series of payments
+the right to use an asset for an agreed period of time. A lease may or may not transfer the ownership of the asset
+to the lessee at the end of the lease term.
+7.2 This chapter covers accounting for all leases other than:
+(a) a lease to explore for or use mineral, oil, natural gas and similar non-regenerative resource;
+(b) a licensing agreement for such item as motion picture film, video recording, play, manuscript, patent or
+copyright;
+(c) a lease of biological assets;and
+(d) a lease that:
+(i) transfers substantially all risks and rewards incidental to ownership; and
+(ii) the period of the lease is not a significant part of the useful life of the asset.
+Financial Statements of lessees
+7.3 A lessee shall recognise lease payments as an expense on a straight-linebasis unless the payments to the lessor
+are structured to increase in line with expected general inflation to compensate for the lessor’s expected
+inflationary cost increases.
+Financial statements of lessors
+7.4 A lessor shall present assets subject to leases in its statement of assets and liabilities according to the nature of
+the asset.
+7.5 A lessor shall recognise lease income in profit or loss on a straight-line basis over the lease term, unless the
+payments to the lessor are structured to increase in line with expected general inflation to compensate for the
+lessor’s expected inflationary cost increases.
+7.6 A lessor shall recognise as an expense costs, including depreciation, incurred in earning the lease income.
+Disclosures
+7.7 A lessee shall make the following disclosures for leases:
+(a) lease payments recognised as an expense.
+(b) a general description of the lessee’s significant leasing arrangements including, for example, information
+about contingent rent, renewal or purchase options and escalation clauses, subleases, and restrictions
+imposed by lease arrangements.
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+19A
+Chapter8- Employee Benefits
+General recognition principle
+8.1 Employee benefits are consideration given by an entity in exchange for service rendered by employees, including
+directors and management. An entity shall recognise the cost of employee benefits to which its employees have
+become entitled as a result of service rendered to the entity, in accordance with the requirements stated in this
+chapter:
+(a) as a liability, after deducting amounts that have been paid either directly to the employees or as a contribution
+to an employee benefit fund. If the amount paid exceeds the obligation arising from service before the
+reporting date, an entity shall recognise that excess as an asset to the extent that the prepayment will lead to
+a reduction in future payments or a cash refund.
+(b) as an expense, unless another chapter of this standard requires the cost to be recognised as part of the cost
+of an asset such as inventories or property, plant and equipment.
+Specific employee benefits
+8.2 When an employee has rendered service to an entity, the entity shall measure the amounts recognised in profit or
+loss as follows:
+(a) benefits payable within a short period of time before or after the period of service, such as wages, salaries,
+contributions to provident funds or trust funds, medical insurance premiums, and use of vehicle or residence,
+in the reporting period in which service is rendered;
+(b) bonus and profit sharing payments, in the reporting period in which service is rendered;
+(c) medical benefits not covered by insurance, in the reporting period in which employee claims the benefit;
+(d) cost incurred for casual, annual or medical leave, in the reporting period in which leave is taken;
+8.3 Benefits payable on termination of employment, such as gratuity shall be measured and recognized as a liability at
+the amount that would be payable at the end of the reporting period, if the employees leave on that date. Employees
+who have not completed the minimum period of service to be entitled to the termination benefit at the end of the
+reporting period are not considered in the measurement of the liability.
+8.4 Benefits payable as a result of an entity’s decision to terminate an employee’s employment before the normal
+retirement date, are recognised in the reporting period in which the decision is communicated to the employee.
+8.5 Benefits payable as a result of an employee’s decision to accept voluntary redundancy in exchange for those
+benefits, are recognised in profit or loss in the reporting period in which the employee accepts the same.
+Chapter9- Revenue
+Scope
+9.1 Revenue is the gross inflow of economic benefits during the period arising in the course of the ordinary activities of
+an entity when those inflows result in increases in equity, other than increases relating to contributions from
+equity participants. This chapter shall be applied in accounting for revenue arising from the following transactions
+and events:
+
+<!-- page 20 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+20A
+(a) the sale of goods (whether produced by the entity for the purpose of sale or purchased for resale);
+(b) the rendering of services;
+(c) construction contracts in which the entity is the contractor. A construction contract is a contract specifically
+negotiated for the construction of an asset or a combination of assets that are closely interrelated or
+interdependent in terms of their design, technology and function or their ultimate purpose or use; and
+(d) deposits or receivables yielding interest.
+Measurement of revenue
+9.2 An entity shall measure revenue at the value of the consideration received or receivable. The value of the
+consideration received or receivable is after deducting the amount of any trade discounts, prompt settlement
+discounts and volume rebates allowed by the entity.
+9.3 An entity shall include in revenue only the gross inflows of economic benefits received and receivable by the
+entity on its own account. An entity shall exclude from revenue all amounts collected on behalf of third parties.
+Taxes based on sales or value added collected on behalf of a government shall not be included in revenue. In an
+agency relationship, an entity shall include in revenue only the amount of its commission. The amounts collected
+on behalf of the principal are not revenue of the entity.
+Sale of goods
+9.4 An entity shall recognise revenue from the sale of goods when all the following conditions are satisfied:
+(a) the entity has transferred to the buyer the significant risks and rewards of ownership of the goods;
+(b) the entity retains neither continuing managerial involvement to the degree usually associated with ownership
+nor effective control over the goods sold;
+(c) the amount of revenue can be measured reliably;
+(d) it is probable (ie more likely than not) that the economic benefits associated with the transaction will flow
+to the entity; and
+(e) the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+9.5 The assessment of when an entity has transferred the significant risks and rewards of ownership to the buyer
+requires an examination of the circumstances of the transaction. In most cases, the transfer of the risks and
+rewards of ownership coincides with the transfer of the legal title or the passing of possession to the buyer. This
+is the case for most retail sales. An entity does not recognise revenue if it retains significant risks and rewards of
+ownership, for example, if the receipt of the revenue from a particular sale is contingent on the buyer selling the
+goods.
+Rendering of services
+9.6 When the outcome of a transaction involving the rendering of services can be estimated reliably, an entity shall
+recognise revenue associated with the transaction by reference to the stage of completion of the transaction at
+the end of the reporting period (sometimes referred to as the percentage of completion method). The outcome
+of a transaction can be estimated reliably when all the following conditions are satisfied:
+(a) the amount of revenue can be measured reliably;
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+21A
+(b) it is probable that the economic benefits associated with the transaction will flow to the entity;
+(c) the stage of completion of the transaction at the end of the reporting period can be measured reliably; and
+(d) the costs incurred for the transaction and the costs to complete the transaction can be measured reliably.
+9.7 When the outcome of the transaction involving the rendering of services cannot be estimated reliably, an entity
+shall recognise revenue only to the extent of the expenses recognised that are recoverable.
+Construction contracts
+9.8 When the outcome of a construction contract can be estimated reliably, an entity shall recognise contract revenue
+and contract costs associated with the construction contract as revenue and expenses respectively by reference
+to the stage of completion of the contract activity at the end of the reporting period (often referred to as the
+percentage of completion method). Reliable estimation of the outcome requires reliable estimates of the stage
+of completion, and future costs.
+Percentage of completion method
+9.9 This method is used to recognise revenue from rendering services and from construction contracts. An entity
+shall review and, when necessary, revise the estimates of revenue and costs as the service transaction or
+construction contract progresses.
+9.10 An entity shall determine the stage of completion of a transaction or contract using the method that measures
+most reliably the work performed. Possible methods include:
+(a) the proportion that costs incurred for work performed to date bear to the estimated total costs. Costs
+incurred for work performed to date do not include costs relating to future activity, such as for materials
+or prepayments;
+(b) surveys of work performed; and
+(c) completion of a physical proportion of the service transaction or contract work.
+Progress payments and advances received from customers often do not reflect the work performed.
+9.11 An entity shall recognise costs that relate to future activity on the transaction or contract, such as for materials
+or prepayments, as an asset if it is probable that the costs will be recovered.
+9.12 An entity shall recognise as an expense immediately any costs whose recovery is not probable.
+9.13 When the outcome of a construction contract cannot be estimated reliably:
+(a) an entity shall recognise revenue only to the extent of contract costs incurred that it is probable will be
+recoverable; and
+(b) the entity shall recognise contract costs as an expense in the period in which they are incurred.
+9.14 When it is probable that total contract costs will exceed total contract revenue on a construction contract, the
+expected loss shall be recognised as an expense immediately, with a corresponding provision for an onerous
+contract.
+9.15 If the collectability of an amount already recognised as contract revenue is no longer probable, the entity shall
+recognise the uncollectible amount as an expense rather than as an adjustment of the amount of contract revenue.
+
+<!-- page 22 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+22A
+Interest
+9.16 Interest shall be recognised using the effective interest rate.
+9.17 The effective interest rate is the rate that exactly discounts estimated future cash receipts, to the carrying amount
+of the asset. The effective interest rate is determined at initial recognition. Under the effective interest method:
+(a) the carrying value of an asset is the present value of future cash receipts discounted at the effective interest
+rate; and
+(b) the interest income in a period equals the carrying amount of the asset at the beginning of a period multiplied
+by the effective interest rate for the period.
+9.18 Where interest is received regularly at the same interest rate and premiums, discounts or other receipts or
+payments are not involved in relation to the asset for which interest is received, interest receivable from that
+asset for the period is the interest income from that asset for that period.
+Disclosures
+General disclosures about revenue
+9.19 An entity shall disclose:
+(a) the accounting policies adopted for the recognition of revenue, including the methods adopted to determine
+the stage of completion of transactions, where relevant; and
+(b) the amount of each category of revenue recognised during the period, showing separately, at a minimum,
+revenue arising from:
+(i) the sale of goods;
+(ii) the rendering of services;
+(iii) interest;
+(iv) commissions; and
+(v) any other significant types of revenue.
+Disclosures relating to revenue from construction contracts
+9.20 An entity shall disclose the following:
+(a) the amount of contract revenue recognised as revenue in the period;
+(b) the methods used to determine the contract revenue recognised in the period; and
+(c) the methods used to determine the stage of completion of contracts in progress.
+9.21 An entity shall present:
+(a) the gross amount due from customers for contract work, as an asset; and
+(b) the gross amount due to customers for contract work, as a liability.
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+23A
+Chapter 10 - Provisions and Contingencies
+Scope
+10.1 This Chapter applies to all provisions (ie liabilities of uncertain timing or amount), contingent liabilities and
+contingent assets except those provisions covered by other chapters of this Standard. These include provisions
+relating to:
+(a) leases
+(b) construction contracts
+(c) employee benefit obligations; and
+(d) income tax.
+Initial recognition
+10.2 An entity shall recognise a provision only when:
+(a) the entity has an obligation at the reporting date as a result of a past event;
+(b) it is probable (i.e. more likely than not) that the entity will be required to transfer economic benefits in
+settlement; and
+(c) the amount of the obligation can be estimated reliably.
+10.3 The entity shall recognise the provision as a liability in the statement of assets and liabilities and shall recognise
+the amount of the provision as in the statement of profit or loss and retained earnings, unless another chapter of
+this standard requires the cost to be recognised as part of the cost of an asset such as inventories or property,
+plant and equipment.
+Initial measurement
+10.4 An entity shall measure a provision at the best estimate of the amount required to settle the obligation at the
+reporting date. The best estimate is the amount an entity would rationally pay to settle the obligation at the end of
+the reporting period or to transfer it to a third party at that time.
+(a) When the provision involves a large population of items, the estimate of the amount reflects the weighting
+of all possible outcomes by their associated probabilities. Where there is a continuous range of possible
+outcomes, and each point in that range is as likely as any other, the mid-point of the range is used.
+(b) When the provision arises from a single obligation, the individual most likely outcome may be the best
+estimate of the amount required to settle the obligation. However, even in such a case, the entity considers
+other possible outcomes. When other possible outcomes are either mostly higher or mostly lower than
+the most likely outcome, the best estimate will be a higher or lower amount than the single most likely
+outcome.
+Subsequent measurement
+10.5 An entity shall charge against a provision only those expenditures for which the provision was originally
+recognised.
+10.6 An entity shall review provisions at each reporting date and adjust them to reflect the current best estimate of the
+amount that would be required to settle the obligation at that reporting date. Any adjustments to the amounts
+previously recognised shall be recognised in profit or loss unless the provision was originally recognised as part
+of the cost of an asset.
+
+<!-- page 24 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+24A
+Contingent liabilities
+10.7 A contingent liability is either a possible but uncertain obligation or a present obligation that is not recognised
+because it fails to meet one or both of the conditions (b) and (c) in paragraph 10.2. An entity shall not recognise
+a contingent liability as a liability. When an entity is jointly and severally liable for an obligation, the part of the
+obligation that is expected to be met by other parties is treated as a contingent liability.
+Contingent assets
+10.8 A contingent asset is a possible asset that arises from past events and whose existence will be confirmed only by
+the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the
+entity. An entity shall not recognise a contingent asset as an asset. When the flow of future economic benefits to
+the entity is virtually certain, then the related asset is not a contingent asset, and its recognition is appropriate.
+Disclosures
+Disclosures about provisions
+10.9 For each class of provision, an entity shall disclose all of the following:
+(a) a reconciliation showing:
+(i) the carrying amount at the beginning and end of the period;
+(ii) additions during the period;
+(iii) amounts charged against the provision during the period; and
+(iv) unused amounts reversed during the period;
+(b) a brief description of the nature of the obligation and the expected amount and timing of any resulting
+payments;
+(c) an indication of the uncertainties about the amount or timing of those outflows; and
+(d) the amount of any expected reimbursement, stating the amount of any asset that has been recognised for
+that expected reimbursement.
+Comparative information for prior periods is not required.
+Disclosures about contingent liabilities
+10.10 Unless the possibility of any outflow of resources in settlement is remote, an entity shall disclose, for each class
+of contingent liability at the reporting date, a brief description of the nature of the contingent liability and, when
+practicable:
+(a) an estimate of its financial effect
+(b) an indication of the uncertainties relating to the amount or timing of any outflow; and
+(c) the possibility of any reimbursement.
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+25A
+If after making every reasonable effort to do so, an entity cannot make one or more of these disclosures, that fact
+shall be stated.
+Disclosures about contingent assets
+10.11 If an inflow of economic benefits is probable (more likely than not) but not virtually certain (therefore not recognized),
+an entity shall disclose a description of the nature of the contingent assets at the end of the reporting period, and,
+when practicable without undue cost or effort, an estimate of their financial effect. If after making every reasonable
+effort to do so, an entity cannot make this disclosure, that fact shall be stated.
+Chapter 11 - Borrowing Cost
+Scope
+11.1 This chapter prescribes requirements relating to borrowing cost. Borrowing costs are interest and other costs
+that an entity incurs in connection with borrowing of funds.
+Recognition
+11.2 An entity shall recognise all borrowing costs as an expense in profit or loss in the period in which they are incurred.
+Disclosure
+11.3 An entity shall disclose total interest expenserecognised during the reporting period.
+Chapter 12 – Foreign Currency Translation
+Scope
+12.1 This chapter prescribes how to include foreign currency transactions in the financial statements of an entity.
+Functional currency
+12.2 Each entity shall identify its functional currency. An entity’s functional currency is the currency of the primary
+economic environment in which the entity operates.
+Reporting foreign currency transactions in the functional currency
+Initial recognition
+12.3 A foreign currency transaction is a transaction that is denominated or requires settlement in a foreign currency,
+including transactions arising when an entity:
+(a) buys or sells goods or services whose price is denominated in a foreign currency;
+(b) borrows or lends funds when the amounts payable or receivable are denominated in a foreign currency; or
+(c) otherwise acquires or disposes of assets, or incurs or settles liabilities, denominated in a foreign currency.
+12.4 An entity shall record a foreign currency transaction, on initial recognition in the functional currency, by applying
+to the foreign currency amount at the spot exchange rate between the functional currency and the foreign currency
+at the date of the transaction.
+
+<!-- page 26 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+26A
+12.5 The date of a transaction is the date on which the transaction first qualifies for recognition in accordance with
+this standard. For practical reasons, a rate that approximates the actual rate at the date of the transaction is often
+used, for example;
+(a) an average rate for a week or a month might be used for all transactions in each foreign currency occurring
+during that period; or
+(b) the rate at which related receivable or payable was settled may be used, if the settlement occurred within a
+short period of the date of transaction.
+Reporting at the end  of subsequent reporting periods
+12.6 At the end of each reporting period, an entity shall:
+(a) translate foreign currency monetary items using the closing exchange rate; and
+(b) translate non-monetary items in a foreign currency using the exchange rate at the date of the transaction; and
+12.7 An entity shall recognise, in profit or loss in the period in which they arise, exchange differences arising on the
+settlement of monetary items or on translating monetary items at rates different from those at which they were
+translated on initial recognition during the period or in previous periods.
+Use of a presentation currency other than the functional currency
+Translation to the presentation currency
+12.8 An entity may present its financial statements in any currency (or currencies). If the presentation currency differs
+from the entity’s functional currency, the entity shall translate its items of income, expense, assets and liabilities
+into the presentation currency.
+12.9 An entity shall translate its items of income, expense, assets and liabilities into a different presentation currency
+using the following procedures:
+(a) assets and liabilities for each statement of assets and liabilities presented shall be translated at the closing
+rate at the date of that statement of assets and liabilities;
+(b) income and expenses for each statement of profit or loss and retained earnings shall be translated at
+exchange rates at the dates of the transactions; and
+(c) all resulting exchange differences shall be recognised in the statement of profit or loss and retained earnings
+as an item which is not recognised in determining profit or loss of the reporting period, but recognised in
+determining the retained earnings carried forward.
+12.10 For  practical  reasons, an entity  may use a rate that approximates the exchange rates at the dates of the transactions,
+for example an average rate for the period, to translate income and expense items.
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+27A
+Chapter 13 - Related Party Disclosures
+Scope
+13.1 This chapter requires an entity to include in its financial statements the disclosures necessary relating to
+transactions with related parties and outstanding balances with such parties.
+Definition of a related party
+13.2 A related party is a person or entity that is related to the entity that is preparing its financial statements (the
+reporting entity).
+13.3 A person (or an entity) or a close member of that person’s family is related to a reporting entity if that person (or
+entity):
+(a) has control over the reporting entity;
+(b) has joint control or significant influence over the reporting entity or has significant voting power in it; or
+(c) is an entity that is subject to control, joint control or significant influence of a related party.
+Disclosures
+Disclosure of subsidiary-parent relationships
+13.4 Relationships between a subsidiary and its parent shall be disclosed irrespective of whether there have been
+related party transactions. An entity shall disclose the name of its parent and, if different, the ultimate controlling
+party. If neither the entity’s parent nor the ultimate controlling party presents financial statements available for
+public use, the name of the next most senior parent that does so (if any) shall also be disclosed.
+Disclosure of related party transactions
+13.5 A related party transaction is a transfer of resources, services or obligations between a reporting entity and a
+related party, regardless of whether a price is charged. Examples of related party transactions include, but are not
+limited to:
+(a) transactions between an entity and its principal owner(s);
+(b) transactions between an entity and another entity when both entities are under the common control of a
+single entity or person; and
+(c) transactions in which an entity or person that controls the reporting entity incurs expenses that otherwise
+would have been borne by the reporting entity.
+13.6 If an entity has related party transactions, it shall disclose the nature of the related party relationship as well as
+information about the transactions, outstanding balances and commitments necessary for an understanding of the
+potential effect of the relationship on the financial statements. Such transactions could include purchases, sales,
+or transfers of goods or services; leases; guarantees; and settlements by the entity on behalf of the related party
+or vice versa.
+13.7 The following are examples of transactions that shall be disclosed if they are with a related party:
+(a) purchases or sales of goods (finished or unfinished);
+
+<!-- page 28 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+28A
+(b) purchases or sales of property and other assets;
+(c) rendering or receiving of services, including as an employee or director;
+(d) leases;
+(e) transfers of research and development;
+(f) transfers under licence agreements;
+(g) transfers under finance arrangements (including loans and equity contributions in cash or in kind);
+(h) provision of guarantees or collateral;
+(i) settlement of liabilities on behalf of the entity or by the entity on behalf of another party; and
+(j) participation by a parent in a defined benefit plan that shares risks between group entities.
+13.8 An entity shall not state that related party transactions were made on terms equivalent to those that prevail in
+arm’s length transactions unless such terms can be substantiated.
+13.9 An entity may disclose items of a similar nature in the aggregate except when separate disclosure is necessary
+for an understanding of the effects of related party transactions on the financial statements of the entity.
+Chapter 14 - Government Grants
+Scope
+14.1 This chapter prescribes requirements relating to government grants. A government grantis assistance by a
+government in the form of a transfer of resources to an entity in return for past or future compliance with
+specified conditions relating to the operating activities of the entity.
+14.2 Government grants exclude those forms of government assistance that cannot reasonably have a value placed
+upon them and transactions with a government that cannot be distinguished from the normal trading transactions
+of the entity.
+14.3 This chapter does not cover government assistance that is provided for an entity in the form of benefits that are
+available in determining taxable profit or tax loss, or are determined or limited on the basis of income tax
+liability. Examples of such benefits are income tax holidays, investment tax credits, accelerated depreciation
+allowances and reduced income tax rates.
+Recognition and measurement
+14.4 An entity shall recognise government grants as follows:
+(a) A grant that does not impose specified future performance conditions on the recipient is recognised in
+income when the grant proceeds are receivable.
+(b) A grant that imposes specified future performance conditions on the recipient is recognised in income
+only when the performance conditions are met.
+(c) A grant that is provided to incur an expense is recognised in income in the periods in which the expense is
+recognised in profit or loss.
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+29A
+(d) A grant that is provided to acquire an asset is recognised in a systematic basis over the useful life of the
+asset.
+(e) Grants received before the revenue recognition criteria are satisfied are recognised in the statement of
+assets and liabilitiesas deferred income.
+14.5 An entity shall measure grants at the value of the asset received or receivable.
+Disclosures
+14.6 An entity shall disclose the following about government grants:
+(a) the nature and amounts of government grants recognised in the financial statements;
+(b) unfulfilled conditions and other contingencies attaching to government grants that have not been recognised
+in income; and
+(c) an indication of other forms of government assistance from which the entity has directly benefited.
+Chapter15 –Other Assets and Liabilities
+Trade and other receivables
+15.1 An entity shall recognise and measure a trade or other receivable initially at transaction price.
+15.2 An entity shall review and consider whether the amount receivable at the end of the reporting period is recoverable.
+15.3 If the amount receivable (or a part of it), cannot be recovered and if the entity has decided not to make further
+attempts to recover the same, the entity may reduce the amount receivable by the relevant amount and recognise it
+in profit or loss, as an irrecoverable receivable.
+15.4 An entity shall review the amounts receivable at the end of the reporting period, to assess the extent to which the
+amounts shown as receivable are likely to be recovered. The entity shall measure trade and other receivables
+recognised in the statement of assets and liabilities at the amounts likely to recovered and the differences shall be
+recognized in profit or loss, as allowance for impairment of receivables.
+Shares in listed companies
+15.5 Shares traded in a stock exchange shall be measured at the volume weighted average price of trades in the last
+trading period before the end of the reporting period as regularly disclosed by the relevant stock exchange.
+15.6 If, a share listed in a stock exchange was suspended from trading in that exchange, at the end of the reporting
+period, the entity shall measure the shares in the statement of assets and liabilities at its most probable value on
+that date.
+Shares in other companies
+15.7 Shares in companies which are not quoted in a stock exchange shall be measured at cost or net asset value
+whichever is lower. The net asset value of the shares shall be ascertained based on the general purpose financial
+statements of that entity.
+
+<!-- page 30 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+30A
+Loans payable
+15.8 Loans payable by the entity shall be measured at the amount repayable.
+15.9 A loan for which the amount repayable within a year was less than the amount repayable after one year at the time
+the loan was received is classified as a non-current liability. Any other loan is classified as a current liability.
+15.10 Unpaid interest accrued up to the end of the reporting period shall be recognised as a liability in the statement of
+assets and liabilities.
+Trade and other payables
+15.11 An entity shall recognise and measure a trade or other payable initially at transaction price.
+15.12 The amount remaining payable at the end of the reporting period shall be recognised as a liability in the statement
+of assets and liabilities.
+Tax on profit or loss
+15.13 An entity shall recognise the amounts payable as tax on its profits or losses up to the end of the reporting period,
+based on the amounts payable computed in accordance with the relevant statutes.
+Disclosures
+15.14 An entity shall disclose the following items:
+(a) Amounts recognised in profit or loss for irrecoverable receivables;
+(b) Amounts recognised in profit or loss as allowance for impairment of receivables; and
+(c) An analysis of the age of trade and other receivables that are past due at the end of the reporting period.
+Chapter 16 - Events after the End of the Reporting Period
+Events after the end of the reporting period defined
+16.1 Events after the end of the reporting period are those events that occur between the end of the reporting period
+and the date when the financial statements are authorised for issue.
+Recognition and measurement
+Adjusting events after the end of the reporting period
+16.2  An entity shall adjust the amounts recognised in its financial statements, or recognise items that were not previously
+recognised, including related disclosures, to reflect adjusting events after the end of the reporting period.Adjusting
+events after the end of the reporting period are those events that provide evidence of conditions that existed at
+the end of the period.
+16.3 Examples include:
+
+<!-- page 31 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+31A
+(a) the receipt of information after the end of the reporting period indicating that an asset was impaired at
+the end of the reporting period,or that the amount of a previously recognised impairment loss for that
+asset needs to be adjusted. For example:
+(i) the bankruptcy of a customer that occurs after the end of thereporting period usually confirms
+that a loss existed at the end ofthe reporting period on a trade receivable and that the entity
+needs to adjust the carrying amount of the trade receivable; and
+(ii) the sale of inventories after the end of the reporting period may give evidence about their
+selling price at the end of the reporting period for the purpose of assessing amount recoverable
+at that date.
+(b) the determination after the end of the reporting period of the cost of assets purchased, or the proceeds
+from assets sold, before the end of the reporting period.
+Non-adjusting events after the end of the reporting period
+16.4 An entity shall not adjust the amounts recognised in its financial statements toreflect non-adjusting events after
+the end of the reporting period. Non-adjusting events after the end of the reporting period are those events that
+are indicative of conditions that arose after the end of the reporting period.
+16.5 An example of a non-adjusting event after the end of the reporting period is a loss caused by flood, fire, or other
+event that occurred after the end of the reporting period.
+Dividends
+16.6 If an entity declares dividends to its shareholders after the end of the reporting period, the entity shall not recognise
+those dividends as aliability at the end of the reporting period.
+Disclosure
+Date of authorisation for issue
+16.7 An entity shall disclose the date when the financial statements were authorised for issue and who gave that
+authorisation.
+Chapter 17 - Transition to SLFRS for Smaller Entities
+Scope
+17.1 This chapter applies to a first-time adopter of SLFRS for Smaller Entities, regardless of whether its previous
+basis of financial reporting was SLFRSs, SLFRS for SMEs or any other basis.
+First-time adoption
+17.2 A first-time adopter of SLFRS for Smaller Entities shall apply the requirements of this chapter in its first financial
+statements that conform to SLFRS for Smaller Entities.
+17.3 An entity’s first financial statements that conform to SLFRS for Smaller Entities are the first annual financial
+statements in which the entity makes an explicit and unreserved statement in those financial statements of
+compliance with SLFRS for Smaller Entities. Financial statements prepared in accordance with this standard are
+an entity’s first such financial statements if, the entity:
+
+<!-- page 32 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+32A
+(a) did not present financial statements for previous periods;
+(b) presented its most recent previous financial statements based on principles not consistent with SLFRS
+for Smaller Entities in all respects; or
+(c) presented its most recent previous financial statements in conformity with SLFRSs or SLFRS for SMEs.
+17.4 An entity’s date of transition to SLFRS for Smaller Entitiesis the beginning of the reporting period for which the
+entity presents its first financial statements that conform to SLFRS for Smaller Entities. An entity shall prepare
+an opening statement of assets and liabilities as at the date of transition to SLFRS for Smaller Entities.
+Procedures for preparing financial statements at the date of transition
+17.5 Except as provided in subsequent paragraphs, an entity shall, in its opening statement of assets and liabilities (as
+at the date of transition to SLFRS for Smaller Entities):
+(a) recognise all assets and liabilities for which recognition is required by SLFRS for Smaller Entities;
+(b) not recognise items as assets or liabilities if SLFRS for Smaller Entities does not permit such recognition;
+(c) reclassify each item that it recognised under its previous basis of financial reportingas one type of
+asset, liability or component of equity, but is a different type of asset, liability or component of equity
+under SLFRS for Smaller Entities; and
+(d) apply SLFRS for Smaller Entities in measuring all recognised assets and liabilities.
+17.6 The accounting policies that an entity uses in its opening statement of assets and liabilities (as at the date of
+transition to SLFRS for Smaller Entities)under SLFRS for Smaller Entities may differ from those that it used
+using its previous basis of financial reporting. The resulting adjustments arise from transactions, other events or
+conditions before the date of transition to SLFRS for Smaller Entities. Therefore, an entity shall recognise those
+as adjustments to retained earnings (or, if appropriate, another category of equity) at the date of transition to
+SLFRS for Smaller Entities.
+17.7 An entity that has presented its most recent previous financial statements in compliance with SLFRSs or SLFRS
+for SMEs may elect to use the revalued amount of an item of property, plant and equipment used in presenting
+financial statements in compliance with SLFRSs or SLFRS for SMEs, as the carrying value of that item on the
+date of such revaluation, in presenting its financial statements in compliance with this standard.
+Presentation of comparative information
+17.8 An entity shall present its opening statement of assets and liabilities (as at the date of transition to SLFRS for
+Smaller Entities) prepared in accordance with this standard, as comparative information, in its first financial
+statements that conform to SLFRS for Smaller Entities.
+17.9 An entity may present comparative information relating to the previous financial period in the statement of profit
+or loss and retained earnings, of its first financial statements prepared using SLFRS for Smaller Entities, based
+on the principles of recognition and measurement of the general purpose financial statements presented by the
+entity for that period, and disclose that fact in the notes.
+
+<!-- page 33 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+33A
+Disclosures
+Explanation of transition to SLFRS for Smaller Entities
+17.10 An entity shall explain how the transition from its previous basis of financial reporting to SLFRS for Smaller
+Entities affected its reported equity and financial performance.
+Reconciliations
+17.11 To comply with the preceding paragraph, an entity’s first financial statements prepared using SLFRS for Smaller
+Entities shall include:
+(a) a description of the nature of each change in accounting policy; and
+(b) a reconciliation of its equity determined in accordance with the basis of financial reporting used previously,
+with its equity determined in accordance with the SLFRS for Smaller Entities on the date of transition to
+SLFRS for Smaller Entities.
+17.12 If an entity did not present general purpose financial statements for previous periods, it shall disclose that fact in
+its first financial statements that comply with SLFRS for Smaller Entities.
+Effective Date
+17.13 SLFRS for Smaller Entities becomes operative for financial statements covering periods beginning on or after
+01 January 2016. Earlier application is permitted. If an entity applies this standard for a period beginning before
+01 January 2016, it shall disclose that fact
+
+<!-- page 34 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+34A
+Illustrative presentation of financial statements
+This Illustrative presentation of financial statements accompanies SLFRS for Smaller Entities, but is not part of the
+standard.
+Name of the entity
+Statement of Assets and Liabilities as at 31 March 20X2
+As at 31 March 20X2 20X1
+Rs Rs
+ASSETS
+Non-current assets
+Property, plant and equipment XX
+Shares in unquoted companies XX
+Bank deposits – Long term XX
+XX
+Current assets
+Inventories XX
+Shares in quoted companies XX
+Receivables from related parties XX
+Trade and other receivables XX
+Cash and cash equivalents XX
+XX
+Total assets XX
+EQUITY AND LIABILITIES
+Equity
+Stated capital XX
+Retained earnings XX
+Total equity XX
+XX
+Non-current liabilities
+Bank loans –long term XX
+Loans – long term XX
+Long term employee benefit obligation XX
+XX
+Current Liabilities
+Bank loans – short term XX
+Tax payable XX
+Payables to related parties XX
+Trade and other payables XX
+XX
+Total liabilities XX
+Equity and liabilities XX
+
+<!-- page 35 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+35A
+Name of the entity
+Statement of profit or loss and retained earnings
+for the year ended 31 March 20X2
+Year ended 31 March 20X2 20X1
+Rs Rs
+Revenue XX
+Cost of sales XX
+Gross profit XX
+Other income XX
+Distribution costs XX
+Administrative expenses XX
+Other expenses XX
+Finance costs XX
+Profit before tax XX
+Income tax XX
+Profit for the year XX
+Retained Earnings:
+Retained earnings at the commencement of the year XX
+Corrections of prior period errors XX
+Effect of changes in accounting policy relating to prior periods XX
+Adjusted retained earnings at the commencement of the year XX
+Profit for the year XX
+Dividends XX
+Retained earnings at the end of the year X X
+
+<!-- page 36 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+36A
+Name of the entity
+Statement of cash flows
+for the year ended 31 March 20X2
+Rs Rs
+Cash flows from operating activities
+Profit before taxation X
+Adjustments for:
+Depreciation X
+Investment income (X)
+Interest expense X
+X
+Increase in trade and other receivables (X)
+Decrease in inventories X
+Decrease in trade payables (X)
+Cash generated from operations X
+Interest paid (X)
+Income taxes paid   (X)
+Net cash from operating activities X
+Cash flows from investing activities
+Purchase of property, plant and equipment (X)
+Proceeds from sale of equipment X
+Interest received X
+Dividends received X
+Net cash used in investing activities (X)
+Cash flows from financing activities
+Proceeds from issue of share capital X
+Proceeds from long term borrowings X
+Dividends paid (X)
+Net cash used in financing activities (X)
+Net increase in cash and cash equivalents X
+Cash and cash equivalents at beginning of period X
+Cash and cash equivalents at end of period X
+
+<!-- page 37 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+37A
+Comparison with SLFRSs
+The comparison with SLFRSs accompanies SLFRS for Smaller Entities, but is not part of the standard.
+SLFRS 1 First-time adoption of Sri Lanka Accounting standards (SLFRSs) Simplified
+SLFRS 2 Share-based payment Not included
+SLFRS 3 Business combinations Not included
+SLFRS 4 Insurance Contracts Not included
+SLFRS 5 Non-current assets held for sale and discontinued operations Not included
+SLFRS 6 Exploration for and evaluation of mineral resources Not included
+SLFRS 7 Financial Instruments: Disclosure Modified
+SLFRS 8 Operating segments Not included
+SLFRS 9 Financial Instruments Not included
+SLFRS 10 Consolidated financial statements Not included
+SLFRS 11 Joint arrangements Not included
+SLFRS 12 Disclosure of interests in other entities Not included
+SLFRS 13 Fair value measurement Not included
+SLFRS 14 Regulatory deferral accounts Not included
+SLFRS 15 Revenue from contracts with customers Modified
+LKAS 1 Presentation of financial statements Simplified
+LKAS 2 Inventories Simplified
+LKAS 7 Statement of cash flows Not included
+LKAS 8 Accounting policies, changes in accounting estimates and errors Simplified
+LKAS 10 Events after the reporting period Simplified
+LKAS 11 Construction contracts Simplified
+LKAS 12 Income taxes Modified
+LKAS 16 Property, plant and equipment Simplified
+LKAS 17 Leases Modified
+LKAS 18 Revenue Simplified
+SLFRS
+Reference
+Requirements in
+SLFRS for Smaller
+Entities
+Description of SLFRS
+
+<!-- page 38 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+38A
+LKAS 19 Employee benefits Modified
+LKAS 20 Accounting for government grants and disclosure of government assistance Simplified
+LKAS 21 The effects of changes to foreign exchange rates Simplified
+LKAS 23 Borrowing costs Modified
+LKAS 24 Related party disclosures Simplified
+LKAS 26 Accounting and reporting by retirement benefit plans Not included
+LKAS 27 Consolidated and separate financial statements Not included
+LKAS 28 Investments in associates Not included
+LKAS 29 Financial reporting in hyperinflationary economies Not included
+LKAS 31 Interests in joint ventures Not included
+LKAS 32 Financial instruments: Presentation Modified
+LKAS 33 Earnings per share Not included
+LKAS 34 Interim financial reporting Not included
+LKAS 36 Impairment of assets Modified
+LKAS 37 Provisions, contingent liabilities and contingent assets Simplified
+LKAS 38 Intangible assets Not included
+LKAS 39 Financial instruments: Recognition and measurement Modified
+LKAS 40 Investment property Modified
+LKAS 41 Agriculture Not included
+Simplified means the requirements have been simplified without significant modification to the principles on which the
+standard was based.
+Modified means the requirements have been significantly modified to reduce complexity and improve cost effectiveness for
+a smaller entity.
+Not included means the requirements of the standard have not been included.
+SLFRS
+Reference
+Requirements in
+SLFRS for Smaller
+Entities
+Description of SLFRS
+
+<!-- page 39 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+39A
+Comparison with SLFRS for SMEs
+1 Small and medium sized entities Not applicable
+2 Concepts and pervasive principles Simplified
+3 Financial statement presentation Simplified
+4 Statement of financial position Simplified
+5 Statement of comprehensive income and income statement Simplified
+6 Statement of changes in equity and statement of income and retained earnings Simplified
+7 Statement of cash flows Simplified
+8 Notes to the financial statements Simplified
+9 Consolidated and separate financial statements Not included
+10 Accounting policies, estimates and errors Simplified
+11 Basic financial instruments Modified
+12 Other financial instruments issues Modified
+13 Inventories Simplified
+14 Investments in associates Not included
+15 Investments in joint ventures Not included
+16 Investment property Modified
+17 Property, plant and equipment Simplified
+18 Intangible assets other than goodwill Not included
+19 Business combinations and goodwill Not included
+20 Leases Modified
+21 Provisions and contingencies Simplified
+22 Liabilities and Equity Modified
+23 Revenue Simplified
+24 Government grants Clarified
+25 Borrowing costs Modified
+26 Share-based payment Not included
+27 Impairment of assets Modified
+SLFRS
+Reference
+Requirements in
+SLFRS for Smaller
+Entities
+Description of SLFRS
+
+<!-- page 40 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2015'11'26
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 26.11.2015
+40A
+28 Employee benefits Modified
+29 Income tax Modified
+30 Foreign exchange translation Simplified
+31 Hyperinflation Not included
+32 Events after the end of the reporting period Simplified
+33 Related party disclosures Simplified
+34 Specialised activities Not included
+35 Transition to SLFRS for SMEs Modified
+Simplified means the requirements have been simplified without significant modification to the principles on which
+the chapter was based.
+Modified means the requirements have been significantly modified to reduce complexity and improve cost
+effectiveness for a smaller entity.
+Not included means the requirements of the chapter have not been included.
+12-413
+SLFRS
+for SME s
+Chapter
+Requirements in
+SLFRS for
+Smaller Entities
+Description of Chapter in SLFRS for SMEs
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING ,  SRI LANKA.
