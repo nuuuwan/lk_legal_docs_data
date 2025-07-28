@@ -85,9 +85,27 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2446-26",
+    "date": "2025-07-21",
+    "description": "2446/26"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-04",
+    "date": "2025-07-21",
+    "description": "Department of Local Government - Eastern Province - Notice under Section 66(C) Summon the Meeting to the post of Chairman of the Manmunaipattu Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2446-01",
     "date": "2025-07-21",
     "description": "Sri Lanka Customs - Rates of Exchange with effect from 21.07.2025 to 27.07.2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-72",
+    "date": "2025-07-19",
+    "description": "2445/72"
   },
   {
     "doc_type_name": "bills",
@@ -336,6 +354,18 @@
     "description": "2444/26"
   },
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-25",
+    "date": "2025-07-09",
+    "description": "2444/25"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-23",
+    "date": "2025-07-09",
+    "description": "2444/23"
+  },
+  {
     "doc_type_name": "bills",
     "id": "619-2025",
     "date": "2025-07-08",
@@ -457,6 +487,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2443-69",
+    "date": "2025-07-04",
+    "description": "Land Acquisition - Kadiyanlena, Pasbagekorala D/S Division Kandy District."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2443-62",
     "date": "2025-07-04",
     "description": "2443/62"
@@ -562,41 +598,5 @@
     "id": "2443-52",
     "date": "2025-07-03",
     "description": "Land Acquisition - Welpalla, Pannala D/S Division in Kurunegala District , Badabedda East, Pannala D/S Division in Kurunegala District- Sec.05"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-51",
-    "date": "2025-07-03",
-    "description": "Department of Local Government - UVA Province - Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 12 Local Government Institutions"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-50",
-    "date": "2025-07-03",
-    "description": "Election Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-40",
-    "date": "2025-07-02",
-    "description": "Land Title Settlement Dept. - Kotakadeniya, Udapalatha D/S Division, Kandy District (25/0268)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-35",
-    "date": "2025-07-02",
-    "description": "Land Title Settlement Dept. - Hindagal (Block 06), Kandy Four Gravets and Gangawata Korale D/S Division, Kandy District (25/1200062)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-34",
-    "date": "2025-07-01",
-    "description": "2443/34"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-33",
-    "date": "2025-07-01",
-    "description": "2443/33"
   }
 ]
