@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2447-01",
+    "date": "2025-07-28",
+    "description": "Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2446-52",
     "date": "2025-07-25",
     "description": "Presidential Secretariat - Order Call Out All the member of the Armed Forces"
@@ -40,6 +46,12 @@
     "id": "2025-07-25-i-general",
     "date": "2025-07-25",
     "description": "(I) - General"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-51",
+    "date": "2025-07-24",
+    "description": "District Secretariat - Vavuniya, Periyakadu St. Antony's Church Festival - 2025"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -586,17 +598,5 @@
     "id": "2443-54",
     "date": "2025-07-03",
     "description": "Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92 Keppitipola Water Treatment Plant"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-53",
-    "date": "2025-07-03",
-    "description": "Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-52",
-    "date": "2025-07-03",
-    "description": "Land Acquisition - Welpalla, Pannala D/S Division in Kurunegala District , Badabedda East, Pannala D/S Division in Kurunegala District- Sec.05"
   }
 ]
