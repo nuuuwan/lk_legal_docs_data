@@ -229,6 +229,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-07",
+    "date": "2025-07-14",
+    "description": "Land  Aquisition - Arewwala, Kesbewa D/S Division, Colombo District. - Ratnagiriya, Nuwara Eliya D/S Division, Nuwara Eliya District. - Amendment, Extra Gazette no.2072/05 dated 21.05.2018."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-06",
     "date": "2025-07-14",
     "description": "2445/06"
@@ -592,11 +598,5 @@
     "id": "2443-56",
     "date": "2025-07-03",
     "description": "Presidential Secretariat - Removal from BMICH Management Membership"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-54",
-    "date": "2025-07-03",
-    "description": "Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92 Keppitipola Water Treatment Plant"
   }
 ]
