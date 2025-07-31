@@ -1,5 +1,11 @@
 [
   {
+    "doc_type_name": "bills",
+    "id": "624-2025",
+    "date": "2025-07-31",
+    "description": "Presidents\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 Entitlements (Repeal) - GS"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2447-28",
     "date": "2025-07-30",
@@ -72,6 +78,12 @@
     "description": "District Secretariat - Vavuniya, Periyakadu St. Antony's Church Festival - 2025"
   },
   {
+    "doc_type_name": "bills",
+    "id": "626-2025",
+    "date": "2025-07-23",
+    "description": "Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - Bill"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2446-42",
     "date": "2025-07-23",
@@ -94,6 +106,12 @@
     "id": "09-2025",
     "date": "2025-07-23",
     "description": "Budgetary Relief Allowance of Workers (Amendment)"
+  },
+  {
+    "doc_type_name": "bills",
+    "id": "625-2025",
+    "date": "2025-07-22",
+    "description": "Land Development (Amendment) - Bill"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -580,23 +598,5 @@
     "id": "2443-58",
     "date": "2025-07-04",
     "description": "Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-57",
-    "date": "2025-07-04",
-    "description": "Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-04-legal-section",
-    "date": "2025-07-04",
-    "description": "Legal Section"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-04-land-section",
-    "date": "2025-07-04",
-    "description": "Land Section"
   }
 ]
