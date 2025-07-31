@@ -121,6 +121,24 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2446-32",
+    "date": "2025-07-21",
+    "description": "Ministry of Labour - Industrial Dispute between P. S. Attanayake and Lanka Sugar Company (Pvt) Limited. - Industrial Dispute between 05 Officers Inclusive L. D. P. Dilrupshi and Sri Lanka Transport Board.- Industrial Dispute between P. D. E. Perera and National Housing Development Authority"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-29",
+    "date": "2025-07-21",
+    "description": "Ministry of Labour - Industrial Dispute between Inter Company Employees Union and Coca-Cola Beverages Sri Lanka Limited. - Industrial Dispute between J. S. Manuwansa and Nawaloka Construction Company (Pvt) Limited"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-27",
+    "date": "2025-07-21",
+    "description": "Ministry of Labour - Industrial Dispute between B. Kulathunga Arachchi and Pradeshiya Sanwardhana Bank. - Industrial Dispute between Swadeena Motor Ratha Sewaka Samithiya and Sri Lanka Transport Broad."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2446-26",
     "date": "2025-07-21",
     "description": "2446/26"
@@ -516,6 +534,12 @@
     "description": "Land Acquisition - Deraniyagala, Deraniyagala D/S Division Kegalle District. Kahagalla, Haputale D/S Division Badulla District."
   },
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2443-71",
+    "date": "2025-07-05",
+    "description": "Land Acquisition - Moraliya, Ruwanwella D/S Division Kegalle District. Asirigama, Nuwaragampalatha Central D/S Division Anuradhapura District."
+  },
+  {
     "doc_type_name": "bills",
     "id": "617-2025",
     "date": "2025-07-04",
@@ -574,29 +598,5 @@
     "id": "2025-07-04-land-section",
     "date": "2025-07-04",
     "description": "Land Section"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-04-iv-b-local-government",
-    "date": "2025-07-04",
-    "description": "IV (B) - Local Government"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-04-iv-a-provincial-councils",
-    "date": "2025-07-04",
-    "description": "IV (A) - Provincial Councils"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-04-iii-trade-marks-and-patent-notices",
-    "date": "2025-07-04",
-    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-04-iib-advertising",
-    "date": "2025-07-04",
-    "description": "(IIB) - Advertising"
   }
 ]
