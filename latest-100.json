@@ -307,6 +307,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-57",
+    "date": "2025-07-17",
+    "description": "Land Title Settlement Dept. - Pitipana South, Homagama D/S Division, Colombo District (7840)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-50",
     "date": "2025-07-17",
     "description": "Land Acquisition - Jamburegoda West, Welipitiya D/S Division, Matara District."
@@ -592,11 +598,5 @@
     "id": "2444-08",
     "date": "2025-07-07",
     "description": "2444/08"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-07",
-    "date": "2025-07-07",
-    "description": "Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)"
   }
 ]
