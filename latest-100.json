@@ -187,6 +187,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-67",
+    "date": "2025-07-18",
+    "description": "Land Title Settlement Dept. - Mirigama, Mirigama D/S Division, Gampaha District - (25/0307)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-58",
     "date": "2025-07-18",
     "description": "Dept. of Local Government - Eastern Province Notice Under Section 66 (C) Summon the meeting fill the Vacancy for the Post of Lahugala Pradeshiya Sabha"
@@ -592,11 +598,5 @@
     "id": "2443-60",
     "date": "2025-07-04",
     "description": "Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-58",
-    "date": "2025-07-04",
-    "description": "Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province"
   }
 ]
