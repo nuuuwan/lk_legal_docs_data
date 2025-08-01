@@ -229,6 +229,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-68",
+    "date": "2025-07-18",
+    "description": "Land Title Settlement Dept. - Bakmigolla, Ibbagamuwa D/S Division, Kurunegala District - (25/0278)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-67",
     "date": "2025-07-18",
     "description": "Land Title Settlement Dept. - Mirigama, Mirigama D/S Division, Gampaha District - (25/0307)"
@@ -298,6 +304,12 @@
     "id": "621-2025",
     "date": "2025-07-17",
     "description": "National Building Research Institute - GS"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2445-50",
+    "date": "2025-07-17",
+    "description": "Land Acquisition - Jamburegoda West, Welipitiya D/S Division, Matara District."
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -475,6 +487,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2444-28",
+    "date": "2025-07-09",
+    "description": "Land Title Settlement Dept. - Batuwanhena, Elpitiya D/S Division, Galle District (24-14-4-00036)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2444-26",
     "date": "2025-07-09",
     "description": "2444/26"
@@ -529,6 +547,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2444-17",
+    "date": "2025-07-08",
+    "description": "Land Acquisition - Lewala, Balathkchypitiya D/S Division Kegalle District, Pannapitiya, Balathkchypitiya D/S Division Kegalle District"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2444-16",
     "date": "2025-07-08",
     "description": "Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for L.G. Institutions"
@@ -574,29 +598,5 @@
     "id": "2444-07",
     "date": "2025-07-07",
     "description": "Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-02",
-    "date": "2025-07-07",
-    "description": "Election Commission - Local Authorities Elections Ordinance (Chapter 262) - Notice under Section 66 (2) \"Elected to the Members of Akmeemana P.S and Bandarawela P.S"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-01",
-    "date": "2025-07-07",
-    "description": "Sri Lanka Customs - Rates of Exchange with effect from 07.07.2025 to 13.07.2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-73",
-    "date": "2025-07-05",
-    "description": "Land Acquisition - Pottakulam, Ninthavur D/S Division Ampara District"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2443-72",
-    "date": "2025-07-05",
-    "description": "Land Acquisition - Deraniyagala, Deraniyagala D/S Division Kegalle District. Kahagalla, Haputale D/S Division Badulla District."
   }
 ]
