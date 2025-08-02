@@ -1,0 +1,1604 @@
+
+
+<!-- page 1 -->
+
+PARLIAMENT OF THE DEMOCRATIC
+SOCIALIST REPUBLIC OF
+SRI LANKA
+FINANCIAL TRANSACTIONS REPORTING
+ACT, No. 6 OF 2006
+Printed on the Order of Government
+[Certified on 06th March, 2006]
+PRINTED  AT  THE  DEPARTMENT  OF  GOVERNMENT  PRINTING , SRI LANKA
+TO  BE  PURCHASED  AT  THE  GOVERNMENT  PUBLICATIONS  BUREAU , COLOMBO  1
+Price : Rs. 29.75 Postage : Rs.10.00
+Published as a Supplement to Part II of the Gazette of the Democratic
+Socialist Republic of Sri Lanka of March 10, 2006
+
+<!-- page 2 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+1
+[Certified on 06th March, 2006]
+L.D.—O. 16/2005.
+A
+N  ACT  TO  PROVIDE  FOR  THE  COLLECTION  OF  DATA  RELATING  TO  SUSPICIOUS
+FINANCIAL  TRANSACTIONS  TO   FACILITA TE THE  PREVENTION , DETECTION ,
+INVESTIGA TION   AND  PROSECUTION  OF  THE  OFFENCES  OF  MONEY
+LAUNDERING  AND  THE  FINANCING  OF  TERRORISM  RESPECTIVELY  ; TO
+REQUIRE  CERTAIN  INSTITUTIONS TO  UNDERTAKE  DUE  DILIGENCE  MEASURES
+TO  COMBAT  MONEY  LAUNDERING  AND  THE  FINANCING  OF  TERRORISM  ;
+TO  IDENTIFY  THE  AUTHORITY  WHICH  WILL  BE  RESPONSIBLE  FOR
+MONITORING  THE  ACTIVITIES OF  ALL  INSTITUTIONS  TO  WHOM  THIS ACT
+APPLIES  ; AND  TO  PROVIDE  FOR  MATTERS  CONNECTED  THEREWITH  OR
+INCIDENTAL  THERETO
+BE it enacted by the Parliament of the Democratic Socialist
+Republic of Sri Lanka as follows :—
+1. This Act may be cited as the Financial Transactions
+Reporting Act, No. 6 of 2006.
+PART I
+D UTIES OF  INSTITUTIONS
+2. (1) No Institution shall open, operate or maintain an
+account, where the holder of such account cannot be
+identified, including any anonymous account or any account
+identified by number only, or any account which to the
+knowledge of the Institution is being operated in a fictitious
+or false name.
+(2) An Institution shall, subject to any rules issued by the
+Financial Intelligence Unit under subsection (3), identify
+each customer and verify their customer identification data
+or information relating to a customer as is reasonably capable
+of identifying a customer on the basis of any official
+document or other reliable and independent source document
+verifying the identity of the customer, in cases where the
+Institution—
+(a) enters into a continuing business relationship, or in
+the absence of such a relationship, conducts any
+transaction, with any customer ;
+2—PL 000861—5,600  (2005/12)
+Short title.
+Identification
+essential to
+conduct of
+business of
+Institution.
+
+<!-- page 3 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+2
+(b) detects the carrying out of an electronic funds transfer
+by a customer, other than any prescribed
+transactions ;
+(c) entertains a suspicion relating to the commission of
+an unlawful activity ; or
+(d) entertains doubts about the veracity or adequacy of
+the customer identification and verification
+documentation or information it had previously
+obtained.
+(3) The Financial Intelligence Unit may issue rules
+prescribing—
+(a) the official or identifying document or documents,
+or the reliable and independent source documents,
+data or information or other evidence that is required
+for identification or verification of any particular
+customer or class of customers ;
+(b) the timing of the identification and verification
+requirements under this section ; and
+(c) the threshold for, or the circumstances in which, the
+provisions of this section shall apply to transactions
+carried on by the customers of an Institution.
+(4) The terms and conditions imposed by rules issued under
+subsection (3) may vary in respect of different categories of
+Institutions, different categories of transactions or different
+categories of customers.
+(5) The provisions of subsection (2) shall not apply—
+(a) if the transaction is part of an existing and regular
+business relationship with a person who has already
+produced satisfactory evidence of identify  unless
+the Institution has reason to suspect that the
+transaction is suspicious or unusual ;
+
+<!-- page 4 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+3
+(b) if the transaction is an occasional transaction not
+exceeding a prescribed sum unless the Institution
+has reason to suspect that the transaction is
+suspicious or unusual ;
+(c) if any person has been a customer of the Institution
+prior to the enactment of this Act, subject to a phase-
+in period which shall not exceed three years :
+Provided that by the end of such period each
+Institution shall apply the provisions of subsection
+(2) hereof to such persons subject to such regulations
+as may be prescribed in that behalf ; and
+(d) in such other circumstances as may be prescribed
+by regulations made in that behalf.
+(6) For the purpose of subsection (5), “occasional
+transactions” means any transaction, in relation to cash and
+electronic fund transfer, that is conducted by any person other
+than through an account in respect of which the person is the
+customer.
+3. If satisfactory evidence of identity is not submitted to
+an Institution as required in terms of the provisions of section
+2, the Institution shall not proceed any further with the
+transaction unless directed to do so by the Financial
+Intelligence Unit established in terms of this Act, and shall
+report the attempted transaction to the Financial Intelligence
+Unit as a suspicious transaction under section 7.
+4. (1) Every  Institution shall be required to maintain —
+(a) records of transactions and of correspondence
+relating to transactions and records of all reports
+furnished to the Financial Intelligence Unit for a
+period of six years from the date of the transaction,
+correspondence or the furnishing of the report, as
+the case may be ; and
+Institutions to
+maintain and
+retain records.
+Procedure if
+identity is not
+satisfactorily
+established.
+
+<!-- page 5 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+4
+(b) records of identity obtained in terms of section 2 for
+a period of six years from the date of closure of the
+account or cessation of the business relationship, as
+the case may be,
+unless directions have been issued by the Financial
+Intelligence Unit that such records or correspondence should
+be retained for a longer period, in which case the records or
+correspondence should be retained for such longer period.
+(2) Records required to be maintained under subsection
+(1) shall contain particulars sufficient to identify the—
+(a) name, address and occupation (or where appropriate
+business or principal activity) of each person —
+(i) conducting the transaction ; and
+(ii)where applicable, on whose behalf the
+transaction is being conducted ;
+(b) nature and date of the transaction ;
+(c) type and amount of currency involved ;
+(d) parties to the transaction ;
+(e) the name and address of the employee who prepares
+the record ; and
+(f) such other information as may be specified in rules
+issued by the Financial Intelligence Unit.
+(3) Where any record is required to be maintained under
+this Act—
+(a) it shall be maintained in a manner and form that will
+enable an Institution to comply immediately with
+requests for information from the Financial
+Intelligence Unit or a law enforcement agency ; and
+
+<!-- page 6 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+5
+(b) a copy of it may be kept—
+(i) in a machine-readable form if a paper copy
+can be readily produced from it ; or
+(ii) in an electronic form, if a paper copy can be
+readily produced from it and an electronic
+signature of the person who keeps the records
+is retained for purposes of verification.
+(4) The records maintained under subsection (1) shall be
+made available upon request to the Financial Intelligence
+Unit for purposes of ensuring compliance with this Act.
+5.  An Institution shall—
+(a) conduct ongoing due diligence on the business
+relationship with its customer ;
+(b) conduct ongoing scrutiny of any transaction
+undertaken throughout the course of the business
+relationship with a customer to ensure that any
+transaction that is being conducted is consistent
+with the Institution’s knowledge of the customer,
+the customer’s business and risk profile, including,
+where necessary, the source of funds,
+in order to ensure that its obligations under section 2 are
+satisfied and that the transactions conducted are consistent
+with the information that the Institution has of its customer
+and the profile of the customer’s business.
+6. An Institution shall report to the  Financial
+Intelligence Unit—
+(a) any transaction of an amount in cash exceeding such
+sum as shall be prescribed by the Minister by Order
+published in the Gazette,  or its equivalent in any
+foreign currency (unless the recipient and the sender
+is a bank licensed by the Central Bank) ; and
+Institutions to
+conduct ongoing
+due diligence and
+scrutiny of
+customers.
+Institution to
+report financial
+transactions.
+
+<!-- page 7 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+6
+(b) any electronic funds transfer at the request of a
+customer exceeding such sum as shall be prescribed
+by regulation,
+in such form, manner, and within such period as may be
+prescribed by rules issued by the Financial Intelligence Unit.
+7. (1) Where an Institution—
+(a) has reasonable grounds to suspect that any
+transaction or attempted transaction may be related
+to the commission of any unlawful activity or any
+other criminal offence ; or
+(b) has information that it suspects may be relevant—
+(i) to an act preparatory to an offence under the
+provisions of the Convention on the
+Suppression of Financing of Terrorism Act,
+No.  25 of 2005 ;
+(ii) to an investigation or prosecution of a person
+or persons for an act constituting an unlawful
+activity, or may otherwise  be of assistance in
+the enforcement of the Money Laundering
+Act, No. 5 of 2006 and the Convention on the
+Suppression of Terrorist Financing Act, No.
+25  of 2005,
+the Institution shall, as soon as practicable, after forming that
+suspicion or receiving the information, but no later than two
+working days therefrom, report the transaction or attempted
+transaction or the information to the Financial Intelligence
+Unit.
+(2) A report under subsection (1) shall—
+(a) be in writing and may be given by way of mail,
+telephone to be followed up in writing within
+twenty-four hours, fax or electronic mail or such
+other manner as may be determined by the Financial
+Intelligence Unit ;
+Duty to disclose
+information
+relating to
+property of
+terrorist groups or
+property used for
+commission of
+offence under this
+Act.
+
+<!-- page 8 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+7
+Disclosure to
+Financial
+Intelligence Unit.
+(b) be in such form and contain such details as may be
+prescribed by the Financial Intelligence Unit ;
+(c) contain a statement of the grounds on which the
+Institution holds the suspicion ;
+(d) be signed or otherwise authenticated by the
+Institution.
+(3) A person who has made a report or has given any
+information to the Financial Intelligence Unit shall provide
+to the Financial Intelligence Unit any further information
+that it has about the transaction or attempted transaction or
+the parties to the transaction if requested to do so by the
+Financial Intelligence Unit.
+8. Every Institution shall, in relation to any person
+conducting transactions with such institution, forthwith
+disclose to the Financial Intelligence Unit—
+(a) the existence of any property in its possession or
+control, which to its knowledge is, or which it
+reasonably suspects is, property derived from the
+commission of any terrorist activity in terms of any
+law for the time being in force ;
+(b) the existence of any property in his or her
+possession or control, owned or controlled by or on
+behalf of a specified entity or for which there are
+reasonable grounds for suspicion that it is owned or
+controlled by or on behalf of a specified entity ;
+(c) any information regarding a transaction or proposed
+transaction in respect of property derived from the
+commission of any terrorist activity in terms of any
+law for the time being in force ; or
+(d) any information regarding a transaction or proposed
+transaction and there are reasonable grounds for
+suspicion that such transaction may involve
+property derived from the commission of any
+terrorist activity in terms of any law for the time
+being in force.
+
+<!-- page 9 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+8
+Duty not to
+divulge
+information.
+PART II
+PROVISIONS  APPLICABLE  TO  INSTITUTIONS  AND  OTHER  PERSONS
+9. (1) A person shall not disclose to any other person—
+(a) that a report has been made or information provided
+to the Financial Intelligence Unit in terms of any
+provisions of this Act ;
+(b) that any suspicion in relation to a transaction has
+been formed as referred to in section 7 ; or
+(c) any other information from which the person to
+whom the information is disclosed could reasonably
+be expected to infer that a suspicion has been formed
+or that a report has been or may be made.
+(2) The provisions of subsection (1) shall not apply to
+disclosures made to—
+(a) an officer or employee or agent of the person making
+the report under this Act for any purpose connected
+with the performance of that person’s duties ;
+(b) a lawyer, attorney or legal advisor for the purpose of
+obtaining legel advice or representation in relation
+to any matter  ; or
+(c) the supervisory authority of the relevant Institution,
+in so far as it is related to the discharge of the
+functions of the supervisory authority.
+(3) No person referred to in paragraph (b) of subsection (2)
+to whom any disclosure of information has been made, shall
+disclose that information other than to a person referred to
+therein, in so far as it is necessary for—
+(a) the performance of the first-mentioned person’s
+duties ; or
+
+<!-- page 10 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+9
+(b) obtaining legal advice or representation in relation
+to the matter.
+(4) No person referred to in paragraph (c) of subsection 2
+to whom the disclosure of any information has been made
+shall disclose that information except for the purpose referred
+to in that subsection, or for the purpose of obtaining legal
+advice or making representation in relation to the matter to
+the Financial Intelligence Unit.
+10. (1) A person shall not disclose any information that
+will identify or is likely to identify —
+(a) the person who has handled a transaction in respect
+of which a suspicious transaction report under this
+Act has been made ;
+(b) the person who has prepared such a suspicious
+transaction report ;
+(c) the person who has reported such a suspicious
+transaction ; or
+(d) the information contained in a suspicious
+transaction report or information provided pursuant
+to section 7,
+other than for the purpose of—
+(i) the investigation or prosecution of a person or
+persons for an unlawful activity, or an offence under
+the Prevention of Money Laundering Act, No. 5 of
+2006 or the Convention on the Suppression of
+Terrorist Financing Act, No. 25 of 2005,
+respectively ; or
+(ii) the enforcement or implementation of the provisions
+of the  Prevention of Money Laundering Act, No. 5
+of 2006 and the Convention on the Suppression of
+Terrorist Financing Act, No. 25 of 2005.
+When disclosure
+of information is
+permitted.
+
+<!-- page 11 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+10
+(2) Nothing in this section shall be deemed to prohibit the
+disclosure of any information for the purposes of the
+prosecution of any person for the violation of the provisions
+of section 7.
+11.  Subject to the provisions of this Act and any other
+written law for the time being in force prohibiting such
+disclosure, nothing contained in section 9 or 10 shall prevent
+the disclosure of any information in connection with, or in
+the course of, proceedings before a Court and no person shall
+be required to disclose any information to which this section
+applies in any judicial proceeding unless the judge or other
+presiding officer is satisfied that the disclosure of the
+information is necessary in the interests of justice.
+12. (1) No civil, criminal or disciplinary proceedings
+shall lie against —
+(a) a such Institution, an auditor or supervisory authority
+of an Institution ; or
+(b) a director, partner, an officer, employee or agent
+acting in the course of that person’s employment or
+agency of an Institution, firm of Auditors or of a
+supervisory authority,
+in relation to any action by the Institution, the firm of auditors
+or the supervisory authority or a director, partner, officer,
+employee or agent of such Institution, firm or authority, carried
+out in terms of this Act in good faith or in compliance with
+regulations made under this Act or rules or directions given
+by the Financial Intelligence Unit in terms of this Act.
+(2) The provisions of subsection (1) shall not apply in
+respect of any proceedings for an offence described in section
+8 of this Act.
+(3) If an Institution, firm of auditors or supervisory
+authority or any director, partner, officer, employee or agent,
+of any Institution, firm or authority or makes a report under
+Disclosure not to
+be prevented.
+Protection of
+persons reporting
+suspicious
+transactions.
+
+<!-- page 12 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+11
+the provisions of this Act, such person shall for the purposes
+of a prosecution for the offence of money laundering, be
+deemed not to have been in possession of that information at
+any time.
+13. (1) Nothing contained in sections 4, 5, 6, 7 or 8  of
+this Act shall be construed as requiring a lawyer to disclose
+any privileged communication only if —
+(2) (a) it is a confidential communication, whether oral
+or in writing, passing between —
+(i) a lawyer or legal advisor in his or her
+professional capacity and another barrister,
+solicitor, lawyer, attorney or legal advisor in
+such capacity ; or
+(ii) a lawyer or legal advisor in his or her
+professional capacity and his or her client,
+whether made directly or indirectly through
+an agent of either ; and
+(b) it is made or brought into existence for the purpose
+of obtaining or giving legal advice or assistance ;
+and
+(c) it is not made or brought into existence for the
+purpose of committing or furthering the commission
+of some illegal or unlawful act.
+(3) Where the information consists wholly or partly of, or
+relates wholly or partly to receipts, payments, income,
+expenditure, or financial transactions of a person (whether a
+lawyer his or her client, or any other  person), it shall not be a
+privileged communication if it is contained in, or comprises
+the whole or part of any book, account, statement or other
+record prepared or kept by the lawyer in connection with a
+trust account of the  lawyer.
+Privileged
+Communication.
+
+<!-- page 13 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+12
+14. (1) Every Institution shall be required to—
+(a) appoint a Compliance Officer who shall be
+responsible for ensuring the Institution’s compliance
+with the requirements of this Act ;
+(b) establish and maintain procedures and systems to—
+(i) implement the customer identification
+requirements under section 2 ;
+(ii) implement procedures for the record keeping
+and retention requirements under section 4 ;
+(iii) implement the process of monitoring required
+under section 5 ;
+(iv) implement the reporting requirements under
+sections 6, 7, 8 and section 22 in relation to
+auditors ;
+(v) make its officers and employees aware of the
+laws relating to money laundering and
+financing of terrorism ; and
+(vi) screen all persons before hiring them as
+employees ;
+(c) establish an audit function to test its procedures
+and systems for the compliance with the provisions
+of this Act ;
+(d) train its officers, employees and agents to recognize
+suspicious transaction.
+(2) The provisions of subsection (1) shall not apply to
+an individual who, in the course of carrying on his her
+business, does not employ or act in association with any
+other person.
+Appointment of
+Compliance
+Officer.
+
+<!-- page 14 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+13
+(3) An Institution shall ensure that its foreign branches
+and subsidiaries adopt and observe measures consistent with
+Parts I, II and III of this Act to the extent that local laws and
+regulations permit and where the  foreign branch or subsidiary
+is unable to adopt and observe such measures, to report the
+matter to the relvant supervisory authority or in the absence
+of  a supervisory authority to the Financial Intelligence
+Unit.
+PART III
+P
+OWERS  AND  FUNCTIONS  OF  THE  FINANCIAL  INTELLIGENCE  UNIT
+15. (1) The Financial Intelligence Unit—
+(a) shall receive reports made in terms of the provisions
+of this Act and information provided to the Financial
+Intelligence Unit by any agency of another country,
+information provided to the Financial Intelligence
+Unit by a law enforcement agency or a government
+institution or agency, and other information
+voluntarily provided to the Financial Intelligence
+Unit  about suspicions of an act constituting an
+unlawful activity ;
+(b) shall collect or require the supervisory authority of
+a financial institution to collect any information
+that the Financial Intelligence Unit considers
+relevant to an act constituting an unlawful activity,
+or an offence of money laundering or financing of
+terrorism, or a terrorist activity whether or not
+publicly available, including commercially
+available databases, or information that is collected
+or maintained, including information that is stored,
+in databases maintained by the Government ;
+(c) may request information from any Government
+agency, law enforcement agency and supervisory
+agency for the purposes of this Act ;
+Functions of the
+Financial
+Intelligence Unit.
+
+<!-- page 15 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+14
+(d) may analyze and assess all reports and
+information ;
+(e) shall carry out examinations of all Institutions as
+set out in section 18 ;
+(f) shall refer any matter or any information derived
+from any report or information it receives to the
+appropriate  law enforcement agency if, on the basis
+of its analysis and assessment, the Financial
+Intelligence Unit has  reasonable grounds to suspect
+that the transaction  would be relevant to the
+investigation or prosecution  under this Act or of an
+act constituting an unlawful activity, and in
+connection therewith, the Financial  Intelligence
+Unit may send a copy of such referral or information
+to the relevant supervisory authority ;
+(g) shall destroy a suspicious transaction report on the
+expiry of six years from the date of receipt or
+collection of the report, if there has been no further
+activity or information relating to the report, or the
+person named in the report, or six years from the
+date  of the last activity relating to the person or
+report ;
+(h) shall instruct or require the supervisory authority of
+an Institution to take such steps as may be
+appropriate in relation to any information or report
+received by the Financial Intelligence Unit, to
+enforce compliance with this Act or to facilitate any
+investigation anticipated by the Financial
+Intelligence Unit or a law enforcement agency ;
+(i) shall compile statistics and records, and may
+disseminate information within Sri Lanka or
+elsewhere, and make recommendations arising out
+of any information received ;
+
+<!-- page 16 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+15
+(j) shall issue or have the supervisory authority of an
+Institution issue, rules and guidelines to Institutions
+in relation to customer identification, record
+keeping, reporting obligations, the identification
+of suspicious  transactions and such other matters in
+respect of which  the Financial Intelligence Unit
+has been vested with  the power to issue rules or
+guidelines by this Act ;
+(k) shall periodically report to all Institutions and other
+relevant agencies regarding the outcome from reports
+or information given under the Act ;
+(l) may obtain further information on parties or
+transactions referred to in a report made to it under
+this Act ;
+(m) may conduct training programs for Institutions in
+relation to customer identification, record keeping
+and reporting obligations and the identification of
+suspicious transactions ;
+(n) may undertake due diligence checks and other
+inquiries as may be necessary for performance of  its
+duties and functions under this Act ;
+(o) may conduct research into trends and developments
+in the area of money laundering and the financing
+of terrorism and improved ways of detecting,
+preventing and deterring money laundering and the
+financing of terrorism ;
+(p) may educate the public and create awareness on
+matters relating to money laundering and the
+financing of terrorism ;
+(q) may disclose as set out in section 16 and 17,any
+report, any information derived from such report or
+any other information it receives, to an institution
+
+<!-- page 17 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+16
+or agency of a foreign state or of an international
+organization established by the governments of
+foreign states that has powers and duties similar to
+those of the  Financial Intelligence Unit, if on the
+basis of its  analysis or assessment the Financial
+Intelligence Unit has reasonable grounds to suspect
+that the information would be relevant to the
+investigation or prosection of any act constituting
+an unlawful activity, a money laundering offence or
+a offence of financing of terrorism ; and
+(r) may enter into any agreement or arrangement with
+any domestic government institution or agency
+regarding the exchange of information.
+(2) Where the Financial Intelligence Unit has reasonable
+grounds to suspect that a transaction or attempted transaction
+may —
+(a) involve the proceeds which are attributable to any
+unlawful activity ; or
+(b) be connected to the commission of the money
+laundering offence under the Money Launderng Act,
+No. 5 of 2006 ; or
+(c) be preparatory to the commission of an offence under
+the Convention on the Suppression of Terrorist
+Financing Act, No. 25 of 2005,
+it may direct the Institution in writing or by telephone to be
+confirmed in writing within twenty-four hours, not to proceed
+with the carrying out of that transaction or attempted
+transaction or any other transaction in respect of the funds
+affected by that transaction or attempted transaction for a
+period to be determined by the Financial Intelligence Unit,
+which may not be more than seven days, in order to allow the
+Financial Intelligence Unit —
+(i) to make any necessary inquiries concerning the
+transaction or attempted transaction ; and
+
+<!-- page 18 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+17
+(ii) if the Financial Intelligence Unit deems it
+appropriate, to consult or advise the relevant law
+enforcement agency in the inquiries.
+(3) The Financial Intelligence Unit may make an ex -parte
+application to the High Court of the Western Province, holden
+in Colombo, for an extension of the period of time stipulated
+in subsection (2) setting out the grounds for such application.
+16. The Financial Intelligence Unit may disclose any
+report or information to an institution or agency of a foreign
+state or of an international organization or body or other
+institution or agency established by the Government of a
+foreign State that has powers and duties similar to those of
+the Financial Intelligence Unit on such terms and conditions
+as are set out in the agreement or arrangement between
+Financial Intelligence Unit and an institution, agency or
+organization or authority regarding the exchange of such
+information under section 17.
+17. (1) The Financial Intelligence Unit may, with the
+approval of the Minister, enter into an agreement or
+arrangement, in writing, with—
+(a) an institution or agency of a foreign State or foreign
+States or an international organization established
+by the Governments of a foreign State that has
+powers  and duties similar to those of the Financial
+Intelligence Unit ; and
+(b) a foreign law enforcement agency or a foreign
+supervisory authority,
+regarding the exchange of information between the Financial
+Intelligence Unit and the institution, authority or agency.
+(2) The information exchanged under subsection (1) shall
+be information that the Financial Intelligence Unit, the
+Institution or agency has reasonable grounds to suspect would
+Disclosure to
+foreign institutions
+and agencies.
+Agreements and
+arrangements by
+the Financial
+Intelligence Unit.
+
+<!-- page 19 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+18
+be relevant to the investigation or prosecution of an offence
+constituting an unlawful activity or an offence  that is
+substantially similar to such an offence.
+(3) Agreements or arrangements entered into under
+subsection (1) shall include the following :—
+(a) restrictions on the use of information to purposes
+relevant to investigating or prosecuting any act
+constituting an unlawful activity or an offence that
+is substantially similar to such offence ;and
+(b) the stipulation that the information be treated in a
+confidential manner and not be further disclosed
+without the express consent of the Financial
+Intelligence Unit.
+18. (1) Subject to the requirements of paragraph (e) of
+subsection (1) of section 15, the Financial Intelligence Unit
+or any person authorised by it in that behalf may examine the
+records and inquire into the business and affairs of an
+Institution for the purpose of  ensuring compliance with the
+Act or any directions, orders, rules or regulations issued under
+the Act, and for that purpose may—
+(a) at any reasonable time, enter any premises, in which
+the Financial Intelligence Unit or authorised person
+believes, on reasonable grounds, that there are
+records relevant to ensuring compliance with the
+provisions of Parts I, II and III of this Act ;
+(b) use or cause to be used any computer system or data
+processing system found in the premises, to examine
+any data contained in or available to the system ;
+(c) reproduce any record, or cause it to be reproduced
+from the data, in the form of a printout or other
+intelligible output and remove the printout or the
+output for examination or copying ; and
+Power of Unit to
+examine books,
+records &c.,
+
+<!-- page 20 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+19
+(d) use or cause to be used any copying equipment in
+the premises to make copies of any record.
+(2) The owner or person responsible for the premises
+referred to in subsection (1) and every person found thereon
+shall give  the Financial  Intelligence Unit or any authorized
+person all reasonable assistance to enable  them to carry out
+their responsibilities and shall furnish them with any
+information that they may reasonably require with respect to
+the administration of Parts, I, II and III of this Act or the
+regulations made under the  Act.
+(3) The Financial Intelligence Unit may transmit any
+information from, or derived from, such examination to the
+appropriate domestic or foreign law enforcement authorities
+or supervisory authorities, if the  Financial Intelligence Unit
+has reasonable grounds to suspect that the information is
+suspicious or is relevent to an investigation for non-
+compliance with this Act, or amounts to an offence
+constituting an unlawful activity.
+19. (1) A person required to conform to the requirements
+prescribed by or under Parts I and II of this Act, who fails to so
+conform, shall be liable to a penalty as may be prescribed
+taking into consideration the nature and gravity of relevant
+non-compliance : Provided however such penalty shall not
+exceed a sum of rupees one million in any given case. Where
+a person who has been subjected to a penalty on a previous
+occasion, subsequently fails to  conform to a requirement on
+any further occasion such person shall be liable to the
+payment of an additional penalty in a sum consisting of double
+the amount imposed as a penalty on the first occasion and for
+each non- compliance after such first occasion.
+(2) The Financial Intelligence Unit shall be responsible
+for the collection of a penalty imposed by this section and
+the money so collected shall be credited to the Consolidated
+Fund.
+Imposition of
+penalty to enforce
+compliance.
+
+<!-- page 21 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+20
+(3) If a person who becomes liable to a penalty in terms of
+subsection (1) fails to pay such penalty, the Unit may make
+an ex- parte  application to the High Court of the Western
+Province holden in  Colombo for an Order requiring the
+payment of the penalty and upon such order being made
+such amount shall be recoverable in the same manner as a
+fine imposed by Court.
+(4) The imposition of a penalty under this section shall
+not preclude a supervisory authority or a regulatory or self
+regulatory authority of an Institution from taking any
+regulatory or disciplinary measures including, but not limited
+to, the suspension of such Institution from the  carrying on of
+a business or profession or the cancellation of a licence or
+authority granted for the carrying on of a business or
+profession, as may be permitted in terms of any applicable
+written law or rules for the regulation or supervision of such
+Institution.
+(5) Where a penalty is imposed under this section on a
+body of persons, then-
+(a) if that body of person is a body corporate, every
+person who at the time of the imposition of the
+requirements under subsection (1) was a Director,
+General Manager, Secretary or other similar officer
+of that body ; or
+(b) if that body is not a body corporate, every person
+who at the time of the imposition of such
+requirements was the President, Manager, Secretary,
+partner or other similar officer of that body,
+shall be liable to pay such penalty, unless he proves that he
+had no knowledge of the failure to comply with the
+requirement or that he exercised all due diligence to ensure
+compliance therewith.
+(6) Without prejudice to the provisions of subsection (1),
+the Financial Intelligence Unit may issue a directive to any
+
+<!-- page 22 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+21
+Financial Institution that has without reasonable cause failed
+to comply in whole or in part with any obligations in Parts I,
+II or III of this Act requiring such Institution to implement a
+action plan specified in such directive to ensure compliance
+with its obligations under the said Parts.
+(7) Where an Institution fails to comply with a directive
+issued under subsection (6), the Financial Intelligence Unit
+may, upon application to the High Court of the Western
+Province, holden in Colombo and upon satisfying the Court
+that an Institution has failed without reasonable excuse to
+comply in whole or in part with the directive issued by it
+under subsection (6), obtain an order against the Institution
+and any or all of the officers or employees of that  Institution
+in such terms as the Court deems  necessary to enforce
+compliance with such obligation.
+20. (1) The provisions of this section shall be applicable
+in relation to any person who is, or who has been, a Director,
+officer, employee or agent of the Financial Intelligence Unit.
+(2)  Except for the purpose of the performance of his or her
+duties or the exercise of his or her functions under this Act, or
+when lawfully  required to do so by any court, the person
+referred to in subsection (1) shall not disclose any information
+or matter which has been obtained by him or her in the
+performance of his or her duties or the exercise of his or her
+functions under this Act or which he or she has knowledge
+except for one or  more of the following purposes :—-
+(a) for securing compliance with, or detecting evasion
+of, any requirement contained in any provision of
+this Act or any other written law relating thereto ;
+(b) the implementation of the Prevention of Money
+Laundering Act, No. 5 of 2006 and the Convention
+on the Suppression of Terrorist Financing Act, No.
+25  of   2005 ; or
+(c) the purposes of section 50
+A   of the Exchange
+Control Act (Chapter 423).
+Non-disclosure of
+information in
+certain case.
+
+<!-- page 23 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+22
+21. Any  employee of the Financial Intelligence Unit or
+any authorised officer, agent or person appointed by the
+Financial Intelligence Unit for the performance of its statutory
+functions shall not be liable for damages for any lawful act or
+omission which has occurred in the discharge  or purported
+discharge of any of its statutory functions under this Act
+unless it is shown that the act or  omission was  done in bad
+faith.
+PART IV
+F
+UNCTIONS  OF  SUPERVISORY  AUTHORITY  OF  AN  INSTITUTION  AND
+A UDITORS
+22. (1) Where a supervisory authority or an auditor of an
+Institution has reasonable grounds to suspect that information
+that it has concerning any transaction or attempted transaction
+may, be —
+(a) relevent to an investigation or prosecution of a
+person or persons for any unlawful activity ;
+(b) of assistance in the  enforcement of the provisions
+of the Prevention of Money Laundering Act, No. 5
+of 2006 and the Convention on the Suppression of
+Terrorist Financing Act, No.  25   of 2005 ;
+(c) related to the commission of any offence constituting
+an unlawful act ; or
+(d) preparatory to the offence of the financing of
+terrorism,
+the supervisory authority or the auditor of the Institution
+shall report the transaction or attempted transaction to the
+Financial Intelligence Unit.
+(2) The supervisory authority shall at the request of the
+Financial Intelligence Unit carry out any examination into
+any transaction or other matter relating to the Institution and
+report on such examination to the  Financial Intelligence
+Unit.
+Protection from
+liability.
+Functions of
+supervisory
+authority or
+auditor under this
+Act.
+
+<!-- page 24 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+23
+(3) The Financial Intelligence Unit shall consult the
+supervisory authority in respect of the issue of guidelines,
+directions or regulations to an Institution which is regulated
+by such supervisory authority and shall  furnish to the
+supervisory authority copies of all guidelines, regulation or
+directions issued to such Institution.
+23. The relevant supervisory authority of an Institution
+shall—
+(a) verify  through regular examinations whether that
+an Institution is complying with provisions of the
+Act  and shall report any non-compliance to the
+Financial Intelligence Unit ;
+(b) co-operate with law enforcement agencies and the
+Financial Intelligence Unit in any investigation,
+prosecution or proceedings relating to any offence
+constituting an unlawful activity.
+PART V
+C
+URRENCY  REPORTING  AT  THE  BORDER
+24. (1) Where a person —
+(a) is about to leave Sri Lanka or has arrived in Sri
+Lanka ; or
+(b) is about to board or leave, or has boarded or left, any
+ship or aircraft ,
+an authorised officer may, with such assistance as is reasonable
+and necessary, and with use of force as is necessary,
+(i) examine any article which a person has with him or
+her or in his or her luggage ; and
+(ii) if the officer has reasonable grounds to suspect that
+an offence under section 27 of this  Act may have
+been or is being committed, search the person ;
+Supervisory
+authority to ensure
+compliance by all
+Institutions.
+Currency
+reporting at
+border.
+
+<!-- page 25 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+24
+for the purpose of determining whether the person has in his
+or her possession, any cash or negotiable bearer instruments
+in respect of which a  report under subsection 5 is required.
+(2) A person shall not be searched except by a person of
+the same sex.
+(3) An authorised officer, and any person assisting such
+officer may stop, board and search any ship, aircraft or
+conveyance for the purposes of exercising the powers
+conferred by subsections (1) or (2) of this section.
+(4) Where an authorised officer has reasonable grounds to
+believe that cash or negotiable bearer instruments found in
+the course of an examination or search, conducted under
+subsections (1) or (2) above, may afford evidence as to the
+commission of an unlawful activity, the officer may seize the
+cash or negotiable bearer instruments, within twenty-four
+hours of such seizure.
+(5) An authorised officer who has seized cash and
+negotiable bearer instrument under subsection (4) shall report
+such seizure to the Unit.
+25. An authorised officer may seize and, in accordance
+with the provisions of this part detain, any cash or negotiable
+bearer instruments which is being imported into, or exported
+from Sri Lanka in any form or manner if he or she has
+reasonable grounds for suspecting that it is —
+(a) derived from the commission of any unlawful
+activity ; or
+(b) intended by any person for use in the commission
+of an unlawful activity ;
+(c) intended to be used for or in connection with an
+offence connected with the financing of terrorism
+in term of the Convention on the Suppresion of
+Terrorist Financing Act, No. 25 of 2005.
+Seizure or
+detention of cash
+&c,.
+
+<!-- page 26 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+25
+26. (1) Cash and negotiable bearer instruments seized
+under subsection (4) of section 24 or section 25 shall not be
+detained for more than five working days after seizure, unless
+the High Court for  the Western Province holden in Colombo,
+on application made to it, grants an Order of continued
+detention for a period not exceeding three months from the
+date of seizure, upon being satisfied that —
+(a) there are reasonable grounds to suspect that it was
+derived from the commission of any unlawful
+activity or is intended by any person for use in the
+commission of  an offence or in connection with an
+offence  connected with the financing of terrorism
+under the Convention on the Suppresion of Terrorist
+Financing Act, No. 25 of 2005 ; and
+(b) its continued detention is justified while its origin
+or derivation is further investigated.
+(2) The Court may subsequently Order, after hearing, with
+notice to parties it determines are relevant, the continued
+detention of the cash and negotiable bearer instruments if
+satisfied of the  matters mentioned in subsection (1) but the
+total period of detention shall not exceed two years from the
+date of the Order.
+(3) Subject to subsection (4), cash and negotiable bearer
+instruments detained under this section shall be released in
+whole or in part to the person from whom it was seized or to
+any person establishing a claim thereto-
+(a) by Order of a Court that its continued detention is
+no longer justified and upon application by or on
+behalf of that person ;
+(b) by an authorized officer, if satisfied that its
+continued detention is no longer jusitified.
+(4) No cash or negotiable bearer instruments detained
+under this section shall be released where it is relevant to an
+investigation, prosecution or proceeding under Prevention
+of Money Laundering Act, No. 5  of  2006 or the Convention
+on the Suppression of Terrorist Financing Act, No. 25 of 2005.
+Procedure on
+seizure of cash
+&c,.
+
+<!-- page 27 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+26
+(5) Where the cash or negotiable bearer instruments have
+not been claimed by any person within one year of it being
+seized or detained, an authorised officer may make an
+application to the Court that such cash or negotiable
+instrument or its equivalent in Sri Lanka rupees upon sale to
+the  Central Bank, as the case may be, be forfeited to the
+Consolidated Fund.
+PART VI
+O
+FFENCES  AND  LIABILITIES
+27. Any person who leaves or arrives in Sri Lanka with
+more than the prescribed sum in cash or negotiable bearer
+instruments on his or her person or in his or her luggage
+without first having reported the fact to the  relevant authority
+is guilty of an offence and shall be punishable on conviction
+with a fine not exceeding one hundred thousand rupees or
+imprisonment of either description for a term not exceeding
+one year, or to both such fine and imprisonment.
+28. (1) A person who in making a report under sections
+6, 7, 8 or subsection (1) of section 22 makes any statement
+that the person knows is false or misleading in a material
+particular or omits from any statement any matter or thing
+without which the person knows that the statement is false  or
+misleading in a material particular is guilty of an offence
+punishable on conviction to a fine not exceeding one hundred
+thousand rupees or imprisonment of either description for a
+term not exceeding one year, or to both such fine and
+imprisonment.
+(2) If a person contravenes subsection (1) of section 9 or
+subsection (1) of section 10 with intent to prejudice an
+investigation of an offence constituting an unlawful activity
+or an offence of money laundering or financing of terrorism
+or for the purpose of obtaining directly or indirectly  an
+advantage or a pecuniary gain for himself or herself or any
+other person, or for the purpose of causing any loss or
+Offences.
+Giving false
+information an
+offence.
+
+<!-- page 28 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+27
+disadvantage to any other person, the person is guilty of an
+offence punishable on conviction to a fine not exceeding
+five hundred thousand rupees or imprisonment of either
+description for a term not exceeding two years, or to both
+such fine and  imprisonment.
+(3) If a person wilfully obstructs or hinders or fails to co-
+operate with the Financial Intelligence Unit or any authorized
+person in the lawful exercise of the powers under subsection
+(1) of section 18 or any person who does not comply with
+subsection (2) of section 18 is guilty of an offence  and shall
+be punishable on conviction to a fine not exceeding five
+hundred  thousand rupees or imprisonment of either
+description for a term not exceeding two years, or to both
+such fine and imprisonment.
+(4) If a person forges, conceals or does any other act to
+affect the authenticity or integrity of any document or
+material knowing or having reason to believe that such
+document or material is relevent to an investigation into an
+offence under the Prevention of Money  Laundering  Act,
+No. 5 of 2006 or the Convention for the Suppression of
+Financing of Terrorism Act, No.  25 of 2005 is guilty of an
+offence punishable on conviction to a fine not exceeding
+one hundred thousand rupees or imprisonnment of either
+description for a term not exceeding one year, or to  both
+such fine and imprisonment.
+(5) If any person destroys or otherwise disposes of any
+document or material which such person knows or has reason
+to believe is relevent to an investigation under the Prevention
+of Money Laundering Act, No. 5 of 2006 or the Convention
+for the Suppression of Financing of Terrorism  Act, No. 25 of
+2005, is guilty of an offence punishable on conviction to a
+fine not exceeding one hundred thousand rupees or
+imprisonment of either  description for a term not exceeding
+one year, or to both such fine and imprisonment.
+(6)   A person who opens, operates or authorizes the opening
+or the operation of an account with an Institution in a fictitious
+or false name is guilty of an offence and shall be punishable
+on conviction to a fine not exceeding one hundred thousand
+rupees or imprisonment of either  description for a term not
+exceeding one year, or to both such fine and imprisonment.
+
+<!-- page 29 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+28
+PART VII
+M ISCELLANEOUS
+29. (1) The Minister may make regulations under this
+Act for  any matter authorized or required to be made under
+this Act, or for the purpose of carrying out or giving effect to
+the principles and provisions of this Act.
+(2) Without prejudice to the generality of the provisions
+of subsection (1) regulations may be made in respect of all or
+any of the following maters :—
+(a) the identification of appropriate risk management
+systems in keeping with the recommendations of
+the Financial Action Task Force ;
+(b) the manner in which ongoing monitoring of business
+relationships is to be carried out by Institutions ;
+and
+(c) specifying for the purpose of the application of the
+Financial Action Task Force recommendations
+relating to risk management-
+(i) the procedure to be followed and the
+guidelines that will be applicable in the
+categorization of customers for the purposes
+of risk management ;
+(ii)the manner in which senior management
+approval is to be obtained prior to establishing
+business relationships with  customers
+categorized as high risk customers ;
+(3) Every regulation made by the Minister shall be
+published in the Gazette and shall come into operation on
+the date of such publication or on such later date as may be
+specified in the regulation.
+Regulations.
+
+<!-- page 30 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+29
+(4) Every regulation made by the Minister shall as soon as
+convenient after its publication in the Gazette be brought
+before Parliament for its approval. Any regulation, which is
+not so approved, shall be deemed to be resinded as from the
+date of disapproval but without prejudice to anything
+previously done thereunder.
+(5) Notification of the date on which a regulation is deemed
+to be rescinded shall be published in the Gazette.
+30. (1) This Act shall apply only in relation to the
+transactions of all Institutions to which the provisions  of
+this Act applies, which have taken place after the coming
+into operation of this Act.
+(2) All persons to whom this Act applies shall be required
+to comply with the provisions of this Act, notwithstanding
+anything to the contrary contained in any other  written law
+for the time being in force.
+(3) The provisions of this Act shall prevail over any other
+law for the time being in force in relation to the matters set
+out herein.
+31. An Institution shall comply with the requirements
+of this Act notwithstanding any obligation as to secrecy or
+other restriction on the disclosure of information imposed by
+any written law or otherwise.
+32. In the event of any inconsistency between the Sinhala
+and Tamil texts of this Act, the Sinhala text shall prevail.
+33. In this Act, unless the context otherwise requires —
+“account” means any facility or arrangement by which an
+Institution does any of the following :—
+(a) accepts deposits of currency ;
+Application of Act.
+Institutions have
+duty to comply
+with the provisions
+of this Act.
+Sinhala text to
+prevail in case of
+inconsistency.
+Interpretation.
+
+<!-- page 31 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+30
+(b) allows withdrawals of currency ; or
+(c) pays cheques or payment orders drawn on the
+Institution, or collects cheques or payment
+orders on behalf of a person other than the
+Financial Institution,
+and includes any facility or arrangement for a safety
+deposit box of for any other form of safe deposit;
+“authorised officer” means —
+(a) a Police Officer above the rank of an Assistant
+Superintendent of Police or ;
+(b) a Customs Officer above the rank of
+Superintendent  of Customs ;
+“cash” means any coin or paper money that is designated
+as legal tender in the country of issue and includes
+bearer bonds, travellers’ cheques, postal notes and
+money orders ;
+“currency” means the currency of Sri Lanka or that of a
+foreign country that is designated as legal tender
+and which is customarily used and accepted as a
+medium of exchange in the country of issue ;
+“customer” in relation to a transaction or an account
+includes —
+(a) the person in whose name a transaction or
+account is arranged, opened or undertaken ;
+(b) a signatory to a transaction or account ;
+(c) any person to whom a transaction has been
+assigned or transferred ;
+(d) any person who is authorised to conduct a
+transaction ; or
+(e) such other person as may be prescribed.
+
+<!-- page 32 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+31
+“designated non-finance business” includes—
+(a) individual and collective portfolio
+management ;
+(b) investing, administering or managing funds
+or money on behalf of other persons ;
+(c) safekeeping and administration of cash or
+liquid securities of behalf of other persons ;
+(d) safe custody services ;
+(e) underwriting and placement of insurance, as
+well as insurance intermediation by agents
+and brokers ;
+(f) trustee administration or investment
+management or a superannuation scheme ;
+(g) casinos, gambling houses or conducting of a
+lottery, including a person who carries on
+such a business through the internet when
+their customers engage in financial
+transactions equal to or above the prescribed
+threshold ;
+(h) real estate agents, when they are involved in
+transactions for their clients in relation to the
+buying and selling of real estate ;
+(i) dealers in precious metals and dealers in
+precious and semi-precious stones, including
+but not limited to, metals and stones covered
+by the Gem and Jewellery Act, No.  50  of
+1993  when they engage in cash transactions
+with a customer, equal to or above the
+prescribed threshold ;
+
+<!-- page 33 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+32
+(j) lawyers, notaries, other independent legal
+professionals and accountants when they
+prepare for or carry out transactions for their
+clients in relation to any of the following
+activities :—
+(i) buying and selling of real estate ;
+(ii) managing of client money, securities or
+other assets ;
+(iii)management of bank, savings or
+securities accounts ;
+(iv) organization of contributions for the
+creation, operation or management of
+companies ; and
+(v) creation, operation or management of
+legal person or arrangements and the
+buying and selling of business entities ;
+(k) a trust or company service provider not
+otherwise convered by this definition, which
+as a business provides and one or more of the
+following services to third parties :—
+(i) formation or management of legal
+persons ;
+(ii) acting as or arranging for another person
+to act as, a director or secretary of a
+company, a partner or a partnership or a
+similar position in relation to other legal
+persons ;
+(iii) providing a registered office, business
+address or accommodation,
+correspondence or administrative
+address  for a company, a partnership or
+for any other legal person or
+arrangement ;
+
+<!-- page 34 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+33
+(iv) acting as or arranging for another person
+to act as, a trustee of an express trust ;
+(v) acting as or arranging for another person
+to act as, a nominee shareholder for
+another person ;
+(l) offshore units in accordance with the
+definitions provided for the same in other
+written laws ; and
+(m ) such other business as may be prescribed from
+time to time by the Minister taking into
+consideration the interests of the national
+economy.
+“document” means any record of information, and
+includes —
+(a) anything on which there is writing ;
+(b) anything on which there are marks, figures,
+symbols, or perforations having meaning for
+persons qualified to interpret them ;
+(c) anything from which sounds, images or
+writings can be produced, with or without the
+aid of anything else;
+(d) a map, plan, drawing, photograph or similar
+thing ; and
+(e) any of the above kept or maintained in
+electronic form.
+“finance business” includes any one of the following
+businesses or activities :—
+(a) banking business as defined in the Banking
+Act, No. 30 of 1988 ;
+
+<!-- page 35 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+34
+(b) finance business as defined in the Finance
+Companies Act, No. 78 of 1988 (irrespective
+of whether the person is licensed or registered
+under the Act) ;
+(c) lending, including consumer credit, mortgage
+credit, factoring (with or without recourse) and
+financing of commercial transactions ;
+(d) financial leasing other than transactions
+relating to consumer products ;
+(e) the transfer of money or value ;
+(f) money and currency changing services ;
+(g) issuing and managing means of payment (i.e.
+credit cards, travellers’ cheques, money orders
+and bankers’ drafts and electronic money) ;
+(h) issuing financial guarantees and
+commitments, including but not limited to
+consumer credit, factoring with or without
+recourse and financing of commercial
+transactions including forfeiting ;
+(i) trading for its own account or for the account
+of customers in money market instruments (i.e.
+cheques, bills, certificates of deposit and
+derivatives), foreign exchange, exchange,
+interest rate and index instruments,
+commodity futures trading and transferable
+securities ;
+(j) participating in securities issues and the
+provision of financial services related to such
+issues ; and
+(k) such other business as may be prescribed from
+time to time by the Minister taking into
+consideration the interests of the national
+economy.
+
+<!-- page 36 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+35
+“Financial Intelligence Unit” means the government
+department, public corporation, statutory body,
+institution, or authority, or any department or unit
+of such department, corporation, body, institution
+or authority designated by the Minister by Order
+published in the Gazette, which shall be charged
+with the administration of the provisions of  this
+Act ; the Minister shall in making the Order take
+into consideration the capacity of the Government
+department, public corporation, statutory body, or
+authority to be designated in relation to its functions
+and manpower and its overall ability to act
+efficiently in the discharge of the functions under
+this Act ;
+“Institution” means any person or body of persons
+engaged in or carrying out any finance business or
+designated non-finance business within the meaning
+of this Act ;
+“money transmission services” means a person (other than
+a bank licensed by the Central Bank) carrying on
+the business of—
+(a) exchanging cash or the value of money ;
+(b) collecting, holding, exchanging or remitting
+funds or the value of money, or otherwise
+negotiating transfers of funds or the value of
+money, on behalf of other persons ;
+(c) delivering funds ; or
+(d) issuing, selling or redeeming traveller’s
+cheques, money orders of similar instruments;
+“negotiable bearer instrument” means a document
+representing ownership of debts or obligations,
+including bills of exchange, promissory notes or
+certificates of deposit, whether made payable to the
+bearer or not ;
+
+<!-- page 37 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+36
+“Offshore Unit” means a unit or department of a licensed
+commercial bank or a licensed specialized bank
+carrying on banking business, subject to the
+provisions of Part IV of the Banking Act, No. 30 of
+1988, dealing with Offshore Banking ;
+“person” means any natural of legal person including a
+body of persons, whether it has legal personality or
+not and includes a branch of such person or body of
+persons incorporated or established outside
+Sri Lanka ;
+“prescribed” means prescribed by regulations made under
+this Act ;
+“money laundering offence” means an offence as defined
+in section 4 of the Prevention of Money Laundering
+Act, No. 5 of 2006 ;
+“offence of financing of terrorism” means an act
+constituting an offence in terms of the Convention
+on the Suppression of Terrorist Financing Act,
+No. 25 of 2005 ;
+“property” means any currency, and includes any asset of
+any kind, whether corporeal or incorporeal, movable
+or immovable, tangible or intangible whether
+situated in Sri Lanka or elsewhere, and legal
+documents or, instruments in any form whatsoever
+including electronic or digital form, evidencing title
+to, or interest in, such assets, including but not
+limited to bank credits, travellers' cheques, bank
+cheques, money orders, shares, securities, bonds,
+drafts, letters of credit and includes any legal or
+equitable interest in any such property ;
+“record” means any material on which data is recorded or
+marked and which is capable of being read or
+understood by a person, computer system or other
+device ;
+
+<!-- page 38 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+37
+“suspicious transaction report” means a report required to
+be made under section 6 ;
+“specified entity” means —
+(a) an entity that has knowingly —
+(i) committed ;
+(ii) attempted to commit ;
+(iii) participated in committing ; or
+(iv) facilitated the commission of,
+any act connected with an act constituting an
+offence in terms of any written law for the time
+being in force in Sri Lanka relating to terrorism ;
+or
+(b) an entity prescribed by the Minister of
+Foreign Affairs in terms of regulations made
+under the United Nations Act, No. 45  of 1968 ;
+“terrorist act” means an act constituting an offence in terms
+of any written law for the time being in force in Sri
+Lanka relating to terrorism ;
+“terrorist property” means :
+(a) proceeds from the commission of a terrorist
+act ;
+(b) property which has been, is being, or is likely
+to be used to commit a terrorist act ;
+(c) property which has been, is being, or is likely
+to be used by a terrorist group ;
+(d) property owned or contrrolled by or on behalf
+of a terrorist group ; or
+
+<!-- page 39 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+38
+(e) property which has been collected for the
+purpose of providing support to a terrorist
+group for funding a terrorist act ;
+“transaction” means any activity connected with finance
+business or designated non-finance business ;
+“transaction” in relation to property includes—
+(a) a purchase, sale, loan, charge, mortgage, lien,
+pledge, transfer, delivery, assignment,
+subrogation, transmission, gift, donation,
+creation of a trust, settlement, deposit
+including the deposit of any article,
+withdrawal, transfer berween assets, extension
+of credit ;
+(b) any agency or grant of power of attorney ;
+(c) any other disposition or dealing of property
+in whatever form, or whatsoever description
+or nature, howsoever described, which results
+in any right, title, interest or privilege, whether
+present or future, or whether vested or
+contingent, in the whole or any part of such
+property being conferred on any person ; and
+“unlawful activity” means any act which constitutes an
+offence under :—
+(a) the Poisons, Opium and Dangerous Drugs
+Ordinance  (Chapter 218) ;
+(b) any law or regulation for the time being in
+force relating to the prevention and
+suppression of terrorism ;
+(c) the Bribery Act (Chapter 26) ;
+(d) the Firearms Ordinance (Chapter 182), the
+Explosives Ordinance (Chapter 183) or the
+Offensive Weapons Act, No. 18 of 1966.
+
+<!-- page 40 -->
+
+Financial Transactions Reporting
+Act, No. 6 of 2006
+39
+(e) The Exchange Control Act (Chapter 423) ;
+(f) an offence under section 83 C  of the Banking
+Act, No. 30 of 1988 ;
+(g) any law for the time being in force relating to
+transnational organised crime ;
+(h) any law for the time being in force relating to
+cyber crime ;
+(i) any law for the time being in force relating to
+offences against children ;
+(j) any law for the time being in force relating to
+offences connected with the trafficking of
+persons ; and
+(k) an offence under any other law for the time
+being in force which is punishable by death
+or with imprisonment for a term of seven years
+or more.
+
+<!-- page 41 -->
+
+Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180
+(Foreign), Payable to the SUPERINTENDENT , GOVERNMENT   PUBLICATIONS  B UREAU , NO . 32,
+TRANSWORKS  HOUSE ,  LOTUS   ROAD ,  COLOMBO  01  before  15th  December  each  year  in  respect
+of the year following.
