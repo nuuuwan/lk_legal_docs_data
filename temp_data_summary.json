@@ -1,6 +1,7 @@
 {
   "n_docs": 339,
   "n_docs_with_pdfs": 339,
+  "n_docs_with_pdfs_fail": 17,
   "n_pdfs": 655,
-  "total_file_size": 207486372
+  "total_file_size": 206015948
 }
