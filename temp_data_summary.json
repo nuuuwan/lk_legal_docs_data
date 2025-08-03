@@ -1,6 +1,7 @@
 {
   "n_docs": 404,
   "n_docs_with_pdfs": 404,
+  "n_docs_with_pdfs_fail": 13,
   "n_pdfs": 603,
-  "total_file_size": 258071592
+  "total_file_size": 256601857
 }
