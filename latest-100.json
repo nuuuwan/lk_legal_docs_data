@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2447-81",
+    "date": "2025-08-02",
+    "description": "Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of member of the Horana Urban Council"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2447-61",
     "date": "2025-08-01",
     "description": "Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha"
@@ -169,6 +175,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2446-49",
+    "date": "2025-07-24",
+    "description": "Land Aquisition - Chattaragoda, Kurunegala D/S Division, Kurunegala District,  Sec 38 (a)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2446-45",
     "date": "2025-07-24",
     "description": "Land Aquisition - Maththaka, Niyagama D/S Division, Galle District, Land Aquisition - Serakkuliya, Wanathawilluwa D/S Division, Puttalam District Sec 07"
@@ -238,6 +250,12 @@
     "id": "2446-32",
     "date": "2025-07-21",
     "description": "Ministry of Labour - Industrial Dispute between P. S. Attanayake and Lanka Sugar Company (Pvt) Limited. - Industrial Dispute between 05 Officers Inclusive L. D. P. Dilrupshi and Sri Lanka Transport Board.- Industrial Dispute between P. D. E. Perera and National Housing Development Authority"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-30",
+    "date": "2025-07-21",
+    "description": "Ministry of Labour - Industrial Dispute between Swadeena Motor Ratha Sewaka Samithiya and Sri Lanka Transport Broad. - Industrial Dispute between M. M. Yusuf and Hayleys Fentons Limited"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -403,6 +421,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-31",
+    "date": "2025-07-15",
+    "description": "Land Title Settlement Dept. - Gangodavila, Sri Jayawardhanapura Kotta D/S Division, Colombo District. (7829)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-08",
     "date": "2025-07-14",
     "description": "Land  Aquisition - Wathukana, Bamunnakaotuwa D/S Division, Kurunegala District. - Baddegama, Baddegama D/S Division, Galle District."
@@ -448,6 +472,12 @@
     "id": "2445-01",
     "date": "2025-07-14",
     "description": "Sri Lanka Customs - Rates of Exchange with effect from 14.07.2025 to 20.07.2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2444-65",
+    "date": "2025-07-12",
+    "description": "Land Title Settlement Dept. -Aluthnuwara, Imbulpe D/S Division, Ratnapura District. (25/0238)"
   },
   {
     "doc_type_name": "bills",
@@ -568,35 +598,5 @@
     "id": "2444-23",
     "date": "2025-07-09",
     "description": "2444/23"
-  },
-  {
-    "doc_type_name": "bills",
-    "id": "619-2025",
-    "date": "2025-07-08",
-    "description": "National Audit (Amendment) - Bill"
-  },
-  {
-    "doc_type_name": "bills",
-    "id": "618-2025",
-    "date": "2025-07-08",
-    "description": "Penal Code (Amendment) - GS"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-21",
-    "date": "2025-07-08",
-    "description": "Ministry of Education, Higher Education and Vocational Education - Service Minute of the Sri Lanka Teachers' Service 3rd Amendment"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-20",
-    "date": "2025-07-08",
-    "description": "2444/20"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-19",
-    "date": "2025-07-08",
-    "description": "Land Acquisition - Mirissa South 1, Weligama D/S Division Matara District."
   }
 ]
