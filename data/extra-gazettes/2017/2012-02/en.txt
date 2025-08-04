@@ -1,0 +1,281 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+1A
+w;s úfYI
+wxl 2012$2 - 2017 ud¾;= ui 27 jeks i÷od - 2017'03'27
+No. 2012/2 - MONDAY,  MARCH  27, 2017
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government  Notifications
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+This Gazette Extraordinary  can be downloaded from  www.documents.gov.lk
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+1A   PG   3468— 137  (03/2017)
+V ALUE   ADDED   TAX   ACT,   No.  14   OF  2002
+BY virtue of the powers vested in me under sub-section (14) of section 22 of the Value Added Tax Act, No. 14 of 2002 as
+last amended by the Value Added Tax (Amendment) Act, No 20 of 2016, I, Kalyani Dahanayake, Commissioner General of
+Inland Revenue do by this Notification, specify the records to be maintained  and procedure to be adopted by persons
+registered for Value Added Tax on wholesale and retail trade effective from May 02, 2016,for the purpose of claiming  of
+deemed input tax credit on purchases made from non V AT registered persons and on opening V AT liable  stock, as set out
+in the Schedule hereto.
+K
+ALYANI D AHANAYAKE,
+Commissioner General of Inland Revenue.
+Colombo 02,
+23rd March, 2017.
+Schedule
+1. Deemed input tax on stock
+(i) Any person or partnership who is registered for Value Added Tax (V AT) as a wholesaler or retailer, is
+allowed to claim a deemed input tax on stock of liable goods as at the date of registration, if such registration
+is obtained during the period from 02.05.2016 to 31.12.2016 subject to the conditions specified below.
+(ii) Deemed input V AT on V AT liable stock should be calculated based on actual transaction or on the weighted
+average days and appropriate tax fraction of 11 /111 or 15/115 applicable to each period as per the format
+given below.
+          
+ 
+
+<!-- page 2 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+2A
+31.03.2016 11/111 _ _ B  x xxxx
+01.04.2016
+–
+01.05.2016 11/111 31     (A – B)     x     31/Y P   x xxxx
+02.05.2016
+–
+11.07.2016 15/115 71     (A – B)     x     71/Y Q   x xxxx
+12.07.2016
+–
+31.10.2016 11/111 112     (A – B)     x     1 12/Y R   x xxxx
+01.11.2016
+– Date of
+Registration 15/115 X     (A – B)     x     X/Y S   x xxxx
+Total Y  A   x xxxx
+VAT Liable Stock attributable to the Period
+Period
+Applicable
+VAT
+Fraction
+(F )
+No. of
+Days Difference of Weightage of
+the Stock values the days
+X
+Deemed
+Input VAT
+on VAT
+liable Stocks
+( V )
+=  F  x  S
+Value of
+VAT
+liable
+Stock
+( S )
+Calculation
+* A –V AT liable Stock as at the date of registration for V AT
+* B –V AT liable Stock as per the Balance Sheet as at 31.03.2016
+* V AT liable Stock Difference between  the registered date and the balance sheet date as at 31.03.2016  is (A -
+B) = P + Q + R + S
+* V AT liable Stock differences is distributed over the period based on the weighted average days.
+* Deemed Input V AT on V AT liable stock is calculated based on both weighted average days and tax fraction
+applicable to each period.
+(iii) The records on the V AT liable Stock, Non V AT liable stocks and deemed input tax on V AT liable stock
+should be maintained in a schedule as schedule for opening stock as at the date of registration (Annexure
+II) [Schedule for opening stock as at date of registration],If the registered date falls between 02. 05. 2016
+and 01. 11.2016,  the opening stock should be , the stock  as at 01.11.2016. In this regard , you are
+required to calculate the stock as explained below.
+
+<!-- page 3 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+3A
+Stock as at the date of registration  xxxxxx
+add
+V AT liable purchases made from non V AT  registered persons
+after the date of registration   xxxxx
+xxxxx
+less
+ Items sold from the above stock from the date of registration
+up to  01.11.2016
+(xxx)
+xxxx
+(Appropriate rate should be applied as per the table given in item (ii) of paragraph 1)
+(iv) This schedule should be submitted only once to the IRD for which Deemed Input V AT on V AT
+liable stock is claimed at first time. It is required to use the Schedule
+ / Document Submission
+User Interface (UI) of the e-Service and  login as authorized person to upload the schedule.
+2. Deemed Input V AT on purchases from Non Registered persons
+(i) Any person or partnership who is registered for Value Added Tax (V AT) as a wholesaler or retailer on or
+after May 02, 2016, is allowed to claim a deemed input tax on purchases of the goods liable for V AT at the
+time of purchase from non-registered persons subject to the conditions specified below.
+(ii) Such person or partnership is required to collect the following documents from such suppliers and keep
+ready to produce to Inland Revenue Department when required.
+(a) Copy of Business Registration Certificate
+(b) Copy of National Identity Card  (Proprietor or Precedent  Partner)
+(c) Commercial invoice
+(iii) Deemed input tax should be calculated using the tax fraction of the prevailing V AT rate applicable at the
+time of supply on purchase cost of such liable goods.
+(iv) Records on deemed input tax and other relevant information should be maintained on monthly basis as a
+schedule with regard to goods purchased from non registered persons (Annexure III)  [Schedule for
+Deemed input on goods purchased from non-registered persons] In furnishing the V A T return to the
+Commissioner General, it is required to be submitted only schedule 05(Annexure I)[Schedule for Deemed
+input on goods purchased from non-registered persons] which is prepared based on the same information
+(Annexure III).
+3. Claiming of Deemed Input V AT credit
+The Deemed Input V AT credit relating to the V AT liable opening stock, and deemed input credit on cost of
+purchase on items which are not mentioned in PART II of the First Schedule is claimable subject to the following
+restrictions.
+
+<!-- page 4 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+4A
+(a) The above credit is available for any person described under clause No. 01 and 02 of this schedule and
+such persons are required to enter their value of supply on wholesale and retail in cage B, and respective
+tax should be entered in cage 2 of the V AT return.
+(b) Such persons are required to submit schedule 1 on supplies made on tax invoices and inclusive invoices
+(output schedule) with regard to supplies disclosed in cage B.
+(c) Such persons are required to maintain schedules specified in this gazette notification.
+(d) The value of liable goods and not liable goods purchased from non V AT registered persons mentioned in
+schedule 05 should be entered in cage J4.
+(e) The claimable amount should be entered in cage R3 of the V AT return and such value should be obtained in
+the following manner.
+(I) Deemed Input V AT credit on opening stock
+(i) Deemed Input V AT on liable stock computed in schedule 05A is to be entered in cage R3A of
+the V AT return in which deemed input V AT is claimed for the first time. If the registered date
+falls between 02. 05. 2016 and 01. 11.2016, the opening stock should be, the stock as at
+01.11.2016 as explained in item (iii) of paragraph 1 above.
+(ii) During the taxable period, claimable deemed input credit subject to the restriction mentioned
+in paragraph 4 below is to be entered in cage R3B.
+(iii) If deemed input on opening stock which cannot be claimed during that  taxable period, it
+should be entered in cage R3C as carried forward deemed  input credit, and this value become
+the opening balance of the immediately succeeding taxable period, and it should  be entered in
+cage R3A of the V AT return of the subsequent taxable period.
+(iv) Input V AT which is to be disallowed as per the provision of the V AT Act in respect of items in
+the opening stock should not be taken into account when claiming the deemed input credit on
+opening stock.
+(II) Deemed Input V AT credit on purchases made during the taxable period from Non V AT
+Registered Persons
+(i) Deemed Input V AT on purchases made during the taxable period from Non V AT registered
+persons and chargeable to V AT and computed in schedule 05 is to be entered in cage R3E of
+the V AT return. If there is any disallowable input V AT as mentioned in below item (v), the value
+in R3E should be the net of deemed input V AT and disallowable deemed input V AT.
+(ii) If the registered date falls between 02. 05. 2016 and 01. 11.2016,  the V AT liable purchases
+made from non V AT registered persons should be aggregated with the opening stock as at date
+of registration and deduct the value of items sold thereafter from such stock as explained in
+item (iii) of paragraph 1 above.
+(iii) During the taxable period, claimable deemed input credit subject to the restriction mentioned
+in paragraph 4 below is to be entered in cage R3F.
+
+<!-- page 5 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+5A
+(iv) If deemed input credit available in the taxable period cannot be claimed during that taxable
+period, it should be entered in cage R3G as carried forward deemed input credit, and this
+value become the opening balance of the immediately succeeding taxable period and it should
+be entered in cage R3D of the V AT return of the subsequent taxable period.
+(v) Input V AT which is to be disallowed as per the provision of the V AT Act in respect of items
+which have been purchased during the taxable period should be disclosed in schedule 05.
+4. Restrictions with regard to the claiming of Deemed Input V AT credit
+(i) The deemed input credit in cage R3 is to be equal to  the deemed input credit in cage R3B plus R3F
+subject to the condition mentioned in item (ii) below,
+(ii) The total claimable deemed Input credit in cage R3 (R3B +R3F) on the wholesale and retail business
+should be restricted to the lesser of ,
+- output tax declared in cage 2 , or
+-  net V AT  payable minus  credits claimed in cage R, R1 and R2   (16 – R –R1 - R2), or
+- output tax declared in cage 2  minus input tax claimed on tax invoice in relation such wholesale and
+retail business  (cage 2 - cage 7)
+Note:
+(a) Maximum retail price cannot be increased on sale of the goods on which the credit of Deemed Input V AT
+is claimed.
+(b) Adjustments should be made to the purchases account and V AT control account by the amount of Deemed
+Input V A T claimed
+(c) A statement reconciling the input V A T and purchase cost adjusted to the trading account should be submitted
+along with the Income Tax Return.
+
+<!-- page 6 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+6A
+ ANNEXURE I
+Schedule 05    -  Deemed Input V AT on Goods Purchased From Non-Registered Persons
+(Schedule 05 should be used when submitting returns to the Commissioner General)
+Serial Invoice Invoice NIC No. of BRC No. / PSV Income Tax Name of Cost of Purchases Cost of Purchases   Deemed Disallowed
+No. Date No. the Supplier No. of the file No., the Supplier  made during the made during the Input Deemed
+Supplier If any taxable period,  taxable period , VAT = A Input
+V AT liable(A) (Rs.) V AT non-liable  x [Tax Rate/  VAT
+(B) (Rs.)  (1 + Tax Rate) Amount
+1           
+2           
+3  
+        
+ANNEXURE II
+Schedule for Deemed Input V AT on Opening Stock as at the Date of Registration
+Serial No. Invoice Date Invoice No. Description of  Cost of Purchases  of units Cost of Purchases  of Deemed Input
+the goods unsold at the date of registration , units unsold at the V AT = A x [Tax
+V AT liable(A) [A of the format date of registration, Rate / (1 + Tax Rate)]
+given in above paragraph V AT non-liable (B) ) (Rs.)
+(1)(ii)]  (Rs.)
+1       
+2       
+3
+
+<!-- page 7 -->
+
+I fldgi ( ^ I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'03'27
+PART I : SEC. (I) - GAZETTE   EXTRAORDINARY   OF   THE   DEMOCRATIC   SOCIALIST   REPUBLIC   OF   SRI  LANKA 27.03.2017
+7A
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING , SRI LANKA.
+04-219
+ ANNEXURE III
+Schedule for Deemed Input V AT on Purchases Made  During  the Taxable  Period
+Serial Invoice Invoice NIC No. of BRC No. / PSV Income Tax Name of Description Unit Quantity Cost of Purchases Cost of Purchases Deemed Disallowed
+No. Date No. the Supplier No. of the file No., the Supplier of the goods Price made during the made during the Input Deemed
+Supplier If any taxable period,  taxable period , VAT = Ax Input
+V AT liable(A) (Rs.) V AT non-liable  [Tax Rate/  V AT
+(B) (Rs.)  (1 + Tax Rate)
+1           
+2           
+3
+4
+5
+6
+ 
