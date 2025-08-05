@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2448-17",
+    "date": "2025-08-05",
+    "description": "Elections Commission - Notice under Section 66 A(1) (a) Filling of a vacancy in the Office of  Member of the Manmunai Pattu Pradeshiya Sabha."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2448-01",
     "date": "2025-08-04",
     "description": "Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025"
@@ -592,11 +598,5 @@
     "id": "2444-26",
     "date": "2025-07-09",
     "description": "2444/26"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-25",
-    "date": "2025-07-09",
-    "description": "2444/25"
   }
 ]
