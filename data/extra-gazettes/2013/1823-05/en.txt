@@ -1,0 +1,534 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+1A
+w;s úfYI
+wxl 1823$5 - 2013 wf.daia;= ui 12 jeks i÷od - 2013'08'12
+No. 1823/5  -  MONDAY ,   AUGUST  12,  2013
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government  Notifications
+1A
+INLAND  REVENUE  ACT,  No.  10  OF  2006
+REGULATIONS  made by the Minister of Finance under Section 212 read with Sub-sections (3), (3A) and (4) of Section 104
+and Sub-sections (3) and (4) of Section 104A of the Inland Revenue Act, No. 10 of 2006.
+These Regulations operate effective from Arpil 1, 2013 and  rescind the Regulations published in the Gazette
+Extraordinary No. 1546/10 of April 22, 2008, effective from the same date.
+MAHINDA RAJAPAKSA,
+Minister of Finance and Planning.
+12th  August, 2013,
+Ministry of Finance and Planning,
+Colombo 01.
+Regulations
+ These regulations as specified in Part I and Part II may be cited as "Transfer Pricing Regulations."
+Part I
+Transfer Pricing Regulations on International Transactions.
+1. Arm's Length Price.— The arm's length price, referred to in Section 104(3) of the Inland Revenue Act No. 10 of
+2006, for the purpose of ascertaining profits and income arising, derived or accruing from or loss incurred in any transaction
+entered into between two associated undertakings shall be determined by any of the following methods, being  the most
+appropriate method :-
+(a) comparable uncontrolled price method
+under this method,
+(i) the price charged or paid for property transferred or services provided in a comparable uncontrolled
+transaction, or a number of such transactions, is identified ;
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk.
+4 - PG 1727
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+2A
+(ii) such price is adjusted to account for differences, if any between the transaction and the comparable
+uncontrolled transactions or between the undertakings, entering into such transactions, which could
+materially affect the price in the open market ;
+(iii) the adjusted price so arrived at is taken to be an arm's length price in respect of the property transferred
+or services provided in the transaction ;
+(b) resale price method
+under this method
+(i) the price at which property purchased or services obtained by the undertaking from an associated
+undertaking is resold or are provided to an unrelated enterprise, is identified ;
+(ii) such resale price is reduced by the amount of a normal gross profit margin accruing to the enterprice
+or to an unrelated enterprise from the purchase and resale of the same or similar property or from
+obtaining and providing the same or similar services, in a comparable uncontrolled transaction, or a
+number of such transactions ;
+(iii) the price so arrived at is further reduced by the expenses incurred by the undertaking in connection
+with the purchase of property or obtaining of services ;
+(iv) the price so arrived at is adjusted to take into account the functional and other differences, including
+differences in accounting practices, if any, between the transaction and the comparable uncontrolled
+transactions, or between the enterprices entering  into such transactions, which could materially
+affect the amount of gross profit margin in the open market ;
+(v) the adjusted price arrived at under sub-paragraph (iv)  of this paragraph is taken to be an arm's length
+price in respect of   the purchase of the property or obtaining of the services by the undertaking from
+the associated undertaking ;
+(c) cost plus method
+under this method
+(i) the direct and indirect costs of production incurred by the undertaking  in respect of property transferred
+or services provided to an associated undertaking, are determined ;
+(ii) the amount of a normal gross profit mark-up to such costs (computed according to the same accounting
+norms) arising from the transfer or provision of the same or similar property or services by the
+undertaking, or by an unrelated enterprise, in a comparable uncontrolled transaction, or a number of
+such transactions, is determined ;
+(iii) the normal gross profit mark-up referred to in sub-paragraph (ii) of this paragraph is adjusted to take
+into account the functional and other differences, if any, between the transaction and the comparable
+uncontrolled transactions, or between the undertakings entering into such transactions, which could
+materially affect such profit mark-up in the open market ;
+(iv) the costs referred to in sub-paragraph (i) of this paragraph are increased by the adjusted profit
+make-up arrived at under sub-paragraph  (iii) of this paragraph ;
+(v) the sum so arrived at is taken to be an arm's length price in relation to the supply of the property or
+provision of services by the undertaking ;
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+3A
+(d) Profit split method
+This method may be applicable mainly to international transactions involving transfer of unique intangibles
+or in multiple international transactions which are so interrelated that they cannot be evaluated separately
+for the purpose of determing the arm's length price of any one transaction, by which -
+(i) the combined net profit of the associated undertaking arising from the international transaction in
+which they are engaged, is determined ;
+(ii) the relative contribution made by each of the associated undertaking to the earning of such combined
+net profit, is then evaluated on the basis of the functions performed, assets employed or to be
+employed and risks assumed by each undertaking and on the basis of reliable external market data
+which indicates how such contribution would be evaluated by unrelated enterprise performing
+comparable functions in similar circumstances ;
+(iii) the combined net profit is then split amongst the undertakings in proportion to their relative
+contributions, as evaluated under sub paragraph (ii) of this paragraph ;
+(iv) the profit thus apportioned to the assessee is taken into account to arrive at an arm's length price in
+relation to the transaction :
+Provided that the combined net profit referred to in sub-paragraph (i)  of this paragraph may, in the
+first instance, be partially allocated to each undertaking so as to provide it with a basic return  appropriate
+for the type of transaction in which it is engaged, with reference to market returns achieved for similar
+types of transactions by independent enterprises, and thereafter, the residual net profit remaining
+after such allocation may be split amongst the undertakings in proportion to their relative contribution
+in the manner specified under sub-paragraph (ii) and (iii), of this paragraph, and in such a case the
+aggregate of the net profit allocated to the undertaking in the first instance together with the residual
+net profit apportioned to that undertaking  on the basis of its relative contribution shall be taken to be
+the net profit arising  to that undertaking from the transaction ;
+(e) transactional net margin method —
+under this method,
+(i) the net profit margin realized by the undertaking from a transaction entered into with an associated
+undertaking is computed  in relation to costs incurred or sales effected or assets employed or to be
+employed by the undertaking or having regard to any other relevant base ;
+(ii) the net profit margin realized by the undertaking or by an unrelated enterprise from a comparable
+uncontrolled transaction or a number of such transactions is computed having regard to the same
+basis ;
+(iii) the net profit margin referred to in sub-paragraph (ii) of this paragraph arising in comparable uncontrolled
+transactions is adjusted to take into account the differences, if any, between the transaction and the
+comparable uncontrolled transactions, or between the undertakings entering into such transactions,
+which could materially affect the amount of net profit margin in the open market ;
+(iv) the net profit margin realized by the undertaking and referred to in sub-paragraph (i) of this paragraph
+is established to be the same as the net profit margin referred to in sub-paragraph (iii) of this
+paragraph ;
+(v) the net profit margin thus established is then taken into account to arrive at an arm's length price in
+relation to the transaction.
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+4A
+Provided that where more than one price is determined as the most appropriate method, the arm's length
+price shall be taken to be the arithmetical means of such prices.
+Provided further that if the variation between the arm's length price so determined and price at which the
+transaction has actually been undertaken does not exceed three percent of the latter, the price at which the
+transaction has actually been undertaken shall be deemed to be the arm's length price.
+2. For the purposes of Regulation 1, the comparability of a transaction with an uncontrolled transaction shall be
+judged with reference to the following :-
+(a) the specific characteristics of the property transferred or services provided in either transaction ;
+(b) the functions performed, taking into account assets employed or to be employed and the risks assumed, by
+the respective parties to the transaction ;
+(c) the contractual terms (whether or not such terms are formal or in writing) of the transactions which lay down
+explicitly or implicitly how the responsibilities, risks and benefits are to be divided between the respective
+parties to the transactions ;
+(d) conditions prevailing in the markets in which the respective parties to the transactions operate, including
+the geographical location and size of the markets, the laws and Government orders in force, costs of labour
+and capital in the markets, overall economic development and level of competition and whether the markets
+are wholesale or retail.
+3. An uncontrolled transaction shall be comparable to a transaction, if
+(i) none of the differences, if any, between the transactions being compared, or between the undertaking
+entering into such transactions are likely to materially affect the price or cost charged or paid in, or the profit
+arising from, such transactions in the open market ; or
+(ii) reasonably accurate adjustments can be made to eliminate the material effects of such differences.
+The data to be used in analyzing the comparability of an uncontrolled transaction with a transaction shall be the
+data relating to the year of assessment in which the transaction has been entered into ;
+Provided that data relating to a period not being more than two years prior to such year assessment may also be
+considered if such data reveals facts which could have an influence on the determination of transfer prices in
+relation to the transactions being compared.
+4. Most appropriate method :
+(a) For the purposes of Regulation 1, the most appropriate method shall be the method which is best suited to
+the facts and circumstances of each particular transaction, and which provides the most reliable measure of
+an arm’s length price in relation to the transaction.
+(b) In selecting the most appropriate method, the following factors shall be taken into account, namely :-
+(i) the nature and class of the transaction ;
+(ii) the class or classes of associated undertakings entering into the transaction and the functions
+performed by them taking into account the assets employed or to be employed and risks assumed by
+such undertakings ;
+(iii) the availability, coverage and reliability of data necessary for application of the method ;
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+5A
+(iv) the degree of comparability existing between the  transaction and the uncontrolled transaction and
+between the undertakings entering into such transactions ;
+(v) the extent to which reliable and accurate adjustments can be made to account for differences, if any,
+between the transaction and the comparable uncontrolled transaction or between the enterprises
+entering into such transactions ;
+(vi) the nature, extent and reliability of assumptions required to be made in application of a method.
+5. ( a) Every Associated undertaking who entered into an international transaction shall keep and maintain in Sri
+Lanka (in English) the following information and documents :-
+(i) a description of the ownership structure of the assessee undertaking with details of shares or other
+ownership interest held therein by other  undertaking ;
+(ii) a profile of the multinational or group of which the assessee undertaking is a part along with the name,
+address, legal status and country of tax  residence of which of the undertakings comprised in the
+multinational or group with whom transactions have been entered into by the assessee, and ownership
+linkages among them ;
+(iii) a broad description of the business of the assessee and the  industry in which the assessee operates,
+and of the business of the associated undertakings with whom the assessee has transacted ;
+(iv) the nature and terms (including prices) of international or group transactions entered into with each
+associated undertaking, details of property transferred or services provided and the quantum and the
+value of each such transaction or class of such transaction ;
+(v) a description of the functions performed, risks assumed and assets employed or to be employed by the
+assessee and  by the associated undertaking involved in the transaction ;
+(vi ) a record  of the economic and market analyses, forecasts, budgets or any other financial estimates
+prepared by the assessee for the business as a whole and for each division or product separately,
+which may have a bearing  on the transactions entered into by the assessee :
+(vii) a record of uncontrolled transactions taken into account for analyzing their comparability with the
+transactions entered into, including a record of the nature, terms and conditions relating to any
+uncontrolled transaction with third parties which may be of relevance to the pricing of the
+transactions ;
+(viii) a record of the analysis performed to evaluate comparability of uncontrolled transactions with the
+relevant transaction ;
+(ix) a description of the methods considered for determining the arm’s length price in relation to each
+transaction or class of transaction, the method selected as the most appropriate method along with
+explanations as to why such method was so selected, and how such method was applied in each
+case ;
+(x) a record of the actual working carried out  for  the determining the arm’s length price, including details
+of the comparable data and financial information used in applying the most appropriate method, and
+adjustments, if any, which were made to account for differences between the transaction and the
+comparable uncontrolled transactions, or between the undertakings entering into such transactions ;
+(xi) the assumptions, policies and price negotiations, if any, which have critically affected the determination
+of the arm’s length price ;
+5 - PG 1727
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+6A
+(xii) details of the adjustments, if any, made to transfer prices to align them with arm’s length prices
+determined under these regulations and consequent adjustment made to the total income for tax
+purposes ;
+(xiii) any other information, data or document, including information or data relating to the associated
+undertaking, which may be relevant for determination of the arm’s length price.
+(b) Nothing contained in the above paragraph (a) shall apply in case where the aggregate value, for any year of
+assessment as recorded in the books of account, of transactions entered into with other associated
+undertaking by the assessee does not exceed LKR 100 million.
+Provided that the assessee shall be required to substantiate, on the basis of material available with him, that
+income arising from transactions entered into by him has been computed in accordance with Section 104(3)
+of the aforesaid Inland Revenue Act.
+(c) The information specified shall be supported by authentic documents, which may include the following ;
+(i) official publications, reports, studies and data bases from the Government of the country of residence
+of the associated undertaking, or of any other country ;
+(ii) reports of market research studies carried out and technical publications brought out by institutions
+of national or international repute ;
+(iii) price publications including stock exchange and commodity market quotations ;
+(iv) published accounts and financial statements relating to the business affairs of the associated
+undertaking ;
+(v) agreements and contracts entered into with associated undertaking or with unrelated enterprises in
+respect of transactions similar to that transactions ;
+(vi) letters and other correspondence documenting any terms negotiated between the assessee and the
+associated undertaking ;
+(vii) documents normally issued in connection with various transactions under the accounting practices
+followed.
+(d) Where an international transaction continues to have effect over more than one previous year of assessment,
+fresh documentation need not be maintained separately in respect of each previous year of assessment,
+unless there is any significant change in the nature or terms of the international transaction, in the assumptions
+made, or in any other factor which could influence the transfer price, and  in case of such significant change,
+fresh documentation as may be necessary under this Regulation shall be maintained bringing out the impact
+of change on the pricing of the international transaction.
+(e) The information and documents specified  in this Regulation shall be kept and maintained for a period of five
+years from the end of the relevant year of assessment.
+6. Advance Pricing Agreements (APA) .— With a view to supplement the traditional administrative, judicial and
+treaty mechanism for resolving transfer pricing issues, arrangements have been made for entering into an advance pricing
+agreement  in accordance with an appropriate set of criteria (e.g.  method, appropriate adjustments thereto, and critical
+assumption as to the future events) for controlled transactions for the determination of the transfer pricing for those
+transactions over a fixed period of time.
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+7A
+The arrangements can basically be divided in to the following two categories :
+(a) Unilateral Arrangement : It is an arrangement where the tax administration and the taxpayer establish an
+arrangement without involvement of other interested tax administrations  though it may affect the tax
+liability of the associated enterprise in other tax jurisdictions ;
+(b) Bilateral Arrangement  : It is an arrangement in which two or more countries concur in regard to transfer
+pricing methodology to be adopted. The bilateral or multilateral approach is considered equitable  to all tax
+administrations and taxpayers and provides greater certainty to the taxpayer concerned.
+7. Associated Undertakings [Section 104(4)].—  For the purposes of Section 104(4)  of the aforesaid Inland Revenue
+Act and for these regulations, two undertakings shall be deemed to be associated undertakings, if, at any  time during the
+previous year,—
+(a) one enterprise holds, directly or indirectly, shares carrying not less than fifty per cent of the voting power in
+other undertaking ; or
+(b) any person or enterprise holds, directly or indirectly, shares carrying not less than  fifty per cent of the
+voting power in each of such undertaking ; or
+(c) loans advanced by one undertaking to the other undertaking constitutes not less than fifty-one per cent of
+the book value of the total assets of the other undertaking ; or
+(d) one undertaking guarantees not less than twenty five per cent of the total borrowings of the other undertaking ;
+or
+(e) more than half of the board of directors or members of the governing board, or one or more executive
+directors or executive members of the governing board of one undertaking, are appointed by the other
+undertaking ; or
+(f ) more than half of the board of directors or members of the governing board, or one or more of the executive
+directors or members of the governing board, of each of the two undertakings are appointed by the same
+person or persons ; or
+(g) the manufacture or processing of goods or articles or business carried out by one undertaking is wholly
+dependent on the use of know-how, patents, copyrights, trade-marks, licences, franchises or any other
+business or commercial rights of similar nature, or any data, documentation, drawing or specification relating
+to any patent, invention, model, design, secret formula or process, of which the other undertaking is the
+owner or in respect of which the other undertaking has exclusive rights ; or
+(h) ninety per cent or more of the raw materials and consumables required for the manufacture or processing of
+goods or articles carried out by one undertaking, are supplied by the other undertaking, or by persons
+specified by the other undertaking, and the prices and other conditions relating to the supply are influenced
+by such other undertaking ; or
+(i) where one undertaking is controlled by an individual or jointly by such individual and his relative, and the
+other undertaking is controlled by such individual or his relative or jointly by such individual and his relative
+or jointly by relatives of such individual ; or
+(j) where one undertaking is a firm, association of persons or body of individuals, the other undertaking holds
+not lessthan ten per cent interest in such firm, association of persons or body of individuals ; or
+(k) there exists between the two undertakings, any relationship of mutual interest, as may be prescribed.
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+8A
+8. Transfer Pricing Oficer .—  The applicable procedure with regard to discharging the duties of transfer pricing
+officer is specified below.
+(a) Where any person has entered into an international transaction in any previous year of assessment, and the
+Assessor considers it necessary or expedient to deal with transfer pricing regulations for the protection of
+revenue he may, with the prior approval of the Deputy Commissioner, refer the computation of the arm's
+length price in relation to the said international transaction under Sub-section (2) of Section 104 of the
+aforesaid Inland Revenue Act, to the Transfer Pricing Officer.
+(b) Where a reference is made under above paragraph (a), the Transfer Pricing Officer shall serve a notice on
+such person requiring him to produce or cause to be produced on a date to be specified therein, any
+evidence on which such person may rely in support of the computation made by him of the arm's length price
+in relation to the international transaction referred to in Sub-section (1) of section 104.
+(c) On the date specified in the notice under above paragraph (b), or as soon thereafter as may be, after hearing
+such evidence as such person may produce, including any information or documents referred to in Regulation
+5 and after considering wuch evidence as the Transfer Pricing Officer may require on any specified points
+and after taking into account all relevant materials which he has gathered, the Transfer Pricing Office shall,
+by order in writing, determine the arm's length price in relation to the international transaction in accordance
+with Sub-section (3) of section 104 and send a copy of his order to the Assessor and to such person.
+Provided that an opportunity shall be given by the Transfer Pricing Officer by serving a notice calling upon
+such person to show cause, on a date and time to be specified in the notice, why the arm's length price
+should not be so determined on the basis of material or information or document in the possession of the
+Transfer Pricing Officer.
+(d) On receipt of  the order under above paragraph (c), the Assessor shall proceed to estimate the profit and
+income of such person under Sub-section (2) of section 104 of the Inland Revenue Act having regard to the
+arm's length price determined under that Sub-section by the Transfer Pricing Officer.
+(e) With a view to rectifying any mistake apparent from the record, the Transfer Pricing Officer may amend any
+order passed by him under Sub-section (3) of section 104, and the provisions of Section 163 of the aforesaid
+Inland Revenue Act shall, so far so may be, apply accordingly.
+(f ) Where any amendment is made by the Transfer Pricing Officer under above paragraoh (e), he shall send a
+copy of his order to the Assessor who shall thereafter proceed to amend the order of assessment in conformity
+with such order of the Transfer Pricing Officer.
+9. Disclosures in the Director's Report
+The Directors' Report shall contain the following disclosures relating to transfer pricing :
+- The record of transactions  entered into with associated undertaking the format as specified under Section
+107(2)(a)  of the Inland Revenue Act ;
+- Transfer Pricing Policy Statement describing the strategies and policies influencing the determination of
+transfer price ;
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+9A
+- Management perception of risk factors involved, if any ;
+- The amounts or appropriate proportions of outstanding items pertaining to related party balances and
+provisions for doubtful debts due from such parties as on Balance Sheet date ;
+- Any other material information pertaining to related party transactions that are necessary for understanding
+of the financial statements or are required to be disclosed under any other law or under any accounting
+standard. The disclosures required under these guidelines as well as disclosures regarding related party
+transactions required under other laws or under accounting standards would appear together in the Annual
+Report in order to be more meaningful and to enhance ease of understanding.
+10. Certificate of the Director Principal Officer, on transfer pricing.
+The Director's Report to the members shall contain a certificate in the following format :
+To the Members
+It is certified that the company has complied with the Transfer Pricing Regulations issued under Section 104 of the
+Inland Revenue Act, No. 10 of 2006. The information pursuant to these Regulations is given under certificate produced under
+Section 107(2)(a) of the said Act. We believe that the record of transactions enterd into with related parties during the period
+from ...................... to ..................... are at arm's length and not prejudical to the interests of the company. The transactions are
+entered into on the basis of a transfer pricing policy adopted by he company. All transactions have been sunmitted to the
+independent auditors for audit. [No adverse remarks have been made in their report on the audit of such transactions] / [The
+auditors have qualified their report and the audit report is attached].*
+Place :
+For and on behalf of the
+Board of Directers.
+* Delete whichever is not applicable
+Part II
+Transfer Pricing Regulations on Transactions other than International Transactions
+11. The Regulations 1, 2, 3, 4 and 7 stipulated under Part I shall apply to 'Transactions other than Internationala
+Transactions' as well subject to the substitution, for the words and figures "Section 104(3)" and "Section 104(4)" appeared
+in that  regulations in that part of the words and figures "Section 104 A(3)" and "Section 104 A(4)" respectively
+12. ( a) Every undertaking who entered into a transaction with an associated undertaking shall keep and maintain
+the following information and documents :
+(i) a description of the ownership structure of the assessee undertaking with details of shares or other
+ownership  interest held therein by other undertaking ;
+(ii) a profile of the multinational or group of which the assessee undertaking is a part along with the name,
+address, legal status and country of tax residence of which of the undertakings comprised in the
+multinational or group with whom transactions have been entered into by the assessee, and ownership
+linkages among them ;
+(iii) a board description of the business of the assessee and the industry in which the assessee operates,
+and of the business of the associated undertakings with whom the assessee has transacted ;
+(iv) the nature and terms (including prices) of group transactions entered into with each associated
+undertaking, details of property transferred or services provided and the quantum and the value of
+each such transaction or class of such transactin ;
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+10A
+(v) a description of the functions performed, risks assumed and assets employed or to be employed by the
+assessee and by the associated undertaking involved in the transaction ;
+(vi) a record of the economic and market analyses, forecasts, budgets or any other financial estimates
+prepared by the assessee for the business as a whole and for each division or product separately,
+which may have a bearing on the transactions entered into by the assessee ;
+(vii) a record of uncontrolled transactions taken into account for analyzing their comparability with the
+transactions entered, including a record of the nature, terms and conditions relating to any uncontrolled
+transaction with third parties which may be of relevance to the pricing of the in transactions ;
+(viii) a record of the analysis performed to evaluate comparability of uncontrolled transactions with the
+relevant transaction ;
+(ix) a description of the methods considered for the determining the arm's length price in relation to each
+transaction or class of transaction, the method selected as the most appropriate method along with
+explanations as to why such method was so selected, and how such method was applied in each
+case ;
+(x) a record  of the actual working carried out for the determining the arm's length price, including details
+of the comparable data and financial information used in applying the most appropirate method, and
+adjustment, if any, which were made to account for differences between the transaction and the
+comparable uncontrolled transactions, or between the undertakings entering into such transactions ;
+(xi) the assumptions, policies and price negotiations, if any, which have critically affected the determintion
+of the arm's length price;
+(xii) details of the adjustments, if any, made to transfer prices to align them with arm's length prices
+determined under these regulations and consequent adjustment made to the total income for tax
+purposes ;
+(xiii) any other information, data or document, including information or data relating to the associated
+undertaking which may be relevant for determination of the arm's length price.
+(b) Nothing contained in the above paragraph (a) shall apply in case where the aggregate value for any year of
+assessment, as recorded in the books of account, of transactions entered in to with another associated
+undertaking by the assessee does not exceed LKR 50 million.
+Provided that the assessee shall be requied to substantiate, on the basis of material available with him, that
+income arising from transactions entered into by him has been computed in accordance with Section 104A
+(3) of the aforesaid Inland Revenue Act.
+(c) The information specified shall be supported by authentic documents, which may include the following :
+(i) official publications, reports, studies and data bases from the Government of the country of residence
+of the aforesaid undertaking, of any other country ;
+(ii) reports of market research studies carried out and technical publications brought out by institutions
+of national or international repute ;
+(iii) price publications including stock exchange and commodity market quotations ;
+(iv) published accounts and financial statements relating to the business affairs of the associated
+undertaking ;
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+11A
+(v) agreements and contracts entered into with associated undertaking or with unrelated enterprises in
+respect of transactions similar to that transactions ;
+(vi) leggers and other correspondence ducumenting any terms negotiated between the assessee and the
+associated undertaking ;
+(vii) documents normally issued in connection with various transactions under the accounting practices
+followed.
+(d) Where a transaction continues to have effect over more than one previous year of assessment, fresh
+documentation need not be maintained separetely in respect of each previous year of assessment, unless
+there is any significant change in the nature or terms of the transaction, in the assumptions made, or in any
+other factor which could influence the transfer price, and in case of such significant change, fresh
+documentation as may be necessary under this Regulation shall be maintained bringing out the impact of the
+change on the pricing of the transaction with associated undertaking ;
+(e) The information and documents specified in this Regulation shall be kept and maintained for a period of five
+years from the end of the relevant year of assessment.
+13. Associated Undertakings [Section 104A(4)] .— For the purposes of Section 104A (4) of the aforesaid Inland
+Revenue Act, and for these regulations, two undertakings shall be deemed to be associated undertakings, if, at any time
+during the previous year :
+(a) one enterprise holds, directly or indirectly, shares carrying not less than fifty per cent of the voting power in
+other undertaking ; or
+(b) any person or enterprise holds, directly or indirectly, shares carrying not less than fifty per cent of the voring
+power in each of such undertakings ; or
+(c) loans advanced by one undertaking to the other undertaking constitutes not less than fifty-one per cent of
+the book value of the total assets of the other undertaking ; or
+(d) one undertaking guarantees not less than twenty five per cent of the total borrowings of the other
+undertaking ; or
+(e) more than half of the board of directors or members of the governing board, or one or more executive
+directors or executive members of the governing board of one undertaking, are appointed by the other
+undertaking ; or
+(f) more than half of the directors or members of the governing board, or one or more of the executive directors
+or members of the governing board, of each of the two undertakings are appointed by the same person or
+persons ; or
+(g) the manufacture or processing of goods or articles or business carried out by one undertaking is wholly
+dependent on the use of know-how, patents, copyrights, trade-marks, licence, franchises or any other
+business or commercial rights of similar nature, or any data, documentation, drawing or specification relating
+to any patent, invention, model, design, secret formula or process, of which the other undertaking is the
+owner or in respect of which are other undertaking has exclusive rigths ; or
+(h) ninety per cent or more of the raw materials and consumables required for the manufacture or processing of
+goods or articles carried out by one undertaking are supplied by the other undertaking, or by persons
+specified by the other undertaking, and the prices and other conditions relating to the supply are influenced
+by such other undertakings ; or
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2013'08'12
+PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2013
+12A
+(i) where one undertakign is controlled by an individual or jointly by such undividual and his relative, and the
+other undertaking is controlled by such individual or his relative or jointly by such individual and his relative
+or jointly by relatives of such individual ; or
+(j) where one undertaking is a firm, association of persons or body of individuals, the other undertaking holds
+not less than ten per cent interest in such firms, association of persons or body of individuals ; or
+(k) there exists between the two undertakings, any relationship of mutual interest, as may be prescribed.
+14. Corresponding adjustments
+Where the total income of an associated undertaking is computed on the arm's length price, which is determined
+under the provisions of Section 104A, paid to another associated undertaking from which tax has been deducted [or is
+deductible] the income of other associated enterprise shall not be reomputed by reason of such determination of arm's length
+price in the case of the first mentioined enterprise.
+09 - 27
+PRINTED A T THE DEPARTMENT OF GOVERNMENT PRINTING , SRI LANKA
