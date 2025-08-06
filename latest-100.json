@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2448-18",
+    "date": "2025-08-05",
+    "description": "2448/18"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2448-17",
     "date": "2025-08-05",
     "description": "Elections Commission - Notice under Section 66 A(1) (a) Filling of a vacancy in the Office of  Member of the Manmunai Pattu Pradeshiya Sabha."
@@ -592,11 +598,5 @@
     "id": "2444-31",
     "date": "2025-07-09",
     "description": "Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 14 L.G. Institutions"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-28",
-    "date": "2025-07-09",
-    "description": "Land Title Settlement Dept. - Batuwanhena, Elpitiya D/S Division, Galle District (24-14-4-00036)"
   }
 ]
