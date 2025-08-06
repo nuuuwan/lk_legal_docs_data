@@ -1,0 +1,1890 @@
+
+
+<!-- page 1 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+1A
+w;s úfYI
+wxl 1872$33 - 2014 cQ,s ui 25 jeks isl=rdod - 2014'07'25
+No.1872/33  - FRIDAY,  JULY  25,  2014
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government  Notifications
+SRI  LANKA  ACCOUNTING  AND  AUDITING  STANDARDS  ACT,  No. 15  OF  1995
+Publication under Section 4(2)
+BY virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the “Institute”),
+the Institute has issued the Sri Lanka Statement of Recommended Practice for Not-for-Profit Organizations (including Non-
+Governmental Organizations) with effect from 1 January, 2012, published herewith for the purpose of the Sri Lanka Accounting
+and Auditing Standards, Act, No. 15 of 1995.
+             By Order of the Council,
+A
+RUNA ALWIS,
+Secretary
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A,
+Malalasekera Mawatha,
+Colombo 07.
+25
+th July, 2014
+1A
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+ This Gazette Extraordinary  can be downloaded from  www.documents.gov.lk
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+
+<!-- page 2 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+2A
+Sri Lanka Statement of Recommended
+Practice
+For
+Not-for-Profit Organisations
+(including Non-Governmental Organisations)
+(SL SoRP – NPOs [including NGOs])
+
+<!-- page 3 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+3A
+Contents
+1. Preface
+2. Introduction
+2.1 General
+2.2 Legal Framework
+3. Conceptual Framework for Financial Reporting
+3.1 Key Definitions and concepts related to NPO
+3.1.1 Definition of a NPO
+3.1.2 Donations/Contributions, Grants, Membership Subscription
+3.1.3 Donor Agreements
+3.1.4 Restricted Funds
+3.1.5 Unrestricted Funds
+3.1.6 Accumulated Fund
+3.1.7 Governing Body
+3.2 Users and their Information Needs
+3.3 Qualitative characteristics of useful financial information
+3.4 The cost constraint on useful financial reporting
+3.5 Underlying assumption
+4. NPO Specific Provisions
+5. Effective Date
+   Appendix - Illustrative Financial Statements Structure
+
+<!-- page 4 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+4A
+1. Preface
+1.1    The objective of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) in setting up the SL
+SoRP for NPOs is to assist those who are responsible for the preparation of the financial statements, to
+improve the quality of financial reporting by NPOs, thereby providing adequate information to the users of
+the financial statements.  The intention is also to reduce the diversity that exists among NPOs in
+accounting practice and presentation. It is recommended that all NPOs follow this SL SoRP in order that
+their financial statements provide a true and fair view of the state of affairs of their organisations.
+1.2   With full convergence to International Financial Reporting Standards (IFRS) with effect from 1 January
+2012, the existing SL SoRP for NPOs issued in 2005 which became operative from 1 April 2006 requires
+revisions as it was based on Sri Lanka Accounting Standards (SLASs) applicable in 2006. Therefore, CA
+Sri Lanka decided to revise the existing SL SoRP to be in line with IFRS based new Sri Lanka Accounting
+Standards.
+1.3   This SL SoRP is intended to apply to all NPOs operating in Sri Lanka, regardless of their size,  or
+complexity.
+1.4    It provides the basis for the preparation of accrual based financial statements to give a true and fair view.
+1.5 NPOs  have to comply only with those standards, which  apply to them. NPOs may safely ignore the
+standards dealing with matters, which do not apply to the activities of their own NPO.
+1.6     All NPOs are required to comply with the requirements stipulated by the Sri Lanka Accounting Standards
+(SLFRS Framework) to prepare and present their financial statements. SLFRS Framework comprises
+full SLFRSs (comprehensive set of SLFRSs including IFRIC and SIC pronouncements) and SLFRS for
+SMEs (Sri Lanka Accounting Standard for Small and Medium – sized Entities). All NPOs with public
+accountability should comply with full SLFRSs.
+1.7     Additional specific provisions for NPOs which should be read in conjunction with the applicable set of Sri
+Lanka Accounting Standards are given in Section 4 of this SL SoRP.
+1.8    Each provision included in this SL SoRP should be considered in the context of its relevance and what is
+material to any particular NPO.
+* * * * * * * * * *
+
+<!-- page 5 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+5A
+2. Introduction
+2.1 General
+2.1.1 All over the world, Not-for-Profit Organisations (NPOs) play an important role in the socio-economic process
+of the countries in which they operate. This is true not only in developing countries, but also in developed
+countries. NPOs in Sri Lanka are no exception. These organisations are important players in both the
+social and political spheres.
+2.1.2 The first activities in Sri Lanka, similar to those of an NPO emerged during the British colonial period in the
+late 19
+th century. About 100 years later, with the macro changes in the country, a substantial expansion
+of NPO presence in Sri Lanka took place. With the liberalization of the economy in late 1970s and the
+consequent relaxation of foreign exchange regulations, trade and travel restrictions, there arose a
+phenomenal increase in the number of foreign NGOs. With the increased flow of foreign assistance and
+the expansion of community and rural development, a further proliferation of NGOs was observed in the
+country.
+2.2 Legal Framework
+2.2.1 The magnitude of the funds channelled through these organisations creates considerable responsibility in
+terms of follow up, monitoring and accountability. Transparency thus becomes an important issue in Sri
+Lanka. Clear guidelines need to be provided to these organisations on how to conduct their affairs,
+including accounting and reporting. It is also acknowledged however, that extensive regulation is not
+necessarily fruitful, and that “too much” regulation might turn out to be equally as bad as “too little”,
+considering the important role that these organisations play within society at large. The Sri Lanka Statement
+of Recommended Practice for Not-for-Profit Organisations (including Non-Governmental Organisations)
+has been designed within this broader framework.
+2.2.2 The Voluntary Social Service Organisation Act No. 31 of 1980 (the "VSSO Act") requires all organisations,
+which receive government grants or require visas for expatriate staff to register under this Act. NPOs may
+also register as limited liability companies under the Companies Act No. 07 of 2007, as Trusts under the
+Trust Ordinance No. 17 of 1917, as Charities under the Inland Revenue Act No. 38 of 2000, as Approved
+Charities under the Inland Revenue Act No. 4 of 1963 or the Inland Revenue Act No. 28 of 1979 or under
+the Mutual Provident Societies Act No. 55 of 1949.  An NPO can also be formed by an Act of Parliament.
+2.2.3 The "Volunt ary Social Service Organisations (Registration and Supervision) (Amendment) Act, . 8 of 1998",
+was an amendment to the VSSO Act. This amendment allows for an Interim Board of Management to be
+appointed to administer the affairs of an organisation in cases of fraud or misappropriation.
+2.2.4 Subsequently, in 1999, a Presidential Circular was issued, calling all NGOs to re-register with the National
+NGO Secretariat, and asking them to declare their sources of funding, annual expenditure and annual
+budgets. Pre-requisite for re-registration includes clearance from the Ministries in charge of the subjects
+of Defence, Foreign Affairs and Plan Implementation and the relevant line Ministry. NGOs conducting
+activities in one District or at divisional levels also have to register with the applicable District or Divisional
+Secretary.
+
+<!-- page 6 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+6A
+3. Conceptual Framework for Financial Reporting
+3.1 Key Definitions and Concepts related to NPO
+3.1.1 Definition of a NPO (Not-for-Profit Organisation)
+I.     A Not-for-Profit Organization is a corporation or an association that conducts business for the benefit of
+the general public without shareholders and without a profit motive. They are also often referred to as
+“Development Organisations”, “Private Voluntary Organisations”, “Civil Society Organisations” “Non-
+Governmental Organisations”, “Non-Profit Organisations”, “Charities” and other similar terms.
+II.    This SL SoRP has drawn on the following definition provided by the World Bank for the phrase Civil
+Society, for the application of its contents:
+“The World Bank uses the term Civil Society to refer to the wide array of non-governmental and non-profit
+organisations that have a presence in public life, expressing the interests and values of their members or
+others, based on ethical, cultural, political, scientific, religious or philanthropic considerations. Civil
+Society Organisations (CSOs) therefore refer to a wide array of organisations: community groups, non-
+governmental organisations (NGOs), labour unions, indigenous groups, charitable organisation, faith-
+based organisations, professional associations, and foundations".
+III.     Although various scholars have defined ‘non-governmental organizations’ in different ways, Act No. 31
+of 1980, Voluntary Social Service Organization (Registration and Monitoring) Act has defined non-
+governmental organizations in the following manner.
+    Accordingly, any organization;
+• that has been formed on a voluntary basis by a group of individuals and are of non-governmental
+in nature,
+• that depend on public contribution, charity, governmental aid and local and foreign donations in
+performing its activities,
+• that has as its main objective, providing aid and services for mentally handicapped or physically
+disabled persons, the poor, orphans and the destitute and providing relief in times of natural
+disaster
+can be called a non-governmental organization.
+IV. The common salient features of the vast variety of NPOs to which this SL SoRP would apply are:
+(a) They are voluntary organisations, either local (to a particular area), national or international;
+(b) They have formulated specific objective(s) to the benefit of the general society, a particular vulnerable
+group of the society, or to particular identified interest or target groups;
+(c) Their objectives are not profit oriented, unlike that of business entities;
+(d) Profit may be generated in a NPO, but since there are no ownership interests, it is not distributed
+to those providing the resources;
+(e) They solicit and receive financial support for promotion of the organisation’s objective(s) or
+purpose, either from individuals (or groups of individuals) in society, corporate entities,
+governmental entities, international organisations or agencies of sovereign states;
+(f) Financial dispositions are made for the purpose of promoting the objective(s) of the organisation;
+
+<!-- page 7 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+7A
+3.1.2        Donations/Contributions, Grants, Membership Subscription
+I. Donations and/or contributions from donor organisations or individuals, and government grants constitute
+an important part of NPO resources. An obligation, for example to deliver or perform specified service or
+work, is often attached to these contributions, and in such an event should be regarded as part of
+“restricted funds”.
+II. Donations/contributions from individuals or institutions create:
+• a moral obligation, by whichever way it is received;
+• a legal obligation to use the funds for what it was solicited; and
+• restricted Funds, where usage is specified.
+III. An obligating event is a legal obligation, which for example derives from a contract that results in an
+enterprise having no alternative but to settle or meet that obligation.
+IV. A contribution (donation or grant) should not be recognised as an incoming resource, until there is
+reasonable assurance that the contribution will be received, and where relevant that the organisation has
+or will comply with the condition(s) attached to it.  Receipt of the funds does not by itself provide
+conclusive evidence that the conditions attached to the contribution have been or will be fulfilled. Until the
+conditions have been fulfilled, the contribution should be regarded as part of Restricted Funds.
+V. Membership subscription is an element of incoming resources for most of NPOs. If the membership
+subscriptions permit only membership and all other services or products are paid for separately, they
+should be recognised when received. If the membership fee entitles the members to services or publications
+to be provided during the year, it should be recognised on a systematic and rational basis having regard
+to the timing and nature of all services.
+3.1.3 Donor Agreements
+I. Most NPOs enter into formal agreements or contracts with donors, thereby committing themselves to
+deliver/perform service/work to be financed by the respective donors. The agreement or contract will
+provide a detailed description of what, where and when specified activities are to take place. A corresponding
+budget and a list of terms and conditions, including for example reporting requirements, almost always
+constitute an essential part of the agreement entered into. In addition to audited Financial Statements, a
+Variance Report, comparing actual expenditure with the approved budget, together with a corresponding
+narrative Progress Report, covering the same activity and period as the Variance Report, are also often
+demanded. These reports, therefore, often constitute an essential part of the requirements spelled out in
+the agreement between a donor and the NPO. These reports when read in conjunction with the financial
+statements often provide a useful tool to the donor in assessing the degree of completion of the activity,
+and to determine whether or not agreed objectives and conditions are being achieved.
+II. Restrictions, or obligations, are attached not only to those funds provided by large donor agencies, but
+also in many cases to contributions from individuals. In a fundraising campaign, for example, where the
+NPO may look to the public to raise funds for a specific cause, even while there may be no written
+agreements, there is a clear understanding between the parties. There is, consequently, a moral obligation
+to utilise the funds as announced during the campaign, and the funds raised should, therefore, be regarded
+as restricted.
+III. Funds received as donations without any direct request being made, or without any defined terms and
+conditions being laid down with regard to utilisation, are unrestricted.  In such circumstances, there will
+be an unwritten agreement, that the funds will be utilised within the objectives of the NPO.
+
+<!-- page 8 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+8A
+IV. In this same context, there must also be clear transparency in how much of the funds received are being
+used to meet the general administrative and other central office costs of the NPO.
+3.1.4 Restricted Funds
+V. Nearly all NPOs hold funds that can be applied only for particular purposes within their overall objectives.
+These purposes are often imposed by donors (whether it be the Government or other donors) and contained
+in an agreement or may be self-imposed through announcements made during the course of a fundraising
+campaign, the media or other similar form of communication. Funds held for such specified usage are
+restricted funds and have to be separately accounted for in the financial statements. Income that is
+generated from assets held in a restricted fund will normally be subject to the same restriction as the
+original fund, unless the terms that imposed the original restriction specifically say otherwise.
+VI. A different form of a restricted fund is an "endowment", which is held on trust to be retained for the benefit
+of the organisation as a capital fund. Such funds cannot normally be spent as if it were income to the
+organisation. The income earned from such capital may, however, be utilised for restricted or other
+purposes of the organisation. In some instances the governing body may have a power of discretion to
+convert endowed capital into income. In such an event, and if such power be exercised, the relevant
+funds become restricted income or unrestricted income, dependent upon whether the governing body,
+within its discretion permits the funds to be expended for any of the purposes of the NPO, or only for the
+specific purpose. As a restricted fund, the endowment fund should, in any event, be separately accounted
+for in the financial statements.
+3.1.5 Unrestricted Funds
+I. Many NPOs have resources, which are available for the general purposes of the NPOs as set out in its
+governing document. This is the NPOs "unrestricted" or "general" fund. Income generated from assets
+held in an unrestricted fund will be unrestricted income.
+II. The NPOs governing body may earmark part of the NPOs unrestricted funds to be used for particular
+purposes in the future. Since the governing body has the power, at a future date, to re-designate such
+funds within unrestricted funds, they should be described as "designated funds" and, consequently, be
+accounted for as part of the NPOs unrestricted funds.
+3.1.6 Accumulated Fund
+I. The Oxford Dictionary of Accounting defines Accumulated Fund as “A fund held by a non-profit-making
+organisation to which a surplus of income over expenditure is credited and to which any deficit is debited.
+The value of the accumulated funds can be calculated at any time by valuing the net assets (i.e. assets
+less liabilities) of the organisation. The accumulated fund is the equivalent of the capital of a profit making
+organisation”.
+II. However, although NPOs do not have ownership interests or profit in the same sense as commercial
+entities, they do nonetheless need a concept of capital maintenance, or its equivalent, to reflect "the
+relation between inflows and outflows of resources during a period". An organisation may, during any
+period, draw upon resources received in past periods and still unutilised, or set aside resources for use
+in future periods.
+III. Maintenance of the accumulated fund of an NPO is based on the maintenance of its financial capital. An
+NPO’s capital has been maintained if the financial value of its net assets at the end of a period equals or
+exceeds the financial value of its net assets at the beginning of the period.
+IV. If an NPO fails to maintain its accumulated fund, its ability to continue to provide services will dwindle and
+affect its ability to service future beneficiaries. Future resource providers may need to make up the
+deficiency, unless the organisation has the ability to generate income, e.g. by fundraising, in order to
+avoid such decline.
+
+<!-- page 9 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+9A
+V. Restricted funds constitute an important part of the accumulated fund of an NPO. It is therefore important
+to distinguish between the restricted accumulated fund and the general accumulated fund.
+3.1.7 Governing Body
+I. The governing body of an NPO is similar to the board of directors of a company. However, in the case of
+an NPO this may be referred to as the Board of Governors or Council of Members or some other suitable name.
+3.2 Users and their Information Needs
+3.2.1 Financial statements of NPOs are used by different persons (statutory or corporate bodies, other NPOs
+or individuals) for different purposes, and their information requirements vary considerably. Unlike in the
+corporate sector, NPOs have neither owners nor investors. The most common groups of users of NPO
+financial statement are the resource providers or contributors (i.e. the different categories of donors),
+beneficiaries (different target groups), suppliers/creditors, employees and the authorities. Some NPOs
+have members who represent an essential group of users. Others might have partner organisations with
+whom they co-operate, and who will be important users of the financial statements.
+3.2.2 Some examples of Information required by different users are listed below:
+Members • Are the funds utilised in conformity with given guidelines?
+• Is the NPO run according to given governing rules (By-laws or similar)?
+• What is the underlying statute or regulation and are such regulations being met
+with?
+Resource • Is the NPO qualified to achieve agreed beneficiary objectives?
+Providers • Does the NPO demonstrate sound stewardship?
+• Is the NPO run efficiently and effectively?
+• Is the NPO accountable – should support be extended or continued?
+• Are the funds utilised as agreed and within the identified mandate of the NPO?
+• Does the NPO adhere to agreed restrictions/requirements?
+• Does the NPO have the structure and/or the capacity to implement the projects
+as agreed?
+Beneficiaries • Does the NPO provide support/services according to given guidelines?
+• Does the NPO possess the ability to provide future support/services?
+• Do the systems work as expected?
+Suppliers/ • Is the NPO credible?
+Creditors • Is it able to settle its debts by the due date?
+Employees • Is the NPO a safe, secure working place?
+• Is the NPO able to pay timely salary and other agreed benefits?
+• Is the NPO financially able to carry out its objectives and provide the service as has
+been indicated.
+Authorities • Do the NPOs comply with applicable statutory and legal requirements?  (registration/
+tax/report requirements etc.)?
+• Should NPO activities be made subject to further regulation?
+• Is there transparency in its activities and in the utilisation of resources?
+Partners • Are available funds utilised as agreed, in conformity with applicable objectives/
+guidelines?
+
+<!-- page 10 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+10A
+3. 3 Qualitative characteristics of useful financial information
+3.3.1 If financial information is to be useful, it must be relevant and faithfully represent what it purports to
+represent. The usefulness of financial information is enhanced if it is comparable, verifiable, timely and
+understandable.
+Fundamental qualitative characteristics
+3.3.2 The fundamental qualitative characteristics are relevance and faithful representation.
+Relevance
+3.3.3 Relevant financial information is capable of making a difference in the decisions made by users. Information
+may be capable of making a difference in a decision even if some users choose not to take advantage of
+it or are already aware of it from other sources.
+3.3.4 Financial information is capable of making a difference in decisions if it has predictive value, confirmatory
+value or both.
+3.3.5 Financial information has predictive value if it can be used as an input to processes employed by users
+to predict future outcomes. Financial information need not be a prediction or forecast to have predictive
+value. Financial information with predictive value is employed by users in making their own predictions.
+3.3.6 Financial information has confirmatory value if it provides feedback about (confirms or changes) previous
+evaluations.
+3.3.7 The predictive value and confirmatory value of financial information are interrelated. Information that has
+predictive value often also has confirmatory value. For example, revenue information for the current year,
+which can be used as the basis for predicting revenues in future years, can also be compared with
+revenue predictions for the current year that were made in past years. The results of those comparisons
+can help a user to correct and improve the processes that were used to make those previous predictions.
+Materiality
+3.3.8 Information is material if omitting it or misstating it could influence decisions that users make on the
+basis of financial information about a specific reporting entity. In other words, materiality is an entity-
+specific aspect of relevance based on the nature or magnitude, or both, of the items to which the information
+relates in the context of an individual entity’s financial report. Consequently, A uniform quantitative threshold
+for materiality cannot be specified or predetermine what could be material in a particular situation.
+Faithful representation
+3.3.9 Financial reports represent economic phenomena in words and numbers. To be useful, financial information
+must not only represent relevant phenomena, but it must also faithfully represent the phenomena that it
+purports to represent. To be a perfectly faithful representation, a depiction would have three characteristics.
+It would be complete, neutral and free from error. Of course, perfection is seldom, if ever, achievable. The
+objective is to maximise those qualities to the extent possible.
+3.3.10 A complete depiction includes all information necessary for a user to understand the phenomenon being
+depicted, including all necessary descriptions and explanations. For example, a complete depiction of a
+group of assets would include, at a minimum, a description of the nature of the assets in the group, a
+numerical depiction of all of the assets in the group, and a description of what the numerical depiction
+represents (for example, original cost, adjusted cost or fair value). For some items, a complete depiction
+may also entail explanations of significant facts about the quality and nature of the items, factors and
+circumstances that might affect their quality and nature, and the process used to determine the numerical
+depiction.
+
+<!-- page 11 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+11A
+3.3.11 A neutral depiction is without bias in the selection or presentation of financial information. A neutral
+depiction is not slanted, weighted, emphasised, de-emphasised or otherwise manipulated to increase
+the probability that financial information will be received favorably or unfavorably by users. Neutral
+information does not mean information with no purpose or no influence on behavior. On the contrary,
+relevant financial information is, by definition, capable of making a difference in users’ decisions.
+3.3.12 Faithful representation does not mean accurate in all respects. Free from error means there are no errors
+or omissions in the description of the phenomenon, and the process used to produce the reported
+information has been selected and applied with no errors in the process. In this context, free from error
+does not mean perfectly accurate in all respects. For example, an estimate of an unobservable price or
+value cannot be determined to be accurate or inaccurate. However, a representation of that estimate can
+be faithful if the amount is described clearly and accurately as being an estimate, the nature and limitations
+of the estimating process are explained, and no errors have been made in selecting and applying an
+appropriate process for developing the estimate.
+3.3.13 A faithful representation, by itself, does not necessarily result in useful information. For example, a
+reporting entity may receive property, plant and equipment through a government grant. Obviously, reporting
+that an entity acquired an asset at no cost would faithfully represent its cost, but that information would
+probably not be very useful. A slightly more subtle example is an estimate of the amount by which an
+asset’s carrying amount should be adjusted to reflect an impairment in the asset’s value. That estimate
+can be a faithful representation if the reporting entity has properly applied an appropriate process, properly
+described the estimate and explained any uncertainties that significantly affect the estimate. However, if
+the level of uncertainty in such an estimate is sufficiently large, that estimate will not be particularly
+useful. In other words, the relevance of the asset being faithfully represented is questionable. If there is
+no alternative representation that is more faithful, that estimate may provide the best available information.
+Applying the fundamental qualitative characteristics
+3.3.14 Information must be both relevant and faithfully represented if it is to be useful. Neither a faithful
+representation of an irrelevant phenomenon nor an unfaithful representation of a relevant phenomenon
+helps users make good decisions.
+3.3.15 The most efficient and effective process for applying the fundamental qualitative characteristics would
+usually be as follows (subject to the effects of enhancing characteristics and the cost constraint, which
+are not considered in this example). First, identify an economic phenomenon that has the potential to be
+useful to users of the reporting entity’s financial information. Second, identify the type of information
+about that phenomenon that would be most relevant if it is available and can be faithfully represented.
+Third, determine whether that information is available and can be faithfully represented. If so, the process
+of satisfying the fundamental qualitative characteristics ends at that point. If not, the process is repeated
+with the next most relevant type of information.
+Enhancing qualitative characteristics
+3.3.16 Comparability, verifiability, timeliness and understandability are qualitative characteristics that enhance
+the usefulness of information that is relevant and faithfully represented. The enhancing qualitative
+characteristics may also help determine which of two ways should be used to depict a phenomenon if
+both are considered equally relevant and faithfully represented.
+Comparability
+3.3.17 Users’ decisions involve choosing between alternatives, for example, selling or holding an investment, or
+investing in one reporting entity or another. Consequently, information about a reporting entity is more
+useful if it can be compared with similar information about other entities and with similar information
+about the same entity for another period or another date.
+
+<!-- page 12 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+12A
+3.3.18 Comparability is the qualitative characteristic that enables users to identify and understand similarities
+in, and differences among, items. Unlike the other qualitative characteristics, comparability does not
+relate to a single item. A comparison requires at least two items.
+3.3.19 Consistency, although related to comparability, is not the same. Consistency refers to the use of the
+same methods for the same items, either from period to period within a reporting entity or in a single
+period across entities. Comparability is the goal; consistency helps to achieve that goal.
+3.3.20 Comparability is not uniformity. For information to be comparable, like things must look alike and different
+things must look different. Comparability of financial information is not enhanced by making unlike things
+look alike any more than it is enhanced by making like things look different.
+3.3.21 Some degree of comparability is likely to be attained by satisfying the fundamental qualitative
+characteristics. A faithful representation of a relevant economic phenomenon should naturally possess
+some degree of comparability with a faithful representation of a similar relevant economic phenomenon
+by another reporting entity.
+3.3.22 Although a single economic phenomenon can be faithfully represented in multiple ways, permitting
+alternative accounting methods for the same economic phenomenon diminishes comparability.
+Verifiability
+3.3.23 V erifiability helps assure users that information faithfully represents the economic phenomena it purports
+to represent. Verifiability means that different knowledgeable and independent observers could reach
+consensus, although not necessarily complete agreement, that a particular depiction is a faithful
+representation. Quantified information need not be a single point estimate to be verifiable. A range of
+possible amounts and the related probabilities can also be verified.
+3.3.24 V erification can be direct or indirect. Direct verification means verifying an amount or other representation
+through direct observation, for example, by counting cash. Indirect verification means checking the inputs
+to a model, formula or other technique and recalculating the outputs using the same methodology. An
+example is verifying the carrying amount of inventory by checking the inputs (quantities and costs) and
+recalculating the ending inventory using the same cost flow assumption (for example, using the first-in,
+first-out method).
+3.3.25 It may not be possible to verify some explanations and forward-looking financial information until a future
+period, if at all. To help users decide whether they want to use that information, it would normally be
+necessary to disclose the underlying assumptions, the methods of compiling the information and other
+factors and circumstances that support the information.
+Timeliness
+3.3.26 Timeliness means having information available to decision-makers in time to be capable of influencing
+their decisions. Generally, the older the information is the less useful it is. However, some information
+may continue to be timely long after the end of a reporting period because, for example, some users may
+need to identify and assess trends.
+Understandability
+3.3.27 Classifying, characterising and presenting information clearly and concisely makes it understandable.
+3.3.28 Some phenomena are inherently complex and cannot be made easy to understand. Excluding information
+about those phenomena from financial reports might make the information in those financial reports
+easier to understand. However, those reports would be incomplete and therefore potentially misleading.
+3.3.29 Financial reports are prepared for users who have a reasonable knowledge of business and economic
+activities and who review and analyse the information diligently. At times, even well-informed and diligent
+users may need to seek the aid of an adviser to understand information about complex economic
+phenomena.
+
+<!-- page 13 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+13A
+Applying the enhancing qualitative characteristics
+3.3.30 Enhancing qualitative characteristics should be maximised to the extent possible. However, the enhancing
+qualitative characteristics, either individually or as a group, cannot make information useful if that information
+is irrelevant or not faithfully represented.
+3.3.31 Applying the enhancing qualitative characteristics is an iterative process that does not follow a prescribed
+order. Sometimes, one enhancing qualitative characteristic may have to be diminished to maximise
+another qualitative characteristic. For example, a temporary reduction in comparability as a result of
+prospectively applying a new financial reporting standard may be worthwhile to improve relevance or
+faithful representation in the longer term. Appropriate disclosures may partially compensate for non-
+comparability.
+3.4 The cost constraint on useful financial reporting
+3.4.1 Cost is a pervasive constraint on the information that can be provided by financial reporting. Reporting
+financial information imposes costs, and it is important that those costs are justified by the benefits of
+reporting that information. There are several types of costs and benefits to consider.
+3.4.2 Providers of financial information expend most of the effort involved in collecting, processing, verifying and
+disseminating financial information, but users ultimately bear those costs in the form of reduced returns.
+Users of financial information also incur costs of analysing and interpreting the information provided. If
+needed information is not provided, users incur additional costs to obtain that information elsewhere or to
+estimate it.
+3.4.3 Reporting financial information that is relevant and faithfully represents what it purports to represent helps
+users to make decisions with more confidence. This results in more efficient functioning of
+ capital
+markets and a lower cost of capital for the economy as a whole. An individual investor, lender or other
+creditor also receives benefits by making more informed decisions. However, it is not possible for general
+purpose financial reports to provide all the information that every user finds relevant.
+3.4.4 In applying the cost constraint, the Council assesses whether the benefits of reporting particular information
+are likely to justify the costs incurred to provide and use that information. When applying the cost
+constraint in developing a proposed financial reporting standard, the Council seeks information from
+providers of financial information, users, auditors, academics and others about the expected nature and
+quantity of the benefits and costs of that standard. In most situations, assessments are based on a
+combination of quantitative and qualitative information.
+3.4.5 Be cause of the inherent subjectivity, different individuals’ assessments of the costs and benefits of
+reporting particular items of financial information will vary. Therefore, the Council seeks to consider costs
+and benefits in relation to financial reporting generally, and not just in relation to individual reporting
+entities. That does not mean that assessments of costs and benefits always justify the same reporting
+requirements for all entities. Differences may be appropriate because of different sizes of entities, different
+ways of raising capital (publicly or privately), different users’ needs or other factors.
+3.5 Underlying assumption
+Going concern
+3.5.1 The financial statements are normally prepared on the assumption that an entity is a going concern and
+will continue in operation for the foreseeable future. Hence, it is assumed that the entity has neither the
+intention nor the need to liquidate or curtail materially the scale of its operations; if such an intention or
+need exists, the financial statements may have to be prepared on a different basis and, if so, the basis
+used should be disclosed.
+* * * * * * * * * *
+
+<!-- page 14 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+14A
+4. NPO Specific Provisions
+The following specific provisions should be read in conjunction with the applicable set of Sri Lanka
+Accounting Standards and the purpose of giving the specific provisions is to address NPO specific
+matters and adjustments. This section prescribes the principles to be followed in the presentation of
+financial statements by NPOs, inclusive of disclosures and should be followed in its entirety by NPOs to
+be in compliance with this SL SoRP.
+The Council will from time to time issue additional specific provisions and guidelines to address the
+developments in the sector. Those will also need to be considered as a part of this SL SoRP .
+4.1 The Elements of Financial Statements
+Components of the Financial Statements
+A complete set of financial statements of an NPO will include:
+(a) Statement of Comprehensive Income
+(b) Statement of Financial Position
+(c) Statement of Changes in Reserves
+(d) Statement of Cash Flow; and
+(e) Accounting Policies and Explanatory Notes.
+As part of the explanatory notes to the financial statements, NPOs may also include supplementary
+schedules and information based on or derived from, and expected to be read with, such statements.
+Financial statements would not, however, normally include such items as reports by the governing body/
+management, statements by the chairman, discussion and analysis by management and similar items
+that may be included in a financial or annual report of a corporate entity, unless required by the relevant
+Donor Agreements.
+4.2 Accumulated Fund
+Unrestricted Fund (Capital)
+Unrestricted fund is equivalent to the NPOs own capital, and should be presented separately from restricted
+funds in the financial statements. However, in the case of projects that have been completed, any surplus
+remaining in restricted funds, if permitted by the relevant contract or agreement, may also be transferred
+for inclusion in the unrestricted fund.
+Restricted Fund
+Restricted funds, also called "Unspent Grant", represent a part of Restricted Net Assets in NPOs.
+Measurement and Recognition
+Restricted funds should be presented in the Statement of Financial Position at the time of receipt, - that is,
+when received as cash or deposited to the bank account - or at the time when there is reasonable
+assurance that it will be received.
+Disclosure
+The following should be disclosed:
+(a) the accounting policy adopted for restricted funds and unrestricted funds, including the methods of
+presentation in the financial statements;
+(b) the nature and extent of restricted contributions recognised in the financial statements, and an
+indication of other forms of assistance from which the organisation has directly benefited; and
+(c) unfulfilled conditions and contingencies attaching to assistance that has been recognised.
+
+<!-- page 15 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+15A
+4.3 Recognition of Revenue /Grants
+4.3.1 NPOs should distinguish between
+(a) restricted revenue and
+(b) unrestricted revenue
+and each should be measured at the fair value of the consideration received or receivable.
+4.3.2 Different approaches are used for the recognition of (a) restricted and (b) unrestricted revenue.
+Restricted Revenue
+4.3.3 Restricted contributions are not gratuitous. They are based on agreements, contracts, or other
+understanding, where the conditions for receipt of the funds are linked to a performance, of a service or
+other process. The NPO earns the contribution through compliance with the conditions that have been
+laid down and meeting the envisaged obligations.  Revenue should not therefore be recognised in the
+Statement of Comprehensive Income, until there is reasonable assurance that the contribution will be
+received, and the conditions stipulated for its receipt have been complied with.
+4.3.4 Subject to the above restricted contributions when recognised in the Statement of Comprehensive Income
+must be matched against the related costs, which they are intended to compensate on a systematic
+basis. Effectively, such contributions should be recognised only to the extent that the NPO has provided
+the relevant services or performance.
+4.3.5 On receiving any restricted contributions, e.g. as a bank deposit, the contribution should be credited to
+the restricted fund account in the Statement of Financial Position and debited to the bank account. Thereafter,
+on a systematic basis, (e.g. at the end of each month), an amount equivalent to that which has been
+spent on agreed "restricted" activities during the month, should be taken to income, by debiting the
+restricted fund account in the Statement of Financial Position and crediting restricted Income account.
+4.3.6 By following this procedure, the net result of restricted Income and direct project expenses of any
+particular transaction in the Statement of Comprehensive Income will normally be zero ("0").  Any amount
+in excess of or less than zero would therefore, reflect results from other captions, e.g. unrestricted
+income or expenses not linked to project activities, or any surplus remaining in a restricted fund, provided
+that the donor has permitted such surplus to be transferred as unrestricted revenue.
+Unrestricted Revenue
+4.3.7 Revenue that arises from general unrestricted resources has characteristics similar to revenue in business
+entities and should be treated accordingly. It should only be recognised when the amount of revenue can
+be measured reliably, or when it is probable that the economic benefits associated with the transaction
+will flow to the NPO. That is, at the time when no significant uncertainty exists with regard to the amount
+of the consideration that will be derived from, for example, membership fees, sundry donations, consultancy
+fees, sale of goods or other sources of unrestricted income.
+
+<!-- page 16 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+16A
+4.3.8 The Statement of Comprehensive Income is designed to include all the gains and losses of an NPO,
+which would be found in the profit and loss account of a business organisation.
+4. 4 Inventory
+Inventory Purchased or Donated on Account of Beneficiaries
+4.4.1 NPOs may manufacture or purchase items for the purpose of distributing them to beneficiaries either free
+of cost or at a nominal amount. Although such items are not held for the purpose of sale, or for consumption
+in a production process, or in the rendering of services or other purpose of a commercial, industrial or
+business nature, such items shall be considered to be inventory for the purpose of this SL SoRP .
+4.4.2 Items are on occasion received as a donation by an NPO for distribution to beneficiaries or for sale with
+the proceeds being used for the benefit of such beneficiaries.  In such an instance, it may not be possible
+to apply a valuation to the items received.  Items donated and held as at the Statement of Financial
+Position should therefore be listed and quantified.
+4.5 Income Tax
+Items Credited or Charged Directly to the Accumulated Fund
+4.5.1 Current tax should be charged or credited directly to the relevant fund account, if the tax relates to items
+that are credited or charged, in the same or a different period, directly to such a Fund account.
+Tax Expense (Income)
+4.5.2 The tax expense (income) should be presented on the face of the Statement of Comprehensive Income.
+4.6 Property, Plant & Equipment
+Land
+4.6.1 An NPO may acquire land in a variety of ways such as the following:
+(a) By way of purchase from the landowners, including through a scheme of compulsory acquisition formulated
+by the government;
+(b) Land gifted to NPOs by institutions or individuals, whether with or without any conditions as to their use;
+(c) Land provided to NPOs by government free of cost, whether with or without any conditions as to their
+use;
+(d) Land may also be vested in NPOs where such an NPO acts merely as a trustee and has no ownership
+rights.
+4.6.2 The acc ounting treatment of land acquired through the above modes may be as follows:
+a. Land Acquired through Purchase
+•••••    Such land should be recorded at the aggregate of the purchase price paid/payable and other
+costs incidental to acquisition such as registration charges.
+•••••    In the case of land acquired under a scheme of compulsory acquisition, in the event that there is
+a dispute between the NPO and the previous owner whose land has been acquired, with regard
+to the rate of compensation, in determining the cost of land for purpose of the financial statements,
+
+<!-- page 17 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+17A
+an appropriate allowance shall also be included for the additional compensation that may become
+payable, provided the following conditions are satisfied.
+(i) The payment of additional compensation is probable, and
+(ii) the amount so payable can be reasonably estimated.
+b. Land Acquired Free of Cost
+· Land is sometimes provided by the government to the NPO free of cost. Land may also be provided
+by individuals or institutions through an endowment for specific purposes like construction of
+schools, for construction of parks and similar common facilities, etc. The cost of such land to
+NPOs is zero. In substance, such land received is a non-monetary grant and, accordingly both
+grant and asset shall be accounted for at the fair value. An alternative course that is sometimes
+followed is to record both asset and grant at a nominal amount. However in order to maintain
+proper control, such land must be recorded in the Fixed Asset Register and details disclosed in
+the notes to the financial statements, including any conditions laid down for its use.
+· Any incidental cost of acquisition such as registration charges shall be added to the above.
+c. Vested Government Land
+· Such land is neither owned by the NPO nor do the economic benefits from the use of such land
+flow to the NPO. The ownership remains with the government and the NPO merely acts as a
+trustee in respect of such land. Such land shall therefore not be considered as an asset of the
+NPO.
+Opening Balance at the Time of Shifting to the Accrual Basis of Accounting
+4.6.3 An entity that has not recorded all of its property plant and equipment may be faced with a problem in
+accounting for such items at the time the NPOs switches over to the accrual basis of accounting in
+accordance with this SL SoRP. For example property, plant and equipment received by way of donations
+or endowments may not have been recorded at the time they were acquired. Also, items acquired as part
+of project expenditure through restricted funds may have been written off to the Statement of Comprehensive
+Income.  It would be necessary to identify such assets, and account for them appropriately. In accounting
+for such assets, factors such as adverse possession, defects in title, etc., would also need to be
+considered.
+Property, Plant and Equipment received as Donations or Endowments or through Grants
+4.6.4 Property, plant and equipment that is received directly as donations or endowments should be debited to
+the property, plant and equipment account at fair value and a corresponding amount credited to a deferred
+income account.  Such items should thereafter be depreciated in accordance with this SL SoRP , while a
+corresponding amount could be transferred from the deferred income to the Statement of Comprehensive
+Income, in the Statement of Financial Position. In the Statement of Financial Position, deferred Income
+would be deducted from the net book value of the assets so that the carrying amount of the asset would
+be zero.
+4.6.5 Where any item has been purchased for use by the NPO in a project being funded through a grant and
+the value of such item has been charged to the relevant project account, such items shall be disclosed
+as a note to the financial statement with the same categorisation as would be provided in respect of any
+item included under property, plant and equipment in the Statement of Financial Position.
+
+<!-- page 18 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+18A
+4.6.6 Where project assets are held and disclosed in accordance with paragraph 4.6.4, on conclusion of the
+project, those items of property, plant and equipment that are to be retained by the organisation may be
+brought into the books of accounts of the organisation at fair value through a capital reserve. Depreciation
+provided on such assets would then be charged against the capital reserve. Where items are handed
+over to the relevant beneficiaries or revert back to the donor at the end of the project appropriate disclosure
+must be made in the financial statements.
+5. Effective Date
+5.1 The Sri Lanka Statement of Recommended Practice for Not-for-Profit Organisations (including Non-
+Governmental Organisations) - (SL SoRP – NPOs [including NGOs]) becomes operative for financial
+statements covering periods beginning on or after 1 January 2012. It is  recommended and encouraged to
+apply this SL SoRP for financial statements covering periods beginning on or after 1 January 2012 and it
+is mandatory to apply this SL SoRP for financial statements covering periods beginning on or after 1
+January 2013.
+5.2 This SL SoRP supersedes SL SoRP for NPOs issued in 2005 which became operative from 1 April 2006
+by CA Sri Lanka.
+Appendix:
+Illustrative Financial Statements Structure
+The appendix is illustrative only and does not form part of the SL SoRP.  The purpose of the appendix is to illustrate
+the application of the SL SoRP principles to assist in clarifying their meaning. The illustrative financial statements
+are based on full SLFRSs.
+The SL SoRP sets out the components of financial statements and minimum requirements for disclosure on the
+face of the Statement of Financial Position and the Statement of Comprehensive Income, Statement of Changes in
+Reserves as well as for the Statement of Cash flows. The financial statements are accompanied by accounting
+policies and notes.  The purpose of the Appendix is to provide examples of the ways in which, requirements for the
+presentation of the Statement of Financial Position, the Statement of Comprehensive Income, the Statement of
+Changes in Reserves and Statement of Cash flows might be presented in the primary financial statements.  The
+order of presentation and the description used for line items should be changed where necessary in order to achieve
+a fair presentation in each organisation’s circumstances.
+
+<!-- page 19 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+19A
+ABC SRI LANKA
+STATEMENT OF FINANCIAL POSITION
+As at 31 March 2013
+(In thousands of Rs.]
+Notes Organisation
+As at 31 March 2013 2012
+ASSETS
+Non - Current Assets
+Property Plant and Equipment 4.1 xxxx xxxx
+Intangible assets 4.2 xxxx xxxx
+Long-term receivables 4.3 xxxx xxxx
+Other financial assets 4.4
+xxxx xxxx
+Total Non - Current Assets xxxx xxxx
+Current Assets
+Inventories 4.5 xxxx xxxx
+Accounts receivable 4.6 xxxx xxxx
+Prepayments 4.7 xxxx xxxx
+Other financial assets 4.8 xxxx xxxx
+Cash and cash equivalents 4.9 xxxx xxxx
+Total Current Assets xxxx xxxx
+Total Assets xxxx xxxx
+LIABILITIES & RESERVES
+Accumulated Reserves
+Unrestricted Funds 4.10 xxxx xxxx
+Designated Funds 4.11 xxxx xxxx
+Restricted Funds 4.12 xxxx xxxx
+Endowment Fund 4.13 xxxx xxxx
+Other Capital Reserves 4.14 xxxx xxxx
+Total Accumulated Reserves xxxx xxxx
+Non - Current Liabilities
+Loans and borrowings 4.15 xxxx xxxx
+Employee benefit liabilities 4.16 xxxx xxxx
+Deferred income 4.17 xxxx xxxx
+Total Non - Curr ent Liabilities xxxx xxxx
+Current Liabilities
+Accounts payable 4.18 xxxx xxxx
+Accrued expenses 4.19 xxxx xxxx
+Loans and borrowings 4.15 xxxx xxxx
+Provisions 4.20 xxxx xxxx
+Bank overdrafts 4.21 xxxx xxxx
+Total Current Liabilities xxxx xxxx
+Total Liabilities xxxx xxxx
+Total Liabilities and Reserves xxxx xxxx
+The Board of Directors/Trustees is responsible for the preparation and presentation of these financial statements.
+These financial statements were approved for issue by the Board of Directors/Trustees on xx xx 20xx.
+I certify that these financial statements have been prepared in compliance with the requirements of the Companies Act,
+No. 07 of 2007.
+1
+Signed on behalf of the Board by
+Date: xx  xx 20XX  ……………….. ………………… …………………..
+    Director      Director Head of Finance
+The Notes on pages …… to …… form an integral part of these financial statements.
+Only if Relevant
+
+<!-- page 20 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+20A
+ABC SRI LANKA
+STATEMENT OF COMPREHENSIVE INCOME
+For the Year Ended 31 March 2013
+ (in thousands of Rs.)
+Note Organisation
+Year ended 31 March 2013 2012
+OPERATING INCOME
+Incoming Resources 4.22 xxxx xxxx
+Total Operating income xxxx xxxx
+OPERATING EXPENDITURE
+Staff-related costs 4.23 xxxx xxxx
+Direct project/activity costs 4.24 xxxx xxxx
+Rentals 4.25 xxxx xxxx
+Purchase of goods and materials xxxx xxxx
+Depreciation xxxx xxxx
+General expenditure xxxx xxxx
+Total Operating expenditure xxxx xxxx
+Net surplus/(deficit) of operating activities xxxx xxxx
+OTHER INCOME
+Net financial income 4.26 xxxx xxxx
+Other income xxxx xxxx
+Total Other income xxxx xxxx
+OTHER EXPENDITURE
+Foreign exchange losses (net) xxxx xxxx
+Other expenses xxxx xxxx
+Total Other expenditure xxxx xxxx
+Net surplus/(deficit) of non-operating activities xxxx xxxx
+Net surplus/(deficit) before Taxation xxxx xxxx
+Income Tax Expenses 4.27 xxxx xxxx
+SURPLUS/(DEFICIT) FOR THE YEAR xxxx xxxx
+OTHER COMPREHENSIVE INCOME
+Actuarial gains/(losses) on defined benefit plans 4.11 xxxx xxxx
+Exchange difference on translating foreign operations xxxx xxxx
+Gains on property revaluation xxxx xxxx
+Cash flow hedges xxxx xxxx
+Net change in fair value of available for sale financial assets xxxx xxxx
+Income tax relating to components of other comprehensive
+Income (
+xxx) (xxx)
+Total Other comprehensive income for the year xxxx xxxx
+TOTAL COMPREHENSIVE INCOME FOR THE YEARR xxxx xxxx
+ALLOCATION OF TOTAL COMPREHENSIVE INCOME
+FOR THE YEAR
+Allocation to Reserves xxxx xxxx
+Allocation to Endowment Fund xxxx xxxx
+The Notes on pages …… to …… form an integral part of these financial statements.
+
+<!-- page 21 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+21A
+ABC SRI LANKA
+STATEMENT OF CHANGES IN RESERVES
+For the Year Ended 31 March 2013
+(in thousands of Rs.)
+Description Restricted Unrestricted Endowment Capital Result
+Reserves Reserves Funds Reserves for Total
+ the
+Year
+Balance as at 1 April 2011 xxxx xxxx xxxx xxxx xxxx xxxx
+Net surplus/(deficit) for the year    xxxx xxxx
+Other comprehensive income for the
+year    xxxx xxxx
+Balance before transfers to/from
+reserves xxxx xxxx xxxx xxxx xxxx xxxx
+Allocation of results to Reserves xxxx xxxx   (xxxx) xxxx
+Allocation of results to Endowment
+Fund  xxxx  (xxxx) xxxx
+Increase/ Decrease in donors’ restricted
+contributions for specific operations
+(Note 4.12) (xxxx)    xxxx xxxx
+Balance as at 31 March 2012 xxxx xxxx xxxx xxxx xxxx xxxx
+Net surplus/(deficit) for the year    xxxx xxxx
+Other comprehensive income for the
+year    xxxx xxxx
+Balance before transfers to/from
+reserves xxxx xxxx xxxx xxxx xxxx xxxx
+Allocation of results to Reserves xxxx xxxx   (xxxx) xxxx
+Allocation of results to Endowment
+Fund  xxxx  (xxxx) xxxx
+Increase/ Decrease in donors’ restricted
+contributions for specific operations
+(Note 4.12) (xxxx)    xxxx xxxx
+Balance as at 31 March 2013 xxxx xxxx xxxx xxxx xxxx xxxx
+The Notes on pages …… to …… form an integral part of these financial statements
+
+<!-- page 22 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+22A
+ABC SRI LANKA
+STATEMENT OF CASH FLOWS
+For the Year Ended 31 March 2013
+(in thousands of Rs.)
+Organisation
+Year ended 31 March 2013 2012
+CASH FLOWS FROM OPERATING ACTIVITIES
+Surplus/ (deficit) for the year (Before Tax) xxxx xxxx
+Adjustments to reconcile surplus/(deficit) to net cash flows:
+Non-cash items:
+Depreciation and impairment of property, plant and equipment xxxx xxxx
+Amortization and impairment of intangible assets xxxx xxxx
+Provision and losses on inventories xxxx xxxx
+Movement in provisions, receivables and specific risks xxxx xxxx
+Interest and securities income (xxx) (xxx)
+Losses/ (gains) on securities (xxx) (xxx)
+Gains from disposal of fixed assets (xxx) (xxx)
+Working capital adjustments:
+Accounts receivable (xxx) (xxx)
+Prepayments xxxx xxxx
+Inventories xxxx xxxx
+Other financial assets (xxx) (xxx)
+Accounts payable xxxx xxxx
+Accrued expenses and deferred income (xxx) (xxx)
+Other financial liabilities xxxx xxxx
+Less:
+Income Tax Paid (xxx) (xxx)
+Interest paid    -    -
+Net cash from/(used in) operating activities xxxx xxxx
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchase of Property Plant and Equipment (xxx) (xxx)
+Purchase of intangible assets (xxx) (xxx)
+Proceeds from sale of equipment xxxx xxxx
+Purchase of securities (xxx) (xxx)
+Interest received xxxx xxxx
+Income from securities, net xxxx xxxx
+Net cash from/(used in) investing activities xxxx xxxx
+CASH FLOWS FROM FINANCING ACTIVITIES
+Borrowing of government loans xxxx xxxx
+Repayments of government loans (xxx) (xxx)
+Net cash from/(used in) financing activities xxxx xxxx
+NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS xxxx xxxx
+CASH AND CASH EQUIVALENTS AT 1 APRIL xxxx xxxx
+CASH AND CASH EQUIVALENTS AT 31 MARCH xxxx xxxx
+The Notes on pages …… to …… form an integral part of these financial statements.
+
+<!-- page 23 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+23A
+ABC SRI LANKA
+Notes to Financial Statements
+for the year ended 31 March 2013
+1. General Information
+ABC Sri Lanka is a non governmental organisation as per the definition provided in the Sri Lanka Statement
+of Recommended Practice for Not-for-Profit Organisations (including Non Governmental Organisations).
+[It is/is not registered with the Department of Social Services and has been established under the Social
+Services Act No. of ………….]
+[The organisation has been incorporated under the Companies Act No……......  of Sri Lanka as a company
+limited by guarantee. In the event that the company is wound up the liability of members is limited to Rs.
+……   per member].
+[The Organisation has been established under the Trust Ordinance of Sri Lanka].
+∗
+The names of the Members of the Board/Trustees of the Organisation are provided on page…
+It is domiciled in Sri Lanka and is the local representation of ABC in the UK.  The principle place of activity
+of the organisation is located at …………..
+In the financial statements “Organisation” refers to ABC Sri Lanka.
+Except for certain activities that will conclude on the realisation of their relevant activities in accordance
+with the relevant terms of reference, the financial statements have been prepared on going concern basis.
+The notes to the financial statements on pages … to …. are an integral part of the financial statements
+All values presented in the financial statements are in Rupees thousands (Rs.’000s) unless otherwise
+indicated.
+2. Basis of Preparation
+2.1 Statement of Compliance
+The Statement of Financial Position, Statement of Comprehensive Income, Statement  of Changes in
+Reserves, Statement of Cash Flows together with the Accounting Policies and Notes to the financial
+statements as at 31 March 2013 and for the year then ended comply with the Sri Lanka Statement of
+Recommended Practice for Not-for-Profit Organisations (including Non-Governmental Organisations) issued
+by the Institute of Chartered Accountants of Sri Lanka (SL SoRP).
+2.2 Basis of measurement
+The financial statements have been prepared using the historical cost convention, except as concerns
+financial securities and derivative financial instruments, which are stated at their fair value.
+∗ select as appropriate
+
+<!-- page 24 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+24A
+2.3 Functional and presentation currency
+The financial statements are presented in Sri Lankan Rupees (Rs.), which is the organization’s functional
+and presentation currency. All financial information presented in Rupees has been rounded to the nearest
+thousand, except when otherwise indicated.
+2.4 Changes in Accounting Policies and Disclosures
+The Accounting policies have been consistently applied, unless otherwise stated, and are consistent with
+those used in previous years, except for the changes in accounting policies specified by the SL SoRP
+issued in 2012.
+2.5 Significant Accounting Judgements, Estimates and Assumptions
+The preparation of the financial statements requires management to make judgements, estimates and
+assumptions that affect the reported amounts of revenues, expenses, assets and liabilities, and the disclosure
+of contingent assets and liabilities, at the reporting date. However, uncertainty about these assumptions
+and estimates can result in outcomes that could require a material adjustment to the carrying amount of
+the asset or liability affected in the future.
+Judgements
+In the process of applying ABC Sri Lanka’s accounting policies, management has made the
+following judgements, apart from those involving estimations, which have the most significant
+effect on the amounts recognized in the financial statements.
+[state the judgements made by the management]
+Estimates and assumptions
+The key assumptions concerning the future and other crucial sources of estimation uncertainty at
+the reporting date that have a significant risk of causing a material adjustment to the carrying
+amounts of assets and liabilities within the next financial year are discussed below.
+[state the estimates and assumptions made by the management]
+3. Summary of significant accounting policies
+3.1 Foreign-currency transactions
+Transactions in currencies other than Sri Lanka Rupees are converted into Sri Lanka Rupees at rates
+which approximate the actual rates at the transaction date. At the reporting date, monetary assets (including
+securities) and liabilities denominated in foreign currency are converted into Sri Lanka Rupees at the rate
+of exchange at that date. Non-monetary assets and liabilities in foreign currencies that are stated at
+historical cost are translated at the foreign exchange rate at the date of the transaction. Realized and
+unrealized exchange differences are reported in the Statement of Comprehensive Income.
+            The principal rates of exchange are shown below:
+Currency Closing Rate Average Rate
+31.03.2013 31.03.2012 31.03.2013 31.03.2012
+
+<!-- page 25 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+25A
+3.2 Cash and cash equivalents
+ABC Sri Lanka considers cash on hand, amounts due from banks and short-term deposits with an original
+maturity of three months or less to be "Cash and cash equivalents". Bank borrowings that are repayable on
+demand and form an integral part of the ABC Sri Lanka’s cash management are included as a component
+of cash and cash equivalents for the purpose of the Statement of Cash flows.
+3.3 Financial Instruments
+ABC Sri Lanka classifies financial assets in to the following categories; financial assets at fair value
+through profit and loss, held to maturity financial assets, loans and receivables, and available for sale
+financial assets.
+Financial assets at fair value through profit and loss
+Financial assets at fair value through profit and loss are classified as current assets, with any resultant
+gains or losses recognized in finance costs in the Statement of Comprehensive Income. As ABC Sri
+Lanka’s securities are managed externally on a portfolio basis, all income from securities is disclosed net.
+Securities are recognized and de-recognized on the trade date that the portfolio manager, on behalf of ABC
+Sri Lanka, commits to purchase or sell the investments.
+The fair value of listed securities is their quoted bid price at the reporting date. Financial income consists
+principally of interest and net realized and unrealized gains on changes in fair value. Interest income is
+recognized on an accruals basis, taking into account the effective yield of the asset.
+Held to maturity financial assets
+If the organisation has positive intent and ability to hold debt securities to maturity, then such financial
+assets are classified as held to maturity. They are initially recognised at fair value plus any directly attributable
+transaction costs. Subsequent to initial recognition, they are measured at amortised cost using the effective
+interest method, less any impairment losses.
+Loans and Receivables
+ABC Sri Lanka initially recognises loans and receivables on the date that they are originated. All other
+financial assets are recognised initially on the trade date, which is the date that the organisation becomes
+a party to the contractual provisions of the instrument. Loans and receivables are stated at their cost net of
+an allowance on outstanding amounts to cover the risk on non-payment.
+Available for sale financial assets
+Available for sale financial assets are financial assets that are designated as available for sale or are not
+classified in any of the above categories of financial assets. They are initially recognised at fair value plus
+any directly attributable transaction costs. Subsequent to initial recognition, they are measured at fair
+value therein, other than impairment losses and foreign currency difference on available for sale debt
+instruments, are recognised in other comprehensive income and presented in equity. When an investment
+is derecognised, the gain or loss accumulated in equity is reclassified to profit or loss.
+Impairment of financial assets
+The carrying amounts of ABC Sri Lanka’s assets are reviewed at each reporting date to determine whether
+there is any indication of impairment. The organisation assesses whether there is any objective evidence that
+a financial asset or a group of financial assets is impaired. A financial asset or a group of financial assets is
+deemed to be impaired if, and only if, there is objective evidence of impairment as a result of one or more
+events occurring after the initial
+
+<!-- page 26 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+26A
+recognition of the asset or assets (an incurred "loss event") and that loss event has an impact on the
+estimated future cash flows of the financial asset or the group of financial assets that can be reliably
+estimated.
+Evidence of impairment may include indications that the debtors or a group of debtors are experiencing
+significant financial difficulty or default in interest or principal payments, the probability that they will enter
+bankruptcy or any financial reorganization, and when observable data indicate that there is a measurable
+decrease in future cash flows, such as change in arrears or economic conditions that correlate with defaults.
+If any indication exists, the asset’s recoverable amount is estimated.
+An impairment loss is then recognized whenever the carrying amount of an asset exceeds its recoverable
+amount. Impairment losses are recognized in the Statement of Comprehensive Income. An impairment
+loss is reversed if there has been a change in the estimates used to determine the recoverable amount, but
+only to the extent that the asset’s carrying amount does not exceed the carrying amount that would have
+been determined, net of depreciation or amortization, if no impairment loss had been recognized.
+3.4 Inventories
+Inventories are valued at the lower of cost and net realisable value.  Net realisable value is the price at which
+inventories can be reasonably expected to be sold in the market place, less any estimated cost necessary
+to make the sale.
+Cost incurred to bringing inventories to its present location and condition include cost of raw materials on
+a first in first out basis, any direct labour, and an appropriate portion of any other direct overhead.
+Items donated for distribution or resale are not included in the financial statements until such time they are
+distributed or resold.
+3.5 Property Plant and Equipment
+a.
+Cost and Valuation
+All items of property, plant and equipment are initially recorded at cost.  Where any item of
+property, plant and equipment subsequently revalued, the entire class of such asset is revalued.
+Revaluation is carried out with sufficient regularity to ensure that their carrying amounts do not
+differ materially from their fair values as at the date of the Statement of Financial Position.  Subsequent
+to the initial recognition of an asset, property plant and equipment are carried at historical cost or,
+if revalued, at the revalued amounts less any subsequent depreciation. Additions subsequent to
+the last revaluation is carried at cost less any subsequent depreciation.
+Buildings owned are used for purposes of ABC Sri Lanka and therefore do not fall under the
+definition of Investment Property.
+b.
+Subsequent Expenditure
+Subsequent expenditure is capitalized only when it increases the future economic benefits
+embodied in the item of property and equipment. All other expenditure is recognized in the
+Statement of Comprehensive Income as an expense as incurred.
+c.
+Depreciation
+Depreciation is provided for on all assets on the straight-line basis and is calculated on the cost or revalued amount
+of all property, plant and equipment other than land, in order to write off such amounts less any terminal value over
+the estimated useful lives of such assets.
+
+<!-- page 27 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+27A
+The annual rates of depreciation currently being used by ABC Sri Lanka are:
+Assets Rate pa.
+Buildings 2 ½%
+Motor Vehicles 20%
+Computer equipment 33 1/3%
+Computer software 33 1/3%
+Office Equipment 20%
+Furniture and Fittings 10%
+[Please note these rates are for purpose of the illustrative statements only and not recommendations]
+d.
+Donated Assets
+Where property plant and equipment is purchased as a part of a project through restricted
+funds, until the conclusion of the project or, if on conclusion of the project, the asset is not handed
+over to the beneficiary or returned to the original donor, the cost of the asset is included in a
+memorandum inventory of property plant and equipment identified as such in the financial statements.
+Depreciation is/is not provided on such assets.
+Alternative treatment:
+Where property plant and equipment is purchased as a part of a project through restricted funds, if
+on conclusion of the project, the asset is not handed over to the beneficiary or returned to the
+original donor, the asset is valued on the conclusion of the project and brought into the financial
+statements under property plant and equipment through a Capital Reserve. The basis of valuation
+is as provided hereunder.  Depreciation provided on such assets will be charged against the reserve.
+For purpose of depreciation the date of valuation for inclusion in the financial statements is considered
+the date of purchase.
+3.6 Intangible Assets
+Intangible assets acquired separately are measured on initial recognition at cost. Following initial recognition,
+intangible assets are carried at cost minus any accumulated amortization and any accumulated impairment
+losses, except for assets with indefinite useful lives. Internally generated intangible assets are not capitalized
+as the criteria of recognition under LKAS 38 – Intangible Assets cannot be reliably measured; expenditure
+is therefore reflected in the Statement of Comprehensive Income in the year in which the expenditure is
+incurred.
+The useful lives of intangible assets are assessed to be either finite or indefinite.
+Intangible assets with finite useful lives are amortized over their useful economic life and assessed for
+impairment whenever there is an indication that the intangible asset may be impaired. The amortization
+period and method for an intangible asset with a finite useful life are reviewed at least at each financial year-
+end.
+Changes in the expected useful life or the expected pattern of consumption of future economic benefits
+embodied in the asset are accounted for by changing the amortization period or method, as appropriate,
+and are treated as changes in accounting estimates. The amortization expense on intangible assets with
+finite lives is recognized in the Statement of Comprehensive Income as a depreciation expense.
+
+<!-- page 28 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+28A
+Intangible assets with indefinite useful lives are tested for impairment annually. Such intangibles are not
+amortized. The useful life of an intangible asset with an indefinite life is reviewed annually to determine
+whether indefinite life assessment continues to be supportable. If not, the change in the useful life assessment
+from indefinite to finite is made on a prospective basis.
+3.7 Financial liabilities
+Subsequent to initial recognition, interest-bearing loans are stated at amortized cost with any difference
+between cost and redemption value being recognized in the Statement of Comprehensive Income over the
+period of the loan on an effective interest basis.
+Interest-free loans are recorded at fair value on initial recognition, which is the present value of the expected
+future cash flows, discounted using a market-related rate. The difference between the cost and the fair
+value of these loans on initial recognition is a deferred income. These loans and deferred income are
+subsequently recognized at amortized cost and spread over the useful life of the related assets.
+3.8 Provisions
+A provision is recognized in the statement of financial position when ABC Sri Lanka has a legal or constructive
+obligation as a result of a past event, it is probable that an outflow of assets will be required to settle the
+obligation, and the obligation can be measured reliably. For certain operational claims reported as provisions,
+it is not practical to disclose detailed information on their corresponding nature and uncertainties. If the
+effect is material, provisions are determined by discounting the expected future cash flow so as to reflect
+current market assessments of the time value of money and, where appropriate, the risks specific to the
+liability.
+3.9 Employee Benefits
+a.
+Defined Benefit Plan – Gratuity
+A defined benefit plan is a pension plan that is not defined contribution plan. Defined benefit plans
+define an amount of pension benefit that an employee will receive on retirement, usually dependent
+on one or more factors such as age, years of service and compensation.
+The liability recognized in the Statement of Financial Position in respect of defined benefit plan is
+the present value of the defined benefit obligation at the date of the Statement of Financial Position
+together with adjustments for unrecognized past-service costs. The defined benefit obligation is
+calculated annually by independent actuaries using the projected unit credit method. The present
+value of the defined benefit obligation is determined by discounting the estimated future cash
+outflows using the interest rates of long term Government Bonds or high quality corporate bonds.
+Past service costs are recognized immediately in income, unless the changes to the defined
+benefit plans are conditional on the employees remaining in services for a specified period of time
+(the vesting period). In this case, the past-service costs are amortised on a straight-line basis over
+the vesting period.
+As a policy, ABC Sri Lanka adopts the Corridor Method in recognizing the actuarial gains and
+losses. Accordingly, ABC Sri Lanka recognizes in the Statement of Comprehensive Income a
+specified portion of the net cumulative actuarial gains and losses that exceed the greater of;
+(i) 10% of the present value of the defined benefit obligation (before deducting plan assets);
+and
+(ii) 10% of the fair va lue of any plan assets
+
+<!-- page 29 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+29A
+b. Defined Contribution plans
+All employees are eligible to contribution to the Employees’ Provident Fund and the Employees’
+Trust Fund in accordance with the relevant statutes and regulations.  ABC Sri Lanka contributes
+12% and 3% of the gross emoluments of the employees to the Employees’ Provident Fund and to
+the Employees’ Trust Fund respectively.
+3.10 Accounting for the receipt and utilisation of Funds/Reserves
+Reserves
+Reserves are classified as either restricted or unrestricted reserves.
+a.
+Unrestricted Reserves/Funds
+Unrestricted funds are those that are available for use by ABC Sri Lanka at the discretion of the
+Board, in furtherance of the general objectives of ABC Sri Lanka and which are not designated for
+any specific purpose.
+Surplus funds are transferred from restricted funds to unrestricted funds in terms of the relevant
+Donor Agreements or with the subsequent approval of the Donor.
+Contributions received from the general public are recognised in the Statement of Comprehensive
+Income on a cash basis.
+b.
+Designated Reserves/Funds
+Unrestricted funds designated by the Board to a specific purpose are identified as designated
+funds.  The activities for which these funds may be used are identified in the financial statements.
+c.
+Restricted Reserves/Funds
+Where grants are received for use in an identified project or activity, such funds are held in a
+restricted fund account and transferred to the Statement of Comprehensive Income to match with
+expenses incurred in respect of that identified project.  Unutilised funds are held in their respective
+Fund accounts and included under accumulated fund in the Statement of Financial Position until
+such time as they are required.
+Funds collected through a fund raising activity for any specific or defined purpose are also included
+under this category.
+Where approved grant expenditure exceeds the income received and there is certainty that the
+balance will be received such amount is recognised through Debtors in the Statement of Financial
+Position.
+The activities for which these restricted funds may and are being used are identified in the notes to
+the financial statements.
+e.
+Endowment Reserves/Funds
+Where assets are received as an endowment, which are not exhausted, only the income earned
+from such assets may be recognised and used as income.
+f. Investment Income and other gains realised from funds available under each of the above categories
+are allocated to the appropriate funds, unless the relevant agreement or minute provides otherwise.
+
+<!-- page 30 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+30A
+3.11 Grants and Subsidies
+Grants and subsidies are recognised in the financial statements at their fair value. When the grant or
+subsidy relates to an expense it is recognised as income over the period necessary to match it with the
+costs, which it is intended to compensate for on a systematic basis.
+Grants and subsidies related to assets are generally deferred in the Statement of Financial Position and
+credited to the Statement of Comprehensive Income over the useful life of the asset.
+In the case of grants received to fund an entire project or activity, which includes the purchase of an asset,
+and the cost of such asset is charged with the project costs to the Statement of Comprehensive Income,
+the grant value is recognised as income in the same period as the cost of the asset is charged to the
+Statement of Comprehensive Income.  On conclusion of the project, in the event that the asset is not
+handed over to the beneficiary or returned to the original donor, the cost of the asset is included in a
+memorandum inventory of property plant and equipment identified as such in the financial statements.
+3.12 Leases
+a.
+Finance Leases
+Property, plant and equipment on finance leases, which effectively transfer to ABC Sri Lanka
+substantially all of the risk and benefits incidental to ownership of the lease items, are capitalised
+and disclosed as Finance Lease at their cash price and depreciated over the period ABC Sri Lanka
+is expected to benefit from the use of the leased assets.
+The corresponding principal amount that is payable to the lessor is shown as a liability.  Lease
+payments are apportioned between the finance charges and reduction of the lease liability so as to
+achieve a constant rate of interest on the outstanding balance of the liability. The interest payable
+over the period of the lease is transferred to an interest in a suspense account. The interest
+element of the rental obligation pertaining to each financial year is charged to the Statement of
+Comprehensive Income over the period of the lease.
+b.
+Operating leases
+Leases where, the lessor effectively retains substantially all of the risks and benefits of ownership
+over the term of the lease are classified as operating leases.  Rentals paid under operating leases
+are recognised as an expense in the Statement of Comprehensive Income on a straight-line basis
+over the term of the lease.
+3.13 Income recognition
+a.
+Contributions/ Incoming Sources
+Income realised from restricted funds is recognised in the Statements of Comprehensive Income
+only when there is certainty that all of the conditions for receipt of the funds have been complied
+with and the relevant expenditure that it is expected to compensate has been incurred and charged
+to the Statements of Comprehensive Income. Unutilised funds are carried forward as such in the
+Statement of Financial Position.
+
+<!-- page 31 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+31A
+Gifts and donations received in kind are recognised at valuation at the time that they are distributed
+to beneficiaries, or if received for resale with proceeds being used for the purpose of ABC Sri Lanka
+at the point of such sale.  Items not sold or distributed are inventorised but not recognised in the
+financial statements.
+All other income is recognised when ABC Sri Lanka is legally entitled to the use of such funds and
+the amount can be quantified. This would include income receivable through fund raising activities
+and donations.
+b.
+Revenue
+Interest earned is recognised on an accrual basis.
+Dividend received is recognised when the right to receive dividend is established.
+Revenues earned on services rendered are recognised in the accounting period in which the services
+were rendered.
+Net gains and losses on the disposal of property, plant and equipment and other non current
+assets, including investments, are recognised in the Statement of Comprehensive Income after
+deducting from the proceeds on disposal, the carrying value of the item disposed of and any
+related selling expenses. In the case of any revalued asset, any balance remaining in the Revaluation
+Reserve account is transferred to the Statement of Comprehensive Income.
+Other income is recognised on an accrual basis.
+3.14 Expenditure recognition
+Expenses in carrying out the projects and other activities of ABC Sri Lanka are recognised in the
+Statement of Comprehensive Income during the period in which they are incurred. Other expenses
+incurred in administering and running ABC Sri Lanka and in restoring and maintaining the property
+plant and equipment to perform at expected levels are accounted for on an accrual basis and
+charged to the Statement of Comprehensive Income.
+ABC Sri Lanka has adopted the “Function of expense” method to present fairly the elements of
+ABC Sri Lanka’s activities in its Statement of Comprehensive Income.
+3.15 T axation
+a.
+Current Taxes
+Income tax is provided in accordance with the provisions of the Inland Revenue Act No. 10 of 2006,
+on the profits earned by ABC Sri Lanka and in terms of Section 96A; and is based on the elements
+of income and expenditure reflected in the Statement of Comprehensive Income and on the elements
+of grants received, subject to exemptions referred to in Note xx to the financial statements.
+b.
+Deferred Taxes
+Deferred Tax is provided on the difference between the values of assets and liabilities as per the Statement
+of Financial Position and as listed for the purpose of Income Tax as at the date of the Statement of
+Financial Position adjusting for any differences that will not reverse in the foreseeable future.
+The carrying amount of such deferred taxes will be reviewed at each date of the Statement of
+Financial Position and will be increased by virtue of any new assets being included or be reduced
+by the extent that it is no longer probable that sufficient taxable profit will be available to allow all
+or part of the deferred tax asset to be utilised.
+
+<!-- page 32 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+32A
+c. Value added taxes
+Value added taxes (or VAT) are payable on the import of certain items and are normally included in
+the cost of such item.  An exception would be where the item Statement of Financial Position
+sheet until such time as it is received.
+3.16 Borrowing costs
+Borrowing costs that are directly attributable to the acquisition, construction or production of a qualifying
+asset, are capitalised as a part of the cost of that asset. Other borrowing costs are treated as an expense
+in the period in which it is incurred.
+3.17 Financial income and expenditure
+Net financial income (see Note xx) comprises interest payable on borrowings, interest receivable on funds
+invested, securities income and gains and losses on hedging instruments. Interest income is recognized in
+the Statement of Comprehensive Income as it accrues, taking into account the effective yield on the asset.
+3.18 Contingent liabilities
+A contingent liability is a possible obligation that arises from past events and whose existence will be
+confirmed only on the occurrence or non-occurrence of one or more uncertain future events that are not
+wholly within the control of ABC Sri Lanka. It may also be a present obligation that arises from past events
+but in respect of which an outflow of economic benefit is not probable or which cannot be measured with
+sufficient reliability. Such contingent liabilities are recorded under Note xx. For certain operational claims
+reported as contingent liabilities, it is not practical to disclose detailed information on their corresponding
+nature and uncertainties.
+4. Notes to the Financial Statements
+4.1 Property Plant and Equipment
+ 
+(a)
+Item Balance as Additions Disposals Balance as
+at 01.04.2012 during the year during the year at 31.03.2013
+At Cost /Valuation
+Land xxxx xxxx xxxx xxxx
+Buildings xxxx xxxx xxxx xxxx
+Motor Vehicles xxxx xxxx xxxx xxxx
+Computer equipment     xxxx xxxx xxxx xxxx
+Computer software     xxxx xxxx xxxx xxxx
+Office Equipment     xxxx xxxx xxxx xxxx
+Furniture and Fittings
+xxxx xxxx xxxx xxxx
+xxxx xxxx xxxx xxxx
+Capital work in progress     xxxx xxxx xxxx xxxx
+Total xxxx xxxx xxxx xxxx
+
+<!-- page 33 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+33A
+Item Balance as Charge Disposals Balance as
+at 01.04.2012 for the year during the year at 31.03.2013
+Depreciation on
+Cost/Valuation
+Land xxxx xxxx xxxx xxxx
+Buildings xxxx xxxx xxxx xxxx
+Motor Vehicles xxxx xxxx xxxx xxxx
+Computer equipment xxxx xxxx xxxx xxxx
+Computer software xxxx xxxx xxxx xxxx
+Office Equipment xxxx xxxx xxxx xxxx
+Furniture and Fittings
+xxxx xxxx xxxx xxxx
+xxxx xxxx xxxx xxxx
+Capital work in progress xxxx xxxx xxxx xxxx
+Total xxxx xxxx xxxx xxxx
+Net book value of Assets
+At cost xxxx xxxx xxxx xxxx
+At valuation xxxx xxxx xxxx xxxx
+Total xxxx xxxx xxxx xxxx
+(b) Segment analysis of net book value of assets
+Organisation
+For the year ended 31 March 2013 2012
+Segment
+Provision of housing xxxx xxxx
+Fisheries xxxx xxxx
+Other project xxxx xxxx
+Administration xxxx xxxx
+xxxx xxxx
+(c). Project Assets not included in Statement of Financial Position
+At Cost /Valuation
+Item Balance as at Additions Capitalised T ransferred Balance as at
+01.04.2012 during the year during the year during the year  31.03.2013
+Buildings     xxxx     xxxx     xxxx     xxxx     xxxx
+Motor Vehicles     xxxx     xxxx     xxxx     xxxx     xxxx
+Computer equipment     xxxx     xxxx     xxxx     xxxx     xxxx
+Computer software     xxxx     xxxx     xxxx     xxxx     xxxx
+Office Equipment     xxxx     xxxx     xxxx     xxxx     xxxx
+Furniture and Fittings     xxxx     xxxx     xxxx     xxxx     xxxx
+Total   xxxx   xxxx   xxxx   xxxx   xxxx
+
+<!-- page 34 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+34A
+4.2 Intangible Assets
+Item Balance as Additions Disposals Balance as
+at 01.04.2012 during the year during the year at 31.03.2013
+At Cost /Valuation
+Software     xxxx xxxx xxxx xxxx
+Emblem     
+xxxx xxxx xxxx xxxx
+Total     xxxx xxxx xxxx xxxx
+Item Balanceas Charge for Balance as
+at 01.04.2012 the year at 31.03.2013
+Amortization
+Software xxxx xxxx xxxx
+Emblem xxxx xxxx xxxx
+Total             xxxx xxxx xxxx
+Net Book Value xxxx xxxx xxxx
+4.3 Long Term Receivables
+Organisation
+For the year ended 31 March 2013 2012
+Deferred Income xxxx xxxx
+Total xxxx xxxx
+4.4 Other Financial Assets
+Organisation
+For the year ended 31 March 2013 2012
+Forward currency contracts xxxx xxxx
+Guarantee deposits xxxx xxxx
+Total xxxx xxxx
+4.5 Inventories
+Organisation
+For the year ended 31 March 2013 2012
+Consumables xxxx xxxx
+Administration, identification and security xxxx xxxx
+Publications xxxx xxxx
+Work In progress xxxx xxxx
+Total xxxx xxxx
+Inventory written off and charged to expenses amounted to Rs.xxx.
+4.6 Accounts Receivable
+Organisation
+For the year ended 31 March 2013 2012
+Pledges xxxx xxxx
+National Societies, organizations,
+foundations and funds xxxx xxxx
+xxxx xxxx
+Withholding taxes xxxx xxxx
+            Other income receivable xxxx xxxx
+Allowance for accounts receivable (
+xxx) (xxx)
+Total xxxx xxxx
+
+<!-- page 35 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+35A
+4.7 Prepayments
+Organisation
+For the year ended 31 March 2013 2012
+Prepaid expenses xxxx xxxx
+Advance payments to suppliers xxxx xxxx
+Social security and insurance contributions xxxx xxxx
+Total xxxx xxxx
+4.8 Other Financial Assets
+Organisation
+For the year ended 31 March 2013 2012
+Fair Value through Profit & Loss
+financial assets xxxx xxxx
+Total xxxx xxxx
+4.9 Cash and cash equivalents
+Organisation
+For the year ended 31 March 2013 2012
+Cash in hand xxxx xxxx
+Cash at Bank xxxx xxxx
+Short-term deposits xxxx xxxx
+Total xxxx xxxx
+Cash at banks earns interest at floating rates based on daily bank rates. Short-term deposits are made for
+varying periods of between one day and three months, depending on the immediate cash requirements of
+ABC Sri Lanka, and earn interest at the respective short-term deposit rates.
+At 31 March 2013, ABC Sri Lanka had available Rs. xxxxx (2012: Rs. xxx) of undrawn committed borrowing
+facilities in respect of which all prior conditions had been met.
+For the purpose of the Statement of Cash flows, cash and cash equivalents comprised the following as
+at 31 March:
+31.03.2013 31.03.2012
+Cash and cash equivalents xxxx xxxx
+Bank overdrafts xxxx xxxx
+Total Cash and cash equivalents xxxx xxxx
+in the statement of cash flows
+4.10 Unrestricted Reserves/Funds
+Organisation
+For the year ended 31 March 2013 2012
+Balance at beginning of the year xxxx xxxx
+Unrestricted surplus/deficit
+     in operating Activities  (
+xxx) (xxx)
+Balance at end of the year xxxx xxxx
+
+<!-- page 36 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+36A
+4.11 Designated Funds
+Organisation
+For the year ended 31 March 2013 2012
+Balance as at beginning of year xxxx xxxx
+Additional Funds received during the year xxxx xxxx
+Transfer to Statement of Comprehensive Income ( xxx) (xxx
+Balance as at year end xxxx xxxx
+Designated for
+Refurbishment/expansion of office space xxxx xxxx
+Staff welfare xxxx xxxx
+xxxx xxxx
+4.12 Restricted Funds
+Balance as at beginning of year xxxx xxxx
+Additional Funds received during the year xxxx xxxx
+Transfer to Statement of Comprehensive Income ( xxx) (xxx)
+Transfer to Unrestricted Funds ( xxx) (xxx)
+Balance as at year end xxxx xxxx
+Name of 
+Donor 
+Organisation 
+Project Balance 
+brought 
+forward 
+Received 
+/restricted 
+surplus 
+during the 
+year 
+Transferred 
+to Income 
+and 
+Expenditure 
+Interest 
+Income 
+on 
+Restricted 
+Funds 
+Balance 
+carried 
+forward 
+ABC 
+ 
+      
+GH1 
+ 
+      
+MNO 
+ 
+      
+XYZ 
+ 
+      
+ 
+   Total 
+      
+Project wise allocation and movement in Restricted Funds
+4.13 Endowment Funds
+Organisation
+For the year ended 31 March 2013 2012
+Balance at beginning of the year xxxx xxxx
+Surplus / deficit for the year ( xxx) (xxx)
+Balance at end of the year xxxx xxxx
+Endowment Funds as at year-end comprise:
+…………………… xxxx xxxx
+
+<!-- page 37 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+37A
+4.14 Other Capital Reserves
+Organisation
+For the year ended 31 March 2013 2012
+Balance at beginning of the year xxxx xxxx
+Surplus / deficit for the year  (xxx) (xxx)
+Balance at end of the year xxxx xxxx
+4.15 Loans and borrowings
+Organisation
+For the year ended 31 March 2013 2012
+Unsecured interest-free loans xxxx xxxx
+Less current portion (xxx) (xxx)
+Total xxxx xxxx
+There are two interest-free loans related to buildings, both granted by a governmental body. These interest-
+free loans were recognized at their fair values at initial recognition. The difference between fair value and
+cost has been booked in deferred income (see Note xx). As at 31 March 2013,the fair value of these non-
+current loans amounts to Rs.xxxx. Notional interest for a contributed service of Rs.xxxx (2012:Rs. xxx)
+has been recorded as expenditure and as income.
+4.16 Employee benefit liabilities
+Organisation
+For the year ended 31 March 2013 2012
+Balance as at 1 April xxxx xxxx
+Current service cost xxxx xxxx
+Past service cost xxxx xxxx
+Interest cost xxxx xxxx
+Actuarial losses/(gains) xxxx xxxx
+Benefits paid during the year (xxx) (xxx)
+Balance as at 31 March xxxx xxxx
+Amounts recognised in the Statement of Comprehensive Income are as follows:
+Organisation
+For the year ended 31 March 2013 2012
+Current service cost xxxx xxxx
+Past service cost xxxx xxxx
+Interest cost xxxx xxxx
+Balance as at 31 March xxxx xxxx
+This obligation is not externally funded.
+4.17 Deferred income
+Organisation
+For the year ended 31 March 2013 2012
+Deferred income related to pledges xxxx xxxx
+Deferred income related to government loans xxxx xxxx
+Balance as at 31 March xxxx xxxx
+
+<!-- page 38 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+38A
+4.18 Accounts Payable
+Organisation
+For the year ended 31 March 2013 2012
+Refundable to donors xxxx xxxx
+Suppliers xxxx xxxx
+Sundry items xxxx xxxx
+Total xxxx xxxx
+Terms and conditions of the above financial liabilities
+• Governments, National Societies, organizations, foundations, funds and suppliers are non-interest bearing and
+are normally settled on 30-day terms.
+• Sundry items are non-interest bearing and have an average term of six months.
+4.19 Accrued expenses
+Organisation
+For the year ended 31 March 2013 2012
+National Societies, organizations,
+foundations and funds xxxx xxxx
+Accrued expenses xxxx xxxx
+Total xxxx xxxx
+4.20 Provisions
+Organisation
+For the year ended 31 March 2013 2012
+Balance at 1 April xxxx xxxx
+Allocations during the year xxxx xxxx
+Use of provisions during the year xxxx xxxx
+Release of provisions during the year (xxx) (xxx)
+Total xxxx xxxx
+The balance represents operational claims that are principally legal in nature and that management considers will
+probably be paid by ABC Sri Lanka. All provisions are expected to be settled within a year.
+4.21 Bank overdrafts
+Organisation
+For the year ended 31 March 2013 2012
+Bank 1 xxxx xxxx
+Bank 2 xxxx xxxx
+Total xxxx xxxx
+
+<!-- page 39 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+39A
+4.22 Incoming Resources
+Organisation
+For the year ended 31 March 2013 2012
+Summary
+Activities in furtherance of organisation’s objectives
+Grants - Restricted Funding xxxx xxxx
+Grants – Unrestricted Funding xxxx xxxx
+Income from endowments xxxx xxxx
+Donations from the public xxxx xxxx
+Corporate Fundraising xxxx xxxx
+Gifts in kind xxxx xxxx
+Profit from trading or other activities [refer (a)] xxxx xxxx
+Other fund raising activity xxxx xxxx
+xxxx xxxx
+(a)  Profit from trading activities
+Sale Proceeds xxxx xxxx
+Cost/Fair value of items xxxx xxxx
+Profit earned xxxx xxxx
+4.23 Staff-related Costs
+Organisation
+For the year ended 31 March 2013 2012
+Wages and salaries xxxx xxxx
+Social insurance and social benefits xxxx xxxx
+Contributed services xxxx xxxx
+Post-employment benefit costs xxxx xxxx
+Total xxxx xxxx
+The average number of positions/employees during 2012/2013 was xxxx.
+4.24 Direct Project/Activity Costs
+Organisation
+For the year ended 31 March 2013 2012
+Administration costs xxxx xxxx
+Consultancy fees xxxx xxxx
+Travelling xxxx xxxx
+Other xxxx xxxx
+Total xxxx xxxx
+4.25 Rentals
+Organisation
+For the year ended 31 March 2013 2012
+Premises and equipment xxxx xxxx
+Transport xxxx xxxx
+Other xxxx xxxx
+Total xxxx xxxx
+
+<!-- page 40 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+40A
+4.26 Net Financial Income
+Organisation
+For the year ended 31 March 2013 2012
+Dividends xxxx xxxx
+Interest xxxx xxxx
+Gains/(losses) on securities xxxx xxxx
+Total xxxx xxxx
+4.27 Income Tax Expense
+Current Tax on Ordinary Activities xxxx xxxx
+NGO Tax on Grants received xxxx xxxx
+Total Income Tax expense xxxx xxxx
+Applicable rates of tax and the relevant tax regimes
+As per the Inland Revenue Act No. 10 of 2006, all Non-Governmental Organisations are liable to tax at
+xx% on any surplus earned during the year; and xx% of all grants received during the year are taxable at
+xx% subject to certain specified exemptions.
+ABC Organisation is exempted from Income based taxes as per xx of the Act and the following activities
+are exempted from the Grants tax as per xx of the Act.
+Transferred from 
+Restricted Funds 
+Total amount expended 
+Other Direct 
+Identified 
+Project 
+Organisation Amount 
+Received 
+during the 
+year from 
+unrestricted 
+funds and 
+other 
+sources 
+Staff 
+Assets Other 
+Other 
+Indirect 
+Total 
+ 
+ 
+ 
+ 
+ 
+       
+Housing 
+Location 1 
+Location 2 
+Other 
+ 
+Total 
+        
+        Fisheries 
+ 
+Location 1 
+Location 2 
+Other 
+ 
+ 
+Total 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+       
+Other 
+ 
+Location 1 
+Location 2 
+Other 
+ 
+ 
+        
+Total         
+Transfer to 
+Statement 
+of 
+Financial 
+Position 
+        
+Per SFA         
+4.28 Project Activity Summary
+Surplus/
+deficit on
+project
+
+<!-- page 41 -->
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2014'07'25
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 25.07.2014
+41A
+4.29 Capital Commitments
+ABC Sri Lanka has committed to building 10 houses in …..   in the …..  District at a cost of Rs. xxx
+millions of which a sum of Rs. xxx has been expended as at the date of the Statement of Financial
+Position.
+4.30 Contingent Liabilities
+ABC Sri Lanka has committed to provide equipment to a value of Rs.xxx to a home in ….. on the basis of
+funds to be provided by Donor X.  In the event that these funds are not received ABC Sri Lanka would be
+required to meet this cost.
+4.31 Related Party Transactions
+ABC Sri Lanka has entered into a contract with P and Sons to provide computer equipment to a value of
+Rs. xxx. The owner of P and Sons is also a consultant to ABC Sri Lanka.
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING ,  SRI LANKA.
