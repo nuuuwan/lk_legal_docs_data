@@ -24,6 +24,12 @@
     "description": "Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025"
   },
   {
+    "doc_type_name": "acts",
+    "id": "12-2025",
+    "date": "2025-08-04",
+    "description": "Companies (Amendment)"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2447-81",
     "date": "2025-08-02",
@@ -250,6 +256,12 @@
     "id": "625-2025",
     "date": "2025-07-22",
     "description": "Land Development (Amendment) - Bill"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-41",
+    "date": "2025-07-22",
+    "description": "Ministry of Labour - Industrial dispute between T. S. Ranasinghe and State Timber Corporation 2.Industrial dispute between P. D. Vijithapriya Wijerathne included 09 others and State Timber Corporation"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -586,17 +598,5 @@
     "id": "2025-07-11-iv-b-local-government",
     "date": "2025-07-11",
     "description": "IV (B) - Local Government"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-11-iv-a-provincial-councils",
-    "date": "2025-07-11",
-    "description": "IV (A) - Provincial Councils"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-11-iii-trade-marks-and-patent-notices",
-    "date": "2025-07-11",
-    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
   }
 ]
