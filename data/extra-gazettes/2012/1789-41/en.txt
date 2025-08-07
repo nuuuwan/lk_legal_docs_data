@@ -1,0 +1,458 @@
+
+
+<!-- page 1 -->
+
+1AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+w;s úfYI
+wxl 1789$41 - 2012 foieïn¾ ui 21 jeks isl=rdod - 2012'12'21
+No. 1789/41  - FRIDAY,  DECEMBER  21,  2012
+EXTRAORDINARY
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+(Published by Authority)
+PART I : SECTION (I) — GENERAL
+Government Notifications
+1A
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+                  
+       
+              
+               
+            
+        
+                  
+     
+         
+             
+         
+               
+            
+               
+               
+            
+               
+        
+                 
+        
+              
+               
+            
+         
+                  
+SRI  LANKA  ACCOUNTING  AND  AUDITING  STANDARDS  ACT, N O. 15  OF 1995
+Publication under Section 4 (2)
+BY virtue of the powers vested in the Institute of Chartered Accountants of Sri Lanka (hereinafter referred to as the “Institute”),
+the Institute has adopted the Statement of Recommended Practice for Merger Accounting for Common Control Combinations
+with effect from 1
+st January 2013, published herewith for the purpose of the Sri Lanka Accounting and Auditing Standards,
+Act, No. 15 of 1995.
+                                                                                                             By order of the Council,
+ARUNA ALWIS,
+Secretary.
+The Institute of Chartered Accountants of Sri Lanka,
+No. 30A,
+Malalasekera Mawatha,
+Colombo 07,
+21
+st December 2012.
+STATEMENT   OF   RECOMMENDED     PRACTICE
+MERGER ACCOUNTING FOR COMMON CONTROL COMBINA TIONS
+The Statement of Recommended Practice for Merger Accounting for Common Control Combinations was approved by the
+Council of the Institute of Chartered Accountants of Sri Lanka on 19th December, 2012.
+This Accounting Guideline contains the Institute of Chartered Accountants of Sri Lanka copyright material. Reproduction in
+an unaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an
+acknowledgement of the source. Requests and inquiries concerning reproduction and rights for commercial purposes should
+
+<!-- page 2 -->
+
+2A I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+be addressed to the Secretary, Mr. Aruna Alwis, The Institute of Chartered Accountants of Sri Lanka, No. 30 A, Malalasekara
+Mawatha, Colombo 07,Sri Lanka.
+Merger Accounting for Common Control Combinations
+CONTENTS
+Paragraphs
+Introduction 1 – 4
+The principles 5 - 8
+The procedures 9 - 12
+Accounting period covered by a newly formed parent 13 - 14
+Disclosures in addition to those required by applicable SLFRSs/LKASs 15 - 17
+Earnings per share 18
+Effective Date 19
+Appendix 1 – Numerical Example
+Appendix 2 – Examples of situations where this SoRP may be applicable
+Although the provisions for this Statement of Recommended Practice (SoRP) are not mandatory, entities falling within
+their scope are encouraged to comply with the recommendations set out in this SoRP .
+STATEMENT  OF  RECOMMENDED  PRACTICE
+Introduction
+1. This SoRPsets out the basic principles and procedures of merger accounting when recognising a common
+control combination. If there is any inconsistency between this SoRP and any Sri Lanka Accounting Standards
+or Interpretation (collectively referred to as “SLFRS/LKAS”), that Standard or Interpretation is to be followed.
+Certain SLFRSs/LKASs may contain guidance or requirements that are relevant for the accounting for a common
+control combination using merger accounting. For example, LKAS 8 Accounting Policies, Changes in Accounting
+Estimates and Errors requires accounting policies to be applied consistently for similar transactions, LKAS 27
+Consolidated and Separate Financial Statements addresses consolidation principles and the treatment of a
+disposal of a subsidiary and LKAS 37 Provisions, Contingent Liabilities and Contingent Assets addresses
+provisions for restructuring. Accordingly, an entity should apply that guidance or those requirements, instead
+of, or in addition to, the guidance set out in this SoRP when applying Merger accounting.
+2. For annual periods beginning on or after 01st January, 2012 SLFRS 3 Business Combinations applies to all
+business combinations except where a combination is specifically excluded from its scope. For those business
+combinations outside the scope of SLFRS 3, for example, business combinations involving entities or businesses
+under common control, there is no specific accounting standard addressing the appropriate accounting treatment.
+
+<!-- page 3 -->
+
+3AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+3. Application guidance of SLFRS 3 (paragraphs B1) defines a business combination involving entities or
+businesses under common control as "a business combination in which all of the combining entities or businesses
+are ultimately controlled by the same party or parties both before and after the business combination, and that
+control is not transitory". Such business combinations are referred to hereafter in this SoRP as "common
+control combinations" to distinguish them from other business combinations which fall within or outside the
+scope of  SLFRS 3.
+4. LKAS 8 Accounting Policies , Changes in Accounting Estimates and Errors,  paragraphs 10-12, contain
+requirements for the selection of accounting policies in the absence of a Standard or an Interpretation that
+specifically applies to an issue.  Common control combinations fall outside the scope of  SLFRS 3.  Accordingly,
+an entity selects an appropriate accounting policy in accordance with the requirements set out in LKAS 8 and
+many entities consider that merger accounting is an appropriate accounting policy for common control
+combinations.
+The principles
+5. The concept underlying the use of merger accounting to account for a business combination is that no
+acquisition has occurred and there has been a continuation of the risks and benefits to the controlling party (or
+parties) that existed prior to the business combination. Use of merger accounting recognizes this by accounting
+for the combining entities or businesses as though the separate entities or businesses were continuing as
+before.
+6. In applying merger accounting, financial statement items of the combining entities or businesses for the
+reporting period in which the common control combination occurs, and for any comparative periods disclosed,
+are included in the consolidated financial statements of the combined entity as if the combination had occurred
+from the date when the combining entities or businesses first came under the control of the controlling party or
+parties.
+7. Where the combining entities or businesses include an entity or a business previously acquired from a third
+party, the financial statement items of such entity or business are only included in the consolidated financial
+statements of the combined entity from the date of the previous acquisition using the acquisition values
+recognised at that date.
+8. A single uniform set of accounting policies is adopted by the combined entity. Therefore, the combined entity
+recognises the assets, liabilities and equity of the combining entities or businesses at the carrying amounts in
+the consolidated financial statements of the controlling party or parties prior to the common control combination.
+If consolidated financial statements were not previously prepared by the controlling party or parties, the
+carrying amounts are included as if such consolidated financial statements had been prepared, including
+adjustments required for conforming the combined entity’s accounting policies and applying those policies to
+all periods presented. These carrying amounts are referred to below as existing book values from the controlling
+parties’ perspective. There is no recognition of any additional goodwill or excess of the acquirer’s interest in
+the net fair value of the acquiree’s identifiable assets, liabilities and contingent liabilities over cost at the time
+of the common control combination to the extent of the continuation of the controlling party or parties’
+interests. Similarly, in accordance with LKAS 27, the effects of all transactions between the combining entities
+or businesses, whether occurring before or after the combination, are eliminated in preparing the consolidated
+financial statements of the combined entity.
+The procedures
+9. The practical effects of merger accounting are that:
+(a) the net assets of the combining entities or businesses are consolidated using the existing book values
+from the controlling parties’ perspective (see paragraph 8). The assets and liabilities of the acquired
+
+<!-- page 4 -->
+
+4A I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+entity or business should be recorded at the book values as stated in the financial statements of the
+controlling party (i.e. it will require recording of the fair value of the identifiable assets and liabilities of the
+acquired entity or business at the date of original acquisition from third parties by the controlling party,
+any remaining goodwill arising on the previous acquisition and minority interests recorded in the
+consolidated financial statements of the controlling party).  When the controlling party does not prepare
+financial statements, the carrying amounts of the acquired entity are included as if such consolidated
+financial statements had been prepared;
+(b) no amount is recognised as consideration for goodwill or excess of acquirer’s interest in the net fair value
+of acquiree’s identifiable assets, liabilities and contingent liabilities over cost at the time of common
+control combination, to the extent of the continuation of the controlling party or parties’ interests; and
+(c) comparative amounts in the financial statements are presented using the principles as set out in paragraph
+9 (a) above as if the entities or businesses had been combined at the previous balance sheet date unless
+the combining entities or businesses first came under common control at a later date.
+10. The consolidated income statement includes the results of each of the combining entities or businesses from
+the earliest date presented (i.e. including the comparative period) or since the date when the combining entities
+or businesses first came under the control of the controlling party or parties, where this is a shorter period,
+regardless of the date of the common control combination. The consolidated income statement also takes into
+account the profit or loss attributable to the minority interest recorded in the consolidated financial statements
+of the controlling party.
+11. Expenditure incurred in relation to a common control combination that is to be accounted for by using merger
+accounting is recognized as an expense in the period in which it is incurred. Such expenditure includes professional
+fees, registration fees, costs of furnishing information to shareholders, and salaries and other expenses involved
+in achieving the common control combination. It also includes any costs or losses incurred in combining
+operations of the previously separate businesses.
+12. Consolidation is performed in accordance with LKAS 27.  The principal consolidation entries are as follows:
+(a) the effects of all transactions between the combining entities or businesses, whether occurring before or
+after the common control combination, are eliminated; and
+(b) since the combined entity will present one set of consolidated financial statements, a uniform set of
+accounting policies is adopted which may result in adjustments to the assets, liabilities and equity of the
+combining entities or businesses.
+Accounting period covered by a newly formed parent
+13. A common control combination may be effected by setting up a new parent which acquires the issued shares
+or equity of the combining entities or businesses in exchange for the issue of its own shares. In such cases, the
+first accounting period of the new parent will frequently be a period of less than a year, ending on the balance
+sheet date chosen for the group. This will normally be the existing balance sheet date of one or more of the
+combining entities or businesses.
+14. Frequently, the date of formation of the new parent will not coincide with the beginning or end of the group’s
+accounting periods. Strictly, if the parent is a Sri Lanka incorporated company, the Companies Act requires the
+consolidated financial statements to cover the accounting period of the parent. It could be argued that this
+requirement prevents the disclosure of comparative information.  In substance, however, where the combining
+entities or businesses are continuing to trade as before, but with a new legal parent, it is appropriate to prepare
+consolidated financial statements as if the parent had been in existence throughout the reported periods
+
+<!-- page 5 -->
+
+5AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+presented with a prominent footnote explaining the basis on which consolidated financial statements are
+prepared.
+Disclosures in addition to those required by applicable SLFRSs/LKASs
+15. Entities shall disclose the accounting policy applied in accounting for a common control combination by using
+the principles of merger accounting.  Details of the accounting policy shall include, but not be limited to, a
+discussion of the specific principles and bases applied under merger accounting.
+16. Bearing in mind the necessity of showing a true and fair view, entities applying this SoRP shall disclose in their
+consolidated financial statements significant details of the common control combinations.
+17. For each common control combination accounted for by using merger accounting, the following information
+shall be disclosed:
+(a) the names of the combining entities (other than the reporting entity);
+(b) the date of the common control combination;
+(c) the composition of the consideration and fair value of the consideration other than shares issued;
+(d) the nature and amount of significant accounting adjustments made to the net assets and net profit or loss
+of any entities or businesses to achieve consistency of accounting policies, and an explanation of any
+other significant adjustments made to the net assets and net profit or loss of any entity or business as a
+consequence of the common control combination; and
+(e) a statement of the adjustments to consolidated reserves.
+Earnings per share
+18. Ordinary shares issued as part of a common control combination which is accounted for using merger accounting
+are included in the calculation of the average outstanding shares for all periods presented because the
+consolidated financial statements of the combined entity are prepared as if the combined entity had always
+existed. Therefore, the number of ordinary shares used for the calculation of basic earnings per share in a
+common control combination which is accounted for using merger accounting is the average outstanding
+shares of the entity whose shares are remaining after the combination.
+Effective Date
+19. This Statement of Recommended Practice becomes operative for the financial periods beginning on or after 01
+January, 2013.
+APPENDIX 1
+Numerical Example
+This Appendix does not form part of the SoRP and is included for illustrative purposes only. The examples are not intended
+to cover all possible scenarios.
+Background Information
+Entity P has a number of subsidiaries. This example looks at three subsidiaries – Entity X, Entity Y and Entity A.
+
+<!-- page 6 -->
+
+6A I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+Entity P acquired 100% of Entity X for Rs. 18,000 many years ago. At that time, Entity P recorded goodwill of Rs. 3,000 and fair
+value of identifiable assets acquired of Rs. 15,000 (which is equal to the then carrying amounts of the assets acquired).
+Entity P set up Entity Y with a party outside the group, Shareholder S, many years ago. Entity P’s cost of investment in Entity
+Y was Rs. 15,000, being 75% of the share capital of Entity Y .
+On 1 January 20X0, Entity P formed a new entity, Entity A, through share capital injection of Rs. 10,000.
+On 31 December 20X1, Entity A acquired 100% shareholdings in Entity X and Entity Y from Entity P and Shareholder S. In
+return, Entity A issued 7,000 and 3,000 ordinary shares with par value of Rs. 1 each to Entity P and Shareholder S, respectively.
+Entity A, Entity X and Entity Y have financial year ends of 31 December. The fair values of assets and liabilities of Entity Y as
+at 31 December 20X1 are equal to their carrying values.Ignore any tax effect arising from the business combination.
+Before the business After the business
+combination combination
+Entity P Entity P
+Entity A Entity X Entity Y Entity X Entity Y
+The income statements of Entity A, Entity X and Entity Y for the year ended 31 December 20X1 are:
+Entity A Entity X Entity Y
+Rs. Rs. Rs.
+Revenue 2,000 40,000 50,000
+Profit or loss (4,000) 20,000 20,000
+The balance sheets of Entity A, Entity X and Entity Y as at 31 December 20X1 are:
+Entity A Entity A Entity X Entity Y
+(before  (after
+issue of issue of
+shares) shares#)
+Rs. Rs. Rs. Rs.
+Investment in subsidiaries - 223,000 - -
+Other assets 5,000 5,000 100,000 120,000
+Net assets 5,000 228,000 100,000 120,000
+85%
+100%
+100%100%75%100%100%
+New parent entity
+Entity A
+
+<!-- page 7 -->
+
+7AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+Capital (including share premium) 10,000 233,000 10,000 20,000
+Accumulated profits (losses) (5,000) (5,000) 90,000 100,000
+5,000 228,000 100,000 120,000
+# The 10,000 new shares issued by Entity A as consideration are recorded at a value equal to the deemed cost of
+acquiring Entity X and Entity Y (Rs. 223,000). The deemed cost of acquiring Entity X is Rs. 103,000, being the
+existing book values of net assets of Entity X as at 31 December 20X1 (Rs. 100,000) plus remaining goodwill arising
+on the acquisition of Entity X by Entity P (Rs. 3,000). The deemed cost of acquiring Entity Y is Rs. 120,000, being the
+existing book values of net assets of Entity Y as at 31 December 20X1.  The deemed cost used in this example is for
+illustrative purposes only and does not necessarily represent the value to be reported in the individual financial
+statements of Entity A as the cost of acquiring the subsidiaries.
+The income statements of Entity A, Entity X and Entity Y for the year ended 31 December 20X0 are:
+Entity A Entity X Entity Y
+Rs. Rs. Rs.
+Revenue 1,000 38,000 45,000
+Profit or loss (2,000) 15,000 12,000
+The balance sheets of Entity A, Entity X and Entity Y as at 31 December 20X0 are:
+Entity A Entity X Entity Y
+Rs. Rs. Rs.
+Net assets 9,000 80,000 100,000
+Capital (include share premium) 10,000 10,000 20,000
+Accumulated profits (losses) (1,000) 70,000 80,000
+  9,000 80,000 100,000
+Analysis
+As Entity A, Entity X and Entity Y are under the common control of Entity P before and after the business combination, the
+business combination is specifically excluded from the scope of SLFRS 3.
+The directors of Entity A choose to account for the acquisition of the shareholdings in Entity X and Entity Y using the
+principles of merger accounting.
+Under the principles of merger accounting, the assets and liabilities of Entity X and Entity Y are consolidated in the financial
+statements of Entity A using the existing book values as stated in the consolidated financial statements of Entity P immediately
+prior to the combination. This procedure requires recording of goodwill arising on the original acquisition of Entity X by
+Entity P and minority interests in Entity Y as stated in the consolidated financial statements of Entity P immediately prior to
+Entity A Entity A
+Entity X Entity Y
+(before  (after
+issue of issue of
+shares) shares#)
+Rs. Rs. Rs. Rs.
+
+<!-- page 8 -->
+
+8A I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+the combination. There is no recognition of any additional goodwill or excess of the acquirer’s interest in the net fair value of
+the acquiree’s identifiable assets, liabilities and contingent liabilities over cost at the time of this combination.
+The consolidated income statement of Entity A for the year ended 31 December 20X1 is:
+Entity A Entity X Entity Y Adjustment Consolidated
+Rs. Rs. Rs. Rs.      Adj Rs.
+Revenue 2,000 40,000 50,000 92,000
+Profit or loss (4,000) 20,000 20,000 36,000
+Attributable to the
+former minority 5,000  (Y1) (5,000)
+interest in Entity Y
+Attributable to the 31,000
+equity holders of
+Entity A
+Adjustment:
+(Y1) Being an adjustment to reflect the profit attributable to the minority interest in Entity Y prior to the combination.
+The consolidated balance sheet of Entity A as at 31 December 20X1 is:
+Entity A Entity X Entity Y Adjustments Consolidated
+Rs. Rs. Rs. Rs.      Adj Rs.
+       Goodwill 3,000  (X1) 3,000
+Investments in 223,000 - - (103,000)  (X3) -
+Entity X and Entity Y (120,000)  (Y5)
+Other assets 5,000 100,000 120,000 225,000
+Net assets 228,000 100,000 120,000 228,000
+Capital (include 233,000 10,000 20,000 (10,000)  (X3) 233,000
+share premium)
+(20,000)   (Y5)
+Other reserve - - - (85,000)   (X3) (160,000)
+(75,000)   (Y5)
+Accumulated profits (5,000) 90,000 100,000 (5,000)   (X2) 155,000
+  (losses) (25,000)  (Y4)
+228,000 100,000 120,000 228,000
+
+<!-- page 9 -->
+
+9AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+Adjustments
+Relating to Entity X:
+(X1) Being an adjustment to record goodwill arising on the original acquisition of Entity X by Entity P as stated in the
+consolidated financial statements of Entity P immediately prior to the combination (Rs. 3,000).
+(X2) Being an adjustment to eliminate the accumulated profits of Entity X generated prior to the original acquisition
+of Entity X by Entity P (Rs. 5,000).
+(X3) Being an adjustment to eliminate the share capital of Entity X against the related investment cost of Entity A.
+An adjustment of Rs. 85,000 has been made to a separate reserve in the consolidated financial statements of
+Entity A.
+Relating to Entity Y:
+(Y4) Being an adjustment to reflect the profits attributable to the minority interest in Entity Y prior to the combination.
+(Y5) Being an adjustment to eliminate the share capital of Entity Y against the related investment cost of Entity A.
+An adjustment of Rs. 75,000 has been made to a separate reserve in the consolidated financial statements of
+Entity A.
+The consolidated income statement of Entity A for the year ended 31 December 20X0
+Entity A Entity X Entity Y Adjustment Consolidated
+Rs. Rs. Rs. Rs.        Adj Rs.
+Revenue 1,000 38,000 45,000 84,000
+Profit or loss (2,000) 15,000 12,000 25,000
+Attributable to
+the minority 3,000       (Y1) (3,000)
+interest
+Attributable to 22,000
+the equity
+holders of
+Entity A
+Adjustment:
+(Y1) Being an adjustment to reflect the profit attributable to the minority interest in Entity Y .
+The consolidated balance sheet of Entity A as at 31 December 20X0 is:
+Entity A Entity X Entity Y Adjustments Consolidated
+Rs. Rs. Rs. Rs.      Adj Rs.
+Goodwill 3,000  (X2) 3,000
+Investments in - - - 193,000 (1) -
+Entity X and (103,000)  (X4)
+Entity Y (90,000)  (Y5)
+
+<!-- page 10 -->
+
+10A I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+Other assets 9,000 80,000 100,000 189,000
+Net assets 9,000 80,000 100,000 192,000
+Capital (include 10,000 10,000 20,000 193,000   (1) 203,000
+share premium)
+(10,000)   (X4)
+(20,000)    (Y5)
+Other reserve - - - (85,000)  (X4) (160,000)
+(75,000)    (Y5)
+Minority interests - - - 25,000    (Y5) 25,000
+Accumulated profits (1,000) 70,000 80,000 (5,000)    (X3) 124,000
+  /(losses) (20,000)    (Y5)
+9,000 80,000 100,000 192,000
+Note: The comparative figures are restated as if the entities had been combined at the previous balance sheet date. The
+consolidated share capital represents the share capital of Entity A adjusted for the share capital issued for the purposes
+of the business combination.
+Adjustments
+(1) Being an adjustment to push back the capital issued for the purposes of the business combination (Rs. 193,000,
+of which Rs. 103,000 relating to Entity X and Rs. 90,000 relating to Entity Y). The aim of the consolidated
+financial statements in merger accounting is to show the combining entities’ results and financial positions as
+if they had always been combined. Consequently, the share capital in respect of 7,000 shares issued for the
+purposes of the business combination has to be shown as if it had always been issued.
+Relating to Entity X:
+(X2) Being an adjustment to record goodwill arising on the original acquisition of Entity X by Entity P as stated in the
+consolidated financial statements of Entity P immediately prior to the combination (Rs. 3,000).
+(X3) Being an adjustment to eliminate the accumulated profits of Entity X generated prior to the original acquisition
+of Entity X by Entity P (Rs. 5,000).
+(X4) Being an adjustment to eliminate the share capital of Entity X against the related investment cost of Entity A. An
+adjustment of Rs. 85,000 has been made to a separate reserve in the consolidated financial statements of Entity
+A.
+Relating to Entity Y:
+(Y5) Being an adjus tment to eliminate the share capital of Entity Y against the related investment cost of Entity
+A. Prior to the business combination, Entity P only had 75% equity interest in Entity Y . Minority interests of
+Rs. 25,000 was recorded as at 31 December 20X0. An adjustment of Rs. 75,000 has been made to a separate
+reserve in the consolidated financial statements of Entity A.
+Earnings per share
+Based on the same facts as per the above example, the calculation of basic earnings per share for each period presented in the
+consolidated financial statements of Entity A is based on the consolidated profit (excluding the profit attributable to the
+Entity A Entity X Entity Y Adjustments Consolidated
+Rs. Rs. Rs. Rs.      Adj Rs.
+
+<!-- page 11 -->
+
+11AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2012'12'21
+PART I : S EC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRA TIC SOCIALIST REPUBLIC OF SRI LANKA - 21.12.2012
+minority interests), and on the 20,000 shares (comprising 10,000 shares of Entity A in issue throughout the two years ended
+31 December 20X1 and 10,000 shares of Entity A issued on 31 December 20X1 as consideration for the equity interests in
+Entity X and Entity Y).
+APPENDIX 2
+Examples of situations where this SoRP may be applicable
+The following are some examples:
+a. An entity incorporates a newly formed entity and then transfers some or all of its business to that newly
+incorporated entity.
+b. A parent company transfers the business of a wholly owned subsidiary into the parent company and liquidates
+the subsidiary. That transaction is a change in legal organization but not a change in the reporting entity.
+c. A parent company transfers its interest in several partially owned subsidiaries to a new wholly owned subsidiary.
+That also is a change in legal organization but not in the reporting entity.
+d. A parent company exchanges its ownership interests or the business of a wholly owned subsidiary for additional
+shares issued by the parent's partially owned subsidiary, thereby increasing the parent's percentage of
+ownership in the partially owned subsidiary but leaving all of the existing minority interest outstanding.
+01-183
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING , SRI LANKA
