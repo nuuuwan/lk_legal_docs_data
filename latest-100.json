@@ -1,5 +1,35 @@
 [
   {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-land-section",
+    "date": "2025-08-08",
+    "description": "Land Section"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-iv-b-local-government",
+    "date": "2025-08-08",
+    "description": "IV (B) - Local Government"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-iv-a-provincial-councils",
+    "date": "2025-08-08",
+    "description": "IV (A) - Provincial Councils"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-iib-advertising",
+    "date": "2025-08-08",
+    "description": "(IIB) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-iia-advertising",
+    "date": "2025-08-08",
+    "description": "(IIA) - Advertising"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2448-18",
     "date": "2025-08-05",
@@ -568,35 +598,5 @@
     "id": "622-2025",
     "date": "2025-07-11",
     "description": "Mediation (Civil and Commercial Disputes) - Bill"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-62",
-    "date": "2025-07-11",
-    "description": "Aranayake Pradeshiya Sabha - Roads and Lanes 2nd Gazette."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-60",
-    "date": "2025-07-11",
-    "description": "Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-59",
-    "date": "2025-07-11",
-    "description": "2444/59"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-54",
-    "date": "2025-07-11",
-    "description": "2444/54"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-48",
-    "date": "2025-07-11",
-    "description": "2444/48"
   }
 ]
