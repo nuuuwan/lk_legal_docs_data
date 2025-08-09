@@ -4,5 +4,6 @@
   "n_some_failed": 17,
   "n_all_failed": 0,
   "n_queued": 0,
-  "total_file_size": 206008526
+  "n_pdfs": 655,
+  "total_file_size": 206008524
 }
