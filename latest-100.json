@@ -91,6 +91,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2447-54",
+    "date": "2025-08-01",
+    "description": "Land Aquisition - Alliyadda, Medadumbara D/S Division, Kandy District Sec.07"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2447-52",
     "date": "2025-08-01",
     "description": "Election Commission - Notice under Section 66A (1) Elected Chamaika Dilani Fernando as a member of Chilaw Urban Council"
@@ -166,6 +172,12 @@
     "id": "2447-28",
     "date": "2025-07-30",
     "description": "Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2447-27",
+    "date": "2025-07-30",
+    "description": "Attanagalla D/S - Nittambuwa - L.A. Paththalagedara, Attanagalla D/S/D Gampaha District"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -280,6 +292,12 @@
     "id": "2446-50",
     "date": "2025-07-24",
     "description": "Land Aquisition - Payagala and Diyalagoda, Beruwala D/S Division, Kalutara District,  Sec 39 (1)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-49",
+    "date": "2025-07-24",
+    "description": "Land Aquisition - Chattaragoda, Kurunegala D/S Division, Kurunegala District,  Sec 38 (a)"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -433,6 +451,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-63",
+    "date": "2025-07-18",
+    "description": "Land Title Settlement Dept. - Weerahena, Nattandiya D/S Division, Puttalam District - (25/0275)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-58",
     "date": "2025-07-18",
     "description": "Dept. of Local Government - Eastern Province Notice Under Section 66 (C) Summon the meeting fill the Vacancy for the Post of Lahugala Pradeshiya Sabha"
@@ -505,6 +529,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-55",
+    "date": "2025-07-17",
+    "description": "Land Title Settlement Dept. - Kaluarachchigama, Nachchduwa D/S Division, Anuradhapura District (25/0241)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-50",
     "date": "2025-07-17",
     "description": "Land Acquisition - Jamburegoda West, Welipitiya D/S Division, Matara District."
@@ -568,35 +598,5 @@
     "id": "2445-07",
     "date": "2025-07-14",
     "description": "Land  Aquisition - Arewwala, Kesbewa D/S Division, Colombo District. - Ratnagiriya, Nuwara Eliya D/S Division, Nuwara Eliya District. - Amendment, Extra Gazette no.2072/05 dated 21.05.2018."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-06",
-    "date": "2025-07-14",
-    "description": "2445/06"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-05",
-    "date": "2025-07-14",
-    "description": "2445/05"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-04",
-    "date": "2025-07-14",
-    "description": "2445/04"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-03",
-    "date": "2025-07-14",
-    "description": "2445/03"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-02",
-    "date": "2025-07-14",
-    "description": "2445/02"
   }
 ]
