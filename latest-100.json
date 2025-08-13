@@ -54,6 +54,18 @@
     "description": "(IIA) - Advertising"
   },
   {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-i-general",
+    "date": "2025-08-08",
+    "description": "(I) - General"
+  },
+  {
+    "doc_type_name": "bills",
+    "id": "627-2025",
+    "date": "2025-08-07",
+    "description": "Presidents\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 Entitlements (Repeal) - Bill"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2448-34",
     "date": "2025-08-06",
@@ -586,17 +598,5 @@
     "id": "2025-07-18-i-general",
     "date": "2025-07-18",
     "description": "(I) - General"
-  },
-  {
-    "doc_type_name": "bills",
-    "id": "621-2025",
-    "date": "2025-07-17",
-    "description": "National Building Research Institute - GS"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-57",
-    "date": "2025-07-17",
-    "description": "Land Title Settlement Dept. - Pitipana South, Homagama D/S Division, Colombo District (7840)"
   }
 ]

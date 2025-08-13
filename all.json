@@ -54,6 +54,18 @@
     "description": "(IIA) - Advertising"
   },
   {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-08-i-general",
+    "date": "2025-08-08",
+    "description": "(I) - General"
+  },
+  {
+    "doc_type_name": "bills",
+    "id": "627-2025",
+    "date": "2025-08-07",
+    "description": "Presidents\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 Entitlements (Repeal) - Bill"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2448-34",
     "date": "2025-08-06",
