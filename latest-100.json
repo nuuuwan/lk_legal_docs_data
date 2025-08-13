@@ -139,6 +139,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2447-55",
+    "date": "2025-08-01",
+    "description": "Land Aquisition - Paranagama, Narammala D/S Division, Kurunegala District Sec.05"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2447-54",
     "date": "2025-08-01",
     "description": "Land Aquisition - Alliyadda, Medadumbara D/S Division, Kandy District Sec.07"
@@ -250,6 +256,12 @@
     "id": "2447-20",
     "date": "2025-07-29",
     "description": "Land Aquisition - Gangodawila, Maharagama D/S Division, Colombo District Sec. 39 (1)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2447-18",
+    "date": "2025-07-29",
+    "description": "Land Aquisition - Mangoda, Medadumbara D/S Division, Kandy District Sec. 38 (a) \r\nLand Aquisition -Kalalgoda, Maharagama D/S Division, Colombo District Sec. 38 (a)"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -511,6 +523,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2445-59",
+    "date": "2025-07-18",
+    "description": "2445/59"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2445-58",
     "date": "2025-07-18",
     "description": "Dept. of Local Government - Eastern Province Notice Under Section 66 (C) Summon the meeting fill the Vacancy for the Post of Lahugala Pradeshiya Sabha"
@@ -580,23 +598,5 @@
     "id": "2445-57",
     "date": "2025-07-17",
     "description": "Land Title Settlement Dept. - Pitipana South, Homagama D/S Division, Colombo District (7840)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-55",
-    "date": "2025-07-17",
-    "description": "Land Title Settlement Dept. - Kaluarachchigama, Nachchduwa D/S Division, Anuradhapura District (25/0241)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-50",
-    "date": "2025-07-17",
-    "description": "Land Acquisition - Jamburegoda West, Welipitiya D/S Division, Matara District."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-49",
-    "date": "2025-07-17",
-    "description": "Department of Archaeology - The Antiquities Ordinance (Chapter 188) Notification Under Section 33"
   }
 ]
