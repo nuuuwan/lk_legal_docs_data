@@ -133,6 +133,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2448-28",
+    "date": "2025-08-06",
+    "description": "Land Title Settlement Dept. - Kalalpitiya, Attanagalla D/S Division, Gampaha District (25/0066)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2448-26",
     "date": "2025-08-06",
     "description": "2448/26"
@@ -592,11 +598,5 @@
     "id": "623-2025",
     "date": "2025-07-18",
     "description": "Institute of Facilities Management Sri Lanka (Incorporation) - GS"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2445-68",
-    "date": "2025-07-18",
-    "description": "Land Title Settlement Dept. - Bakmigolla, Ibbagamuwa D/S Division, Kurunegala District - (25/0278)"
   }
 ]
