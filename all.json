@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "gazettes",
+    "id": "2025-08-15-legal-section",
+    "date": "2025-08-15",
+    "description": "Legal Section"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-08-15-land-section",
     "date": "2025-08-15",
     "description": "Land Section"
@@ -10,6 +16,12 @@
     "id": "2025-08-15-iv-a-provincial-councils",
     "date": "2025-08-15",
     "description": "IV (A) - Provincial Councils"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-15-iib-advertising",
+    "date": "2025-08-15",
+    "description": "(IIB) - Advertising"
   },
   {
     "doc_type_name": "gazettes",
