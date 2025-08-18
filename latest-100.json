@@ -19,6 +19,12 @@
   },
   {
     "doc_type_name": "gazettes",
+    "id": "2025-08-15-iv-b-local-government",
+    "date": "2025-08-15",
+    "description": "IV (B) - Local Government"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-08-15-iv-a-provincial-councils",
     "date": "2025-08-15",
     "description": "IV (A) - Provincial Councils"
@@ -34,6 +40,12 @@
     "id": "2025-08-15-iia-advertising",
     "date": "2025-08-15",
     "description": "(IIA) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-15-i-general",
+    "date": "2025-08-15",
+    "description": "(I) - General"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -586,17 +598,5 @@
     "id": "2446-29",
     "date": "2025-07-21",
     "description": "Ministry of Labour - Industrial Dispute between Inter Company Employees Union and Coca-Cola Beverages Sri Lanka Limited. - Industrial Dispute between J. S. Manuwansa and Nawaloka Construction Company (Pvt) Limited"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-28",
-    "date": "2025-07-21",
-    "description": "Ministry of Labour - Industrial Dispute between S. R. T. P. Sinhabahu and National Aquatic Resources Research & Development Agency. - Industrial Dispute between G. H. N. Shyamali and Land Reform Commission"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-27",
-    "date": "2025-07-21",
-    "description": "Ministry of Labour - Industrial Dispute between B. Kulathunga Arachchi and Pradeshiya Sanwardhana Bank. - Industrial Dispute between Swadeena Motor Ratha Sewaka Samithiya and Sri Lanka Transport Broad."
   }
 ]

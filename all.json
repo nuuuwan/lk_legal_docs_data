@@ -19,6 +19,12 @@
   },
   {
     "doc_type_name": "gazettes",
+    "id": "2025-08-15-iv-b-local-government",
+    "date": "2025-08-15",
+    "description": "IV (B) - Local Government"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-08-15-iv-a-provincial-councils",
     "date": "2025-08-15",
     "description": "IV (A) - Provincial Councils"
@@ -34,6 +40,12 @@
     "id": "2025-08-15-iia-advertising",
     "date": "2025-08-15",
     "description": "(IIA) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-15-i-general",
+    "date": "2025-08-15",
+    "description": "(I) - General"
   },
   {
     "doc_type_name": "extra-gazettes",
