@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2450-01",
+    "date": "2025-08-18",
+    "description": "Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2449-63",
     "date": "2025-08-15",
     "description": "2449/63"
@@ -592,11 +598,5 @@
     "id": "2446-41",
     "date": "2025-07-22",
     "description": "Ministry of Labour - Industrial dispute between T. S. Ranasinghe and State Timber Corporation 2.Industrial dispute between P. D. Vijithapriya Wijerathne included 09 others and State Timber Corporation"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-36",
-    "date": "2025-07-22",
-    "description": "Universities Act, No. 16 of 1978 Order under Section 25A Degree Awarding Institute Order"
   }
 ]
