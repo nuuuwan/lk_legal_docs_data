@@ -6,6 +6,18 @@
     "description": "2449/63"
   },
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2449-62",
+    "date": "2025-08-15",
+    "description": "2449/62"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2449-61",
+    "date": "2025-08-15",
+    "description": "2449/61"
+  },
+  {
     "doc_type_name": "gazettes",
     "id": "2025-08-15-legal-section",
     "date": "2025-08-15",
@@ -28,6 +40,12 @@
     "id": "2025-08-15-iv-a-provincial-councils",
     "date": "2025-08-15",
     "description": "IV (A) - Provincial Councils"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-15-iii-trade-marks-and-patent-notices",
+    "date": "2025-08-15",
+    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
   },
   {
     "doc_type_name": "gazettes",
@@ -58,6 +76,12 @@
     "id": "2449-25",
     "date": "2025-08-13",
     "description": "Election \u00c3\u0083\u00e2\u0080\u00a1ommission - Notice Under Section 66 A (1) (a) Filling of a Vacancy in the office of member of the Matara Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2449-16",
+    "date": "2025-08-13",
+    "description": "2449/16"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -190,6 +214,12 @@
     "id": "2448-22",
     "date": "2025-08-05",
     "description": "Ministry of Labour - Industrial Dispute between G.Y. Gnanapala and University of Colombo. 2. Industrial Dispute between D.P.N.H. Monatti and Vocational Training Authority of Sri Lanka."
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2448-21",
+    "date": "2025-08-05",
+    "description": "Ministry of Labour - Industrial Dispute between Chitra Weerakkody and Sri Lanka Transport Board. 2. Industrial Dispute between H. G. Rathnayaka and Sri Lanka Transport Board."
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -376,6 +406,12 @@
     "id": "2447-20",
     "date": "2025-07-29",
     "description": "Land Aquisition - Gangodawila, Maharagama D/S Division, Colombo District Sec. 39 (1)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2447-19",
+    "date": "2025-07-29",
+    "description": "Land Aquisition - Malippota, Bibile D/S Division, Monaragala District Sec. 38 (a) \r\nLand Aquisition -Correction Paper"
   },
   {
     "doc_type_name": "extra-gazettes",
