@@ -1,5 +1,11 @@
 [
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2449-63",
+    "date": "2025-08-15",
+    "description": "2449/63"
+  },
+  {
     "doc_type_name": "gazettes",
     "id": "2025-08-15-legal-section",
     "date": "2025-08-15",
@@ -52,6 +58,12 @@
     "id": "2449-14",
     "date": "2025-08-13",
     "description": "Dept. of Local Government- Southern Province - Notice Under Section 66 C (1) Elected Chairman and Vice Chairman Weligama Pradeshiya Sabha"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2449-12",
+    "date": "2025-08-12",
+    "description": "2449/12"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -160,6 +172,12 @@
     "id": "2448-23",
     "date": "2025-08-05",
     "description": "Office of the District Secretary- Gampaha. Pilgrimage Ordinance The Annual Festal of the National Basilica Shrine of Our Lady of Lanka, Tewatta, Ragama-2025"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2448-22",
+    "date": "2025-08-05",
+    "description": "Ministry of Labour - Industrial Dispute between G.Y. Gnanapala and University of Colombo. 2. Industrial Dispute between D.P.N.H. Monatti and Vocational Training Authority of Sri Lanka."
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -480,6 +498,12 @@
     "description": "Land Aquisition - Maththaka, Niyagama D/S Division, Galle District, Land Aquisition - Serakkuliya, Wanathawilluwa D/S Division, Puttalam District Sec 07"
   },
   {
+    "doc_type_name": "extra-gazettes",
+    "id": "2446-44",
+    "date": "2025-07-24",
+    "description": "Land Aquisition - Yampagama Udagama, Lunugala D/S Division, Badulla District, Land Aquisition - Amended to Gazette No. 2436/13 dated 17.05.2025 Sec 07"
+  },
+  {
     "doc_type_name": "bills",
     "id": "626-2025",
     "date": "2025-07-23",
@@ -574,29 +598,5 @@
     "id": "2446-27",
     "date": "2025-07-21",
     "description": "Ministry of Labour - Industrial Dispute between B. Kulathunga Arachchi and Pradeshiya Sanwardhana Bank. - Industrial Dispute between Swadeena Motor Ratha Sewaka Samithiya and Sri Lanka Transport Broad."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-26",
-    "date": "2025-07-21",
-    "description": "2446/26"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-04",
-    "date": "2025-07-21",
-    "description": "Department of Local Government - Eastern Province - Notice under Section 66(C) Summon the Meeting to the post of Chairman of the Manmunaipattu Pradeshiya Sabha"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-03",
-    "date": "2025-07-21",
-    "description": "Land Aquisition - Biblegama, Godakawela D/S Division, Rathnapura District."
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-01",
-    "date": "2025-07-21",
-    "description": "Sri Lanka Customs - Rates of Exchange with effect from 21.07.2025 to 27.07.2025"
   }
 ]
