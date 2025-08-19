@@ -72,6 +72,12 @@
     "description": "(I) - General"
   },
   {
+    "doc_type_name": "acts",
+    "id": "13-2025",
+    "date": "2025-08-15",
+    "description": "Bills of Exchange (Amendment)"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2449-27",
     "date": "2025-08-13",
@@ -592,11 +598,5 @@
     "id": "625-2025",
     "date": "2025-07-22",
     "description": "Land Development (Amendment) - Bill"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-41",
-    "date": "2025-07-22",
-    "description": "Ministry of Labour - Industrial dispute between T. S. Ranasinghe and State Timber Corporation 2.Industrial dispute between P. D. Vijithapriya Wijerathne included 09 others and State Timber Corporation"
   }
 ]
