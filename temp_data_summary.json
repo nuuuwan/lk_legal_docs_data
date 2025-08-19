@@ -1,9 +1,9 @@
 {
   "n_docs": 18137,
   "n_all_downloaded": 14149,
-  "n_some_failed": 3942,
-  "n_all_failed": 46,
+  "n_some_failed": 3968,
+  "n_all_failed": 20,
   "n_queued": 0,
-  "n_pdfs": 51671,
-  "total_file_size": 21151289815
+  "n_pdfs": 51720,
+  "total_file_size": 21164332650
 }
