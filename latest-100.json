@@ -1,6 +1,12 @@
 [
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2450-39",
+    "date": "2025-08-21",
+    "description": "Ministry of Defence - Amendment to the Consolidated List under Regulation 4 (2) (B) United Nations Regulations No. 2 of 2012"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2450-28",
     "date": "2025-08-20",
     "description": "Presidential- Appointed of the Inspector General of Police"
@@ -592,11 +598,5 @@
     "id": "2025-07-25-land-section",
     "date": "2025-07-25",
     "description": "Land Section"
-  },
-  {
-    "doc_type_name": "gazettes",
-    "id": "2025-07-25-iv-b-local-government",
-    "date": "2025-07-25",
-    "description": "IV (B) - Local Government"
   }
 ]
