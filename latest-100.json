@@ -1,5 +1,35 @@
 [
   {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-22-land-section",
+    "date": "2025-08-22",
+    "description": "Land Section"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-22-iv-b-local-government",
+    "date": "2025-08-22",
+    "description": "IV (B) - Local Government"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-22-iii-trade-marks-and-patent-notices",
+    "date": "2025-08-22",
+    "description": "(III) - TRADE MARKS AND PATENT NOTICES"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-22-iia-advertising",
+    "date": "2025-08-22",
+    "description": "(IIA) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
+    "id": "2025-08-22-i-general",
+    "date": "2025-08-22",
+    "description": "(I) - General"
+  },
+  {
     "doc_type_name": "extra-gazettes",
     "id": "2450-39",
     "date": "2025-08-21",
@@ -568,35 +598,5 @@
     "id": "2447-01",
     "date": "2025-07-28",
     "description": "Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-63",
-    "date": "2025-07-26",
-    "description": "Land Title Settlement Dept. - Abhayapura, Lankapura D/S Division, Polonnaruwa District - (25/0169)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-56",
-    "date": "2025-07-26",
-    "description": "Land Aquisition - Pitihuma, Kegalle D/S Division, Kegalle District Sec 33"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-55",
-    "date": "2025-07-26",
-    "description": "Divisional Secretariat Pasgoda - Pilgrimages Ordinance Annual Religious Festival 2025 of Rotumba Pethgama Ancient Temple"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-54",
-    "date": "2025-07-26",
-    "description": "Ministry of Public Administration P.C and L.G - Appointments under the Notaries Ordinance"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2446-52",
-    "date": "2025-07-25",
-    "description": "Presidential Secretariat - Order Call Out All the member of the Armed Forces"
   }
 ]
