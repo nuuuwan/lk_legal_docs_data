@@ -169,6 +169,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2449-24",
+    "date": "2025-08-13",
+    "description": "2449/24"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2449-16",
     "date": "2025-08-13",
     "description": "2449/16"
@@ -313,6 +319,12 @@
   },
   {
     "doc_type_name": "extra-gazettes",
+    "id": "2448-32",
+    "date": "2025-08-06",
+    "description": "Land Title Settlement Dept. - Ampitiya Pallegama, Gangawatakorale D/S Division, Kandy District (7834)"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
     "id": "2448-28",
     "date": "2025-08-06",
     "description": "Land Title Settlement Dept. - Kalalpitiya, Attanagalla D/S Division, Gampaha District (25/0066)"
@@ -424,6 +436,12 @@
     "id": "2447-57",
     "date": "2025-08-01",
     "description": "Land Commission General's Department - Land Development Ordinance Appointed Land Officers"
+  },
+  {
+    "doc_type_name": "extra-gazettes",
+    "id": "2447-56",
+    "date": "2025-08-01",
+    "description": "Ministry of Labour - 1) Industrial Dispute between I D Wijemanna and Local Authorities Institutes of Sri Lanka  2) Industrial Dispute between Malindu Sandaruwan Jayasooriya and Thambapanni Leisure (Pvt) Ltd"
   },
   {
     "doc_type_name": "extra-gazettes",
@@ -580,23 +598,5 @@
     "id": "2447-05",
     "date": "2025-07-28",
     "description": "2447/05"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2447-03",
-    "date": "2025-07-28",
-    "description": "Land Aquisition - Walhaputenna, Haldummulla D/S Division, Badulla District"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2447-02",
-    "date": "2025-07-28",
-    "description": "Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2447-01",
-    "date": "2025-07-28",
-    "description": "Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025"
   }
 ]
