@@ -25,6 +25,12 @@
   },
   {
     "doc_type_name": "gazettes",
+    "id": "2025-08-22-iib-advertising",
+    "date": "2025-08-22",
+    "description": "(IIB) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-08-22-iia-advertising",
     "date": "2025-08-22",
     "description": "(IIA) - Advertising"
